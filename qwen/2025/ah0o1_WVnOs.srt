@@ -1,0 +1,1583 @@
+1
+00:03:13,140 --> 00:03:15,570
+好下一位，誒，講嘅敏月。
+
+2
+00:04:00,660 --> 00:04:03,460
+Moving then to Clause Twelve.
+
+3
+00:03:55,290 --> 00:04:00,160
+使唔使誒作出誒回應先？O.K.好誒，證監會可以繼續。
+
+4
+00:01:21,360 --> 00:01:28,130
+就多一個額外情況，你一知道嘅話咧，我就要你一個工作天咯。即係我諗呢個係嗰個理念咯。
+
+5
+00:02:59,990 --> 00:03:11,690
+under the C.O. There's also the possibility that the share registrar might change, the issuer might change its share registrar over time. So there's no need to align the two. It's the way we see it.
+
+6
+00:02:08,050 --> 00:02:22,590
+我想問咧，其實誒，可唔可以解釋一下畀我哋聽？點解一個你就會可以keep七年嘅嘢，一個譬如issue啊，講register嘅時候就十年。其實你嗰個嗰個你哋嗰個原則係啲咩咧？可唔可以解釋少少？
+
+7
+00:02:22,870 --> 00:02:39,700
+真係唔好呀～Yeah, so thank you for that question. So the ten-year requirement on issuers is really for alignment with the C.O. That obligation is imposed on the issuer. The obligation here, the obligations here under Rule 11 are imposed on the A.S.R.
+
+8
+00:01:29,160 --> 00:01:47,390
+好，阿江玉歡議員，主席啊，我想問咧十一嘅主席，我想請咧，即係可唔可以即係誒同事都解釋一下咧？就係嗱，你而家喺十一嘅二嗰度咧，就嗰啲ASR咧保持文件咧保存文件就唔能夠少於七年。
+
+9
+00:03:35,860 --> 00:03:54,590
+啲啊license cop咧，啲交易商咧，相對而言係多好多間啦，咁所以佢個風險係分散一啲啦。但係如果你淨係講register嘅話，即係register可能會都係集中嗰兩三個噉樣，咁噉係唔係用同樣嗰個嗰個標準咯？嚇，我都係想即係記錄翻呢個我哋考慮過嚇，唔該。
+
+10
+00:00:00,000 --> 00:00:20,010
+大家翻翻誒，翻翻嚟啦。噉我哋繼續誒逐條審議，去到第十二條嘅噉啊。時間再可以繼續交翻畀正港會，唔該。Thank you, Mr. Chairman. We have found that reference to the broker regulation, which a member was asking about. So I wonder if Mr. C will respond to that.
+
+11
+00:00:21,330 --> 00:00:41,340
+好係，先生。頭先就誒簡如問到我哋誒第九條入面嗰個becoming aware of嗰個時間點係咪有參考嘅嘅資料？噉就係其實我哋都係參照翻即係證券期貨financial resource rules誒第五。
+
+12
+00:00:41,340 --> 00:01:01,350
+七一N章入面咧，係就住licence corps，即係我哋平時叫brokers嗰啲相應嘅financial resources嘅requirement入面第五十五條，佢而家就住一啲類似嘅嘅規定，即係譬如話佢個liquid capital falls below hundred and twenty percent of its required liquid。
+
+13
+00:01:01,350 --> 00:01:21,360
+嘅時候咧，都有一個同等嘅時間性，就係第一就係as soon as reasonably practicable。咁但係就如果你一知道嘅話咧，你就要喺一個工作天內。噉我諗呢個即係兩兩把尺嚟，即係第一就係你其實嗰個準則係as soon as reasonably practicable。咁但係咧。
+
+14
+00:01:47,710 --> 00:02:07,720
+但係咧，喺我哋頭先審議完嗰條咧，講關於即係呢個啊，即係啊L.N.十五嘅時候咧，呢一個嗰個uncertificated securities market嘅rule咧，關於issue啊咧，佢去到keep register holder兩樣嘢嚟嘅，我知道佢哋咧就要唔少過十年。
+
+15
+00:04:41,370 --> 00:04:41,870
+就。
+
+16
+00:05:14,110 --> 00:05:14,930
+嗯。
+
+17
+00:04:42,990 --> 00:04:43,990
+嗯。
+
+18
+00:05:26,070 --> 00:05:27,230
+啲。
+
+19
+00:05:24,030 --> 00:05:25,480
+and。
+
+20
+00:06:01,540 --> 00:06:04,010
+嗯，和。
+
+21
+00:04:44,280 --> 00:04:48,980
+Moving then to part five, which is the audit and reporting requirements.
+
+22
+00:04:56,510 --> 00:05:01,540
+and it must do so within one month after certain events.
+
+23
+00:05:45,190 --> 00:05:51,450
+Close fifteen relates to the approval regarding a ASL's financial year.
+
+24
+00:04:49,340 --> 00:04:56,150
+Clause 14 requires that the ASR must appoint an auditor.
+
+25
+00:05:15,550 --> 00:05:23,750
+each of each of certain events, the commission, the ASR must also notify the commission in writing of that event.
+
+26
+00:05:51,830 --> 00:06:01,150
+所以， subclause 15.1 requires that the ASR cannot change its financial year without the SFC's approval.
+
+27
+00:05:01,820 --> 00:05:13,830
+An approved securities registrar must also, within seven days of appointing it, notify the SFC of the auditor's details. Sub clause three notes that within one business day after.
+
+28
+00:05:28,390 --> 00:05:44,220
+The events are that it gives notice to its members to it gives notice to its members of a motion to remove an auditor, or replace an auditor, or that an auditor that has been appointed ceases to be its auditor before the term of office expires.
+
+29
+00:04:03,740 --> 00:04:20,860
+所以Clause 12 talks about the manner in which records are to be kept. So, key is that they must be kept in a way that enables an audit to be conveniently and properly carried out, and where applicable, entries must be made in accordance with generally accepted accounting principles.
+
+30
+00:02:39,980 --> 00:02:59,990
+And it doesn't seem correct to to impose a harsher instruction requirement on ASRs to cover all of their records to ten years. I mean, there doesn't seem to be a real need to do that. In reality, if the share registrar is keeping the ROM, they will keep it for ten years because that's the obligation.
+
+31
+00:03:15,850 --> 00:03:35,860
+係多謝主席，誒多謝局方誒誒律政司引用翻嗰個引述翻嗰個誒出處啦。誒我諗即係都係嗰句啦，即係交翻畀SFC同埋即係FSCB局方去考慮嚇。誒即係我喺審議另一條條例都係㗎啦，即係都係嗰句嚇。究竟我哋衡量緊嘅係咪同樣嘅風險咧？因為你如果類比。
+
+32
+00:04:21,360 --> 00:04:41,370
+Clause 13 deals with the falsification, destruction of records, and it makes it an offence to, with intent to defraud, enter information which is false, delete, destroy or remove or falsify information, or to fail to enter or record or store such an information. And penalty levels are stipulated in subclause.
+
+33
+00:06:45,840 --> 00:06:46,410
+是。
+
+34
+00:06:35,330 --> 00:06:36,250
+嗯。
+
+35
+00:07:28,780 --> 00:07:29,780
+嗯。
+
+36
+00:07:30,470 --> 00:07:31,870
+subclauses.
+
+37
+00:06:05,120 --> 00:06:09,650
+Subclause two deals with the Commission's approval powers.
+
+38
+00:06:46,720 --> 00:06:51,650
+submit financial statements that are prepared up to that period.
+
+39
+00:07:32,410 --> 00:07:37,430
+二和三， list out the information to be included in those reports.
+
+40
+00:08:00,850 --> 00:08:06,020
+Close nineteen relates to notification of changes。我哋等等誒，江玉歡議嚇。
+
+41
+00:06:37,850 --> 00:06:45,280
+或rather， an ASR that ceases to provide securities registrar services must within four months of ceasing.
+
+42
+00:08:11,020 --> 00:08:19,000
+任何嘅呢一啲事件向commission彙報咗之後，請問commission會唔會第一時間知會公眾嘅咧？想請問。
+
+43
+00:07:51,940 --> 00:08:00,370
+And after report after notifying immediately, the ASR also needs to submit a written report regarding the entire incident.
+
+44
+00:06:22,790 --> 00:06:35,010
+The ASR's financial year, subclause two notes that the ASR must cease to provide securities services registrar, sorry, must cease to provide securities registrar services.
+
+45
+00:06:10,280 --> 00:06:22,510
+Clause 16 deals with the audited financial statements of an ASR and requires that these must be submitted to the Commission within four months of the last day of the financial year.
+
+46
+00:07:38,390 --> 00:07:51,660
+Clause 18 deals with reportable matters, so these are matters relating to the ASR service facilities or operations, and that need to be notified to the SFC immediately.
+
+47
+00:07:11,250 --> 00:07:27,990
+Clause 17 deals with periodic returns. There are two returns that we require. One is a quarterly one, which is relating to the ASR's financial status, and one is an operational one, which is to be provided on a half-yearly basis.
+
+48
+00:06:52,080 --> 00:07:10,310
+Subclause three provides that the ASR must submit together with financial statements the auditor's report. Subclause four provides that the ASR must also submit its total capital expenses projected for the 12 months to come and a description of its plans to finance expenses.
+
+49
+00:08:35,590 --> 00:08:36,240
+唔該。
+
+50
+00:09:37,600 --> 00:09:38,990
+係點解會？
+
+51
+00:08:37,000 --> 00:08:38,670
+坦白承認。
+
+52
+00:08:47,880 --> 00:08:50,410
+同時又要求按照半年。
+
+53
+00:09:06,950 --> 00:09:10,000
+所以你要報第二季度，還要報個半年。
+
+54
+00:09:33,180 --> 00:09:36,330
+這裏為什麼是要按季度，又要按半年呢？
+
+55
+00:08:58,150 --> 00:09:01,480
+一三六三六九十二。
+
+56
+00:09:02,330 --> 00:09:06,310
+六呢是半年，但實際上就是第二季度。
+
+57
+00:09:10,420 --> 00:09:15,000
+你或者是我們都是，就是按季，就是四個季度。
+
+58
+00:08:50,990 --> 00:08:56,200
+實際上，這個半年就包括了季度，為什麼一定要重複的報一次呢？
+
+59
+00:08:38,990 --> 00:08:47,540
+誒，謝謝，就是我我我翻到前面第十七條啊，第十七條，這個按照按照季度。
+
+60
+00:09:41,420 --> 00:09:52,760
+Thank you for that question. So the quarterly requirement only relates to the ASR's financial status. So if we see that subclause one A.
+
+61
+00:08:19,500 --> 00:08:34,920
+Thank you for the question. I think that really depends on the particular event or incident in question. If it calls for some more public notification, then we would do it. But if it doesn't, then we wouldn't. It has to be a case by case assessment.
+
+62
+00:09:15,800 --> 00:09:32,800
+誒，我記得上市公司，誒，有的就是像A股市場，那就是季度，按按季度這個，誒，業績，我們香港呢是半年，誒，香港的上市公司是半年報一次，並沒有説季度，報一次。
+
+63
+00:09:53,040 --> 00:10:10,500
+talks about the information specified in subrule two, and subrule two relates to the financial status of the ASR. So it's available liquidity, its total operating expenses, its minimum liquidity level, its total equity and its external borrowings.
+
+64
+00:10:10,790 --> 00:10:30,800
+The half yearly report, which is referred to in sub clause one B, refers to reports on its operational matters, and it will be seen that in sub clause B refers to the information contained in sub rule three. And if we look at sub rule three, the matters that need to be clarified are matters relating to the issuer, clients and security.
+
+65
+00:10:50,810 --> 00:10:53,540
+OK，好，誒，下一位簡惠敏議員。
+
+66
+00:13:28,500 --> 00:13:32,240
+嚇！我哋可以藉呢個時間討論第十八條咯。
+
+67
+00:11:53,760 --> 00:11:58,780
+哦，或者誒，梁生，啊，耿議員，或者我解釋一下，其實誒。
+
+68
+00:11:48,170 --> 00:11:53,240
+你聽啦，噉樣點樣樣咧？行唔該，係不同類型事故嚇，證監會。
+
+69
+00:12:50,300 --> 00:12:56,780
+係，主席，誒呢度係答咗十八條啦嚇，第十八條就係馬上通知嗰度啊。
+
+70
+00:12:39,080 --> 00:12:49,120
+有啲係要立即通知啊！咁所以呢度咧，只不過係一個報告，佢要用一個書面報告再記錄翻佢之前發生嘅事。但係如果發生一啲嚴重事件嘅時候，佢要馬上通知我哋。
+
+71
+00:12:57,060 --> 00:13:08,210
+誒，但係啲定義放咗喺第十七條，主席嚇，即係由由於又係嗰個定義放咗喺第十七條，咁所以睇十八條嘅時候咧，就係誒。
+
+72
+00:11:14,390 --> 00:11:27,730
+有乜嘢主要嘅分別嚇？即係點解你要即係營運事故，仲要加個服務設施事故都係即係需要通報嘅事項嚟嘅。咁亦都通報事項嗰度咧，即係喺誒第三。
+
+73
+00:13:53,780 --> 00:14:09,820
+或如果有火，或如果 for whatever reason the premises cannot be entered into where there are counter services， so we would want to be informed of that immediately. Service facilities I think is perhaps more self-explanatory. It's really relating to systems.
+
+74
+00:10:30,800 --> 00:10:47,970
+security holders activities through their facilities inquiries and complaints received service facility incidents operational incidents and cases where the registration of a transfer was refused so they are the the two reports the contents of the two reports are different.
+
+75
+00:10:54,380 --> 00:11:14,390
+主席，嗱，我諗呢度咧第十七條嗰度咧，誒可以同我哋詳細少少睇下嗰個營運事故同埋嗰個服務設施事故誒個內容啊，佢個出處係係點樣咧？又參考咗啲乜嘢嘅咧？誒同埋營運事故同嗰個服務設施事故。
+
+76
+00:11:28,160 --> 00:11:48,170
+條嗰度嚇，即係Sub Rule Three咧就有提到話誒，如果有關嘅事故嘅不利影響，如果係技術性同埋咧係容易迅速地糾正咧，就除外就唔使通報嘅噉樣。咁呢一個又係點樣樣定咧？啊，係係嗰個A S O自己主觀地認為呢個技術性嘅啫，我唔使話你。
+
+77
+00:11:59,060 --> 00:12:19,070
+誒呢度咧就只係要求佢哋喺個誒每半年嘅記錄嗰度咧，將嗰啲事故咧係再詳細列翻出嚟啦。但係其實如果發生事故嘅時候咧，其實我哋要求咧會要求嗰啲核准證券登記公司咧，馬上要通知我哋，因為咧嗰啲事故有好似你話有大中小嘅影響嘅。如果啲影響係，
+
+78
+00:14:10,220 --> 00:14:12,670
+their computer systems and facilities.
+
+79
+00:17:08,500 --> 00:17:11,050
+嘅角度去睇，即係唔一定係。
+
+80
+00:15:47,480 --> 00:15:50,610
+and which is potentially going to cause a problem.
+
+81
+00:16:10,900 --> 00:16:14,480
+所以，for example，maybe they can't deposit their shares into SECS。
+
+82
+00:16:34,770 --> 00:16:39,120
+consider important that need need to be notified to us.
+
+83
+00:16:52,320 --> 00:16:58,500
+但係有個並嘅嚇，你有個技術性並可容易及迅速地糾正嘅就除外。
+
+84
+00:17:00,030 --> 00:17:08,160
+Yes, that's correct。而呢個就係即係事實上咧，係咪？所以唔需要講係邊一個嘅嘅人嘅誒。
+
+85
+00:15:23,760 --> 00:15:33,310
+They notify it to us. That's the reason for covering emerging event. The reference to unplanned interruption is really
+
+86
+00:16:40,250 --> 00:16:51,530
+而技術上嘅嘅就係誒除外，純粹一個技術上嘅誒問題係咪啊？技術性嘅問題就唔使通知啦。
+
+87
+00:14:52,080 --> 00:15:03,470
+perhaps it's worth mentioning that we we do classify these incidents in three categories and expand on it in the ASR code.
+
+88
+00:15:33,690 --> 00:15:47,200
+最廣闊 sort of description that we can we can try and cover the whole idea of the service facility incident is basically that something has happened which was not intended to happen.
+
+89
+00:14:36,180 --> 00:14:51,280
+同埋我嘅問題嘅問得太多，可能喺裏邊嘅內容一次過誒，亦都有提到除外嘅就係技術性嘅就除外，或者呢度有提到easily or promptly rectified嘅就唔使通知噉樣，係呢個係點樣解讀啊？
+
+90
+00:12:19,070 --> 00:12:39,080
+好嚴重嘅，我唔會等到半年先至通知我嘅。佢要即刻就通知我哋。咁呢個其實都有啲似咧，我哋而家監管香港交易所都係嘅。香港交易所咧，佢營運好多系統，佢提供好多服務。咁如果喺佢營運系統同埋提供服務嘅過程有啲事故嘅時候，噉我哋都會同佢講清楚乜嘢係叫做小型啲嘅，你唔需要立即通知我哋。
+
+91
+00:13:08,490 --> 00:13:28,500
+當睇邊啲事故係需報告嘅咧，就指向翻去十七條六啦。咁所以我哋都要參考即係十七條嗰啲嘅定義嘅。咁所以我想聽聽嘅我問題嘅另一部分就係話，呢啲事故我哋點解除咗營運事故就仲要服務設施事故咧？噉樣？
+
+92
+00:13:33,770 --> 00:13:53,780
+So, thank you for that question. So, the distinction between service facility, the reason we have two types of incidents, is because operational incidents may not necessarily relate to a service facility or system matter. So, for example, an obvious one would be if the premises are flooded.
+
+93
+00:14:15,160 --> 00:14:35,170
+好冇其他跟著啦，或者解一解嗰個surface facilities嗰度嘅字眼啦。呢度都有提到話係即係除咗一啲冇計劃嘅誒中斷，而或者係持續醖釀的事件噉樣嚇，即係呢度係點樣樣理解咧？英文就用emerging event。
+
+94
+00:15:03,750 --> 00:15:23,760
+The reason we include emerging events is because if they become aware of something that may lead to a disruption, then the awareness of that initial emerging event is enough to trigger notification to us. They shouldn't be waiting till their systems have really been affected before.
+
+95
+00:17:41,190 --> 00:17:42,190
+嗯。
+
+96
+00:17:16,030 --> 00:17:17,450
+That's correct. Yes.
+
+97
+00:19:11,340 --> 00:19:13,130
+誒，簡咪問完。
+
+98
+00:17:11,470 --> 00:17:13,970
+個ASL嘅opinion。
+
+99
+00:17:48,850 --> 00:17:52,810
+moving then to part six, which is the handling of third-party money.
+
+100
+00:18:18,820 --> 00:18:22,970
+within the stipulated time, which is one business day.
+
+101
+00:18:37,150 --> 00:18:41,450
+subclause one talks about the ASR.
+
+102
+00:18:32,190 --> 00:18:36,870
+clause 22 talks about payment of money out of a segregated account.
+
+103
+00:17:18,320 --> 00:17:23,160
+好，thank you。可以繼續啊，正佳會。Moving then to
+
+104
+00:17:42,550 --> 00:17:48,170
+Subclause two talks about the time within which it has to submit that notification.
+
+105
+00:18:12,520 --> 00:18:18,540
+And when there are third-party monies, they must move it into the relevant segregated account.
+
+106
+00:18:23,480 --> 00:18:31,090
+The provision also talks about money's not being removed from this account, except as authorised or directed.
+
+107
+00:18:42,780 --> 00:18:53,830
+Where an ASR holds amounts, third-party amounts in a segregated in a segregated account, it must retain it there until it is paid in accordance with the instructions.
+
+108
+00:18:55,410 --> 00:19:10,060
+Clause 23 deals with the reporting of non-compliance. So the requirement is that the ASR must, within one business day of becoming aware that it has not complied with either Rule 21 or 22, notify the Commission of that fact in writing.
+
+109
+00:17:24,520 --> 00:17:40,710
+Clause 19。十九號。That's the notification of change. So we have a list of matters set out in Part Two of the schedule, and whenever the ASR becomes aware of a change to those matters, it needs to notify the SFC.
+
+110
+00:17:53,270 --> 00:18:12,240
+所以，the requirements under these under this part essentially require segregation, focus on segregation of third party moneys. So the requirement is that the ASR must establish and maintain segregated accounts, designate if the account is trust trust account or third party account.
+
+111
+00:15:50,890 --> 00:16:10,900
+So with that in mind, is how we have defined these this definition. The paragraph B perhaps or A and B sort of expands on what the impact of that incident needs to be. So for example, it will affect the normal functioning. This is important because it will potentially affect investors.
+
+112
+00:16:14,760 --> 00:16:34,770
+the availability, security, confidentiality, authenticity and integrity of various transactions and communications. I think that's pretty self-explanatory. That obviously these things are of utmost importance to investors. So if there's any anything that threatens these matters, then these are things that we can.
+
+113
+00:20:20,730 --> 00:20:23,290
+Thank you for that question. So the
+
+114
+00:20:17,720 --> 00:20:20,320
+第六部分啦，都未見到有嚇，唔該。
+
+115
+00:21:40,280 --> 00:21:45,080
+對嗰個投資人係一個好重要嘅保障嚟嘅，即係能夠。
+
+116
+00:20:12,190 --> 00:20:17,440
+嘅部分，如果A.S.O唔跟咁又點咧？我一路等等嚇，即係去到呢度第。
+
+117
+00:20:34,280 --> 00:20:40,900
+The SFC will be able to take discipline action under Part Nine of the SFO.
+
+118
+00:19:13,410 --> 00:19:20,200
+誒主席，呢度咧就我想了解嗰個出處啦，因為誒處理第三者嘅。
+
+119
+00:21:45,390 --> 00:21:52,890
+誒將嗰個資產係獨立存放第三方嘅嘅款項呢一個嘅要求。
+
+120
+00:21:12,250 --> 00:21:19,940
+咁誒，主席嚇，我繼續瞭解下。咁呢個關於佢誒要segregation or third party money嗰個咧誒？
+
+121
+00:21:01,190 --> 00:21:10,910
+Action against the ASR and that is provided under Part Nine of the SFO as amended by the 2021 Amendment Ordinance.
+
+122
+00:20:23,570 --> 00:20:34,000
+consequence of breaching the ASR rules is not provided in the ASR rules itself. As an AS as an approved as an SFC approved entity.
+
+123
+00:19:40,580 --> 00:19:51,890
+討論咧個ESO要做嘅嘢咧個罰則都唔係好清楚嘅，即係除咗喺前面有誒一啲部分講係個offence。
+
+124
+00:19:20,570 --> 00:19:40,580
+third party money係非常之重要啦嚇，即係要要有segregation啊，分開佢誒嚟到去處理，唔可以同自己嘅嘅錢嚟到去即係混埋一齊咧，就保障嗰個誒債券誒證券嘅持有人啦嚇。咁呢度我想即係參照咗邊一度啦。咁同埋咧，好似我哋一路討。
+
+125
+00:19:52,180 --> 00:20:12,190
+誒，可唔可以帶一帶我哋去睇下冇做到係點咧？即係呢度嗰個offence咧，就喺第十三條就有提到 falsification，即係造假嘅記錄咧。誒，或者係維銷毀咗啲記錄咧，就有一個即係offence rating嘅，嗰個就係一個有罪行嘅嚇。咁其他。
+
+126
+00:20:41,180 --> 00:21:01,190
+所以2021 Amendment Ordinance amended the disciplinaries part in the SFO to cover breaches by ASRs. And so where there is a breach by an ASR, including breaches of the ASR rules, the SFC will have power to take disciplinary.
+
+127
+00:21:20,270 --> 00:21:40,280
+你嗰個即係嗰啲disciplinary action嚇，即係相關嘅紀律嘅行動咧，係誒有冇刑事嘅咧？誒足唔足夠咧？即係呢啲如果係純粹係罰嘅話，誒嗰個第三方嘅損失，即係萬一你進入破產，你又冇將嗰個誒third party money去分開嚇，我諗呢一個係。
+
+128
+00:21:53,340 --> 00:22:13,350
+即係就住呢一點嚇，話誒有冇？謝嘉慧啊，Yeah, thank you for that question. So, if it is misappropriation, then that would be theft, and that would come under the theft ordinance. We do not have an offence for breaches of these provisions of Part Six. The offences that
+
+129
+00:22:59,290 --> 00:23:00,130
+嗯。
+
+130
+00:24:05,960 --> 00:24:07,840
+多謝主席。多謝。
+
+131
+00:24:08,450 --> 00:24:10,410
+好嘅，陣間會可以繼續。
+
+132
+00:24:55,580 --> 00:24:59,110
+system through which it can evidence a number of securities.
+
+133
+00:24:31,720 --> 00:24:35,290
+This provision is really that in the absence of a.
+
+134
+00:22:22,270 --> 00:22:28,490
+Miss Kan mentioned. Let me just dig those two out.
+
+135
+00:22:31,020 --> 00:22:37,740
+There are essentially two offence provisions under the ASR rules, and both relate to fraud and
+
+136
+00:23:00,850 --> 00:23:08,720
+reputation and their any potential imposition of restrictions that we may impose on them.
+
+137
+00:22:51,060 --> 00:22:59,010
+bearing in mind that securities registrars are entities that want to stay in the business long term, so they will be much more concerned about their
+
+138
+00:22:13,350 --> 00:22:21,720
+We have are really where fraud is involved, for those two provisions in the ASR rules, one which
+
+139
+00:22:38,090 --> 00:22:50,780
+Yeah, but for just breaches of the obligations and requirements, we do not have an offence. We are relying on the disciplinary regime, and the rationale for that is because we think it's a much more effective deterrent.
+
+140
+00:23:09,000 --> 00:23:25,470
+好，咁亦都即係請即係法律顧問都確認一下，即係如果局方所講嘅誒SFC所講misappropriation of money嗰個嚇，即係如果佢冇按第第二十三條去獨立咗個賬户嘅話，係唔係構成即係誒盜竊咧？係咪一個？
+
+141
+00:23:25,940 --> 00:23:45,950
+可以用即係相關嘅刑事嚟到去即係規管嗰個A.S.L咧，唔該，係法律顧問有冇啲咩補充？係多謝主席嘅。噉我哋都誒同意誒政監會頭先嗰個説法嘅。咁因為誒我哋留意到，其實我哋都留意到簡議員誒誒提出嗰個問題啦，亦都之前去詢問過誒政府當局嘅。噉佢哋解釋翻咧都係如果。
+
+142
+00:23:45,950 --> 00:24:05,960
+係違反咗呢啲嘅要求要求規定咧，都會係一個誒刑誒一個係一個disciplinary action，一個紀律行動嘅。咁而誒就唔會係一個刑事嘅罪行。咁而頭先政監提及到咧，如果係有一啲誒唔適當去使用一啲金錢，miss appropriation of money咧，噉就會係根據翻之可能另外一啲法例，例如之theft ordinance嗰啲方法去處理。
+
+143
+00:24:11,710 --> 00:24:31,720
+Thank you, Mr Chairman. So we move on to Part Seven, which is Clause Twenty Four of the ASR Rules. So Clause Twenty Four is an obligation on the ASR to send an annual statement to registered holders of their holdings. The idea of
+
+144
+00:24:35,570 --> 00:24:55,580
+certificate or document of title， the investor should at least get an annual statement confirming its holdings with the relevant securities registrar. This obligation is imposed on the issue on the ASR rather than the issuer because the ASR will be operating the uncertificated
+
+145
+00:27:31,620 --> 00:27:32,440
+誒。
+
+146
+00:27:05,870 --> 00:27:08,620
+係咪嗰個費用？噉我哋點樣處理咧？
+
+147
+00:26:37,130 --> 00:26:44,930
+be not low, shall we say? We do not expect them to be exorbitant, because if they were exorbitant, they would be in breach of the ASR code.
+
+148
+00:27:10,480 --> 00:27:20,220
+Thank you for that question. So the ASR code will be stipulating upper limits for certain fees, but not all fees.
+
+149
+00:25:34,800 --> 00:25:44,950
+咁嗱，喂，呢個我就想問啦，會唔嗱？呢度又冇限定佢可以最高收幾多錢喎？仲要係畀佢哋可以係有一個係disincentive嚇。
+
+150
+00:26:05,600 --> 00:26:15,820
+咁想請問呢一度你會唔會都有一個有一個補帽咧嚇？定係咩補帽都冇，仲畀佢哋好似discountive，佢會唔會好貴咧charge得？
+
+151
+00:27:20,500 --> 00:27:31,340
+The fees that we want to stipulate upper limits for are really fees that relate to services that are regularly used by investors, and that
+
+152
+00:25:21,270 --> 00:25:34,520
+其實，如果嗰個人係要hard copy form，咁呢度就係話咧誒，佢可以去到charge個three B嘅二啊，就係show得佢係provide一個reasonable disincentive for using paper documents。
+
+153
+00:25:01,260 --> 00:25:21,270
+Turning then to part eight, which is which sets out the duties。光玉芬議員。對唔住啊，主席，嚇，我想請問一下廿四嘅四嗰度咧，就係話誒嗰個approve嘅registers誒嗰個A.S.L啦嚇，噉佢咧就可以去charge一啲fee。
+
+154
+00:25:45,230 --> 00:26:05,240
+噉我想請問一下，呢度你哋喺你哋嗰度有冇咩指引咧？嗱，我見到你哋頭先我哋審完嗰條咧，主席啊，噉就嗰個issue咧，去畀翻copy啊嚇喺嗰度咧都有去到，即係有一個準則嘅喺嗰度啊，指明費用啦嚇喺頭先嘅喺頭先嘅rule八嗰度其實。
+
+155
+00:26:17,120 --> 00:26:37,130
+Thank you for that question. So the whole idea is that it should be a disincentive. So we do not expect it to be cheap. Having said that, there is a general requirement in the ASR code that fees must be reasonable, commensurate, fair in all the circumstances. So while we do expect the fees to
+
+156
+00:26:45,860 --> 00:27:05,870
+誒主席啊，我我認為咧，我我明白嘅。我哋都唔係鼓勵啲人要紙張噉，但係你有冇一個即係你哋譬如做得個code嘅時候，你哋都有冇一個最高嘅一啲即係佢唔可以超過某一個限額嘅數咧？如果唔係，到時一個投資者佢會覺得嗰啲嘢可能都係唔合理嘅喎。
+
+157
+00:27:33,620 --> 00:27:53,630
+直接 impact the investor. So the three main ones that we are looking to set upper limits for are the fee for dematerialisation, the fee for effecting transfers and the fee for setting up a USI facility. We do not propose to set upper limits for any of the other fees. We don't see that there is a regulatory
+
+158
+00:27:53,630 --> 00:28:13,640
+need to do so， and that the overarching requirement in the ASR code that fees should be reasonable will suffice. That said， we do， it is always open to an investor to lodge a complaint to us， and if they did lodge a complaint to us and we did feel that the fees were exorbitant， it would be open to us
+
+159
+00:28:13,640 --> 00:28:33,650
+主席點解我噉樣問咧？我唔係想阻持嘅，我係想即係指出咧。有時喺法庭嘅程序咧，我哋都係需要紙本嘅。例如我哋，譬如喺mental health嘅provision上邊，我哋可能要satisfy嗰個court。OK，我哋係要譬如去。
+
+160
+00:28:33,650 --> 00:28:53,660
+去到誒點樣處理有關嗰個誒，即係mentally incapacitated person佢嗰個affairs，又或者當我哋去到申請遺產，即係嗰個啊嗰個承辦嘅時候，我哋都係可能要填schedule，我哋係要satisfy個court嘅requirement嘅，所以想請問喺呢一度，咁都有時我哋係會問。
+
+161
+00:31:17,670 --> 00:31:18,640
+嗯。
+
+162
+00:31:48,080 --> 00:31:51,280
+and。
+
+163
+00:31:43,060 --> 00:31:47,800
+subparagraph three deals with the manner in which the permission is to be given.
+
+164
+00:31:59,590 --> 00:32:05,510
+only because the securities are no longer prescribed securities, which means they have ceased to be listed.
+
+165
+00:30:22,760 --> 00:30:29,110
+我有一個噉嘅擔心，我知道佢哋唔會噉樣做，不過我想提出呢樣嘢，請大家即係留意啫，係嘛？唔該。
+
+166
+00:31:10,180 --> 00:31:17,070
+With the permission granted by the SFC, or for the purposes of avoiding contravention with a requirement under the ordinance.
+
+167
+00:31:51,560 --> 00:31:59,310
+subclause four specifies that the ASI is not to be regarded as contravening subrule one if it ceases to act.
+
+168
+00:31:19,050 --> 00:31:27,440
+The details in clause 25, so subclause two goes on to talk about.
+
+169
+00:28:53,660 --> 00:29:04,050
+個ASL噉啊，譬如當佢去到無紙化嘅時候，咁呢個會唔會出現一個誒？我要好貴咧，我唔係想攞紙張嘅，不過我係需要去攞紙張啊嘛～
+
+170
+00:31:28,010 --> 00:31:42,540
+where the commission may permit the registrar to cease to act as the ASR, essentially it is where it is satisfied that it would be impracticable, unreasonable or unduly burdensome for the registrar to continuing to continue acting.
+
+171
+00:29:04,600 --> 00:29:20,800
+Thank you for that question. So again, it's the the ASR requirement, the requirement in the ASR code, is that the fee must be commensurate to the circumstances. So it would be incumbent on the ASR to take into account all relevant circumstances.
+
+172
+00:29:22,730 --> 00:29:42,740
+我諗江議員講呢個誒呢一點，主要都係強調就誒，即係喺喺一方面可能唔鼓勵誒向電子化啦，但係同同時亦都唔可以一啲誒合理嘅合理誒，當事人應該可攞到嘅資料都唔應該誒，即係。
+
+173
+00:29:42,740 --> 00:30:02,750
+過度誒過度誒扭攔佢，因為用一個費用作為一個手段誒，即係令到佢誒唔可以行使翻佢嘅權益。如果佢係攞到一啲紙張都係一個合理嘅一個權益，噉你儘管貴啲或者點樣，但係就唔應該好似誒唔唔應該太過太過。
+
+174
+00:30:02,750 --> 00:30:22,760
+係，因為主席點解我噉樣咧？有擔心咧？因為喺B嗰度咧，呢個係N啊，recovering the cost and providing a reasonable disincentive。噉我我覺得，如果我係嗰個ASL，噉我未，我我recover個cost，不過個法例寫我係仲要抱翻一個reasonable disincentive，所以。
+
+175
+00:30:30,160 --> 00:30:50,170
+請局方考慮啱啱嘅建誒提議啦，係啦，誒睇睇下仲冇冇其他跟進，就再繼續可以。Okay, thank you for that question. Oh, I I don't think that's a question, right? Sorry, I beg your pardon. So we move on to part eight, which is the um these are the provisions that deal with where there is a change in.
+
+176
+00:30:50,170 --> 00:31:10,180
+The Securities Registrar, so clause 25 sets out or requires that the Securities Registrar or the ASR cannot just seize to act as a as an issuer's ASR. That any seizing must be with the issuer's consent or
+
+177
+00:32:44,460 --> 00:32:45,330
+誒。
+
+178
+00:33:33,660 --> 00:33:35,850
+carried out in an orderly manner.
+
+179
+00:34:08,640 --> 00:34:11,030
+所以，Clause 28。
+
+180
+00:32:41,190 --> 00:32:44,080
+Subclause two talks about.
+
+181
+00:34:04,960 --> 00:34:08,230
+supervision of approved securities registrar.
+
+182
+00:33:52,810 --> 00:33:56,290
+它也 specifies what the notification needs to include.
+
+183
+00:32:55,890 --> 00:33:00,020
+subparagraph three expands on the records that need to be transferred.
+
+184
+00:34:00,300 --> 00:34:04,680
+Turning then to part nine, which is the
+
+185
+00:33:47,600 --> 00:33:52,530
+subclause two requires that the notification be given at least three months before the change.
+
+186
+00:33:28,080 --> 00:33:33,350
+that there is a change and can monitor and make sure that the any handover is
+
+187
+00:32:48,300 --> 00:32:55,380
+the transfer being to the incoming ASR, and if there is no incoming ASR, then it must be to the issuer.
+
+188
+00:33:36,220 --> 00:33:47,240
+所以，條文要求在附表一，讓貿易委員會和交易所通知。義務是在於兩邊的進口和出口ASR。
+
+189
+00:34:11,310 --> 00:34:23,610
+provides that the commission may require an ASR to provide the SFC with any information or document that the SFC may reasonably require to perform any function of its of the of the SFC.
+
+190
+00:32:25,170 --> 00:32:40,860
+所以，的義務 under sub rule one is that the outgoing ASR must take all reasonable steps to complete the transfer before the cessation, and if it is not completed before, then it must be done as soon as practicable afterwards.
+
+191
+00:32:06,360 --> 00:32:24,750
+20條條Clause 26 deals with the duty to transfer records when there is a change of share registrar. So essentially, the idea is that the records should be transferred to the incoming ASR as as quickly and as smoothly as possible.
+
+192
+00:33:08,070 --> 00:33:28,080
+Subclauses four to seven are relatively procedural matters. Turning then to clause twenty-seven, this relates to the duty to notify the Commission and the exchange when there is a change in the securities registrar. The reason for this provision is just to make sure that the Commission is aware.
+
+193
+00:35:18,180 --> 00:35:18,540
+係。
+
+194
+00:34:56,910 --> 00:34:57,890
+嗯。
+
+195
+00:34:24,390 --> 00:34:25,420
+嗯。
+
+196
+00:35:56,640 --> 00:35:57,890
+schedule。
+
+197
+00:35:54,100 --> 00:35:56,190
+spoke too soon. the
+
+198
+00:35:51,160 --> 00:35:53,760
+啊，呼表，呼表。
+
+199
+00:35:46,780 --> 00:35:49,610
+Mr. Chairman, that's all for the ASR rules.
+
+200
+00:34:52,640 --> 00:34:56,630
+Part ten then deals with miscellaneous provisions.
+
+201
+00:34:46,800 --> 00:34:50,920
+prepare a report to assist the SFC in its work.
+
+202
+00:36:00,800 --> 00:36:05,300
+所以，schedule是個list of matters that the。
+
+203
+00:36:06,590 --> 00:36:12,130
+ASR must notify the SFC on if there are changes, so.
+
+204
+00:35:38,960 --> 00:35:45,130
+breach of and such destruction, concealment or alteration constitutes an offence.
+
+205
+00:36:14,030 --> 00:36:23,260
+Clause one deals with definitions. Clause two deals with basic information relating to various individuals. It includes
+
+206
+00:34:26,790 --> 00:34:46,800
+Clause 29 relates to the preparation of reports by a skilled person. The skilled person is someone with technical expertise, which the SFC may lack. And the idea is that the commission should be able to appoint a skilled person, or require the ASR to appoint a skilled person to prepare.
+
+207
+00:34:58,170 --> 00:35:18,180
+Clause thirty refers to refers to a communicate to the requirement that ASRs must communicate with the SFC via an electronic transmission system which the SFC has specified. This is essentially to encourage communications between the SFC and the ASR to be electronic as far as possible.
+
+208
+00:35:18,950 --> 00:35:38,960
+Clause thirty one is a general power and enabling the SFC to modify or waive any of the ASRs obligations under the ASR rules. And clause thirty two is another offence provision which deals with destruction, concealment or alteration of accounts or records fraudulently. and
+
+209
+00:37:37,320 --> 00:37:37,910
+嗯。
+
+210
+00:39:08,940 --> 00:39:09,550
+嗯。
+
+211
+00:38:27,990 --> 00:38:28,730
+成咯，係。
+
+212
+00:36:53,360 --> 00:36:56,840
+impugn their fitness and possibility and.
+
+213
+00:39:27,210 --> 00:39:32,640
+The information that's required to be submitted is.
+
+214
+00:38:59,680 --> 00:39:07,860
+誒有冇啲優化嘅措施，或者當時除非有更加好嘅解釋，誒當時條法律係噉樣定咯嚇。
+
+215
+00:38:49,990 --> 00:38:59,210
+改名嘅情況，咁誒，儘管可能追蹤翻到去另外一條法例，但係喺而家呢個噉樣嘅情況，都要睇下點樣。
+
+216
+00:36:43,690 --> 00:36:53,080
+any disciplinary or criminal or judicial processes are underway or relate to them that may sort of impair.
+
+217
+00:37:39,240 --> 00:37:50,290
+In fact, our the application form that we have prepared actually includes former names. May I get back to you on this point? It might be reflected elsewhere.
+
+218
+00:37:54,680 --> 00:38:07,700
+係，先生個補充咧，就係呢個附表入面嗰啲資料咧，其實都係誒，好似頭先前面嗰啲條文噉樣，係參照翻現時就住發誒license corporation誒。
+
+219
+00:39:11,590 --> 00:39:26,930
+Application form actually doesn't require this piece of information, so changes will be incorporated. I mean, changes in their name will be something that we will require them to provide. Another point to note is that the
+
+220
+00:37:17,300 --> 00:37:34,340
+咁喺公司嗰度咧，你就要求佢喺B嗰度，boy嚇。就如果佢有一啲formal names，佢係要展述嘅。咁但係點解人嘅時候formal name或者佢啲alias就唔使展述咧？嗰啲別名或者formal names，人同公司有咩分別咧？呢度？
+
+221
+00:36:23,680 --> 00:36:43,690
+The persons that they have to provide this information about are also listed, but it's basically their identity information and their address and contact details. Clause three sets out some of the relevant information. So this refers to information relating to whether.
+
+222
+00:36:57,290 --> 00:37:17,300
+propriety and fitness and properness to be related to a ASR。我哋等緊先。誒，江玉歡議誒主席，我想請問一下關於二嗰個basic information嗰度咧。嗱，我見到咧一就有關人㗎啦，individual。二就係有關公司啊嚇噉。
+
+223
+00:38:07,980 --> 00:38:27,990
+嗰個相關嘅嘅規定嘅咁相關，我哋呢個條文咧就係第五七一S章證券及期貨發牌及註冊資料規則入面咧，佢而家就住人個人同埋誒發團嗰個基本資料嗰個定義係噉樣，噉我哋都係要維持翻嗰個一致。
+
+224
+00:42:19,300 --> 00:42:20,800
+個副表啱啱係。
+
+225
+00:42:03,140 --> 00:42:04,780
+所以。
+
+226
+00:41:42,430 --> 00:41:44,400
+好，唔該，法律顧問嚇。
+
+227
+00:42:12,940 --> 00:42:16,780
+個個附表，一個附表啱啱講到一半，係咪？
+
+228
+00:41:58,740 --> 00:42:02,610
+所以， we then move on to the stock market listing amendment rules.
+
+229
+00:41:53,840 --> 00:41:58,360
+O.K.好，嗯，正正啱好可以繼續。
+
+230
+00:39:32,930 --> 00:39:40,210
+It's not restricted on application to become an ASI. It's not restricted. This is covered in the underlying in the amendment ordinance that.
+
+231
+00:40:11,190 --> 00:40:18,530
+嘅話唔緊要，你唔係喺條條例度，譬如喺個contract我覺得可以講得清楚啲，好嘛？即係個申請表度，唔該。Thank you。
+
+232
+00:39:40,490 --> 00:39:48,110
+The SFC can ask for any information that we require at the point of application, and so former names are included.
+
+233
+00:41:44,680 --> 00:41:53,520
+誒局方有冇啲咩其他補充？冇。係。
+
+234
+00:40:18,810 --> 00:40:27,690
+係咯，我諗誒證監會同埋局方翻到去可以誒考慮一下啊嘛，咁提出呢個呢個問題有冇啲優化嘅空間噉樣，係嘛？可以繼續嚇。
+
+235
+00:41:32,130 --> 00:41:42,150
+喺公司簽冊條例誒獲得通過之後咧，咁呢一個法律公告入邊嘅附表嘅相關條文都會作出相應嘅修訂嘅。咁呢個補充資料畀翻議員參考，多謝主席。
+
+236
+00:38:29,980 --> 00:38:49,990
+但係即係我諗個邏輯理解嘅，但係如果其實之前錯噉，後邊再繼續錯落，我唔係話係一定錯啊嚇。但係如果係噉嘅話，噉你你你即係趁而家呢個機會，大家我啱啱我諗江議員睇呢樣嘢都即係有有佢嘅道理嘅。即係如果你個人或者你嗰個誒公司，佢都有可能有改。
+
+237
+00:39:51,180 --> 00:40:11,190
+主席，其實誒對唔住啊，我想解釋少少啫。點解重要咧？因為咧，其實誒嗰個個人嘅資料咧，係可以畀你哋容易去到跟查，譬如佢有冇啲咩違規嘅事件，或者個佢有冇一啲譬如誒譬如criminal investigation whatsoever。所以我覺得咧，即係我同意主席頭先講，如果可以。
+
+238
+00:40:32,100 --> 00:40:52,110
+哦，唔係誒，或者我而家誒法律顧問誒有少少誒時間交畀你嚇，係多謝主席嘅。噉就住誒呢個附表誒第二條嗰度咧，基本資料嗰度咧有個補充資料，想畀議員參考嘅。咁議員都可能留意到啦，其實我哋而家現誒法誒立法會咧法案委員會咧都係審議緊二零二四年公。
+
+239
+00:40:52,110 --> 00:41:12,120
+公司修訂第二號條例草案嘅噉就會以誒志在引入一個公司簽冊條例嘅噉，我哋就察悉到啦。如果誒該條條例草案咧獲得通過嘅話咧，呢一個附表嘅第一部嘅第二括二條咧誒提述到關於法團嗰度嘅基本資料咧係有可能需要作出相應修訂嘅噉就。
+
+240
+00:41:12,120 --> 00:41:32,130
+就此，我哋都同翻當局作出查詢啦。咁而當局亦都同意咧，會喺條例草案嗰度作出相應修訂，噉就加入翻咧關於法團過去啦，同埋最新近嘅本籍所在地嘅資料嘅變更嘅。咁誒，都誒，都我哋都留意到啦，政府當局會喺條例草案嗰度咧，就提出委員會階段審議案咧，以便。
+
+241
+00:43:02,260 --> 00:43:03,240
+啊！
+
+242
+00:42:21,730 --> 00:42:22,890
+未講完。
+
+243
+00:43:07,380 --> 00:43:09,840
+其他 changes that need to be provided.
+
+244
+00:44:02,540 --> 00:44:05,390
+任何 change in their corporate group structure.
+
+245
+00:43:03,520 --> 00:43:06,490
+The schedule goes on to talk about.
+
+246
+00:43:39,460 --> 00:43:42,620
+any significant change in their business?
+
+247
+00:43:43,030 --> 00:43:47,110
+any change in their share capital, shareholding structure?
+
+248
+00:42:56,470 --> 00:43:01,830
+或related corporation，所以those are the persons in respect of whom basic information needs to be provided.
+
+249
+00:44:19,330 --> 00:44:27,840
+any change relating to their premises or the circumstances of their premises, so for example, if there's been a big fire and the premises are destroyed.
+
+250
+00:43:30,180 --> 00:43:38,910
+Any change in the status of their membership in any clearinghouse, CSD exchange or elsewhere, whether in Hong Kong or elsewhere?
+
+251
+00:43:20,490 --> 00:43:29,800
+any change in the contact details? any any change in the status of authorisation to provide similar services outside of Hong Kong?
+
+252
+00:43:10,120 --> 00:43:20,090
+So item two is any change in the persons themselves. So not just the details of the person. So if there's a change in the officer, then that change has to be notified as well.
+
+253
+00:42:24,680 --> 00:42:35,890
+sorry, I beg your pardon. So part two of the schedule describes the matters where there is a change. Then these matters, they must be
+
+254
+00:44:05,840 --> 00:44:19,050
+any significant significant change in their service facilities, any change in the information regarding their assets, any change relating to their bank account details.
+
+255
+00:43:47,490 --> 00:44:02,180
+任何 change relating to the fees charged in relation to the provision of securities share registrar securities registrar services, but this focuses on fees charged to investors, not fees charged to issuer clients.
+
+256
+00:42:36,460 --> 00:42:56,470
+Notify to the SFC, so it includes change in the basic information of the various people. So the ASR itself, any officer, senior employee, any person with whom the ASR is associated, any director or share substantial shareholder, any shadow director, any subsidiary.
+
+257
+00:46:58,200 --> 00:46:58,890
+嗰個。
+
+258
+00:45:59,950 --> 00:46:00,900
+唔該。
+
+259
+00:44:34,690 --> 00:44:35,960
+係光榮歡愉。
+
+260
+00:46:07,580 --> 00:46:09,460
+係，各方係。
+
+261
+00:46:02,190 --> 00:46:05,060
+繼續，誒係咪局方有啲？
+
+262
+00:44:55,130 --> 00:44:59,720
+正佳無人。Thank you for that question. There there isn't a
+
+263
+00:44:28,120 --> 00:44:34,410
+And any change in any insurance coverage that they are required to take out.
+
+264
+00:45:45,790 --> 00:45:52,120
+discretion and judgement. Obviously, if we have found that they are not.
+
+265
+00:45:52,550 --> 00:45:59,050
+exercising proper and reasonable judgement in this regard, then we would take action. We would have the ability to take action.
+
+266
+00:45:00,130 --> 00:45:09,260
+real definition anywhere, it's really to be honest a common sense approach. So if we look at some of the provisions which deal with significant change, the first one would be.
+
+267
+00:46:45,060 --> 00:46:56,550
+複核嘅一啲嘅誒決定，噉我同時可以誒誒同大家講講，我哋擺咗嗰三個嘅決定係乜嘢？OK，好可以係最後啊，副議長。
+
+268
+00:46:09,740 --> 00:46:24,770
+誒誒，啱啱十二咗呢個誒核准證券登記機構規則咧，我想大家去睇誒L N十四，就係二零二五年證券及期貨條例修訂附表八零。
+
+269
+00:45:09,540 --> 00:45:25,500
+Item seven, which is significant change in the nature of a business. So, if there are minor changes, we don't need the share registrar to notify us of everything. It's really significant changes relating to their business that we would want to be notified of.
+
+270
+00:44:36,260 --> 00:44:54,490
+主席，我想請問一下咧，嗱喺嗰個Part Two嗰度咧，有啲就係啊any change，有啲就係significant change。噉我想問，change同significant change，你哋點樣界定嘅咧？亦定係有冇邊一度係可以清晰講個分別喺邊嘅？
+
+271
+00:45:25,780 --> 00:45:45,790
+similarly in relation to section 11 where we talk about the service facilities there might be little tweaks in their service facilities again we don't need to be informed of everything significant change is what we are looking for we appreciate that it is a judgement call but we rely on the ASRs to exercise proper.
+
+272
+00:46:25,050 --> 00:46:45,060
+呢個係行政長官會同行政會議根據第五七一章啊下邊制定嘅，因為我哋剛剛嘅制定啊，我哋審議咗呢個啊Alan十六就係呢個關於A S L rules入邊有一啲嘅決定咧，我哋將佢個啊係擺咗落去係一個啊證券及期貨事務上訴審裁處可以。
+
+273
+00:47:58,800 --> 00:47:59,560
+咁而。
+
+274
+00:46:59,680 --> 00:47:00,630
+啊！大。
+
+275
+00:49:30,710 --> 00:49:32,140
+固八嗰度。
+
+276
+00:47:01,040 --> 00:47:03,250
+個麥未開，要開翻個麥。
+
+277
+00:49:25,030 --> 00:49:29,620
+係咪即係跟翻呢個條例？就係一零一A A G。
+
+278
+00:49:33,130 --> 00:49:37,870
+Yes, thank you for that question. Yes, it is the definition in one hundred and one.
+
+279
+00:49:18,450 --> 00:49:24,720
+但係，主席，先呢一employ咧，就頭先開始審議嘅時候，你都指出咗喺呢度亦都有定義嘅。
+
+280
+00:48:40,140 --> 00:48:47,240
+都係頭先即係律政司提及嗰個五七一S章嗰啲相關嘅定義咧。
+
+281
+00:47:46,820 --> 00:47:58,520
+問對上一步，翻頭先part two嗰度。O.K.，冇唔好意思啊，因為啱啱見到撳咗掣，所以我哋一係啱啱嗰度誒講埋最尾嗰一部分先，好唔好啊？誒。
+
+282
+00:48:49,190 --> 00:49:01,060
+變為回答嚇。Maybe I try and answer first, Mr. Chairman. So the term officer and senior employee are both defined in the SFO.
+
+283
+00:49:01,440 --> 00:49:16,830
+I I will double check my my recollection is that associate is also defined, but we will double check. The idea of C is to also is to mainly cover persons who are to whom an ASR might have outsourced any tasks.
+
+284
+00:47:06,800 --> 00:47:26,810
+誒得啦，係啦，誒誒，關於嗰個誒二零二五證券及期貨條例修訂附表八零下邊咧，最主要嘅修訂就係附表八誒第二部第一分部七十八項之後咧，就加翻啱啱啊副秘書長講嘅三項嘅決定嘅。第一項咧就係關於啱啱所講嗰個核准證券登記。
+
+285
+00:47:26,810 --> 00:47:46,820
+機構規則二十五括二條下邊就係證監會拒絕給予準誒準許核准證券登記機構停止擔任該證券嘅核准證券登記機構嘅個決定嚟嘅。咁第二，冇事可唔可以停一停？我想睇下簡惠敏議員係咪想問呢一部分，因為你係想。
+
+286
+00:48:00,010 --> 00:48:20,020
+啊，多謝你嚇。誒，Part Two嗰度即係而家係睇B四四八嚇，B四四八嗰度即係需作出通知嘅變更咧。早前你有提及過呢度，即係Officer佢就即係翻譯中文就高級人員啦。咁同埋咧就有誒Senior Employee就高級僱員嘅噉樣啊。噉我諗呢度都係。
+
+287
+00:48:20,130 --> 00:48:40,140
+即係要清晰係指咩人啦，因為個責任喺個A.S.O.嗰度去通知啦。C咧就講係佢嗰個誒同呢個機構有聯係嘅喺呢個即係提供服務中，即係social嗰個概念啊嚇。呢一度可唔可以都解釋一下係唔係都係用翻即係誒都？
+
+288
+00:49:38,430 --> 00:49:58,440
+A A係即係唔同officer嘅係咪啊？即係或者喺呢度去演繹一下，即係同officer有咩唔同咧？除咗即係指剛才答咗話係其實跟S F O嘅定義啦噉樣，咁方便我哋去理解咧。其實高級僱員所指嘅同個高級人員，事實上係即係指咩嘅？So officer would include persons like the director.
+
+289
+00:52:00,910 --> 00:52:01,740
+理職能。
+
+290
+00:50:25,160 --> 00:50:26,530
+all of them.
+
+291
+00:51:08,440 --> 00:51:10,130
+啊！啲。
+
+292
+00:52:37,840 --> 00:52:40,030
+key lines of business.
+
+293
+00:52:22,030 --> 00:52:25,600
+幅度有多一啲嘅，即係準確確，即係確定性。
+
+294
+00:51:10,720 --> 00:51:15,860
+The ASR code does expand on what senior management is.
+
+295
+00:50:18,800 --> 00:50:24,880
+that they will have different persons holding different roles, and so the idea is to make sure we cover.
+
+296
+00:51:32,460 --> 00:51:39,130
+really a concept used in the ASR rules, but for the definition of officer, it's in the SFO.
+
+297
+00:50:27,450 --> 00:50:35,820
+So officer, the main one there is to include directors, and I believe it's company secretaries, but I will double check.
+
+298
+00:52:27,100 --> 00:52:36,990
+政改會有冇啲咩其他在？Thank you for that question. So we do have in the application form, we do set out.
+
+299
+00:50:57,950 --> 00:51:08,160
+Thank you for that question. So the term officer is defined in the SFO itself, in the existing SFO. So part one of Schedule one.
+
+300
+00:51:16,200 --> 00:51:32,180
+Because senior management may or may not actually be include the directors, so we have we have a separate definition for that as well. But the term senior management in the ASR code is used in the ASR code is and is not.
+
+301
+00:50:37,580 --> 00:50:56,770
+好啊，主席。啊，或者即係你會唔會喺個ASO code嗰度會再明確一啲咧？因為一零一AAG咧，其實個定義都係一啲描述式嘅嚇，即係話佢係誒負責係監管同埋管理嗰個ASO嘅噉。咁會唔會有一啲即係再明確少少喺個ASO code嗰度？
+
+302
+00:49:58,790 --> 00:50:18,800
+The senior employee may or may not be a director, depending on the particular ASR. In reality, depending on the size and scope of business of an ASR, the same person may be holding multiple roles, so which is fine. But in the case of a larger ASR, it's more likely
+
+303
+00:51:40,900 --> 00:52:00,910
+主席，我諗都唔係好好掌握得到，誒，即係其實最初你都有問到，因為senior employee高級僱員咧係喺一零一AAG嗰度咧係用一個描述性嘅，即係話只申請人聘用的人，而該人就申請人執行監管，誒，sorry，監督或管。
+
+304
+00:52:02,020 --> 00:52:22,030
+執行監督或管理職能咧可以好闊嘅，即係可能係佢包括係佢個compliance officer啊，誒包括可能係即係誒負責risk嘅CRO啊，誒各樣啦嚇，即係根本你呢度規監管及管或管理職能咧可以好闊嘅，會唔會係即係喺個ASO？
+
+305
+00:55:49,340 --> 00:55:49,740
+係。
+
+306
+00:55:14,710 --> 00:55:16,490
+O.K.可以繼續。好。
+
+307
+00:55:04,370 --> 00:55:10,970
+機構有不滿嘅話咧，係可以向證券及期貨事務上訴審裁署咧，係作出上訴嘅。
+
+308
+00:54:37,320 --> 00:54:44,020
+咁第三項決定咧，都係同樣都係A.S.R.O.S嘅第二十三括弧三B條嘅。
+
+309
+00:53:31,810 --> 00:53:41,790
+係關於L N十四就係二零二五年證券及期貨條例修訂附表八零嗰度，咁啱啱所提到啦，最主要就係喺附誒證券。
+
+310
+00:55:17,830 --> 00:55:28,810
+噉係，噉我哋就去到誒呢個二零二五年證券及期貨條例修訂附表五嘅公告，咁應該就係L N L L N十九。
+
+311
+00:53:18,370 --> 00:53:31,250
+冇嘅話就誒交交翻畀局方去翻啱啱我哋誒啱啱開始嘅L L N八係咪啊？呢個咪L N十四，sorry L N十四嚇。
+
+312
+00:54:02,080 --> 00:54:17,220
+誒第二十五佢二條下邊就係關於證監會拒絕給予誒準許核准證券登記機構停止擔任該證券嘅核准證券登記機構嘅決定。
+
+313
+00:53:00,320 --> 00:53:16,860
+We can send those back to you subsequently.係，如果事後可以補充啲資料，咁可以協助大家誒瞭解誒進一步誒睇下啱啱誒L N十六呢個個附表仲有冇其他跟進。
+
+314
+00:54:17,510 --> 00:54:36,980
+咁第二項決定咧，就係同一個ASR Rules下邊嘅第二十九條一條，就係關於證監會嘅決定要求該誒核准證券登記機構咧委任具相關技能嘅人士就某適用事宜咧作出報告並呈交相關報告嘅。
+
+315
+00:52:40,310 --> 00:53:00,320
+and we expect a senior employee to head each of those, so perhaps that would address your concern. So it includes compliance, for example, it includes someone heading the finance, it includes someone heading the operations. So there are, if I remember correctly, there are seven or eight key lines of.
+
+316
+00:53:42,070 --> 00:54:02,080
+及期貨條例附表八第二部第一分部第七十八項之後咧，加翻三個誒證監會喺誒相關核准證券登記機構會做嘅決定。咁第一個決定咧就係啱啱誒審核誒嘅誒核准證券登記機構規則第十五。
+
+317
+00:54:44,360 --> 00:55:04,370
+噉就係關於證監會咧，就要求核准證券登記機構咧，因誒證監會委任相關嘅人士就相關嘅事宜作出嘅報告咧，而招致嘅一啲費用同埋開支嘅決定嘅。咁呢三項決定咧，如果誒核准登誒證券登記，
+
+318
+00:55:29,330 --> 00:55:49,340
+咁呢一條咧就最主要就係修訂翻證券及期貨條誒條例誒下邊嘅附表五第二部分關於證券交易嘅定義嘅。咁最主要咧就係喺羅馬數字世街十一A段之後咧，就加翻一啲相關嘅闊免嘅。
+
+319
+00:55:50,720 --> 00:56:10,730
+咁個闊面咧就係羅馬數字嘅誒十一B啦。咁最主要就係講明核准證券誒登記機構咧，係純粹提供或者定明證券公開發售相關嘅任何服務咧，係唔屬於即係受規管證券交易嘅個範疇嘅。咁入邊咧都提供咗一啲誒。
+
+320
+00:56:10,730 --> 00:56:30,740
+誒誒詳細情況嘅，包括大家A下邊咧就提供招股章程啦、公開發售提述嘅文件、公開發售廣告邀請或文件啦，或者公開發售申請嘅任何方法嘅。咁大家B嗰度咧就講到明，就係誒都可以包括埋接收處理、確認有。
+
+321
+00:57:33,920 --> 00:57:34,800
+嗯。
+
+322
+00:58:24,310 --> 00:58:25,270
+嗯。
+
+323
+00:56:55,290 --> 00:56:56,710
+O.K.可以繼續。
+
+324
+00:58:13,680 --> 00:58:15,930
+equal treatment between.
+
+325
+00:58:58,380 --> 00:59:00,750
+So that's the SMLR.
+
+326
+00:56:58,080 --> 00:57:02,550
+噉啊，請翻證監會同事誒講翻另外嗰兩個副副局長。
+
+327
+00:56:44,710 --> 00:56:50,840
+誒證券申請嘅，咁呢三項咧就係證券交易嘅豁免項目嚟嘅。
+
+328
+00:58:16,530 --> 00:58:23,730
+投資者持有 Securities in their own name outside CICAS and those holding Securities through CICAS.
+
+329
+00:58:45,970 --> 00:58:55,500
+Effectively, the idea is to impose the obligation on notification of notification on both the issuer and the ASR. So, clause 15 seeks to do that.
+
+330
+00:57:04,560 --> 00:57:16,420
+So, thank you, Mr. Chairman. So, turning then to LN17, which is the stock market listing amendment rules. So, essentially, these these amendments are
+
+331
+00:56:30,740 --> 00:56:44,430
+有關嘅誒證券申請嘅，咁大佳C咧就講都唔明，誒嗰個核准誒證券登記機構咧係可以提供話運作任何電子平台畀人去誒作為提出。
+
+332
+00:57:17,750 --> 00:57:33,640
+amend the existing Part Four of the Stock Market Listing Rules to deal with the issuer's obligations when when it lists or has listed. Currently, they are required to have an ASR. The amendments preserve that requirement to have an ASR.
+
+333
+00:57:35,310 --> 00:57:53,010
+The amend the amendment on clause two basically preserves the existing definition of issuer for other parts of the SMLR and introduces a new definition of issuer for the purposes of Part Four, which is the operative part relating to ASRs.
+
+334
+00:59:01,900 --> 00:59:19,920
+Turning then to LN eighteen, which is the OFC the Open Ended Fund Companies Amendment Rules. So these rules put in place a regime for open ended fund companies, and as a result, they include various provisions which are quite similar to the CL provisions.
+
+335
+00:57:53,670 --> 00:58:13,680
+所以，key the key requirement here is that an issuer when it seeks to list must have an ASR, and if at any point in time it ceases to have an ASR, its securities must be suspended from trading. The rationale for this is to ensure
+
+336
+00:58:25,960 --> 00:58:45,970
+The other requirement is in clause fifteen, which is the notification of change in securities registrar. So this this clause essentially mirrors the clause in the ASR rule, which sets out the obligation of the ASR to notify the exchange and the Commission if there's a change in the in the ASR.
+
+337
+00:59:50,300 --> 00:59:51,180
+誒。
+
+338
+01:00:44,600 --> 01:00:47,800
+嗯，即係而家講緊嘅喺。
+
+339
+01:00:17,800 --> 01:00:21,510
+The amendment to section sixty two.
+
+340
+01:01:02,760 --> 01:01:06,630
+有冇一個其他方式係咪啊？即係有。
+
+341
+01:00:39,380 --> 01:00:43,320
+會是呢一部分咧，主席？我哋係咪要睇個標明文本咧？
+
+342
+01:00:56,200 --> 01:01:01,130
+引述嗰個標明文本嘅零零幾頁噉樣樣嚇。
+
+343
+01:00:48,820 --> 01:00:54,680
+十八號公告咧啊，就唔係就咁睇呢一份嚇，我諗可唔可以即係去？
+
+344
+01:01:28,430 --> 01:01:35,790
+我唔係好 sure where the concern is.
+
+345
+01:00:31,050 --> 01:00:39,040
+The amendment to section sixty-seven is to the provision on the。係誒，我哋停一停誒，簡惠敏議員。
+
+346
+01:00:21,790 --> 01:00:30,530
+Again, it's really just to delete the word is lodged, and replace it with language that covers the specified request as well.
+
+347
+00:59:39,700 --> 00:59:50,010
+Shares and other interests in OFC shares, which are prescribed securities, they are transferable in accordance with the Part 3A rules.
+
+348
+01:00:05,940 --> 01:00:17,380
+similarly with section sixty one which refers to the lodging of an instrument of transfer again this is amended so that it refers to either an instrument of transfer or a specified request.
+
+349
+01:01:36,750 --> 01:01:49,200
+啊！我諗，如果我哋而家現時嗰個立法會官方網站睇翻嗰個誒會議嘅誒嗰個議程入邊咧，有會誒列出嚟。
+
+350
+00:59:52,630 --> 01:00:05,660
+Section sixty deals with the requirement for instrument of transfer, and this is amended so that transfers can be effected with either an instrument of transfer or a specified request.
+
+351
+00:59:20,200 --> 00:59:39,230
+The amendments here are amendments that tally with those or correspond with those that we have made to the CO under the 2021 amendment bill. So, clause the amendment to section 58 is to clarify that the
+
+352
+01:01:08,420 --> 01:01:28,430
+即係你意思唔係淨係用翻即係Mark級嗰個版本係咪？要用翻要用翻個版係OK。版本嗰個版本，因為頭先十五頭先即係十十十六嗰啲冇問題，因為佢係全新嘅。係係。但係去到呢度咧係修改個法例嘅嚇，唔該嚇用翻個Mark。Yeah, so I think I was looking at the Mark version.
+
+353
+01:04:18,370 --> 01:04:20,250
+O O K係嘛，即係。
+
+354
+01:01:51,850 --> 01:01:53,980
+只限委員參與㗎，嗰啲擘頭。
+
+355
+01:04:02,580 --> 01:04:06,180
+with adopted the co provisions.
+
+356
+01:04:20,530 --> 01:04:29,620
+係啦，誒噉我諗之後誒正佳會繼續，你每一每頁你講到邊一頁，你講翻上面個number，咁大家容易跟啲，好嘛？唔該。
+
+357
+01:04:07,140 --> 01:04:16,260
+或者等等先，大家係咪揾到揾到誒？即係而家所指定嗰個誒條文啊？如果大家。
+
+358
+01:04:45,330 --> 01:04:54,650
+register not be that the the current provision provides that the register can be closed for a period not exceeding thirty days in total per year.
+
+359
+01:03:31,510 --> 01:03:41,760
+which are prescribed securities. See also Part Three A. So we've added an equivalent note to the OFC rules for consistency with the CO amendments.
+
+360
+01:03:01,120 --> 01:03:11,670
+So, looking at section sixty-seven, which is on page zero zero zero five of the markup version. So, in the co
+
+361
+01:02:11,820 --> 01:02:24,910
+咁誒，證監會有冇可以可唔可以即係十八條嘅邊一度？第十八，sorry，即係L N十八第十八號法律公告嘅。哦，OK。邊一頁嘅？或者或者喺誒Mark嗰個版本上邊咧，喺誒。
+
+362
+01:01:56,950 --> 01:02:10,970
+應應該係呢個早前咧，係誒立法會秘書處用電郵誒有誒發過畀嘢，係係係，所以我就想去指向翻指行委員參與嗰嗰啲嘅標明文本，係係。
+
+363
+01:04:29,900 --> 01:04:45,010
+So turning then to section 70, which is on page 0007. So this relates to the company's power to close the register of shareholders. So the current provision requires that the
+
+364
+01:02:45,340 --> 01:03:00,840
+得仔細啲，即係乜嘢number噉，大家可能跟得比較容易啲。啱啱講錯咗，唔喺個網頁度嘅，因為呢個係淨係誒應該嗰啲market版本係淨係畀委員誒參考嘅，所以或者誒政教會可以繼續。不過你講得仔細啲個number嚇，唔該。O K，得唔該。
+
+365
+01:03:11,970 --> 01:03:31,230
+There was an equivalent provision on the register of holders, which is section six hundred and two seven of the Co. We added a note under that section to to mention that for matters relating to the register of shareholders of an open-ended fund company.
+
+366
+01:02:25,330 --> 01:02:45,340
+即係上角啊，喺呢度上角有個number嘅。你或者係誒每次講嗰個條文嗰時候，你講翻上面個number，噉我諗啲委員就會容易啲。誒，我諗大家都喺度同睇緊同一份嗰個誒markup嘅版本，只不過大家可能即係未未，如果你可以講。
+
+367
+01:03:42,570 --> 01:04:02,580
+我我應該just mention again，perhaps that all of the amendments in the OFC are amendments that have been made to the equivalent CO provision under the amendment ordinance. So the idea of the OFC companies amendment rules is really just to mirror those amendments，because the OFC companies rules to begin with.
+
+368
+01:05:25,010 --> 01:05:25,730
+嗯。
+
+369
+01:01:54,260 --> 01:01:55,630
+嗯。
+
+370
+01:05:27,150 --> 01:05:28,530
+That's the end of.
+
+371
+01:06:04,750 --> 01:06:07,250
+open ended fund companies嗰個。
+
+372
+01:06:47,140 --> 01:06:50,460
+係啊，嗯，睇下睇下仲誒簡惠敏議員。
+
+373
+01:05:58,320 --> 01:06:04,470
+聽唔明。Thank you for the question. You mean in the OFC rules? Yes.
+
+374
+01:05:14,940 --> 01:05:23,370
+AA rules and as members may recollect, when we looked at the register of members provision, we have set a two-day limit per each closure.
+
+375
+01:05:28,920 --> 01:05:38,120
+LN18，好啦，講到呢度停一停，睇下委員仲有冇誒，對於啱啱誒所提及有啲咩其他跟進。
+
+376
+01:06:50,740 --> 01:07:01,180
+係，主席，誒，我呢個係一個即係一般性嘅，嚇，譬如就算就住頭先L N十六嚇，關於個A S L lose嗰度咧，噉我哋有提及咧，就話。
+
+377
+01:06:27,550 --> 01:06:42,660
+嚇，我覺得好有用。不過即係話，好似對上我哋第一次審第一條嘅時候，誒法律顧問都有講，即係如果今次係第一次放依啲note或者example落去，都要搞清楚就係佢哋係冇binding effect㗎啦，即係話係咪啊？唔該。
+
+378
+01:08:01,490 --> 01:08:17,220
+approve係咪都攞到咧？咁如果有退出嘅時候咧，而家當局係咪同誒相關嘅誒而家嗰啲register嚇，即係做緊嘅嗰啲嘅登記機構咧係有聯係，等佢可以有罪去退出嘅咧咁嚇？應該係，請家梅誒梁生。
+
+379
+01:05:38,500 --> 01:05:57,140
+係誒，江玉歡議員，好快啫！我想一個general question，即係喺而家咧呢個L N十八二零二五嗰度咧，我都見到最尾喺誒page six嗰度咧都有啲note嘅。我想請問今次咧放啲note上去係咪都係第一次，定係以前不嬲都有note㗎啦？
+
+380
+01:04:54,930 --> 01:05:14,940
+所以，the amendment which mirrors the amendment to the Co is that it for for shares of an OFC which are not prescribed securities, the existing provision remains intact, and for shares which are prescribed securities, the number is now changed to the number that is specified in the past three.
+
+381
+01:06:07,540 --> 01:06:27,550
+我我我 apologise。我唔知有冇notes in the OFC companies in the OFC rules，但係原因我哋放notes喺度係因為我哋加咗一個類似notes喺度，喺度相應條款喺度，所以我哋覺得係適當或者必要做一樣嘅嘢。我覺得好有用，主席。
+
+382
+01:07:01,460 --> 01:07:21,470
+除咗嗰個即係誒fraud嚇有欺詐或者係即係偽造啊、銷毀文件喺呢個條例喺喺個規則度咧，直接係誒create咗一個直接係有一個即係誒罪行啦。咁其他對於A S O嗰啲規管咧，就會依賴翻原來S F O或者原來嘅。
+
+383
+01:07:21,470 --> 01:07:41,480
+Gym係點樣樣嚇？咁可唔可以畀我哋一個書面嘅回覆嚇？即係等我哋清楚咧喺個ASO個管理上邊咧嚇，因為裏邊對佢每一個part做咗一啲咁好嘅規定啦嚇，我嚟保障我哋成個即係USM機制落實咗之後，對於個ASO點樣進場啊，嗰啲進咗場又受咩規管咧？
+
+384
+01:07:41,480 --> 01:08:01,490
+噉我哋想知道即係有一個回覆嚇，或者等我哋一目瞭然一啲，知道點樣去管理佢。咁另我記得我喺開始誒傾policy嘅時候咧，政策問題嘅時候都有問過嘅。如果現有嗰啲S L咧誒，我哋係咪預計佢都係能夠進入到呢一個嘅機制嗰度去得到我哋核準咧？即係。
+
+385
+01:09:17,730 --> 01:09:18,280
+啊！
+
+386
+01:09:18,560 --> 01:09:20,010
+好唔該，主席。
+
+387
+01:10:55,300 --> 01:10:59,320
+誒，冇其他事項咧，噉我就宣佈會議結束。多謝各位。
+
+388
+01:10:47,520 --> 01:10:54,040
+誒，咁睇下誒，二項第二誒，議程第二係其他事項，睇下有冇其他事項。
+
+389
+01:10:34,790 --> 01:10:47,240
+本人咧會喺三月二十八日誒向內務委員會咧作出口頭報告。誒就修訂附屬法例作出預告嘅期限誒為二零二五年嘅四月九日嘅。
+
+390
+01:09:40,570 --> 01:09:53,750
+十六入邊嘅即係法律公告嗰啲規定嘅後果，噉我哋有一啲初步嘅嘅回應畀咗。咁梁生剛才講，我哋會再翻去睇下，有如果有需要，我哋再喺嗰度再再提供一啲補充資料，好嘛？
+
+391
+01:08:17,700 --> 01:08:37,710
+問題多謝誒。第一個問題，我哋可以畀翻個書面回覆，解釋翻我哋即係將來點規管嗰啲核准證券登記機構同埋啲要求係點噉。我我會畀翻個書面回覆你。第二個問題咧，就係其實今其實唔係今日，我哋一直依依段時間咧都同現時提供緊證券登記服務嗰啲公司咧有個溝通啊。咁
+
+392
+01:08:37,710 --> 01:08:57,720
+誒，其實佢哋大大部分都準備緊，誒誒申請做核准證券登記機構，但係個法例未未未批批准啦，佢哋未可以即刻入資申請咧。噉我哋同佢溝通緊。咁誒，你個問題係好好重要嘅，就係如果有一啲誒證券登記機構同我哋溝通嘅過程，我哋知道佢其實未必有。
+
+393
+01:08:57,720 --> 01:09:17,730
+意思參與將來無紙化個業務嘅時候咧，我哋會馬上要求佢通知相關嘅上市公司，等個上市公司可以決定咧係準備緊轉另一間核准證券登記公司。咁但係我可以講，今日根據我哋個溝通咧，其實大嗰啲誒同埋一啲中型嗰啲，其實佢哋都好願意繼續提供個服務。
+
+394
+01:09:20,560 --> 01:09:40,570
+係誒局方誒何生補充一句誒，多謝主席。其實法律顧問咧都睇得誒，好好好早都睇到呢呢個issue嘅喺佢誒法律顧問係喺誒二月廿八號畀誒政府當局嘅信入邊咧，佢都有提過就話，譬如違反咗呢個。
+
+395
+01:09:54,770 --> 01:10:14,780
+係，我諗除咗啱啱簡議員所提嘅誒內容之外咧，今日所討論嘅就即係好似誒今誒今日一開始會議噉樣啦，即係有啲誒書面嘢咧，都麻煩你通過秘書處誒報翻誒一啲跟進嘅資料畀翻我哋。可以，我哋我哋誒會同秘書處誒夾佢哋誒畀一個嚇。
+
+396
+01:10:14,780 --> 01:10:34,790
+一個一個清單，我哋我哋就會翻去準備我哋嘅即資料嚇。OK，唔該曬。咁好啦，誒，如果冇其他問題嘅話咧，咁誒誒請各位委員留意咧，六項附屬法例嘅審議期已經延展至二零二五年四月十六日誒嘅立法會會議。誒，我本。

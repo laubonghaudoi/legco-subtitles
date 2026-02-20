@@ -1,0 +1,2139 @@
+1
+00:00:00,000 --> 00:00:06,660
+個人啊，現在我哋開會㗎第一項議程咧，就係確認通過會議紀要同埋即係逐議事項。
+
+2
+00:00:06,970 --> 00:00:22,740
+上一次嘅會議嘅紀要咧，已經透過立法會CB一七零零SEC十四Himin十五號嘅文件啊，發畀委員嘅。秘書處咧係冇收到修訂嘅建議。如果大家冇意見咧，整委員咧確認通過呢份會議記錄㗎。
+
+3
+00:00:23,770 --> 00:00:30,320
+大家冇意見啊？多謝大家啊！噉啊通過啦。第二項咧就係上次會議後發出嘅資料文件。
+
+4
+00:00:30,690 --> 00:00:36,830
+喺上次會議之後咧，事務委員會收到三份嘅資料文件咧，詳情咧已經列於議程之內㗎啦。
+
+5
+00:00:37,930 --> 00:00:41,820
+跟住咧，我哋係下一次會議日期同埋討論嘅事項㗎。
+
+6
+00:00:42,460 --> 00:01:01,660
+咁喺二月十五號，誒二二零一五年嘅五月嘅例會咧，就係誒我哋會討論咧三項議題。第一項咧就係香港金融管理局嘅工作簡報啦，財務匯報局嘅年度工作彙報啦，同埋二零一五年全本保障計劃修訂條例草案嘅。
+
+7
+00:01:02,520 --> 00:01:07,900
+請問大家咧係同唔同意咧係喺嗰個例會上面討論上述的事項？
+
+8
+00:01:09,240 --> 00:01:18,370
+大家都冇特別意見啦嚇。如果大家冇特別意見咧，我建議係提早喺上午九點半咧係舉行會議嘅，以便咧係預留足夠嘅時間咧喺度大家討論嘅。
+
+9
+00:01:18,690 --> 00:01:20,560
+咁相信大家都支持啊！
+
+10
+00:01:21,230 --> 00:01:29,270
+好啦，咁跟住我哋咧係進入第四項，就係證券及期貨修訂條例草案二零一五㗎。咁然後請政府嘅代表入場。
+
+11
+00:01:30,330 --> 00:01:31,370
+啊，郭榮興。
+
+12
+00:02:07,000 --> 00:02:18,570
+好啦，我哋咧係歡迎政府當局同埋政監啊會嘅代表咧出席會議嘅。首先咧係請財經事務及庫務局首席助理秘書長咧何玉山女士咧係介紹文件。
+
+13
+00:02:18,900 --> 00:02:38,910
+多謝主席。誒，今日我哋咧同證監會同事咧係嚟誒呢個委員會，希望簡介有關修訂證券及期貨條例嘅立法建議，係容許證監會向香港以外地方嘅規管者提供監管協助，同埋改良呢個條例裏邊嘅某一啲條文嘅容許證監會向香港以外地方嘅規管。
+
+14
+00:02:38,910 --> 00:02:58,920
+管者提供監管協助建議，主要目的係畀證監會同呢啲規管者磋商更加多嘅監管誒諒解備忘錄，提升監誒證監會對香港金融穩定嘅監察。因為國際監管合作咧係建立喺互信、互助同互惠嘅基礎上邊，建議亦會使到香港作為。
+
+15
+00:02:58,920 --> 00:03:03,860
+國際金融中心，佢嘅監誒監管環境同埋國際標準睇齊嘅。
+
+16
+00:03:04,140 --> 00:03:24,150
+喺立法建議方面咧，雖然證監會咧可以根據《證券及期貨條例》第一百八十條為本身嘅監管目的而取得一啲資料，但係而家條例下邊咧係並冇條文明確指出證監會可以喺誒睇非執法有關嘅事宜上邊咧，為協助香港以外地方嘅規管者行。
+
+17
+00:03:24,150 --> 00:03:38,570
+使佢嘅監管權力去取得資料嘅，所以我哋認為係有需要修訂證券及期貨條例，賦權證監會應要求喺某一啲特定嘅情況之下，向香港以外地方嘅規管者提供監管協助。
+
+18
+00:03:38,960 --> 00:03:58,970
+喺制定立法建議嘅時候咧，我哋特別留意到喺提供監管協助以換取其他規管者嘅協助嘅同時，亦要防範獲取過量嘅資料，同埋喺冇足夠保障之下披露資料，兩者之間係要取得一個平衡嘅。所以立法建議誒，只係會容許證監會。
+
+19
+00:03:58,970 --> 00:04:18,980
+按要求以侷限嘅形式向海外規管者提供監管協助。所謂侷限嘅形式，其實包括幾方面。第一，有關提供監管協助嘅請求，必須係要為咗確定由證監會同埋提出請求嘅規管者同時規管嘅持牌法團係咪合符。
+
+20
+00:04:18,980 --> 00:04:37,900
+法律同埋規管嘅規定，或者對其所屬司法管轄區所誒所構成嘅風險。誒，除咗持牌法團以外咧，亦誒都包括獲證監會發牌法團嘅有聯繫法團，而依啲有聯繫法團咧，係必須受誒要求誒提出要求嘅規管者所規管嘅。
+
+21
+00:04:38,180 --> 00:04:58,190
+第二方面，證監會只會喺合乎現行條件之下，先會提供監管協助，包括誒提供協助係咪能夠符合公眾利益。例如提出請求嘅規管者係咪有能力同埋願意因應香港方面提出類似嘅協助請求而提交提供交互嘅協助。
+
+22
+00:04:58,190 --> 00:05:18,200
+第三方面，除咗現行法律保障之外咧，我哋建議進一步規定香港以外地方嘅規管者必須向證監會提交書面承諾，主要係要表明因協助要求而從證監會取得嘅資料，純粹只會用喺監管嘅事宜，唔會喺任何訴訟程序中使用呢啲。
+
+23
+00:05:18,200 --> 00:05:18,930
+資料。
+
+24
+00:05:19,300 --> 00:05:27,930
+第四方面，證監會所提供嘅資料係只會侷限於同證監會所監管嘅受規管活動有關嘅資料嘅。
+
+25
+00:05:28,210 --> 00:05:35,590
+證監會係就依個法立法建議喺一四年十二月進行咗公眾諮詢，業界普遍都係支持有關嘅建議嘅。
+
+26
+00:05:35,870 --> 00:05:55,880
+另一方面咧，我哋亦都建議改良證券及期貨條例裏邊嘅某一啲條文，以反映條例自2003年制定以嚟嘅情況嘅變化。噉我哋喺文件裏邊咧已經誒簡述咗入呢啲嘅條文。咁或者誒係講到呢度先，多謝主席。好，多謝你。而家有三位議員咧係排緊隊啊，郭榮亨議員啦，梁。
+
+27
+00:05:55,880 --> 00:06:03,630
+計昌源、善眾嘉議員，我係有張華峯議員嚇，我而家係建議係四分鐘嘅嚇，連問連答。第一位咧，郭榮亨議員。
+
+28
+00:06:03,910 --> 00:06:23,920
+主席，唔知可唔可以多少啲時間，因為唔係太多議員發問。誒，因為因為都今日比較多人，如果係你，儘量爭少啲時間嘛。誒，主席誒，我睇到文件九裏邊咧，就話即係證監會喺呢個建議嗰度收到八份嘅八九份嘅諮詢文件，即係有啲建議書噉樣。噉我知道法律界誒亦都有喺。
+
+29
+00:06:23,920 --> 00:06:43,930
+呢一方面提出佢嘅意見嘅噉，譬如當中咧有講到就係究竟而家個條例誒，譬如誒實施嘅時候會唔會誒誒考慮到誒譬如誒一啲法律保專業保密權啦，legal professional privilege啦，privilege against self-incrimination嘅。
+
+30
+00:06:43,930 --> 00:07:03,940
+一啲資料啦、文件啦，啊，會唔會有特別嘅處理啦？啊，我自己個人係比較擔心嘅就係誒，究竟證監會會係去到邊個程度上去問對方或者海外嘅一啲監管機構，究竟你有幾需要啊？呢啲噉樣嘅資料，你有冇從其他渠道可以？
+
+31
+00:07:03,940 --> 00:07:08,710
+得到同樣嘅資料，或者咧係啊有冇啊？
+
+32
+00:07:08,990 --> 00:07:29,000
+盡情去了解，即係透過啊證監會嘅角色咧，去問清楚究竟佢點解需要呢啲噉樣嘅嘅誒資料，點解可以會助長到佢嗰個，即係幫助到佢嗰個調查等等咧，都係即係有噉嘅需要。再加上就係譬如，如果對方佢係可能畀咗個undertaking，畀咗個承諾，但係
+
+33
+00:07:29,000 --> 00:07:45,480
+係佢之後係違反咗嘅，咁證監會會有啲乜嘢嘅追究行動咧？啊，呢啲都係需要係條文裏邊寫得好清楚。噉我自己更加關心，譬如啊，你會唔會講，即係包括埋就係內地嘅一啲監管誒誒誒監管機構。
+
+34
+00:07:45,760 --> 00:08:05,770
+佢哋如果嚟問你攞文件或者攞資料，叫你幫手嘅時候，你會有啲乜嘢嘅safeguards？會有啲咩嘢嘅誒去保護翻喺香港誒營商嘅一啲人嘅基本權利？如果譬如因為內地同香港嘅法制係出現咁大差異，譬如我講緊佢哋內地唔係噉。
+
+35
+00:08:05,770 --> 00:08:24,520
+接受legal professional privilege嘅依個概念嘅，即係法律專業保密權。噉你會點處理呢個兩地之間嗰個差異咧？我希望咧局方會留意依頭先我提出嗰幾點，而誒喺制定條文嗰時咧，會係諗清楚點樣處理頭先講我講個幾點問題。多謝。好啊，何玉山女士。
+
+36
+00:08:25,650 --> 00:08:28,210
+係你諗住揾邊位答？
+
+37
+00:08:31,080 --> 00:08:32,680
+係啊，楊義正先生。
+
+38
+00:08:33,290 --> 00:08:53,300
+Yes, the honourable members raised a number of issues on legal professional privilege. I mean, we're well aware of that. I mean, that's a fundamental human right. I mean, it's also protected explicitly in section three hundred and eighty, subsection four of the SFO. So nothing that we could do can override that. So if someone
+
+39
+00:08:53,320 --> 00:09:13,330
+I mean, if documents are covered by LPP, then we would not obtain them, and we would not be able to obtain them or require them, and that applies to enforcement cooperation currently. So that that's the LPP point. In terms of privilege against self-incrimination, there is already.
+
+40
+00:09:13,330 --> 00:09:33,340
+Protection in Section One Eight Six Subsection Six of the SFO, and I mean supervisory cooperation is not intended to to produce information that's that's to be used in proceedings, and that and there would be an explicit undertaking by the overseas regulator not to use information in that way. However.
+
+41
+00:09:33,340 --> 00:09:53,350
+In the event that information was disclosed, that subsequently the overseas regulator did want to use in enforcement proceedings, it would then need to come back to us and initiate initiating the process for for investigator cooperation, and then that would pick up the existing protection against the.
+
+42
+00:09:53,350 --> 00:10:13,360
+For the privilege against self-incrimination, so it would follow that route. So that's made explicit in the draft provision that we are formulating currently. And how about also the extra confirmation that you'll be seeking from the overseas regulators as to whether they really need the information that they cannot get it from another source, and why is it that they need this information?
+
+43
+00:10:13,360 --> 00:10:33,370
+Yes, we've heard those points from the submissions, and there is language suggested that the overseas regulator would make a statement to the effect that it's not able to obtain the information by any other reasonable means. So it would have to assert.
+
+44
+00:10:33,370 --> 00:10:53,380
+And also, in terms of, I mean, each request would set out why they wanted it, and because we would be making similar requests ourselves, we would be able to evaluate whether or not that was a reasonable or a sensible request in a supervisory context. So there'll be a rate, and it'll be discretionary anyway. So I mean, we won't have to comply.
+
+45
+00:10:53,430 --> 00:10:57,110
+I mean, it's not a demand.
+
+46
+00:10:57,720 --> 00:11:12,440
+我梁繼昌議員，係唔該主席。誒，除咗喺嗰個條例草案會有改動，令到即係證監會有權去誒作出呢個誒協助或者交換資料之外咧，你哋其實會唔會第一樣第一個問題就係？
+
+47
+00:11:12,720 --> 00:11:32,730
+誒同海外嘅監管機構係簽咗一個protocol或者個memorandum of understanding，你先正做呢一樣嘅舉措咧。嗱，除咗個法例係畀咗你權力之外咧，你會唔會同每一個海外嘅機構簽咗呢一啲嘅protocol先係做呢個協助嘅嘅嘅舉措咧？第二咧，如
+
+48
+00:11:32,730 --> 00:11:52,740
+如果海外一個regulator想問你攞一個香港licence corporation嘅資料嘅時候咧，你哋會唔會係去通知翻呢一個嘅licence corporation話有呢件事情發生，同埋咧有冇一個上訴機制係令到呢一個licence corporation去話我反對我唔？
+
+49
+00:11:52,740 --> 00:11:59,280
+覺得唔，你哋唔應該畀呢一啲information畀到海外嘅一個regulation，有冇啲噉嘅機制啦？三個問題。
+
+50
+00:12:00,060 --> 00:12:01,690
+好，阿邊位答？
+
+51
+00:12:04,370 --> 00:12:24,380
+係，司捷文先生。I thank you. I thank the honourable member for his question. The first question, the first component part of that question, relates to the signing of protocols and MOUs. There are right now in existence a range of different memoranda of understanding and protocols with international regulators.
+
+52
+00:12:24,380 --> 00:12:42,430
+many of which do not actually currently touch upon supervisory aspects. So part of the legislative amendment here is to enable us to be able to enter into these protocols and MOUs with other regulators moving into the future.
+
+53
+00:12:42,790 --> 00:13:02,800
+to give effect to the request for information provisions, I will underline and emphasise that there are in the existing protocols and MOUs that do exist an ability to provide and exchange information already. This is why this proposal is a modest and incremental.
+
+54
+00:13:02,800 --> 00:13:04,680
+incremental。
+
+55
+00:13:04,980 --> 00:13:24,990
+step from the existing position, but the legislative amendment will enable us in effect to enter into what has become post-financial crisis a new global standard of exchange of information under those MOUs and to enable us to in effect.
+
+56
+00:13:24,990 --> 00:13:27,590
+enter into this new generation.
+
+57
+00:13:27,950 --> 00:13:37,900
+Of MOU and protocol arrangements, I will also stress that entering into these protocol arrangements will be on the basis, amongst other things, of reciprocity.
+
+58
+00:13:38,180 --> 00:13:58,190
+And that is something that we will exercise our discretion in, and so we will not be exercising this power unless there are these protocols and MOUs in in place. You also ask about the, in effect, I think the protections and appeals. There isn't an appeal mechanism.
+
+59
+00:13:58,190 --> 00:14:10,080
+per se under the power that we have right now and also the proposed amendment to section one hundred and eighty, but there are protections.
+
+60
+00:14:10,360 --> 00:14:17,590
+There are protections, and my colleague has just mentioned them in relation to self-incrimination and legal protection. There are also a number of different
+
+61
+00:14:17,930 --> 00:14:37,940
+protections which are proposed in the legislative amendments which will provide safeguards and limitations as to the provision of information and will make sure that it is narrowed and contained and restrained to.
+
+62
+00:14:37,940 --> 00:14:55,160
+information that is essentially relevant to the compliance of a overseas regulated entity to that overseas regulated regulation and or the financial stability of that overseas regulator.
+
+63
+00:14:55,560 --> 00:14:59,240
+But there's no appeal procedure for the licensing corporation if.
+
+64
+00:14:59,520 --> 00:15:19,530
+They think that the the information to be provided is not you know relevant or or is commercial secret things like that. No, there's nothing. There's no direct appeal mechanism. Of course, as as you know, there are you know general principles which I've mentioned that restrain or provide overarching protections.
+
+65
+00:15:19,530 --> 00:15:29,350
+但係，冇一個 appeal mechanism built into the current provision of section 180， 亦都冇提出要將呢個插入喺個修訂入面。
+
+66
+00:15:30,410 --> 00:15:31,870
+好啊，先總嘉議員。
+
+67
+00:15:32,830 --> 00:15:52,840
+主席，我有幾個原則性嘅問題啫，即係將來呢，如果要審議法例，都會詳細去睇翻㗎啦。就第一個問題咧，就係關於嗰個即係，頭先都有答梁繼昌，但係想詳細問少少。將來如果你哋有授權可以同即係第六地方簽嗰啲，即係即係誒誒誒M O U Memorandum of Understanding嘅。
+
+68
+00:15:52,840 --> 00:15:53,520
+時候咧。
+
+69
+00:15:55,290 --> 00:16:05,730
+你哋嘅目，你哋嘅打算咧，係咪誒會有多邊嘅簽署啊？定係雙邊嘅噉樣樣，定係即係兩樣都做噉樣樣誒？
+
+70
+00:16:06,680 --> 00:16:26,690
+即係多邊嘅意思，即使係可能係誒有一個MOU，即係好多國家一齊簽，咁嗰類嗰啲啦。咁誒雙邊就係one對one，一個一個對一個咁啦。噉，噉我想問你哋嘅目標係點？第二個問題咧就點咧？交換資料咧就你知道有啲罪行咧，就喺我哋嘅證監條例裏邊咧，就可能係違法。喺第六地方面。
+
+71
+00:16:26,690 --> 00:16:38,090
+未必違法，即係與此同時，亦都係嘅。有啲地有啲地方喺佢哋嗰邊嗰個嘅誒規管法例下面咧係違法，喺香港可能唔一定係違法噉樣樣。
+
+72
+00:16:38,370 --> 00:16:54,670
+咁喺呢一個交換資料嘅時候咧，你哋會唔會考慮邊啲資料係唔係需要交換嘅時候，係考慮到我哋香港誒嗰個行為有冇犯法咧？噉嘅樣啊，兩個問題。
+
+73
+00:16:55,710 --> 00:16:56,480
+係。
+
+74
+00:16:58,080 --> 00:16:59,480
+邊位準備答？
+
+75
+00:17:02,210 --> 00:17:04,270
+係阿施哲文先啊！
+
+76
+00:17:04,550 --> 00:17:16,540
+I think the honourable member for his question. The plan moving forward for bilateral and multilateral MOUs are following the following. The
+
+77
+00:17:17,050 --> 00:17:26,870
+實際的現實是，是我們會最 likely enter into a number of bilateral MOUs which
+
+78
+00:17:27,150 --> 00:17:39,240
+which will, as I mentioned in my earlier remarks, respond to the post-financial crisis next generation of MOU and supervisory cooperation arrangements.
+
+79
+00:17:39,710 --> 00:17:43,640
+If one looks at how.
+
+80
+00:17:44,060 --> 00:17:52,150
+MOU arrangements have evolved in the last decade or so in relation to enforcement cooperation.
+
+81
+00:17:52,430 --> 00:18:12,440
+Then it is important to note that they have evolved from a position where there was a web of bilateral MOU arrangements to a master MOU arrangement under the auspices.
+
+82
+00:18:12,440 --> 00:18:15,470
+of an international body called IOSCO.
+
+83
+00:18:15,750 --> 00:18:26,200
+It is very possible that in the future, that the bilateral arrangements that we hope to enter into
+
+84
+00:18:26,480 --> 00:18:43,180
+Will evolve in time to a master international consensus-type MOU arrangement. So the honourable member is absolutely correct in potentially foreseeing an evolution from bilateral arrangements.
+
+85
+00:18:43,460 --> 00:18:46,860
+多ilateral M O U arrangements.
+
+86
+00:18:47,290 --> 00:19:07,300
+In relation to the honourable member's question about criminality, it's important to emphasise that these arrangements do not touch upon and it is not thresholded upon criminality. The threshold under the proposed amendments relate to compliance with.
+
+87
+00:19:07,300 --> 00:19:24,300
+The other jurisdictions' rules relating to compliance of their, in effect, regimes relating to securities regulation, and/or the financial stability of that jurisdiction.
+
+88
+00:19:24,580 --> 00:19:44,590
+That is the threshold, and in effect, it is a preventative threshold, and assists in the other jurisdiction in being able to appropriately supervise their market and satisfy themselves as to the adherence of.
+
+89
+00:19:44,590 --> 00:19:47,960
+Their securities regulation in that market.
+
+90
+00:19:49,230 --> 00:19:50,790
+好，張華豐議員。
+
+91
+00:19:51,380 --> 00:19:53,440
+誒，多謝主席。
+
+92
+00:19:53,720 --> 00:20:03,180
+即係我擔心咧，今次所提出嚟嘅修訂啊，喺放寬向海外監管者發放資料，證監會。
+
+93
+00:20:04,160 --> 00:20:24,170
+喺嗰個披露有關嘅資料時咧，是否會出現咗放寬過度？誒，不相關嘅資料，最終咧呢啲資料是否得到即係誒足夠嘅保障？喺個文章第十一至第十二段，證監會亦都提出。
+
+94
+00:20:24,170 --> 00:20:44,180
+要對方提多好多符合相關嘅條件，證監會只會向佢哋發出呢啲資料。但係我想問一問，現時證監會收到海外規管者嘅要求嘅時候，佢哋而家審核制度係點樣嘅？係咪咧？將來放寬？
+
+95
+00:20:44,180 --> 00:20:45,550
+即非。
+
+96
+00:20:45,830 --> 00:20:50,670
+涉及執法層面嘅資料時咧，審核嘅制度係。
+
+97
+00:20:50,980 --> 00:20:54,140
+現用現時嘅嗰一套。
+
+98
+00:20:55,010 --> 00:21:12,570
+點解我哋唔設多一個關卡？嚟最後咧係由局長或者財政司去作最後嘅決定。噉樣對我哋即係嗰個啊保障資保障嗰個嗰個資料嘅誒，不能夠説。
+
+99
+00:21:12,850 --> 00:21:16,160
+誒涉外嘅呢種信心嘅加強咧。
+
+100
+00:21:16,640 --> 00:21:18,660
+唔該，好啊，邊位答？
+
+101
+00:21:22,690 --> 00:21:25,620
+我係阿施施哲宏先生，喺。
+
+102
+00:21:26,190 --> 00:21:27,180
+Yes, please.
+
+103
+00:21:27,460 --> 00:21:47,470
+我認為， honourable member for his question, he raises very important points in relation to the safeguards that we are aiming to inject into the proposed amendments. It is absolutely important that there be appropriate safeguards, and as honourable member.
+
+104
+00:21:47,470 --> 00:22:07,480
+suggest avoid excessive utilisation of this provision because of course it is worth noting that under section 6 of the securities and futures ordinance, we at the Commission have to be very much mindful of the efficiency of and utilisation of resources.
+
+105
+00:22:07,480 --> 00:22:27,490
+Sources, there are a number of safeguards that I will quickly quickly also mention, which in effect codify our existing procedures. We have these internal procedures which we are now proposing to codify into legislation, and they
+
+106
+00:22:27,490 --> 00:22:43,180
+include the fact that this is this proposal is limited and narrow in the respect that it can only relate to requests for assistance in relation to financial stability and compliance with regulation in that other jurisdiction.
+
+107
+00:22:43,460 --> 00:22:49,710
+它只能在與一個有許可的公司或一
+
+108
+00:22:49,990 --> 00:23:00,590
+relevant or a related company of that licensed corporation, who is then also licensed in both Hong Kong and in that other jurisdiction.
+
+109
+00:23:01,180 --> 00:23:21,190
+The other regulator needs to have a similar role to us. It needs to also have existing adequacy of secrecy provisions. We also are under an obligation to exercise this power when it's only desirable or expedient to do so, and when it's in the interests of the investing.
+
+110
+00:23:21,190 --> 00:23:23,990
+public or the public interest.
+
+111
+00:23:24,410 --> 00:23:37,260
+我們將亦會要求一係數寫文陳述，從其他監管機構，確保，呢啲資訊唔可以透過任何其他合理嘅途徑取得，而且係。
+
+112
+00:23:37,540 --> 00:23:40,020
+for the express purpose.
+
+113
+00:23:40,300 --> 00:23:56,550
+that of of determining adherence to the compliance of that other regulatory regime and and or impacts the financial stability of that other regulation regulatory regime and without that information.
+
+114
+00:23:57,310 --> 00:24:17,320
+this this this these under these tasks would not be able to be achieved, and then finally, there are a range of different protections that we will expect of the other regulatory regime to write to us in relation to the usage of this information, the protection of
+
+115
+00:24:17,320 --> 00:24:33,260
+confidentiality, the non-disclosure, and very importantly, that it will not be used in any proceedings. This, the honourable member, I hope, will satisfy your concerns about excessive usage, and also hopefully.
+
+116
+00:24:33,570 --> 00:24:38,930
+給你 confidence that there are protections and safeguards already proposed in the amendments.
+
+117
+00:24:39,540 --> 00:24:59,550
+好，誒梁君彥議員，誒多謝主席。我諗誒咁多同事都係好關心嗰啲資料嘅運用同埋會唔會誒畀過分，即係容易畀到外邊咧。噉我諗大家同事都睇到咧，其實我哋喺個税務交換個嗰啲條例嗰度咧啊，都睇得好緊嘅。咁
+
+118
+00:24:59,550 --> 00:25:13,520
+啊！依啲噉嘅資料咧，係一定係要好小心去處理。啊！頭先啊，啲同事問咧，即係會唔會有上訴機制咧？其實我諗即係啊，政府同埋啊啊。
+
+119
+00:25:14,170 --> 00:25:34,180
+都要去睇睇咧。其實喺税務交換條例係有個上訴機制嘅，亦都可以去司法複核嗰個啊啊啊決定嘅。噉我覺得，既然已經係喺一啲國際交換嘅呢啲噉嘅資料嗰度有噉嘅啊條款喺度咧，即係政府同埋呢個啊。
+
+120
+00:25:34,180 --> 00:25:34,880
+啊！
+
+121
+00:25:35,210 --> 00:25:55,220
+S.F.C.咧都應該要考慮咧喺個立法嗰度咯，都加翻呢一啲嘢喺度咧，令到有足夠嘅保障。我諗即係大原則裏邊咧，能夠係依個喺國際上係大家聯同去做好個監管係好嘅，但係依個做依啲交換同埋監管一定要係好合攤。
+
+122
+00:25:55,470 --> 00:26:07,060
+唔能夠啊，去即係啊，立亂去做噉，我即係希望睇下啊，政府嘅證監會回應會唔會係考慮依啲噉嘅啊提議咧？係啊，啊邊位答？
+
+123
+00:26:08,010 --> 00:26:28,020
+誒係，係誒主席誒。其實頭先阿Mr. Shipton都誒講到啦。其實我哋係基本上已經係一個好狹窄嘅誒侷限性嘅誒披露資料，同埋所有嗰啲保障咧。其實我哋都會確保誒喺個法例上邊咧係寫出嚟嘅所有誒誒裏邊提誒，即係確保係喺法例上加。
+
+124
+00:26:28,020 --> 00:26:38,000
+監管誒，證監會必須係唔可以獲取過量嘅資料，同埋要有保障之下披露呢啲資料嘅。咁誒，我上訴個機上訴機制點樣？
+
+125
+00:26:38,630 --> 00:26:55,510
+誒喺而家誒，我哋誒喺誒嗰個執法個交換資料嗰度咧，係都係冇依個噉嘅上訴機制嘅。咁但係你會考慮喺個誒税務交換條例裏邊已經有噉嘅機制，會唔會考慮用翻同一個誒機製出嚟咧？
+
+126
+00:26:55,790 --> 00:27:01,210
+或者我哋翻去會參考一下嗰個税務條例嗰度，我哋再誒再再考慮啊！好。
+
+127
+00:27:02,110 --> 00:27:05,500
+誒冇跟進啊！OK，跟住阿黃國興議員。
+
+128
+00:27:05,980 --> 00:27:17,550
+主席，誒，我有一個簡單嘅詢問咧，呢個監管協助同外地嘅規管者咧，誒，係唔係絕對係相等咧？
+
+129
+00:27:18,270 --> 00:27:19,470
+係，阿小姐。
+
+130
+00:27:20,690 --> 00:27:21,270
+嗯。
+
+131
+00:27:21,550 --> 00:27:33,680
+對唔住，可唔可以重複一次啊？唔好聽。香港如果係提供呢個監管嘅協助，即係同外地嘅規管者咧，係咪一個絕對相等嘅對等地位？
+
+132
+00:27:34,330 --> 00:27:37,290
+係咪一個絕對對等地位係？
+
+133
+00:27:38,100 --> 00:27:40,450
+阿施捷宏先生。
+
+134
+00:27:40,830 --> 00:28:00,840
+I think the honourable member for his question because he raises a very important point, and that is that it is our intention to provide for reciprocity when we enter into these arrangements that I discussed before about protocols and MOUs. These MOUs and these arrangements will be.
+
+135
+00:28:00,840 --> 00:28:20,850
+into on the basis of reciprocity. I would also like to emphasise that there is already existing provision under section 186 that there be consideration as to the reciprocity of the.
+
+136
+00:28:20,850 --> 00:28:40,860
+arrangement and request, and then finally I would also emphasise under section six that the Commission needs to be mindful of the efficient use of resources, and therefore it is in our best interests to only enter into these types of arrangements because we too want to avoid excessive.
+
+137
+00:28:40,860 --> 00:29:00,870
+excessive excessive use of of this provision to make sure that they are reciprocal. It is also worth emphasising in response to the honourable member's question that Hong Kong is one of the most open markets on earth. It is actually in our best interest to have not just
+
+138
+00:29:00,870 --> 00:29:20,880
+assistence from a committee of committee of regulators and committee of nations perspective, but also to enable us to have similar powers to request an overseas regulator information that will have an impact upon our financial stability.
+
+139
+00:29:20,900 --> 00:29:36,240
+And upon adherence to our rules. So the honourable member is absolutely right to raise the question, which is an important one about the reciprocity of this arrangement, because we very much see these powers as codifying.
+
+140
+00:29:36,600 --> 00:29:56,610
+和強化一個現有的原則，即係我們需要來自海外的監管機構的資訊，當然，我們亦都想遵守國際的全球標準，就係能夠方便海外的監管機構提出要求。所以，非常互相對等，非常互相。
+
+141
+00:29:56,610 --> 00:30:07,420
+And very much reinforcing existing legislation, as well as reinforcing and re-enabling that as as a matter of practice.
+
+142
+00:30:07,870 --> 00:30:09,550
+好多謝你嗰個。
+
+143
+00:30:09,850 --> 00:30:29,860
+誒解釋咁咧，我想進一步就係再問清楚少少，或者你再補充多少少咧，就係正如誒你嘅解釋咧，就話呢個都係用成文法成文嘅條例咧嚟顯示。咁因此咧，我嘅跟進嘅問題咧就係問咧呢個對等嘅地位，將來喺
+
+144
+00:30:29,860 --> 00:30:38,210
+修訂誒法例嘅時候咧，係唔係喺誒嗰個亦都寫清楚咧？係用一個成文法咧，你去顯示咧？
+
+145
+00:30:38,810 --> 00:30:40,600
+係啊，施志文先啊。
+
+146
+00:30:45,100 --> 00:30:55,310
+The honourable member's comments are taken, and we will look at how the amendments interplay with the current section 186, subsection 4.
+
+147
+00:30:56,970 --> 00:31:05,200
+好，現在咧就進入第二輪嘅嘅問題啦。咁咧就現在有咧係三位啊。
+
+148
+00:31:05,480 --> 00:31:09,990
+咁咧就首先係郭榮亨議員，咁誒都係四分四分鐘。
+
+149
+00:31:10,790 --> 00:31:30,800
+Thank you. I would just like to follow up on my first round of questions, which is number one: what if there is a breach of undertaking on the part of the overseas regulators? What sort of actions would the SFC take to pursue or any remedies on behalf of the licensed corporation? Secondly, I'm concerned about the different.
+
+150
+00:31:30,800 --> 00:31:46,410
+of the legal system between the mainland and and Hong Kong, and one could imagine that there will be a lot of mutual requests between the two jurisdictions, and including the CSRC etc. So
+
+151
+00:31:46,690 --> 00:31:59,320
+How do you intend to to deal with the differences in the two jurisdictions? And if the CSRC is to breach its undertakings under circumstances, what actions can the SFC take?
+
+152
+00:32:02,480 --> 00:32:18,690
+啊，司捷文先啊。Thank you. I again thank the honourable member for his first question and his follow-up question. The question of, in in effect, trying to enforce the regimes and force the requirements. This is
+
+153
+00:32:18,970 --> 00:32:38,980
+In effect, in the realms of international relationships between regulators, it would be a very grave and serious matter if a regulator was to breach the terms of firstly the MOU and protocol arrangements that I've previously discussed, and then secondly breach the.
+
+154
+00:32:38,980 --> 00:32:58,990
+additional safeguards, written safeguards and written undertakings that I've also mentioned that will be required under the legislation. It would do a great disservice to that regulator's international reputation, and it will also arm us with grave.
+
+155
+00:32:58,990 --> 00:33:18,340
+Concern as to future dealings with that other regulator, and of course we hope, and it should be emphasised, we hope to be entering into MOU arrangements and reciprocity arrangements with a range of different regulators across a range of different jurisdictions.
+
+156
+00:33:18,780 --> 00:33:30,360
+我 also want to emphasise, because it's implicit in your question, that we are not dealing here with criminal enforcement. We are dealing with supervisory matters.
+
+157
+00:33:30,640 --> 00:33:50,650
+and the the concerns that you raise, there are another set of protections and another set of let's call it protocols and different sections or different subsections of 180 section 186 that apply to the exchange of information.
+
+158
+00:33:50,680 --> 00:33:54,490
+relating to enforcement actions.
+
+159
+00:33:54,770 --> 00:34:14,780
+Then finally, as my colleague has already mentioned, there are overarching protections against self-incrimination and legal protection privilege. And again, these would be these would be applicable in relation to any request from any regulator with whom we enter into these reciprocal arrangements.
+
+160
+00:34:16,090 --> 00:34:36,100
+One third example, which is cited in one of the written submissions, is the possibility that a regulator would use the information to pursue other remedies, such as derivative actions or class actions in their jurisdiction, so sort of circumventing some of the under
+
+161
+00:34:36,100 --> 00:34:48,030
+taking that it would have given to the SFC. So in those circumstances, what would what would you do? We have we have proposed that there would not be an ability to use information for any proceedings.
+
+162
+00:34:48,480 --> 00:35:08,490
+And if there was a request or a desire by another regulator to use information for a proceeding, then a separate request would have to be issued by that other regulator. A separate process would apply, and separate protections would.
+
+163
+00:35:08,490 --> 00:35:28,500
+And presumably, all those will be reflected in the provisions themselves. We propose to include language that expressly mentions and requires an undertaking from the other regulator that they will not use information for.
+
+164
+00:35:28,500 --> 00:35:29,800
+程序。
+
+165
+00:35:30,620 --> 00:35:32,140
+好，梁繼昌議員。
+
+166
+00:35:32,420 --> 00:35:52,430
+啊！主席，我想問一問咧，即係呢個法例改動咗之後咧，會唔會令到證監會可以更加方便獲取內地嘅審計底稿，尤其是係涉及所謂國家機密嘅？
+
+167
+00:35:52,430 --> 00:36:12,440
+審計底稿嗱，就呢方面我都想，即係各位證監會嘅同事，可唔可以畀一個即係全面啲嘅一個update畀我哋？我雖則我知道可能而家仲有啲案件係未審理完畢，但係呢一件事咧，係似乎係涉及咗嗯。
+
+168
+00:36:12,440 --> 00:36:22,190
+當然係誒，我哋喺呢度執業嘅誒會計師事務所嘅一啲好基本嘅權益嘅一個問題嚟嘅，唔該主席啊。
+
+169
+00:36:22,680 --> 00:36:23,990
+係邊位答咧？
+
+170
+00:36:28,210 --> 00:36:29,810
+啊話啊楊爾正先生。
+
+171
+00:36:30,090 --> 00:36:30,890
+啊。
+
+172
+00:36:31,530 --> 00:36:41,020
+That's a much wider issue, of course. I mean, there are a number of of cases that are ongoing, and we have regular dialogue with with with our counterparts.
+
+173
+00:36:41,350 --> 00:36:47,050
+North of the boundary, I mean the matter is in hand.
+
+174
+00:36:47,330 --> 00:36:49,060
+我唔可以更explicit喺呢個點。
+
+175
+00:36:49,530 --> 00:36:59,960
+So, so will there be more update after only after the cases have been decided by the highest court in Hong Kong? Is that your timetable?
+
+176
+00:37:00,500 --> 00:37:12,530
+Well, we already have a decision in the Ernst and Young case, of course, which clarified matters as far as we were concerned. And there have been some administrative developments since then, but we don't anticipate.
+
+177
+00:37:12,810 --> 00:37:15,210
+leading to go to court again in that way.
+
+178
+00:37:16,160 --> 00:37:25,190
+So, will you be issuing any guidelines to the practising auditors in this respect? And what is your timetable?
+
+179
+00:37:27,170 --> 00:37:40,330
+There are discussions that are ongoing with with with the relevant professional bodies, and and and updates will be issued as and when those are ready. I'm afraid I can't be any more explicit at this point in time.
+
+180
+00:37:41,170 --> 00:37:42,540
+善眾嘉議員。
+
+181
+00:37:43,190 --> 00:37:52,430
+主席，現實歸現實啦，我諗相信嗱，即係大家知道明白，我哋誒即係所謂規管行為，而家就算證監主要都係睇嗰個股票市場。
+
+182
+00:37:53,220 --> 00:38:13,230
+咁但係喺香港上市咧嘅公司咧，即係雖然世界各地都有，咁但係就都係內地嘅股票為多。噉就雖然有好似有啲咩俄羅斯嘅股都有嚟香港上市，但係我諗可能將來交換資料嗰個咧，會係即係同內地嘅證監嗰個基本嗰個會比較比較比。
+
+183
+00:38:13,230 --> 00:38:30,630
+夠呢一個機會大啲，我想問問咧，你哋而家嗰個嘅考慮啊，或者而家你哋嗰個嘅目標係咪會同內地嘅即係證監會有一個嘅即係雙邊嘅協議？如果協議個範圍會係？
+
+184
+00:38:30,910 --> 00:38:50,920
+包含啲乜嘢？頭先我有同事亦都係問到咧，就話即係有冇上訴嘅機制啊？噉樣樣其實上訴機制都係好重要嘅，因為呢個係包含住究竟被調查、被交換資料嗰個人咧，佢有幾多佢有幾多權利去知道有啲咩資料被交換等等。相反咧，我哋究竟我哋
+
+185
+00:38:50,920 --> 00:39:10,930
+我我其實擔心就係我哋個對稱性，即係因為實上，我相信呢一個嘅規管亦都有一定嘅幫助嘅對香港嗰個投資者，因為唔少嘅股票喺即係特別透過滬港通嗰個誒香港人亦都有買到內地嘅股票嘅噉。但係將來我哋如果內地嗰啲股票上
+
+186
+00:39:10,930 --> 00:39:20,950
+董事嘅股票有啲行為失當嘅時候咧，即係相關人士啦嚇。咁究竟我哋有幾多權去攞內地嗰啲人嘅資料噉樣樣嚇？呢幾個問題，睇下有冇答得。
+
+187
+00:39:21,690 --> 00:39:25,940
+係，有邊位講？係好啊，阿施志宏先生。
+
+188
+00:39:26,290 --> 00:39:46,300
+Thank you. I thank the honourable member for his follow-up questions. I do want to emphasise that the proposal before the panel and in relation to this proposed amendment is in relation to licensed corporations, which are supervised.
+
+189
+00:39:46,300 --> 00:40:06,310
+由委員會監管，也由海外監管機構監管。這些修正案的範圍不包括直接上市公司，這是由不同的規則和程序來處理。
+
+190
+00:40:06,380 --> 00:40:08,390
+the。
+
+191
+00:40:08,920 --> 00:40:21,020
+The question in and around the appeal mechanisms, which a number of honourable members have mentioned today, I would emphasise a couple of points. Firstly.
+
+192
+00:40:21,670 --> 00:40:23,240
+We do have.
+
+193
+00:40:23,520 --> 00:40:43,530
+Right now, mechanisms and provisions under section 378 and other sections of the Securities and Futures Ordinance that enable us to exchange information from a on a supervisory basis and and an enforcement cooperation basis. This is an existing and well established.
+
+194
+00:40:43,530 --> 00:41:03,540
+path which is governed by the ordinance. There is not a currently an appeal mechanism for those other those other channels of exchanging information, because this proposed amendment in relation to information.
+
+195
+00:41:03,540 --> 00:41:19,180
+information requests from overseas regulators is in our view a narrow and very incremental suggestion. It would not, on its face, appear to
+
+196
+00:41:19,460 --> 00:41:39,470
+require an appeal mechanism, given that an appeal mechanism does not exist under the current legislation, and does not exist in relation to other jurisdictions with whom we have had discussions around exchange of supervisory information.
+
+197
+00:41:39,470 --> 00:41:41,780
+and other information.
+
+198
+00:41:42,550 --> 00:41:43,150
+嗯。
+
+199
+00:41:43,480 --> 00:41:45,180
+好啊，張華豐議員。
+
+200
+00:41:46,880 --> 00:42:06,890
+啊！多謝主席，即係事實上咧，嗰個書明先生同我就見過好多次面嘅，我亦都帶過好多社團啊，即係去反映我哋業界嘅意見。噉啊，頭先書明咧稱我係呢位先生，我就覺得咧，即係誒佢冇叫嗰個名，我有啲失望，因為始終。
+
+201
+00:42:06,890 --> 00:42:26,900
+我哋交流咗好多次，可能佢羨慕啊，亦都可能佢或者會唔會唔重視我哋啲意見，所以揭唔起我嘅名啊！喺呢個太違話。我哋想講咧，就係嗰個保障資料嘅呢個呢個呢個條例咧，事實上喺我哋業界咧，有好多人咧就投訴嘅。
+
+202
+00:42:26,900 --> 00:42:33,270
+話喂，我開銀行開户口咧，啊梗係開極都開唔到喎，咁最後咧。
+
+203
+00:42:33,550 --> 00:42:53,560
+即係經過無數次嘅追問咧，就知道哦，原來咧即係你同正金有個case喺度嗱，呢個就影響到即係嗰個業界係開户口嘅。噉我即係話將來咧，呢個咧當然咧未涉及我哋中小企業啦，可能涉犯啲國際性嘅嘅大行啦，但係你嗰個保密程度咧。
+
+204
+00:42:53,560 --> 00:43:13,570
+即係不足夠嘅話咧，就令到呢啲國際性喺嗰個世界嘅商業嗰個正常運作上會出現問題，而會影響到我哋金融中心呢個美譽。呢方面咧，我哋希望證監能夠多啲加強即係資料保密呢個噉嘅程序，同埋咧懲罰嗰個資料泄漏者。
+
+205
+00:43:13,570 --> 00:43:16,070
+唔該，好啊！邊位答？
+
+206
+00:43:18,920 --> 00:43:20,140
+啊啊！
+
+207
+00:43:20,420 --> 00:43:21,490
+施志文先生。
+
+208
+00:43:22,300 --> 00:43:29,650
+I thank the honourable member Mr Chong for his follow-up question, and I have always welcomed.
+
+209
+00:43:29,930 --> 00:43:49,940
+I have always welcomed his meetings and references on a range of different issues, and I look forward to many more. The honourable member raises a very important issue, which is protection of information. We are in proposing in relation to this particular amendment.
+
+210
+00:43:49,940 --> 00:44:09,950
+a number of safeguards in relation to the protection of information, because we are acutely aware that it touches upon corporations and potentially upon individuals, and those undertakings we believe will be sufficient in this in this regard to allay the.
+
+211
+00:44:09,950 --> 00:44:16,550
+Concerns that the honourable member most, I think, justifiably raises.
+
+212
+00:44:17,940 --> 00:44:20,580
+好，啊，而家梁君彥議員。
+
+213
+00:44:21,330 --> 00:44:41,340
+啊！主席頭先，Mr. Shipton咧就答啊，善總嘉議員講咧就話：其實而家啊，政監就有曬所有權去做所有嘢嘅。咁如果你有所有權，噉你又唔使嚟做amendment啦，係咪？噉你做amendment咧，我哋一定係用今時今日嘅眼光去幫你審議。
+
+214
+00:44:41,340 --> 00:44:46,400
+依個man唔係話你以前有做，而家做好窄嘅啊，得㗎啦噉樣。
+
+215
+00:44:46,810 --> 00:44:52,370
+税務交換嘅條例一樣啫嘛，我哋都要審議審議嘅就有。
+
+216
+00:44:52,690 --> 00:45:12,700
+appeal嘅backlitism，你如果唔攞appeal backlitism嚟嘅，噉你咪小心啲咯，睇下你夠唔夠票咯，係咪？所以我哋係應該咧。你係今日你認為要改嘅，我咪用今日要改嘅眼光，我哋立法會去做依樣嘢咯。就唔能夠話我而家有個有咗，你唔好嚟改。
+
+217
+00:45:12,700 --> 00:45:32,710
+你千祈唔好嚟改，嚟親改咧，就一定我哋會唔理你邊個議員，都會睇翻今時今日嘅。我諗喺依一度嘅啊panel嘅同事咧，對財經啊、金融等等嘅都係熟悉嘅。OK，咁所以你要改嘅咧，你哋政府同埋S.F.C就要考慮，你要改就一定係要。
+
+218
+00:45:32,710 --> 00:45:46,260
+接納我哋一部分嘅意見。若果你話我係噉嘅，你可以攞嚟攞嚟嘅結果係得一樣嘢嘅啫。咁所以我哋希望咧，我哋明白你而家有噉嘅權力。如果你有噉嘅權力，你要多少少權力啊？
+
+219
+00:45:46,840 --> 00:45:55,970
+你咪嚟要修改咯，你要嚟修改嘅，噉我哋咪要睇曬所有嘢咯。我哋唔會淨係你修改嗰幾個字體你㗎嘛，一定。
+
+220
+00:45:56,250 --> 00:46:16,260
+今時今日喺國際上交流嘅嘢係點樣，同埋我哋香港係有冇同等嘅其他嘅啊，同人合作交換嘅協議喺度有啊嘛，有個法例啊嘛，噉我咧一定會借住依樣嘢去睇㗎嘛。咁所以我哋希望咧就係政府同埋啊SFC咧翻去。
+
+221
+00:46:16,260 --> 00:46:27,490
+認真啲考慮啊！同時我諗都幾一致去睇個呢個保密啊，同埋有冇上訴機制啊等等嘅嘢，就唔好等佢翻嚟嗰陣時咧，就浪費我哋嘅時間。
+
+222
+00:46:28,360 --> 00:46:48,370
+係係啊，何小姐，你要問？誒，咁多謝梁議員意見啦。噉我諗我哋誒頭先都講啦，我哋翻去會參考翻個税務交換嗰個條例，而家誒嗰個上訴機制。咁當然我哋都會參考，其實誒喺呢個誒監管協助喺外國嗰個經驗，現現在嗰個誒情況係點樣？噉我哋誒會翻去考慮嘅。好，田北俊議員。
+
+223
+00:46:48,370 --> 00:46:48,700
+係。
+
+224
+00:46:49,590 --> 00:46:56,660
+聽到阿梁君彥議員正話嗰番説話，初初我都唔想發言嘅，我諗住政府啊，諗住係咪都夠票嘅？
+
+225
+00:46:56,950 --> 00:47:04,700
+所以咧就誒照做啦。咁自由黨係支持梁君彥議員正話嘅説法，你哋真係要有把握。
+
+226
+00:47:05,200 --> 00:47:11,800
+嚟，如果唔係咧，你提嘅時候咧，就要考慮埋清話我哋嘅其他啲員嘅意見。多謝主席。
+
+227
+00:47:12,080 --> 00:47:13,620
+啊，小姐有冇回應？
+
+228
+00:47:13,900 --> 00:47:23,970
+誒，我聽到㗎啦。O K，好啊，好啦，如果冇其他議員嘅提問咧，就誒，當局嘅目標喺二零一五年年中咧，向立法會咧提交相關嘅法例修訂。
+
+229
+00:47:24,250 --> 00:47:26,790
+咁睇下大家對呢個時間表有冇意見。
+
+230
+00:47:27,280 --> 00:47:30,910
+如果冇咧，就我依家結束呢個項目啊！多謝各位。
+
+231
+00:47:48,550 --> 00:47:50,350
+使唔使通知人啊？
+
+232
+00:47:53,190 --> 00:47:53,900
+首先要。
+
+233
+00:47:55,630 --> 00:47:57,080
+係咯。
+
+234
+00:47:58,270 --> 00:47:59,190
+做咗裁決。
+
+235
+00:47:59,620 --> 00:48:00,440
+你覺得佢同？
+
+236
+00:48:01,180 --> 00:48:03,780
+嗯。
+
+237
+00:48:05,480 --> 00:48:06,280
+可以傾咯。
+
+238
+00:48:06,600 --> 00:48:08,070
+但係係咪relevant啊？其實。
+
+239
+00:48:11,200 --> 00:48:11,930
+係啊。
+
+240
+00:48:23,410 --> 00:48:25,420
+噉我今次要叫啲人翻嚟。
+
+241
+00:48:26,610 --> 00:48:27,740
+可唔可以記名？
+
+242
+00:48:37,820 --> 00:48:39,970
+係係係咪完咗呢個先至咩？
+
+243
+00:48:58,860 --> 00:49:00,850
+噉，但係而家係咪我哋做曬其他嘢先？
+
+244
+00:49:03,220 --> 00:49:04,470
+即係等我哋講完嘢。
+
+245
+00:49:10,570 --> 00:49:11,140
+嗯。
+
+246
+00:49:16,190 --> 00:49:17,050
+我都懂。
+
+247
+00:49:18,530 --> 00:49:19,610
+即係咪呢個叫？
+
+248
+00:49:27,460 --> 00:49:30,010
+我引你先，好啊，好啊，好啊，好。
+
+249
+00:49:30,690 --> 00:49:34,030
+好，誒嗱，而家我哋咧係首先歡迎咧係。
+
+250
+00:49:34,360 --> 00:49:35,470
+嗯。
+
+251
+00:49:35,960 --> 00:49:55,970
+歡迎當局同埋咧金融發展局嘅代表出席會議。首先咧係請呢個金融發展局嘅主席咧係史美倫女士咧係以電腦投影片咧係簡介文件噉，希望喺十分鐘之內完成嘅嚇。啊，唔該曬啊啊，司女士。誒，多謝主席誒，各位議員，今日咧嚟誒立法會係向國。
+
+252
+00:49:55,970 --> 00:50:15,980
+位誒彙報我哋金融發展局舊年嘅工作，同埋誒誒未來即係今今年度我哋嘅誒有啲咩工作計劃。咁誒之前咧就資料文件亦都派發畀大家，我就唔會一張一張咁講。噉我係想從第九頁嘅即係誒嗰個。
+
+253
+00:50:15,980 --> 00:50:20,580
+個誒PPT開始啦，咁大家睇到誒。
+
+254
+00:50:20,890 --> 00:50:40,900
+用一個即係我哋用個圖形嘅誒方式咧，就表示咗我哋誒喺二零一四年到而家發表咗嗰七份報告。由我哋成立一即係二零一三年一月到而家咧，我哋係一共出咗十三份報告。喺未來嘅一個月內，一個四個到六個禮拜內咧，我哋仲
+
+255
+00:50:40,900 --> 00:51:00,910
+會有兩份報告會誒公佈嘅，咁大家睇到呢個好似係屋狀嘅一個誒圖表啦，亦都係我哋第一份誒檢討咗香港金融誒市場同埋金融業誒當時一個誒總體一個宏觀報告裏邊嘅。
+
+256
+00:51:00,910 --> 00:51:20,920
+好，我哋自己覺得係比較重要嘅一個誒顯示，就係咧，即係如果將香港嘅金融誒市場或者金融業作為一間屋嘅話咧，最上邊我哋嘅我哋想誒嘅目的咧，就希望我哋係亞洲首屈一指嘅國際金融中心。咁而我哋分開。
+
+257
+00:51:20,920 --> 00:51:39,500
+有五個誒唔同嘅，即係誒小組啦，工作小組啦。而呢五個小組咧，就係針對各方面，我哋覺得係喺金融市場、金融中心、國際金融中心裏邊成為重要嘅支柱嘅一個成分。
+
+258
+00:51:39,780 --> 00:51:41,160
+咁誒？
+
+259
+00:51:41,440 --> 00:52:01,450
+一個方面咧，就係我哋要喺即係政策研究裏邊咧，我哋係要加強我哋嘅核心競爭力，擴展新嘅領域領域。第二咧，就係喺市場嘅機遇喺市場機遇裏邊咧，我哋亦都有分為即係內地機遇，亦都係喺新嘅業務裏邊咧，我哋亦都有做為研究嘅。
+
+260
+00:52:01,660 --> 00:52:21,670
+咁下邊嗰三位誒三個誒block咧，你睇到嘅三個方格咧，就係喺人力資源同埋喺市場發展同埋金融誒穩定裏邊咧，就係要希望取得平衡。咁最後咧就係對香港誒對外嘅一個推廣工作，即係香港作為國際金融中。
+
+261
+00:52:21,670 --> 00:52:41,680
+中心喺而家面對全世界極誒非常激烈嘅競爭時候咧，我哋係應該係加強我哋對外嘅推廣。而最下邊嗰一個咧，即係係羅馬數字第七咧，亦都係我哋嘅基本條件，就係話我哋要做到呢上邊咁呢五樣嘢，一定要。
+
+262
+00:52:41,680 --> 00:53:01,690
+要有政府、業界同埋社會誒各方面嘅合作同埋支持，而呢一個我覺得係一個最基礎嘅誒成分。冇咗大家嘅支持，冇咗政府、冇咗業界同埋社會嘅合作同支持咧，我哋金融發展局咧係做唔到誒，或者係唔能夠幫忙幫幫助香港咧係。
+
+263
+00:53:01,690 --> 00:53:03,670
+達到我哋嘅願景嘅。
+
+264
+00:53:03,950 --> 00:53:23,960
+咁舊年發誒報，即係嗰七份誒報告咧誒，我或者非常簡單咁講一講啦。就係一個咧，就係有關super。咁舊年即係super已經係進行咗好多年。咁而喺誒金融服務方面咧，我哋誒曾經咧就係向誒政府咧就。
+
+265
+00:53:23,960 --> 00:53:43,970
+就喺呢個報告裏邊咧，就有幾項建議嘅。一個就係負面清單啦，呢個當然係回應誒貿易區嘅發展。第二咧，我哋又希望咧就係證券同埋期貨商同埋介紹經紀商咧，係比較更容易嘅進入內地。而喺內地嘅分銷投資喺香港上市股票、開放式嘅基金，亦都希望。
+
+266
+00:53:43,970 --> 00:53:51,880
+望係可以誒做到，然後基金互應同埋放寬保險公司喺內地成立合資企業同埋進行投資。
+
+267
+00:53:52,160 --> 00:54:12,170
+誒呢個咧就係起碼係喺C牌入邊噉。第二細十一個幻燈片裏邊咧就係話發展香港成為離岸人民幣再保險中心。誒，我哋喺一三年發表咗一份報告，就係講誒香港成為離岸人民幣市場嘅重要性，對整體香港以後。
+
+268
+00:54:12,170 --> 00:54:32,180
+金融服務同埋金融中心嘅發展有啲乜嘢個個重要性，大家都清楚係好清楚嘅。而一四年嘅報告，我哋咧就係比較專注喺離岸人民幣嘅再保險呢一方面，誒提出咗有啲誒意見，咁亦都係誒受到即係係係同業界好。
+
+269
+00:54:32,180 --> 00:54:35,470
+好緊密嘅合作係誒做到呢一份報告嘅。
+
+270
+00:54:35,790 --> 00:54:55,800
+咁再落去咧，就係誒有關香港作為國際首選嘅IPO，即係首次公開招股嘅中心呢一個咧，我哋係誒做咗一個非常全面嘅檢討。當然市場上大家嘅焦點就好似喺同股不同權嗰方面，但係我哋當時做呢個報。
+
+271
+00:54:55,800 --> 00:55:15,810
+報告嘅時候，亦都知道交易所係會有一個誒更詳細嘅諮詢報告。噉我哋咧就亦都係喺只係同股同權裏邊咧，只有提到呢一方面係需要檢討。我哋未有一個誒喺未有即係誒交易所未有一個全面嘅檢討之前咧，我哋覺得我哋喺當時係唔適合。
+
+272
+00:55:15,810 --> 00:55:35,820
+係太早落一個判斷判斷，所以咧，我哋就誒只係係提咗嗰一點。但係除咗同股同權之外，我哋嗰份報告對於整體嘅IPO，我哋係有好多有建設性嘅建議，就喺好多地方我哋可以更加誒簡化，令到咧係我哋嘅市場係令。
+
+273
+00:55:35,820 --> 00:55:41,420
+誒受到誒國際上嘅企業咧，係有興趣嚟我哋度上市。
+
+274
+00:55:41,700 --> 00:55:43,230
+咁誒。
+
+275
+00:55:43,650 --> 00:55:47,280
+另外一份報告咧，就係誒。
+
+276
+00:55:47,580 --> 00:56:07,590
+先應該係去到第十四頁，就係金融培訓課程嘅試點計劃。誒，同埋發展香港金融服務業人力資源。嗯，金融服務業係服務業，服務業係由人嚟提供嘅，而嗰個誒誒。
+
+277
+00:56:07,590 --> 00:56:08,880
+服務業。
+
+278
+00:56:09,360 --> 00:56:28,570
+人才嘅培養，亦都係我哋人才嗰個誒誒資格嘅誒優良嘅一個好嘅標誌。噉我哋係幾方面，我哋做咗一個誒survey一個檢討之後咧，同有關嘅部門、有關嘅誒。
+
+279
+00:56:28,850 --> 00:56:48,860
+單位啦，可以話係一共係大概三十個企業，就係九十位業內嘅人士就誒發現咧。我哋係有某一方面咧，我哋係缺乏人才，尤其是係中後勤嘅人士。咁另外一方面咧，亦都發現僱主咧就發現我哋啲。
+
+280
+00:56:48,860 --> 00:57:07,590
+本地嘅畢業生可以作有更好嘅準備，然後入誒入從業咧，咁先至會誒更加順利。噉我哋咧亦都係今年二零一五年咧，係朝住呢兩個方向喺人力資源方面咧，係會擺更多嘅投入同埋更多嘅工作。
+
+281
+00:57:08,100 --> 00:57:18,310
+咁誒，另外誒，第十五頁咧，就呢個係比較誒技術性嘅一個報告，就係有關我哋嘅disclosure of interest嘅誒。
+
+282
+00:57:18,590 --> 00:57:38,600
+一個制度噉，我哋喺業界咧亦都知道呢一個誒權益披露嘅誒ordinance咧係非常複雜，執行上嚟咧亦都係非常非常嘅反覆，而令到咧有好多時有啲誒有關嘅人士係喺不知覺之間咧係可能。
+
+283
+00:57:38,600 --> 00:57:58,610
+係會違咗法嘅，噉我哋亦都係喺技術上向政監、向政府、向政監咧，就提出咗好徹底嘅一個誒改進或者係修改嘅誒方案。咁喺呢個工作嘅裏邊咧，我哋係同政監係亦都有一不不斷係有密切嘅誒。
+
+284
+00:57:58,660 --> 00:58:18,670
+誒合作嘅咁最後咧就講到嗰個金融發展局我哋嘅推廣活動啦。喺舊年我哋知道咗，即係誒喺啲業界裏邊，大家都向我哋提出啊，話香港做推廣嘅工作，推廣香港作為金融中心嘅工作咧，係不足夠。
+
+285
+00:58:18,670 --> 00:58:38,680
+當然唔係話冇，我哋冇做。而目前咧，亦都係政府同埋各個部門，主要係誒T D C啊、誒誒，我哋財政司出訪啊，或者我哋加強局長出訪啊，都有做呢方面嘅推廣。但係大家都覺得即係推廣可以做得更多同埋更全面。噉我哋咧，亦都會。
+
+286
+00:58:38,680 --> 00:58:58,690
+今年咧，繼續同其他嘅機構咧就合作。我哋喺我哋嘅亞洲誒金融論壇（Asia Financial Forum）裏邊咧，我哋而家係一個協辦嘅機構。我哋每年舉辦一個喺嗰兩日誒，全世界好多人嚟參加我哋呢個，我哋可以話我哋嘅旗艦嘅香港旗艦嘅一個。
+
+287
+00:58:58,690 --> 00:59:18,100
+金融會議裏邊咧，誒，我哋係有係sponsor一個早餐。我哋個早早餐舊年同今年咧都有九百人出席，而呢一個早餐係兩日裏邊唯一介紹香港嘅誒金融業嘅。咁所以我哋咧亦都覺得咧係非常係受到大家嘅歡迎。
+
+288
+00:59:18,380 --> 00:59:36,330
+咁今年啦，就即係誒，我哋呢個主要就係講其他嘅，就係即係講到話今年詳細工作，我又唔再誒，舊年詳細工作咧，我唔再重複講到去到第二十五頁，二零一五同埋一六嘅工作計劃。
+
+289
+00:59:36,730 --> 00:59:37,750
+呃。
+
+290
+00:59:38,160 --> 00:59:57,270
+主要咧，我哋有三個主要嘅範疇，加強香港競爭力嘅機遇。我哋喺税務方面，我哋從各個方面咧就知道，誒大家對税務方面有啲不清晰嘅地方咧，可能係會阻止咗業務金融業嘅發展。呢方面咧，我哋會有一個比較。
+
+291
+00:59:57,550 --> 01:00:17,560
+大嘅誒一個議題，係作深入嘅研究，會向政府當局咧就係誒提出有建設性嘅建議。咁第二咧就係內地企業走出去，大家都知道國家誒內地政府即係中央政府喺內地企業走出去咧，而家係非常。
+
+292
+01:00:17,560 --> 01:00:33,670
+資誒鼓勵嘅，咁喺呢一個方面，我哋香港係有好多機遇。有啲咩機遇可以做到咧？我哋係誒喺各方面，亦都最喺未來就亦都會出一份報告向大家介紹。我哋覺得喺呢方面有啲咩香港可以做。
+
+293
+01:00:33,950 --> 01:00:53,960
+咁其他嘅咧就係內地改革同發展嘅影響，繼續方面咧，亦都係人民幣離岸嘅業務、貿易區啦、廣東貿易區啦，第十三個五年計劃。當然最新嘅亦都有係亞洲基建投行，誒喺香港能夠有啲乜嘢可以做到嘅。咁第三方面咧就係支。
+
+294
+01:00:53,960 --> 01:01:02,610
+產管理嘅業務，我哋希望咧喺資產方面同埋財富管理方面咧，香港咧可以係有更進一步嘅發展。
+
+295
+01:01:03,230 --> 01:01:23,240
+誒市場推廣方面，我剛才亦都講咗，我哋係會繼續我哋舊年嘅活動。今年可能咧就會比舊年做得更多，因為舊年係因為大家時間同埋誒分配嘅問題咧，就未有我哋想象中做嘅多。而二零一五到一六咧，我哋希望係做更多嘅。
+
+296
+01:01:23,240 --> 01:01:43,250
+誒誒宣傳，而每一次我哋嘅宣傳咧，我哋都係同誒同貿發局咧就係合作嘅。我哋自己冇噉嘅資源去單獨去誒合誒舉辦呢啲噉樣嘅推廣活動。咁最後咧就係講到人才，我哋剛才亦都講到啦，會我哋會誒加薪不熱心對。
+
+297
+01:01:43,250 --> 01:02:03,260
+業內各種職位嘅瞭解，誒，亦都會喺今年嘅十一月舉辦第二次嘅就業諮詢日，同埋咧就亦都會喺誒大學舉辦咧由從業員主講嘅職業講座。咁多謝主席，我講到，我介紹到而家。哇！啊，多謝啊，史美倫女士。
+
+298
+01:02:03,260 --> 01:02:23,270
+嗱，頭先啊，梁繼昌員咧剛剛係誒提交咗一個無需預告嘅動議嘅噉，或者我講講佢嗰個字眼咧，本委員會要求把金融發展局證明為金融發展委員會，以更精確地體現其現有功能啊。其英文名稱咧就係維持不變嘅嚇。咁咧就誒，我哋而家。
+
+299
+01:02:23,270 --> 01:02:43,280
+家就畀大家知道知識呢件事先。噉我哋一陣間討論完呢個項目咧，就再會討論阿梁繼昌議員呢個係嘅臨時動議啦。咁咧就我畀貨大家，即係或者大家知道咧，就舊年亦都阿梁繼昌議員都同樣係提過同樣嘅字眼嘅，當時係被否決嘅。噉我一陣間咧完咗呢個討論環節，就會再討論㗎啦。咁現在首先咧就。
+
+300
+01:02:43,280 --> 01:03:03,290
+啊，今日都相當係多位，而家有八位議員咧係準備提問，係九位、十位，係啦。啊，郭榮亨議員啦、黃國興議員啦、梁繼昌議員啦、田北俊議員啦、善眾佳議員、黃鼎光議員、葉劉淑儀議員、張華峯議員同埋李慧瓊議員嘅。噉我哋用四分鐘，咁大家記住咧係連問連答，因為時間緊張，我就會比較即係四四分鐘就會。
+
+301
+01:03:03,290 --> 01:03:23,300
+停啦嚇！希望大家留意啊！第一位咧就郭榮亨議員。多謝主席。誒，我問題好簡單，就係喺個PowerPoint第六頁嗰度咧誒，你要講到話嗰個arrangement will be reviewed this year，就係關於嗰個即係誒資源配套同埋誒人手噉樣。我想知道即係你有啲咩構想咧？即係係咪覺得而家嘅工作個範疇多？
+
+302
+01:03:23,300 --> 01:03:40,900
+咗啦，咁誒其實需要誒，正如頭先啊梁繼昌議員嘅動議都有提及，就係即係誒係咪仲用委員會？即係我知道你叫金融發展局啦，但係其實係確實一個諮詢委員會，噉係咪有需要去改革而家嗰個誒工作模式同機架構？
+
+303
+01:03:41,440 --> 01:04:01,450
+誒嗰個誒多謝誒議員，剛才講到個資源安排今年來檢討咧，呢個係誒早幾，即係我哋誒剛剛成立嗰陣時，財政司係話三年現有嗰個誒分定個model咧係誒維持三年，三年之後就要檢討，咁即係。
+
+304
+01:04:01,450 --> 01:04:09,430
+話二零一六開始咧，就誒需要有檢討。噉我諗呢方面，我等阿Andrew答你哋，係嘛？
+
+305
+01:04:09,710 --> 01:04:29,720
+係啊，黃秘書長主席。誒，因為當日誒誒成立嗰個金融啊金融發展局嗰陣時咧，我哋承諾過係會喺三年內咧作一個檢討嘅。咁今年我哋會做呢個工作，但係誒雖然我哋話今年檢討，但係未必係會有好大嘅改變，因為我哋都要吸取過去。
+
+306
+01:04:29,720 --> 01:04:49,730
+三年主要就係誒誒依個發展局做嘅工作喺嚟緊依幾年，我哋估計會唔會有冇改變咧？誒，佢過去幾年誒運用需要，即係喺喺運作上究竟需要嘅資源係咩嘢啦？咁過去我哋睇見咧，大部分嘅資源咧都係。
+
+307
+01:04:49,730 --> 01:05:09,740
+誒使喺一啲即係幫助推廣香港作為一個國際金融中心方面嘅推廣工作嘅，咁而所涉及嘅資源亦都唔係話個數額唔係好大，但係我哋今年會做一個檢討，誒睇下喺營運上邊我哋有冇需要引入一啲改變咁解啫。
+
+308
+01:05:09,740 --> 01:05:20,460
+有冇計劃去即係將佢轉化為一個局？而你覺得誒，如果真係變成一個局嘅話，嗰個工作會唔會係做得更加好，或者做得更加多元化噉樣？
+
+309
+01:05:20,740 --> 01:05:40,750
+誒，對唔住，我聽唔清楚。你話變為一個局，即係正式嘅一個，啊，正式嘅一個或者講個法定機構噉啊。誒，我即係個人嚟講啦。誒，嗰個形式當然誒，而家我哋覺得係即係進行，即係已經係做咗兩年。噉我哋嘅工。
+
+310
+01:05:40,750 --> 01:06:00,760
+工作量，大家亦都睇到個個工作成果，大家都睇到。主要我哋都係靠我哋嘅成員，我哋嘅無論係Council Member或者Committee Member都好，非常咁投入。如果你話即係個而家或者係即係應該一陣間再再講呢一點啦。即係如果你話改咗一個法定機構咧，我相信。
+
+311
+01:06:00,760 --> 01:06:20,770
+對現有嘅模式，應該就唔係話有太大嘅分別。咁而法定機構裏邊咧，即係我相信，即係亦都需要一段時候先至做到係法定機構。我哋目前咧就冇噉嘅打算。我哋目前即係我亦都冇諗過，即係我哋誒誒嗰個。
+
+312
+01:06:20,770 --> 01:06:26,710
+模式係點樣？咁主要大家所有嘅成員都係覺得，我哋希望做實事咯。
+
+313
+01:06:27,730 --> 01:06:29,430
+好，王國興完。
+
+314
+01:06:30,540 --> 01:06:31,710
+誒，多謝主席。
+
+315
+01:06:32,050 --> 01:06:38,270
+誒今日咧就好多謝誒司美倫主席咧嚟同到嚟同我哋立法會咧係介紹。
+
+316
+01:06:38,550 --> 01:06:49,440
+你哋嘅工作，噉我認為咧就係最重要咧，就係呢個金融發展局咧，係咪起到一個實質嘅作用？係咪做到嘢？
+
+317
+01:06:49,720 --> 01:07:09,730
+噉我睇到咧就係誒，你哋成立以嚟呢兩年幾咧，係做咗都幾多嘢，誒，而且喺嗰個香港而家嗰個誒內外嘅環境咁困難嘅情況底下，尤其是呢兩年幾喺香港嘅政治環境、政治生態異常。
+
+318
+01:07:09,730 --> 01:07:16,100
+惡劣嘅情況底下咧，你哋都即係頂住壓力做到嘢咧，我覺得係表示讚賞嘅。
+
+319
+01:07:16,490 --> 01:07:21,190
+我認為咧，就係嗰個實質係好重要，咩名都係其次。
+
+320
+01:07:21,470 --> 01:07:31,730
+如果你實質冇貢獻咧，你畀更靚嘅名都係冇用，所以我唔會支持梁繼昌議員咧嗰個誒議案嘅嚇，即係。
+
+321
+01:07:32,010 --> 01:07:35,890
+誒要你哋改名嗰個嗰個議案，我不會支持。
+
+322
+01:07:36,280 --> 01:07:56,290
+誒，我而家有一個問題咧，想詢問主席咧。誒，唔知你哋會唔會留意到咧？就係已經存在多年咧，喺呢個香港嗰個金融上面咧出現嗰啲所謂嘅即係倫敦金誒嘅場外交易嘅。
+
+323
+01:07:56,290 --> 01:07:57,400
+詐騙案。
+
+324
+01:07:57,680 --> 01:08:13,160
+因為咧，我真係收到好多嘅投訴，亦都親自去處理，數以係十宗百宗計，牽涉嘅金錢咧，亦都係相當大，即係嗰啲誒倫敦金或嘅銀嘅場外交易。
+
+325
+01:08:13,440 --> 01:08:33,450
+咁咧，就此咧，其實我都去同呢個金銀業貿易場咧，誒正式係交涉，都開過好多次會。佢哋亦都好同意啦，應當係立法規管。不過好可惜咧，就政府當局至今為止咧都未肯做。咁咧就金銀業貿易場咧，佢其自己都。
+
+326
+01:08:33,450 --> 01:08:53,460
+都做培訓、做課程，亦都發出證書。但係，畢竟佢係一個誒，唔係政府機構，佢發嘅證書都係證明佢誒培訓嘅嘅學員有呢一個噉樣嘅資格。但係呢個唔係一個法律嘅規定，所以咧誒，我想問主席咧，其實誒發展局可否？
+
+327
+01:08:53,460 --> 01:09:04,200
+好就呢個問題，誒請你哋考慮下，可唔可以進行一個研究咧？即係因為咧，其實咧不斷出現呢啲噉樣嘅誒。
+
+328
+01:09:04,480 --> 01:09:12,240
+詐騙案咧，其實咧係影響香港個作為咧國際金融中心嘅聲譽。
+
+329
+01:09:12,520 --> 01:09:32,530
+而近年咧已經係由呃本地人咧轉為咧就係越嚟越多咧係內地嘅市民咧被捲入，而且咧去到哈爾濱都有，即係個範圍咁大嘅。咁留翻分零鐘睇下，主席可唔可以回應下咧？好啊，誒首先多謝黃議員對我哋。
+
+330
+01:09:32,530 --> 01:09:52,540
+工作嘅肯定喺今日噉嘅環境咧，就誒都係我哋真係係靠我哋嘅成員嘅自己個身嘅努力，大家都係希望為香港做啲事嘅。至於倫敦金呢樣嘢咧，我知道長期以來咧都係誒困擾咗誒香港嘅即係誒有少有部分嘅投資者，但係我哋。
+
+331
+01:09:52,540 --> 01:10:12,550
+金融發展局咧，即係真係淨係研究政策各方面咧。我哋亦都唔係一個執法機構，詐騙案咧，主要我諗都係要等啲監管機構嚟，即係誒嚟嚟執行。誒，我哋可以即係睇下喺整體方面有啲乜嘢啊，可以話誒。
+
+332
+01:10:12,550 --> 01:10:12,920
+嗯。
+
+333
+01:10:13,200 --> 01:10:33,210
+誒有啲咩建議，但係主要我哋啲建議真係要靠行內嘅人同我哋研究提出，或者我係即係誒揾阿誒誒阿希活、阿張德希同佢傾下，睇下佢有啲咩睇法，係嘛？好多謝主席呢個正面嘅回應，我或者稍後都會誒寫信畀你，好。
+
+334
+01:10:33,210 --> 01:10:50,420
+啲資料等你參考下啦，好嘛？多謝主席。好啊，梁繼昌議。多謝主席，我依家先講我動議。誒有一個誒利益嘅申報就係誒其中一個金髮局嘅成員馬雪文先生，馬雪文係我嘅公司同事嚇。咁誒其實誒。
+
+335
+01:10:50,700 --> 01:11:10,710
+發展局二零一四年做咗咁多嗰個誒研究報告呢個工作，我係肯定嘅。咁其實誒我都想啊啊主席咧，查查史美麟主席，可唔可以揾到一啲嘅時間咧？雖然我哋唔係好多同事可能會有興趣知道嗰個你哋嘅研究嘅嘅嘅報告一啲啲find。
+
+336
+01:11:10,710 --> 01:11:30,720
+希望都有翻一個session，或者唔係話真係立法會嘅session啦，係可以brief化我哋啲立法會員關於誒你哋嗰啲報告一啲最重要嘅findings，令到我哋可以知道究竟啊金融嗰個誒最新發展係點樣樣，有啲乜嘢係建議畀咗政府咁呢個你可以考慮下第一樣嘢啊，而。
+
+337
+01:11:30,720 --> 01:11:50,730
+第二樣嘢咧，誒就係關於你下一年嘅工作計劃嗰度咧，我我我得悉咧，其實你哋應該仲有其他嘅嘅項目嘅，比如話誒綠色嘅誒green financing啊、green banking呢類噉嘅題目，呢其實係咪誒有其他嘅項目？你哋係？
+
+338
+01:11:50,730 --> 01:12:10,740
+冇冇冇擺得落去你啲頭上邊度，可唔可以講一講咧？啊啊，主席啊，好啊，啊司馬倫女士，好啊，誒啊，多謝梁議員。誒，我哋好樂意誒向大家介紹我哋嘅工作嘅報告。In fact，我即係都有誒啲誒啲即係非正式嘅誒briefing啊，或者係誒或者係啲啲三文。
+
+339
+01:12:10,740 --> 01:12:30,750
+嘅午餐，你都嚟過誒，我會再再安排咁咧。就我哋以前發表過嘅，就向大家再比較有興趣嘅，可以即係咁深入嘅瞭解。至於話我哋今年誒即係一五一六年嘅工作嚇，你係有啲嘢係未擺喺呢個個誒powerpoint裏邊咧，係有嘅，但係我哋覺得未成熟，我哋唔想。
+
+340
+01:12:30,750 --> 01:12:50,760
+太早即係畀人哋有一個，畀即係社會或者係畀各位議員有一個期望，覺得嗰樣嘢我哋係真係做。Green finance綠色金融係我哋嘅工作嘅誒，係一個一個項目。但係誒點解我哋會對呢個項目有興趣咧？即係我哋知道倫敦大嘅金融中。
+
+341
+01:12:50,760 --> 01:13:10,770
+心咧開始呢方面嘅工作，呢個亦都係一個新嘅業務，但係我哋冇呢方面嘅人才，即係我講我哋自己嘅成員裏邊冇啲人，即係冇啲成員係對呢一個誒議題有充足嘅瞭解。咁好不容易説服咗誒有一兩位願意擔起呢個責任，亦都喺度揾緊。
+
+342
+01:13:10,770 --> 01:13:30,780
+其他嘅，即係我哋會co-op啲其他誒有呢方面知識嘅。我哋希望咧係做一個報告。第一就係咩係綠色金融，第二喺綠色金融咁大個範圍裏邊，香港有冇發展嘅空間咧？咁呢個希望係會做到。阿主席，點解我提呢個議題咧？當然即係我自己係誒。
+
+343
+01:13:30,780 --> 01:13:50,790
+環境事務委員會委員都係第二咧，你要睇翻成個格局，即係話咧，我哋成個香港個金融發展格局咧，綠色金融呢樣嘢咧，同我哋如果喺亞投行A.I.B嗰個嘅功能或者作用，將來功能或者作用咧，係有好大嘅關係。所以我希望咧。
+
+344
+01:13:50,790 --> 01:14:10,800
+誒金發局可以call up啲member又好，或者揾其他external resources都好咧，可以加快呢一個綠色金融同埋綠色banking呢一個研究。而我本人亦都可以誒，儘量可以提供到嘅有關嘅資源又好，或者人人人力都好，都係願意同你哋合作。
+
+345
+01:14:10,800 --> 01:14:22,160
+做做呢個嘅研究報告嘅，唔該主席。多謝多謝誒，多謝啊梁議員嘅支持，我哋一定會誒再另外再揾你，好嘛？好，田北俊議員。
+
+346
+01:14:23,920 --> 01:14:32,050
+誒，主席啊，當然誒，金融發展對香港嚟講啊，係我哋誒幾大支柱之中嘅最大個支柱啦。
+
+347
+01:14:32,490 --> 01:14:34,690
+而且嗰度亦都可以請好多人。
+
+348
+01:14:35,240 --> 01:14:46,940
+好多高收入嘅人士啊，透過金融嘅行業揾到錢。你注意睇呢幾日嘅股票市場一旺咋，成間啲餐廳啊、食市啊都都好多咗生意好多。
+
+349
+01:14:47,220 --> 01:14:51,910
+所以咧就誒買樓都多咗，呢樣我未留意到，可能將嚟會有啦。
+
+350
+01:14:52,280 --> 01:15:02,610
+誒，但係但係，主席，我呢個感覺即係所謂嘅局啊，即係譬如旅遊發展局啊，噉啊，文化局啊，都係自己係有誒，即係。
+
+351
+01:15:04,290 --> 01:15:18,910
+一個實權咁上下嘅講法啦，就係Lolly自己都講啦，你哋而家都係政策研究就唔係執行嘅，噉啊難怪梁偉昌議員而家走咗去啦，就覺得事實上咧，你哋只不過係一個委員會係研究研究嘅。
+
+352
+01:15:19,190 --> 01:15:39,200
+噉我哋個個都希望你呢個研究研究個委員會咧，有係正正式式成為一個局咧，就可以名正言順嘅去做你而家做開啲嘢。咁呢個到底你改唔改名咧？我話冇好大嘅意見，最緊要你哋係做到啲嘢啫。翻嚟做嘢嗰度咧，我會有噉嘅睇法，即係作為香港呢個噉嘅金融中心。
+
+353
+01:15:39,950 --> 01:15:46,680
+誒近期嚟睇，即係未來嗰幾年啦，啊，歐洲就睇樣都係麻麻掂㗎啦。
+
+354
+01:15:47,130 --> 01:15:48,970
+比國債好好多。
+
+355
+01:15:49,250 --> 01:15:53,630
+東南亞咧都係好普通嘅啫，但係內地啊，就係我哋嘅潛力。
+
+356
+01:15:53,910 --> 01:16:10,300
+咁即係你事實上，我落嚟都講過幾個重點嘅，同股同權啦，海外推廣啦。即係我感覺，我哋香港無論我哋股票市場點樣做，好多嘢都係同內地有關係嘅。上個禮拜發生啲事情，你見到啦，我都唔知我哋金融發展局。
+
+357
+01:16:10,580 --> 01:16:13,780
+喺上個禮拜發生嘅事情啊，扮演過咩角色？
+
+358
+01:16:14,150 --> 01:16:28,180
+佢哋入邊一改改少少嘅條件，就資金可以大量嘅湧入。佢哋喺度咁改條件，我哋係知唔知道嘅？事實上，即係如果用河同井嚟誒打個比例咧，即係內地真係個河。
+
+359
+01:16:28,460 --> 01:16:48,470
+放少少水過嚟啊！我哋嘅井啊就誒浸滿曬嘅。咁到底我哋而家呢個金融發展局繼續未來嘅工作，你哋係準備係去歐美嗰邊揾人才，用翻英文，用翻外國市場嗰啲金融嘅管制，令到香港可以更上一層樓，成為正話你第一個主要。
+
+360
+01:16:48,470 --> 01:17:08,480
+嘅屋啊，最頂屋頂咧就香港首屈一指嘅誒喺亞洲啊，首屈一指嘅金融中心。呢樣嘢係咪淨係靠內地係得？係咪要兼翻東南亞嘅首屈一指嘅中心咧？要用翻英文，用翻外國嗰啲管制嘅法例。即係我啲擔心，如果內地無論點做啊，內地嗰個。
+
+361
+01:17:08,480 --> 01:17:20,990
+法例亦都引到我哋同股冇同權、冇同權嘅講法，就外地所有同股票有關係嘅法例，未必淨係同股票有關係，有成個社會嘅法例全部有關係嘅。
+
+362
+01:17:21,360 --> 01:17:41,370
+就唔係咁容易做嘅。咁最後我都想提一提個推廣嗰樣嘢。啊，即係我發覺你哋而家推廣全部係搭單落去TDC啊，喺外國佢哋做啲嘢咧，我都覺得呢個真係唔係好足夠嘅。而且你推廣啲可能要兼埋國外啲專家一齊去外國推廣內地啲市場，我哋好似做個中介人。噉我希望我哋點？
+
+363
+01:17:41,370 --> 01:17:44,280
+噉啊，可以再提一提將嚟你哋可以做啲咩嘅啫。
+
+364
+01:17:44,560 --> 01:18:04,570
+係史美良，你先好啊！誒，多謝田議員。誒，講到我，我諗分三部分啦。誒，至於話你上上個禮拜香港誒各個市場有大量嘅內地資金湧入，我相信係你指呢樣嘢啦。誒，金融發展局我哋唔係政策局，我哋都唔係政府正式嘅部分，所以咧，我哋。
+
+365
+01:18:04,570 --> 01:18:24,580
+真係事前係完全係唔知道嘅。噉我哋金融發展，佢一向做咧就係話，即係當然我哋已經有監管，現有嘅監管機構啦，亦都佢哋做得非常出色啦。而我哋能夠喺嗰個發展裏邊嘅大局咧，我哋覺得個容量同埋即係香港嘅容量，香港嘅深度同廣度。
+
+366
+01:18:24,580 --> 01:18:44,590
+好緊要，但係要做到深度同廣度咧，亦都係需要有呢個容量。容量咧就係喺嗰個infrastructure，我哋自己嗰個誒交易嘅誒一些配套裏邊。咁喺嗰度咧，亦都衍生到點解我哋覺得中後台嘅人手咧，我哋香港係不足夠嘅噉。
+
+367
+01:18:44,590 --> 01:19:04,600
+咁呢方面，我剛才講咗係係培訓嗰邊，我哋希望今年係作作物做啲做多啲工作。至於話國際金融中心，我哋唔單止係要靠內地嘅專才，因為我哋好多資源，即係上市嘅資源、市場嘅資源，即係市場發展嘅資源係內地嚟，所以我哋需要內地嘅人才。咁香港咧就已經。
+
+368
+01:19:04,600 --> 01:19:24,610
+有吸引咗好多，但香港作為一個國際金融中心，我哋不嬲啊！真係有即係過去嘅三四十年都好咧，都係一個開放市場。外邊即係歐美嘅、英國嘅、美國嘅或者其他歐洲地方咧，佢只要睇到香港嗰個市場嘅前景咧，佢哋自然會嚟。而我哋香港而
+
+369
+01:19:24,610 --> 01:19:41,970
+而家能夠吸引到呢啲國際人才不斷噉，唔單止係喺證券，我哋仲有喺對沖基金啊、私募基金啊呢方面咧，係過去幾年係係嚟咗好多呢方面嘅人才，保險業都係。阿吳Sir，因為時間關係咧，有機會再回應。好，下一位啊，前總嘉義。
+
+370
+01:19:42,260 --> 01:19:54,780
+主席就誒，金融發展局即係做咗多報告啦。我諗呢報告本身都要去透過政策局嚇，以及呢一個誒其他嘅執法機構等等去落實。
+
+371
+01:19:55,060 --> 01:20:15,070
+誒，我個問題咧就係我知道你哋誒未來亦都有啲工作。頭先你介紹咗就我即係一個意見嘅，似乎嗱呢幾年我見到係譬如話互廣通等等係個市場一路繼續噉樣樣開放。咁但係咧就其實我我亦都有同事問過啦，即係關於啲作為投資嘅保障嗰度。
+
+372
+01:20:15,070 --> 01:20:21,090
+其實即係越開放越多渠道嘅時候咧，咁其實相關嗰個嘅保障咧，其實亦都要加強。
+
+373
+01:20:21,370 --> 01:20:25,410
+噉我自己睇唔到，即係或者你哋嗰個嘅。
+
+374
+01:20:25,690 --> 01:20:45,700
+誒金融發展局，你哋嘅未來工作方向上面咧，似乎係比較着重喺即係發展啊嗰方面啊。當然，你嘅名都係講發展啦，但係個發展嘅同時，其實應該要有即係一個平衡，就係點樣保障消費者。噉我哋知道呢幾年咧，其實即係有啲即係金融嘅事件咧。當然有啲係牽涉欺詐嘅。
+
+375
+01:20:45,700 --> 01:21:05,710
+咁但係我特別一提咧，就嚟緊亦都係有咧個深港通啦，係嘛？咁但係香港嘅執法機構其實伸唔到隻手去內地。咁香港嘅誒投資者或者世界各地嘅投資者可以透過誒深港通或者滬港通都好啦。啊，咁將來投資喺內地嘅股票，咁相關得唔得到到即係相即係等。
+
+376
+01:21:05,710 --> 01:21:17,100
+如香港同樣嘅保障咧，呢個係一個問題。我唔知道啊，啊主席會唔會有喺呢一個誒議題上面，會喺將來嘅工作上面咧係有所努力咧？
+
+377
+01:21:17,630 --> 01:21:37,640
+啊！多謝譚議員。誒，我哋目前嘅工作計劃咧係冇包括投保護投資者誒嗰部分，即係無論係誒同內地嘅又好，或者係對其他嘅誒投資方面，好似正話議員都講到，我哋工作重點真係對發展咁誒，而家。
+
+378
+01:21:37,640 --> 01:21:57,650
+而家政府的有一個誒投資者教育嘅一個誒單獨嘅誒單位啦，噉嘅機構噉佢我相信佢哋嘅重點工作就係做嗰方面嘅工作喺投資即係深港通或者滬港通啦。我相信我哋喺投資者教育裏邊一定要誒好即係清晰噉。
+
+379
+01:21:57,650 --> 01:22:17,660
+噉樣咧就向投資者誒解釋咧，即係你投資喺咩地方嘅股票？如果你投資喺今日係美國嘅股票，你都係受到美國嗰啲公司上市公司係受到美國嘅監管。咁同樣地，深港通或者係滬港通咧，佢哋嘅監管機構主要對上市當地上市公司。
+
+380
+01:22:17,660 --> 01:22:19,660
+啲係當地嘅監管嘅責任。
+
+381
+01:22:21,630 --> 01:22:23,480
+係仲有冇跟進？
+
+382
+01:22:23,880 --> 01:22:29,340
+如果冇咧，就係黃定光議員。嗯，多謝主席。嗱，誒中央咧。
+
+383
+01:22:29,620 --> 01:22:38,450
+好快就會宣佈天津、福建同埋廣東自貿區個實施嘅詳細情況㗎啦。
+
+384
+01:22:38,770 --> 01:22:48,680
+噉啊，金發局咧，現時預計廣東自貿區嘅發展對香港嘅經濟會產生咩？唔好意思。
+
+385
+01:22:50,390 --> 01:22:52,270
+你兩個係咪？
+
+386
+01:22:54,580 --> 01:22:57,430
+我喺度講緊嘢，你兩個就好大聲。
+
+387
+01:22:59,900 --> 01:23:06,930
+金發局有冇預計廣東自貿區對有關呢個情況咧？誒？
+
+388
+01:23:07,420 --> 01:23:12,090
+對香港係究竟係誒嘅機遇咧，還是係挑戰咧？
+
+389
+01:23:12,460 --> 01:23:16,220
+其中機遇係比較大啊，還是挑戰比較大咧？
+
+390
+01:23:16,600 --> 01:23:28,760
+我哋香港喺金融方面應該點樣準備好？結合呢個滬港通啊、深港通啊、一帶一路啊，同埋亞頭亞投行嘅嗰個新嘅發展。
+
+391
+01:23:29,380 --> 01:23:36,610
+我想知道誒金髮局方面對呢個睇法會誒會唔會作出咩研究報告？
+
+392
+01:23:36,890 --> 01:23:56,900
+誒史美倫，你好啊！誒，多謝主席。嗰個誒廣東自貿區對香港當然係有切身嘅誒關係啦。至於係挑戰大或者係機遇多呢個，而家目前我哋都未能夠作一個判斷，亦都誒我哋都密切咁關注。誒兩個禮。
+
+393
+01:23:56,900 --> 01:24:16,910
+禮拜前，我已經同內地機遇小組嘅幾位成員上過去廣州，誒拜訪個副省長，亦都係誒同誒誒深圳交易所咧，亦都係有誒誒見面，即係瞭解下佢哋嗰方面嘅發展。我哋香港金融發展屋能夠做到嘅就係。
+
+394
+01:24:16,910 --> 01:24:30,170
+誒，喺佢哋未即係即係政策出嚟之前咧，了比較深入咁瞭解有啲咩嘢對我哋會有影響。我哋喺誒廣東自貿區呢一個議題係係會有一個單獨嘅報告嘅。
+
+395
+01:24:30,740 --> 01:24:48,750
+啊！我仲想跟進一下咧，財經事務同埋副務局咧，將來會成立一個金融科技嘅督導小組嘅。噉啊，同業界同埋科研同埋監管機構咧，共同推動香港作為金融科技中心嘅誒進行研究。
+
+396
+01:24:49,270 --> 01:24:59,800
+我想知道金髮局認為香港要發展金融科技中心，我哋嘅優勢同埋面對嘅挑戰係乜嘢呢？啊，史美倫女士。
+
+397
+01:25:00,080 --> 01:25:20,090
+我相信誒，多謝啊，主席誒。我相信呢個正正係點解要有一個督導小組啊，因為而家真係講唔出話喺誒financial technology，即係喺金融誒科技方面，我哋香港誒能夠做到啲乜嘢誒？我嘅個人嘅瞭解係即係如果我哋講嘅。
+
+398
+01:25:20,090 --> 01:25:40,100
+電子化咧，我哋香港已經做得係相當嘅誒先進㗎啦。即係無論銀行業、證券業、保險業咧，我哋喺電子化各方面係誒已經做進行咗好多年。但係再一步嘅金融技術咧，我係相信我相信係需要多一步嘅研究嘅，即係有啲乜嘢。
+
+399
+01:25:40,100 --> 01:25:54,160
+嘢科技係能夠係發展一個令到香港金融市場再上一層樓，或者係發展新嘅業務咧？呢個而家目前喺未有深入嘅研究裏邊咧，我就真係答唔到。
+
+400
+01:25:55,460 --> 01:25:57,940
+好，誒，跟住葉劉淑儀議員。
+
+401
+01:25:58,220 --> 01:26:12,830
+嗯誒，多謝主席。誒，首先我都係對於啊查主席誒無常咁為政府做咁多嘢，呢兩年花咁多心思咧，表示有感謝嚇。我知佢真係用心用力咁去做。
+
+402
+01:26:13,110 --> 01:26:33,120
+噉我睇到啊，查太個工作報告咧，嗰啲幾方面啦，就冇提到一樣嘢，就係叫伊斯蘭金融啊。噉啊，特區政府都獨登修改條例，希望做啲誒伊斯蘭債券啊嗰啲工具啦。咁其實我哋呢方面有冇優勢咧？據我所知，全球嘅伊斯蘭金融。
+
+403
+01:26:33,120 --> 01:26:53,130
+中心就係倫敦，嚇紐約都想做，亞洲就吉隆坡，啊新加坡都早早起步過我哋好多，佢哋嘅回教徒又多，同回教國家關係又好，咁到底我哋喺呢方面有冇優勢嘅咧？就算國家推一帶一路啊，我哋搶唔搶到呢啲？雖然。
+
+404
+01:26:53,130 --> 01:27:13,140
+國家推一大一攏，我哋搶搶到呢生意啦。第二就係人才方面啦，我想查太再解釋多啲，需要邊方面人才？噉我知道高端方面咧，根本本地嘅畢業生係越難越打入嗰啲國際投行嘅高層，佢哋嗰啲內地優才不支噉。
+
+405
+01:27:13,140 --> 01:27:33,150
+咁多學歷好過我哋㗎啦，普通話又好過我哋啊。噉我哋缺乏咩人才？要畀咩培訓咧？想查太講清楚啲。好啊，阿史美良女士。好啊，誒多謝葉議員誒對誒金發局同埋我本人工作個肯定啦，好好多謝大家嘅支持，尤其是葉太喺呢方面咧，真係畀我哋好多嘅。
+
+406
+01:27:33,150 --> 01:27:53,160
+誒誒支持嘅誒伊斯蘭金融誒。首先咧就誒誒呢個香港推出已經有幾年冇錯喺金融發展嗰個工作裏邊，我哋係冇包括呢一方面。誒主要我哋覺得誒香港能夠做嘅已經做咗啦，即係改咗例出去推廣，冇即係。
+
+407
+01:27:53,160 --> 01:28:13,170
+一誒，老實説，即係呢一方面，我哋嘅競爭力係相當大嘅。誒，中東嘅Dubai，佢哋係想做伊斯蘭嘅金融中心。喺亞洲嚟講咧，吉隆坡係做得相當好嘅，因為佢哋當然亦都係有誒嗰個會教徒係比較多。香港方面，我相信推當時推出嚟咧係希。
+
+408
+01:28:13,170 --> 01:28:33,180
+希望我哋嘅市場嘅產品多元化，係多呢一樣嘅產品。咁之後能唔能夠成功，或者係有幾大嘅市場咧，就要靠我哋去推廣啦。咁第二講到人才方面，嗯，冇錯，香港咧就係喺高端方面咧，誒，我哋誒對啲即係喺啲僱主裏邊咧，大家都覺。
+
+409
+01:28:33,180 --> 01:28:42,650
+覺得如果香港學生同內地學生或者係外地嚟嘅學生咧，我哋香港學生往往係係唔夠人哋競爭嘅幾方面，一個。
+
+410
+01:28:42,960 --> 01:29:02,970
+普遍嚟講話英語水平不及呢個，我哋係嚇一驚嘅。我哋以為大家話哦，你啲講誒普通話唔得，原來係英語水平唔夠。第二咧就係誒嗰個對國際嘅視野係非常狹窄嘅，即係可能誒香港嘅環境啦，好多學生咧就對外。
+
+411
+01:29:02,970 --> 01:29:22,980
+外界發生嘅事咧，唔係太清楚。噉你如果做到金融發展金金融業裏邊咧，大家好多時僱主喺個interview裏邊咧，就梗係同你講下而家世界嘅金融市場係點啊！我哋啲畢業生係答唔到嘅。咁呢個係好多好多僱員同我哋係咁講。咁再加上咧，就忠厚勤。
+
+412
+01:29:22,980 --> 01:29:42,990
+嗰個誒服務咧，中後台方面咧，我哋太多個學生唔瞭解，即係覺得如果係做金融業一定要做投行，其實或者係做銀行嘅，即係啲teller，其實咧喺金誒而家喺嗰個監管日加誒嚴緊嘅情況咧，嗰個中。
+
+413
+01:29:42,990 --> 01:30:03,000
+中後台嘅服務係非常非常重要，而且中後台服務係有機會，即係你人哋嘅chief officer好多大行咧就已經係董事局成員，所以話咧，我哋而家我哋其中嘅一個要點，今年做咧就係向啲畢業生或者係在屆嘅學生介紹乜嘢。
+
+414
+01:30:03,000 --> 01:30:17,450
+嘢係中後台嘅服務，有啲乜嘢需要，你需要點樣裝備自己？我哋亦都會請業界嘅人向大家同大家交流，所以呢方面我哋希望係做到呢方面。好啊，張華峯議員。
+
+415
+01:30:18,200 --> 01:30:19,730
+啊！多謝主席。
+
+416
+01:30:20,210 --> 01:30:35,710
+就金管局咧，之前啊表示咧呢個金融要出現咗咧，即係專業金融嘅人才係缺少嘅。咁咧就誒嗰個加強人力資源嘅培訓咧，我係認同啊，同埋支持。
+
+417
+01:30:36,130 --> 01:30:37,190
+噉。
+
+418
+01:30:37,470 --> 01:30:57,480
+但係咧，我哋提出咧嗰個大量嘅引入內地嘅金融專才咧，我有一個另外嘅睇法。嗱，嗰個金融業係香港嘅最大嘅產業支持。呢個產業咧，過去幾十年咧，培養唔少本地嘅專業人。
+
+419
+01:30:57,480 --> 01:31:06,260
+人才嗱，我相信香港人特別未來嘅大學生，佢係好願意咧投入呢個金融市場，即係為佢哋向上話提供一個機會。
+
+420
+01:31:06,540 --> 01:31:11,630
+噉，我想問一問，我哋金發國可唔可以考慮？
+
+421
+01:31:11,910 --> 01:31:18,940
+聘請外聘請嘅專業人才、培訓專業人才，可唔可以本地為主？
+
+422
+01:31:19,750 --> 01:31:28,630
+引入外地嘅專才為輔，呢個對整個嗰個我哋嘅社會穩定同埋嗰個就業係有莫大嘅好處。
+
+423
+01:31:28,910 --> 01:31:48,920
+嗱，我亦都留意到呢幾年咧，即係金融發展局做咗大量嘅工作啊，而且做咗好多建議咗好多，即係誒好有建設性嘅呢種呢種建議。噉我又想問一問啦，即係金融發展局除了咧，即係你哋舉辦嘅金融發展局就業資訊日啦，誒。
+
+424
+01:31:48,920 --> 01:31:52,920
+啊，同埋職業嗰個講座之外，誒。
+
+425
+01:31:53,200 --> 01:31:58,790
+我哋對於培訓本地嘅個人才，仲有啲乜嘢嘅良方咧？
+
+426
+01:31:59,140 --> 01:32:19,150
+會唔會同教育局同教育局制定一個未來大學金融專才嘅課程，去培培訓佢哋？同埋最重要嘅咧，有冇一個計劃啊？成立一個專責小組啊，去嗰個幫助本地從事緊金融業嘅從業員。
+
+427
+01:32:19,150 --> 01:32:26,940
+轉型去迎接呢個科技創新嘅呢個大時代。多謝。好啊，史美倫女士。
+
+428
+01:32:27,220 --> 01:32:47,230
+誒多謝張華豐議員。誒喺人才方面，我哋剛才我講嘅幾方面都係針對我哋本地嘅學生、本地嘅畢業生。至於我哋冇話到引進，即係唔到金融發展局嚟話要引進外地嘅人才。香港作為一個自由嘅經濟體。
+
+429
+01:32:47,230 --> 01:33:07,240
+不嬲，我哋都係歡迎誒外地有關嘅即係誒人士、專業又好啊，其他方面又好咧嚟香港工作嘅喺金融業咧，亦都大家亦都睇到我哋嘅國際性嘅成分咧，亦相當高。咁誒，亦都包括咗內地嘅專才喺呢個情況之下，我哋更加覺得咧。
+
+430
+01:33:07,240 --> 01:33:27,250
+對本地學生嗰個培訓係好緊要，同埋本地從業員，所以我哋嘅工作係喺呢一方面進行嘅。咁至於你話誒誒同教育局制定咧，我哋唔係一個，即係我哋本身只係一個諮詢機構，我哋亦都冇噉嘅能力話，即係喺誒做去制定一啲教材，但係我哋留。
+
+431
+01:33:27,250 --> 01:33:47,260
+能夠做到嘅咧，就係喺啲培訓機構，佢哋有提出嚟嘅課程咧，我哋係願意將佢哋嘅課程係檢討睇下，或者從一個從業員嘅喺業界裏邊睇有啲乜嘢係更加實際，所以我哋喺嗰個課程，即係佢哋要同我哋即係嚟我哋度噉，然後我哋可以畀啲意見佢。
+
+432
+01:33:47,330 --> 01:33:55,890
+同教育局嘅合作，我相信我哋都冇噉嘅能力做到，但係我相信阿阿Andrew佢可以補充政府方面。阿黃生。
+
+433
+01:33:56,170 --> 01:34:16,180
+誒金發局當然較早時係出咗一個報告書啦。咁議員都都會記得咧，今年喺財政司司長嗰個誒預算案裏邊咧，司長已經講咗咧，係金融業嗰個人才培訓方面咧，係我哋都睇得係覺得係好重要嘅。所以喺佢預算案咧，亦都公佈咗咧。
+
+434
+01:34:16,180 --> 01:34:34,410
+係會撥一一億咧，去推行一個維期三年嘅先導計劃。咁但因為係一個先導計劃咧，我哋初步會聚焦喺保險同埋資產誒財富管理兩方面。咁都亦都係配合，亦都係回應咧呢個金發局佢哋作出一係列嘅建議。
+
+435
+01:34:34,960 --> 01:34:36,370
+好啊，李慧瓊議員。
+
+436
+01:34:37,130 --> 01:34:57,140
+主席誒，我首先都係多謝金法局過去工作嘅努力，亦都喺阿查太嘅帶領底下咧，金法局都出咗好多報告。噉啊，坦白講，政府對金法局嘅支援咧，我希望都可以定期檢討，因為事實上佢哋個個嚟嘅啊都係義工，帶時間、帶專業知識之餘，仲要自己做埋報告，噉啊，實屬。
+
+437
+01:34:57,140 --> 01:35:17,150
+係非常難得噉，希望政府都係誒揸緊睇下點樣去落實誒金髮局上邊嘅建議。其實我亦都係同其他同事一樣咧，都係關心誒金融人才嘅缺乏誒。但係咧就將呢個問題擺翻喺青年人向上流動呢個角度去睇，其實香港金融業誒。
+
+438
+01:35:17,150 --> 01:35:37,160
+始終係一個高端嘅產業啦。理論上係裏邊嘅職位咧，都係吸引到年輕人，而且咧係讓青年人有向上流動嘅機會嘅。但係就係咁特別啦，香港呢個社會就係金融業界咧啊，就話咧唔夠人才，青年人咧就話誒唔夠向上流動機會。咁當中咧係有一個錯配嘅。
+
+439
+01:35:37,160 --> 01:35:57,170
+啊！頭先啊，查太都講到，即係僱主就誒認為有香港學生有啲特徵，又未必符合到佢哋嘅要求。咁香港學生亦都未必知道咧，佢點樣去突破自己咧，去做到呢啲職位。因為我都係觀察到咧，好多高端嘅金融業相關嘅職位咧，香港學生真係未必可以考到。
+
+440
+01:35:57,170 --> 01:36:17,180
+入去嘅，而呢個現象咧係我觀察我身邊嘅誒誒圈子咧都幾普遍嘅，噉係係值得政府以至到金法局去重視。我想了解下咧，即係呢個現象都存在咗一段時間啦，即係查太亦都出咗個報告，政府亦都知道有冇誒同大學去溝。
+
+441
+01:36:17,180 --> 01:36:37,190
+通令到佢哋嘅課程內容都作合適嘅調整，又或者有冇將呢啲信息都話畀啲大學生聽？佢哋其實應該要提升自己啊！誒，自強不息，去去去爭取向上流動嘅機會嘅咧。係係好，謝美良，你先係啊。多謝李議員誒，阿議員講得好啱，亦都多謝你對我哋工作嘅肯定。
+
+442
+01:36:37,240 --> 01:36:57,250
+誒嗰個誒人才嗰方面，我哋幾誒兩度啊。一個咧就係你話誒嗰個課程裏邊啦。噉我哋係有同啊，即係希望誒啲大學，如果佢哋嘅喺製造佢嘅個curriculum嗰陣時，佢如果咧係同我哋誒徵求我哋嘅意見，我哋會係畀啲比較實。
+
+443
+01:36:57,250 --> 01:37:17,260
+制嘅方面啦。第二咧就係對年青人嗰個培訓。我哋今年個計劃，舊年做咗個career day，非常誒受歡迎。噉我哋今年會繼續做，就係向誒兩方面嘅一個咧，就當然係喺業界已經係有成就嘅人士，噉佢哋講佢哋自己嘅故事。
+
+444
+01:37:17,260 --> 01:37:37,270
+或者係佢哋作為僱員，佢哋要求嘅係啲乜嘢嘅誒新入職嘅工誒嗰嗰啲人員，佢哋係誒想邊一方面嘅有優勢。第二咧就亦都係我哋有一個誒誒叫做係巡迴演出啦，可以講話即係講講普通誒普通。
+
+445
+01:37:37,270 --> 01:37:57,280
+即係俗通俗啲講，我哋今年大概四月下半旬咧就會開始誒同八間大學合作，十間大學合作，就佢哋嚟作組織，我哋咧就提供講課嘅人員。咁呢啲講課咧唔係實質上講誒個個金融業裏邊某一個部分而。
+
+446
+01:37:57,280 --> 01:38:17,290
+而係同啲學生交流。第一係介紹有唔同嘅工種，我哋揾唔同業界嘅人係講，除咗投行，除咗係即係保險業裏邊啊，除咗即係係有啲乜嘢，大家一般嚟講係瞭解嘅，其他仲有啲咩工種咧，要向大家解釋、向大家介紹。第
+
+447
+01:38:17,290 --> 01:38:37,300
+第二咧就係我哋係會輪流去呢十間八間到十間大學，噉佢哋嘅career office咧係同我哋配合，佢哋非常歡迎。其實我哋係提供呢一類嘅交流。噉我希望咧就係四月下半旬第一炮之後，係每一個月有一次或者係兩次噉嘅同學。
+
+448
+01:38:37,300 --> 01:38:50,890
+生交流係介紹誒唔同嘅工種，同埋介紹香港誒。如果你想入金融發展金融金融業裏邊，你係需要點樣裝備自己？好啊，梁養星議員。
+
+449
+01:38:51,170 --> 01:38:51,800
+嗯。
+
+450
+01:38:52,090 --> 01:38:53,120
+多謝主席。
+
+451
+01:38:53,400 --> 01:39:02,740
+誒，剛才好多位同事我都好贊成佢哋嘅，就對啊，金融發展局咧，佢一路都可以講話。
+
+452
+01:39:03,020 --> 01:39:05,430
+基本叫無私奉獻啊！嚇～
+
+453
+01:39:05,710 --> 01:39:25,720
+誒金融發展的確係同呢個金融管理咧係一個即係並駕齊驅，既要有管理嘅同時咧，我相信個發展咧係不能夠冇執用，所以我好贊成呢個局咧係如果既然係已經好清楚啦，已經有條路㗎，噉啊最緊要係公。
+
+454
+01:39:25,720 --> 01:39:26,880
+功能發揮嘅。
+
+455
+01:39:27,160 --> 01:39:47,170
+誒，而且頭先亦都同時都講到一個一個高端嘅產品咧，即係多多數嚟自呢啲金融業呢啲噉嘅發展。咁即係一蚊成本有幾多效益咧？噉啊，我覺得喺喺業界比較咧，我覺得都係誒比之第三產業啊，同埋其他咧，我諗即係銀行。
+
+456
+01:39:47,170 --> 01:39:56,050
+銀行啊，同埋其他金融發展咧，都係能夠為社會創造更多嘅利潤。呢個呢個，相信都冇懷疑嘅。
+
+457
+01:39:56,390 --> 01:40:00,710
+所以我睇咗第四頁誒第。
+
+458
+01:40:01,050 --> 01:40:06,390
+八頁嗰個關於呢個三個主要範疇嘅一四年嘅工作進度咧。
+
+459
+01:40:06,700 --> 01:40:17,810
+與業界合作同政府提交呢個研究結果啊，同埋建議啊等等咧，呢啲研究結果咧，即係成果、研究成果咧，真係唔容易嘅。
+
+460
+01:40:18,090 --> 01:40:38,100
+誒政府免費噉就收咗啲成果咧，啊或者業界可能得益咧。噉我覺得亦都喺長遠嚟講係唔合適嘅，即係我哋幾時講都係啊，有好多嘅所謂誒研究成果應該要同呢個咩分享咧㗎，即係點解要拎出嚟？
+
+461
+01:40:38,100 --> 01:40:51,490
+嚟分享而唔攞得翻成本咧，咁呢啲我覺得都係一個長遠有問題嘅，即係能夠做幾耐咧？能夠做誒宣傳推廣嗰度更加，我覺得無才不行嘅。
+
+462
+01:40:51,770 --> 01:41:03,230
+即係宣傳推廣，如果如果你話可以唔使注入成本咧，我都我都好奇怪啊！市場市場經濟裏邊有咩可能會可以發生到？
+
+463
+01:41:03,860 --> 01:41:23,870
+培育人才嘅即係人力資源呢方面咧，都係講緊要投入成本嘅問題。咁所以咧，我覺得嗰個反為嗰個最後一個人力資源措施咧，可以投誒投入去同呢個教育局呢個叫智力架構咧，可以誒喺某個程度裏邊咧合作。
+
+464
+01:41:23,870 --> 01:41:43,880
+呢個係可以嘅，即係提提供教教員嘅啫。但係教材咧、等等咧，都的確需要係嗰個誒QF本身咧去做嘅。而家的確係ITC嗰度係做緊呢啲嘢，噉我覺得咧可以一個配合。噉啊，總體嚟講咧，我就覺得名點樣講法都。
+
+465
+01:41:43,880 --> 01:42:03,890
+都好啦，而家睇到有茂發局、有旅發局，依啲都係對我哋幾大產業，即係香港一個幾個支柱產業咧，都係投入緊發展方面嘅誒，即係方向性啊，同埋好多嘅誒推動啊、宣傳啊、推廣啊等等功能。所以如果你話唔係，
+
+466
+01:42:03,890 --> 01:42:23,900
+噉樣去誒推動個金融業咧，唔係有一個發展局嘅長遠嘅中長期嘅計劃咧，唔投入成本咧，我係唔相信能夠會有長遠嘅結果嘅。所以呢點咧，我係希望即係我係唔係需要答覆，但係我希望係政府考慮誒立法會要。
+
+467
+01:42:23,900 --> 01:42:26,620
+配合，誒市民要支持。
+
+468
+01:42:26,900 --> 01:42:36,290
+誒，業界要一齊協作，嗱，多方面一齊嚟搞嘅，噉啊，希望政府方面咧就盡快咧，可唔可以提供一啲？
+
+469
+01:42:36,570 --> 01:42:45,370
+誒叫長中長期成本與效益計劃，如何去使用呢個發展局咧，能夠為？
+
+470
+01:42:45,650 --> 01:42:55,920
+香港為業界創造利潤，誒創造更多嘅即係所謂誒職位啊等等。噉啊，我係純屬一個建議啫，希望你考慮。好啊。
+
+471
+01:42:56,430 --> 01:43:01,240
+好啦，今日好啦，啱時間好啊，啱就跟住就請阿陳鑑林議員啊。
+
+472
+01:43:01,650 --> 01:43:02,610
+對，姐姐。
+
+473
+01:43:02,890 --> 01:43:05,200
+主席啊，查睇你哋都好辛苦。
+
+474
+01:43:06,000 --> 01:43:07,150
+噉啊！
+
+475
+01:43:07,460 --> 01:43:27,470
+嗱，我我自己覺得咧，即係人才確實係我哋未來一段時間裏邊最重要嘅嗰個關鍵，因為過去誒我哋每日嗰個就算係股票市場裏邊咧，成交量咧都係誒六七百億已經好巴閉嘅，咁而家去到千億、千幾二千億咁一。
+
+476
+01:43:27,470 --> 01:43:36,010
+路增長，睇嚟咧嗰個勢頭咧，誒應該都係會誒，即係保持喺一個比較高嘅水平。
+
+477
+01:43:36,290 --> 01:43:41,850
+咁但係喺現時嚟講咧，我哋誒成個市場裏邊嘅人才咧係會缺乏嘅。
+
+478
+01:43:42,130 --> 01:43:47,800
+誒，除咗而家誒兩地嘅嗰個交投量啊互通咗之後咧，
+
+479
+01:43:48,080 --> 01:44:08,090
+誒將來喺基金啊，喺其他嘅嗰個產品裏邊咧，都會增加，所以人才呢一方面嗰個需求咧，我覺得係非常之殷切。除咗好似誒張華峯議員佢哋誒行裏邊嗰啲，即係呢一類嘅日常做買賣嘅人才之外，其實對於市場。
+
+480
+01:44:08,090 --> 01:44:28,100
+去分析啊、誒評估啊，或者係誒即係市場裏邊嘅一啲誒宣傳啊各方面嘅人才咧，其實都係好重要。咁而家我哋睇咧就係誒誒金融發展局裏邊嘅建議，未來一段時間嗰個三大範疇裏邊咧，其實。
+
+481
+01:44:28,100 --> 01:44:48,110
+我自己睇咧都係唔係好足夠，因為呢啲都係好短、好短嘅嘢。咁只係搞一啲誒課程啊，搞一啲講座啊，係唔能夠真係喺本地咧培養到一啲足夠嘅人才。特別而家大學咧，佢哋嗰個課程嘅設計咧，真係唔能夠適應到成個市。
+
+482
+01:44:48,110 --> 01:45:08,120
+市場嘅嗰個需要，咁所以我希望就係日後可以喺呢一方面咧，多提一啲建議，同有關嘅大學，譬如幾間主要嘅大學咧，係可以商討下佢哋嘅課程咧，係點樣可以誒修定符合而家市場嘅需要嚇。咁然後咧就係多做一啲誒。
+
+483
+01:45:08,120 --> 01:45:28,130
+誒，即係真真正正係由由淺到深噉樣嘅一個培育嘅過程咧，你先至可以誒攞到市場有需要嘅一啲人才，而唔係咧就我哋成日講嘅喺嗰個行裏邊做一啲交易嘅誒，好似我哋百貨店裏邊嘅售貨員一樣。
+
+484
+01:45:28,130 --> 01:45:48,140
+因為嗰啲咧，一般大學生佢未必中意嘅，咁可能佢係需要一啲高端啲咁多嘅誒，即係人才喺個行裏邊。噉我我希望咧係可以做到呢一點。另外就係誒建議嗰個現時喺市場裏邊咧嗰個誒，剛才你哋。
+
+485
+01:45:48,140 --> 01:46:08,150
+你都有介紹多咧，就係嗰個交易嘅週期。咁其實而家我哋T加二係嘛？T加二定T加三啊？T加三啊？T加二，T加三，T加二係咪？即係呢個亦都係可以咧，即係再再進一步研究咧，就係可唔可以減少去到T加一咧噉啊？即係使。
+
+486
+01:46:08,150 --> 01:46:28,160
+睇到咧，嗰個市場裏邊嘅運作咧，可以係縮短嚇，亦都誒增加嗰個誒靈活性。咁其實呢啲係我覺得，我哋有時放鬆少少咧，對個市場嘅幫助可能好大。咁另外就係張華峯議員講到，即係引入嗰個外地嘅人才嗰度咧。
+
+487
+01:46:28,160 --> 01:46:48,170
+我覺得呢個亦都係好必要。如果我哋喺某一啲政策上係可以放寬些少，誒市場其實有一啲人才咧，我哋係可以由外邊引入嚟，嗰個速度啊、成效咧就會快好多。如果我哋透過大學嘅培養咧，可能需要幾年嘅時間。咁睇嚟咧，我我。
+
+488
+01:46:48,170 --> 01:47:08,180
+我覺得應該要進一步去考慮呢啲嚇，都係主席好啊。誒，簡短回應啊嘛，即係同翻十零秒啫。啊誒，我相信誒誒，剛才阿陳議員誒誒，即係都誒提出好多有建設性嘅即係建議啦。我哋有幾方面其實已經做緊，但係我相信咧。
+
+489
+01:47:08,180 --> 01:47:28,190
+咧誒，即係有啲你話長遠嘅咧，我誒都係需要政府嘅政策局嘅。我哋可以提出好多建議，噉我哋都自己瞭解咧。我哋唔係一個誒，即係誒冇執行嘅能力嘅，咁所以誒睇各方面大家嘅支持。咁政府亦都喺度推行緊，有啲已經接納咗。
+
+490
+01:47:28,190 --> 01:47:48,200
+好啊，因為誒，我哋仲要處理阿梁繼昌議員嗰個動議啊。咁如果冇其他委員嘅提問咧，我而家結束呢個議題嘅討論。咁而家咧，我就想處理嗱，阿梁繼昌議員嗰個動議。咁大家都有個字眼啊。咁首先我要決定咧，係咪同呢個會係相關嘅？噉我認為係相關嘅。咁嚟睇下大家有冇反對啊？如果冇人。
+
+491
+01:47:48,200 --> 01:48:08,210
+反對咧，我就會處理呢個項目。有冇人反對？如果冇咧，我係直接進入去處理呢個項目啦嚇。咁變咗咧就誒，大家我一首先就請阿梁啟昌議員講講佢點解會提呢一個誒即係動議嘅嚇。啊，多謝。一分鐘好嘛？一分鐘好嘛？一分鐘又得。兩分鐘啊，兩分鐘。兩分鐘好，多謝你啊，主席。其實我想即係大。
+
+492
+01:48:08,210 --> 01:48:28,220
+佢講翻一些小頭先講嘅議題，關於金融人才先第一樣嘢。其實阿查史美倫主席講到嗰個人才嘅培訓咧，其實我覺得我同佢都有一個嘅對話嘅，就唔係單單淨係可以喺個課程度嗰度可以做到，因為其實即係金融人才必須嗰位同。
+
+493
+01:48:28,220 --> 01:48:48,230
+學又好，誒從業員又好咧，必須要去到一啲國際嘅金融中心去實習去做嘢咧，先正會有一噉嘅視野。噉我自己本身喺倫敦做咗好多年嘢，亦都感覺到的的確確咧，除咗喺個學學即係學課程上面嗰一陣之外咧，係應該令到多啲機會畀啲同學有機會去。
+
+494
+01:48:48,230 --> 01:49:08,240
+外地去去實習一啲投資銀行好、私募基金嘅公司都好啦，呢個好緊要啊！誒，仲有想提一提咧，如果想從事金融業嘅同學，誒最好睇一睇前日咧喺New York Times有有個article講緊，個article叫做Why Harvard Professor Has Mixed Feelings When Students Take Jobs in Finance。
+
+495
+01:49:08,240 --> 01:49:28,250
+嗱，最當然，iBank最近之三數年嗰個image可能真係有少少tarnished咗。但係咧，其實嗰份嘅文章，哈一個哈佛經濟學教授寫嘅，就係好好寫得好好嘅。嗱，講翻正題咧，點解有一個噉嘅動議咧？其實呢個我都第三應該第三次睇。咁其實由前年提到而家提。
+
+496
+01:49:28,250 --> 01:49:48,260
+我個思路咧都改變咗。其實我今次提咧，係頭先聽到阿阿阿阿主席就話：，誒，我哋呢啲嘢做唔到，嗰啲嘢做唔到，嗰啲委員啊做得好辛苦。尤其是我個同事咧，阿馬雪文先生咧，日日都同我講話做到嘔血，因為佢啊積壓咗好多好多嘅時間去做一啲噉嘅研究，同埋係自己嘅時。
+
+497
+01:49:48,260 --> 01:49:51,320
+亦都用自己嘅資源去做。
+
+498
+01:49:51,680 --> 01:49:57,600
+嗱，咁如果你既然話可能係有一個嘅誒？
+
+499
+01:49:58,170 --> 01:50:18,180
+方向感係去做一個比較大規模啲嘅一個架構嘅時候咧，我倒不如你真係要做一個誒法定機構。但係喺做咗法定機構之前咧，我都想你即係用翻呢個正正識識嘅咩叫委員會，因為你同誒咪發展局比或者律律法局比係的確係有啲唔同嘅嚇。呢個我嘅原因啫，主席唔該曬。好啊。
+
+500
+01:50:18,180 --> 01:50:31,240
+誒，除咗陳嘉林議員，有冇其他人想講嘢咧？嚇，阿黃君嚇，噉我就畫條線啦，兩位講啊，咁跟住我哋投票啦，係嘛？噉啊，陳嘉林議員都係兩分鐘嚇，兩位都係嚇。主席，我覺得咧就。
+
+501
+01:50:31,520 --> 01:50:51,530
+無需要改嘅，因為既然間已經叫咗呢個名，而且我哋大家都知道咧，即係佢嗰個職能咧係好清晰嘅，根本亦都唔會有啲咩混淆。而家喺我哋呢個社會裏邊咧，其實有好多諮詢架構又好，或者係非政府機構都好啦。
+
+502
+01:50:51,620 --> 01:50:53,520
+都係有個局字喺後邊嘅。
+
+503
+01:50:53,820 --> 01:50:56,380
+咁所以誒，即係我覺得。
+
+504
+01:50:56,700 --> 01:51:16,710
+誒冇需要再搞咁多攪教嘢，同埋你中文又改咗，英文又唔改噉，噉你更加又係攪教啦，係咪啊？如果你話中文要改噉，英文你咪改埋咯，噉就committee咯，噉係咪啊？即係用委員會嘅話，咁所以咧又，我覺得又不三不四。
+
+505
+01:51:17,030 --> 01:51:20,200
+係嘛？咁所以我覺得冇冇需要改。
+
+506
+01:51:20,480 --> 01:51:40,490
+我係黃國興議員。喂，主席。誒喺開頭第一輪發言咧，我已經係誒反對梁繼昌議員嘅誒議案啦。我認為咧就係而家金融發展局係做得好好喺咁艱難嘅政治環境底下咧，亦都做出成績。一如我哋嘅同事講咧，就你哋。
+
+507
+01:51:40,490 --> 01:52:00,500
+係無私奉獻嘅，係好難得啊！而家喺香港呢個社會噉，如果梁繼昌議員話佢識嘅朋友都做得咁辛苦，咁唔緊要啦。噉啊，發展局繼續做好啲。第日你哋嚟攞資源嘅時候咧，我希望咧，梁繼昌及泛民嘅議員咧就唔好阻攔就得啦。噉啊～
+
+508
+01:52:00,500 --> 01:52:04,480
+呢個就係以後你哋發展，所以咧，我希望誒。
+
+509
+01:52:04,950 --> 01:52:24,960
+查志榮主席咧，你聽到咧，佢哋咁既然都咁欣賞你哋咧，咁但係你哋放心嚟攞資源啦，噉啊令到咧名更符實，咁咪好事嚟嘅。所以咧，我係誒反對梁繼昌議員嘅議案。好誒，政府方面或者查太冇咩意，有冇想講少少嘢？
+
+510
+01:52:25,490 --> 01:52:27,990
+誒，我只可以話誒。
+
+511
+01:52:28,520 --> 01:52:48,530
+我就當然唔希望將個名改啦。噉啊，兩年內誒好不容易即係做到啲實事，大家社會上就會受到大家嘅認可。咁如果而家再改名咧，可能會畀人你一個誒誤解，覺得我哋可能工作做得唔好啊，誒或者係有其他嘅政府有其他嘅意圖。
+
+512
+01:52:48,550 --> 01:53:07,750
+我相信係會有啲混淆嘅，多謝主席。OK，阿阿黃生咁講，阿阿張主席咁講。主席，誒依個依個議題喺過去嘅誒委員會嘅會議都講過啦。政府嘅立場就係誒依個用依個局嘅名，我哋唔覺得有乜嘢係即係唔。
+
+513
+01:53:08,030 --> 01:53:28,040
+唔好嘅地方，噉我我亦都相信，好似頭先主席講咧，阿查主席講咧，就係誒呢個位呢個呢個局已經做咗兩年嘅工作啦，喺而家再將個名改咧，反而我覺得會對公眾嚟講咧係引起一啲混淆。好啊，阿葉劉淑儀議員，你想發言係咪？係啊。咁但係，因為我哋咧。
+
+514
+01:53:28,040 --> 01:53:48,050
+就誒畫條線，唔好唔緊要，一分鐘好嘛？噉我真係畫條線啊！一分鐘啊！啊，好快啫！我真係我反對呢個議案，我覺得有啲越權咯。你唔中意可以畀意見，但立法會點會通過議案要人改名嘅啫？即係冇乜理由啦，係嘛？所以我會反對。好啊，多謝你。好，現在我哋係進行表決嘅，係。
+
+515
+01:53:48,050 --> 01:53:48,740
+係。
+
+516
+01:53:49,370 --> 01:53:50,740
+點名投票係好啊！
+
+517
+01:53:52,800 --> 01:53:53,840
+佢係鏡面㗎嘛。
+
+518
+01:53:54,120 --> 01:53:56,370
+啊！記名投票啊！噉我哋就。
+
+519
+01:53:57,040 --> 01:53:57,800
+你講暫時。
+
+520
+01:54:01,030 --> 01:54:05,790
+好啊，或者我哋啊，唔係誒，各位議員，你哋暫時唔好唔好討論社保先。
+
+521
+01:54:06,940 --> 01:54:13,770
+阿峯哥啊，峯哥，誒請暫時唔好唔好討論，我哋表決完先好嘛？嚇好啊！現在誒支持呢個動議，請舉手。
+
+522
+01:54:15,870 --> 01:54:24,590
+唔係頭先你記明，我哋而家呢個會咧係記明，如果你要打鐘係一件事嚟喎，嚇你有冇要打鐘？要打鐘係OK嚇，畀個鐘響五分鐘。
+
+523
+01:54:53,490 --> 01:54:54,130
+係。
+
+524
+01:54:57,140 --> 01:54:58,060
+係喎。
+
+525
+01:55:07,600 --> 01:55:08,420
+嗯。
+
+526
+01:55:18,510 --> 01:55:19,950
+我頭先又講嘅嘢又再。
+
+527
+01:56:49,540 --> 01:56:50,180
+都不用。
+
+528
+01:59:28,370 --> 01:59:29,800
+好誒。
+
+529
+01:59:30,080 --> 01:59:33,760
+請支持呢個動議嘅舉手，梁繼昌議員。
+
+530
+01:59:34,770 --> 01:59:36,390
+反對嘅請舉手。
+
+531
+01:59:37,020 --> 01:59:39,120
+係而家又寫緊名啊！
+
+532
+01:59:44,410 --> 01:59:45,440
+好啊。
+
+533
+01:59:45,760 --> 01:59:46,950
+啊！你攞讀名。
+
+534
+01:59:48,430 --> 02:00:08,440
+或者我代啊，主席讀一讀啦。支持呢一個議案嘅咧，就係梁繼昌議員；反對嘅議員咧，就包括咗陳健林議員、黃定江議員、葉劉淑儀議員、黃國興議員、李慧瓊議員、張華峯議員同埋石禮謙議員。所以係誒支持係一票，反對係誒七。
+
+535
+02:00:08,650 --> 02:00:18,180
+七票嚇，係啦，好啊，噉啊就呢個議案動議被否決嘅嚇。咁而家今日係多謝大家嚇，噉啊完成曬所有項目，多謝啦。

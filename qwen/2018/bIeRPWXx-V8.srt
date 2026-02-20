@@ -1,0 +1,2163 @@
+1
+00:00:35,370 --> 00:00:36,200
+早晨。
+
+2
+00:00:36,740 --> 00:00:37,680
+good morning.
+
+3
+00:00:40,410 --> 00:00:41,350
+Morning, Robert.
+
+4
+00:00:42,710 --> 00:00:43,710
+我。
+
+5
+00:00:28,190 --> 00:00:29,420
+早晨啊，各位。
+
+6
+00:01:33,200 --> 00:01:34,610
+好好，唔該。
+
+7
+00:00:30,240 --> 00:00:32,760
+噉啊！我都誒，等你坐底先啦。
+
+8
+00:02:15,700 --> 00:02:18,230
+可以有少少具體嘅回應。
+
+9
+00:00:00,000 --> 00:00:10,810
+我哋夠中又夠法定人數，噉我哋今日可以開會啦。誒，我哋或者先請誒政府當局嗰啲誒代表誒進入會議室先啦，唔該。
+
+10
+00:01:01,800 --> 00:01:12,910
+仲有律政司誒法律草擬科嘅誒高級政府律師阿朱女士，同埋亦都係金管局誒處置機制辦公室嘅啊陳。
+
+11
+00:00:44,030 --> 00:01:01,490
+早晨，誒，我介紹下今日誒政府當局嘅代表啦，有阿阿張首席助理秘書長，金管局處置機器辦公室嘅主管Mister Amon Wright，誒，又係處置機構辦公室嘅誒Mister Robert Polbin。
+
+12
+00:01:13,190 --> 00:01:33,200
+劍怡女士嚇，咁誒而家我諗咧，首先我哋第一樣嘢咧就係誒政府當局咧就回應咗我哋上一次十一月廿三號會議討論嘅各項問題。噉我諗咧有需要請誒當局先介紹下你哋嘅回應，好唔好啊？咁誒係邊位張秘書長？幾句先？
+
+13
+00:01:35,680 --> 00:01:55,690
+多謝主席，多謝各位委員。咁誒，我相信喺前兩次會議咧，我哋都討論咗誒，即係誒，不單止係呢一個誒lock嘅規則，亦都係誒議員或者委員同埋誒好多業界代表係關注嗰個實務守則裏邊嘅一啲具體內容。咁因為個實務守則其實。
+
+14
+00:01:55,690 --> 00:02:15,700
+誒金管局正喺度進行緊諮詢，雖然個諮詢期未完，但係都有一啲意見係比較明確地收到翻嚟。咁所以咧誒金管局亦都好想即係喺現階段就誒誒同大家即係都簡單回應一下佢哋嗰個意向。噉我而家請啊Mr. White。
+
+15
+00:02:19,120 --> 00:02:39,130
+Amon, please. Thank you, thank you, Chairman, and thank you for the last session and the questions from members and from industry. And with the administration, the HKMA has reflected on those points and would like to highlight a couple of key points from our written response circulated yesterday, which I hope they're explicitly designed to.
+
+16
+00:02:39,130 --> 00:02:59,140
+address the feedback and concerns expressed by legislative members in our last two sessions. So the first key point I'd like to highlight relates to the authorised institutions that are within scope of the LAC rules. The key point here is that no AI will be automatically subject to the loss-absorbing capacity requirements under the rules.
+
+17
+00:03:42,750 --> 00:03:44,340
+on timeline.
+
+18
+00:04:26,140 --> 00:04:29,390
+Fourthly, on minimum debt requirements.
+
+19
+00:05:53,780 --> 00:05:57,770
+made to the various aspects of the light rules.
+
+20
+00:06:18,060 --> 00:06:25,190
+whether you will undertake to do a regular review on a three-year basis.
+
+21
+00:04:00,670 --> 00:04:09,850
+And the earliest at which non-DSBs will be required to meet the lack requirements is the first of January two thousand and twenty-three.
+
+22
+00:05:03,740 --> 00:05:13,070
+So there are the key points. I just like to flag for Legco members' attention this morning, and happy to take any questions on the wider response. Thank you.
+
+23
+00:03:32,090 --> 00:03:41,620
+香港 dollars to 300 billion Hong Kong dollars when finalising the LAC code of practice chapter after the consultation.
+
+24
+00:02:59,150 --> 00:03:11,270
+或The Lack Code of Practice Chapter， it is only where the the failure of an AI is expected to pose a risk to financial stability， including to depositors， that it would be subject to lack requirements。
+
+25
+00:04:10,250 --> 00:04:25,410
+所以，where the resolution authority determines that an entity will not be able to meet its lack requirements to this timetable，the RA has the flexibility to consider allowing a longer implementation period on a case-by-case basis.
+
+26
+00:03:44,620 --> 00:04:00,390
+The resolution authority confirms that, excluding the non-Chinese globally systemically important banks or G-SIBs, the earliest at which any domestic systemically important bank or D-SIB will be required to meet the lack requirements is the first of January 2022.
+
+27
+00:04:29,670 --> 00:04:45,740
+Following an ongoing dialogue with industry, the resolution authority proposes to permit eligible additional Tier 1 capital instruments to count towards the minimum debt requirement under the LAC rules, whether accounted for as debt or equity.
+
+28
+00:04:46,330 --> 00:05:03,370
+And finally, with respect to the review timeline for the LAC Code of Practice chapter, the resolution authority can confirm that he intends to undertake a review of the forthcoming LAC Code of Practice chapter no later than three years after its introduction.
+
+29
+00:03:12,070 --> 00:03:32,080
+Now on the threshold set out in the draft LAC code of practice that we have previously discussed, the monetary authority as resolution authority for AIs now intends to increase the total consolidated asset threshold from the currently proposed 150 billion.
+
+30
+00:07:34,890 --> 00:07:35,480
+係。
+
+31
+00:07:23,720 --> 00:07:24,520
+但。
+
+32
+00:07:19,070 --> 00:07:20,520
+我亦都 liked。
+
+33
+00:06:25,560 --> 00:06:28,080
+因為我諗。
+
+34
+00:07:20,800 --> 00:07:23,440
+The authority to elaborate to us.
+
+35
+00:07:35,800 --> 00:07:40,560
+啊，會address the issues raised by honourable梁。
+
+36
+00:08:20,860 --> 00:08:27,980
+international and domestic policy developments, and then we would expect to then do an industry consultation.
+
+37
+00:06:57,140 --> 00:07:04,900
+and I would also like to have some sort of guarantee or some some sort of guideline.
+
+38
+00:07:24,890 --> 00:07:34,140
+aspects of you know what direction would the review be be taken to address what what kind of problem in this review? Thank you.
+
+39
+00:06:46,520 --> 00:06:56,830
+first of all, I would like to have a very clear undertaking from the authority that such review will be done regularly on a three-year basis.
+
+40
+00:07:05,220 --> 00:07:18,790
+The direction of the review. If a review is done just as a matter of review, because you you you would like to tell people that you done a review, that's of no use.
+
+41
+00:06:28,370 --> 00:06:45,880
+Various factors would have changed within three year or within a three year period, including market share, including the general economic climate, including economic growth as well. So.
+
+42
+00:05:13,760 --> 00:05:33,770
+嗯，好誒，而家咧，我諗就請委員可以就誒政府當局嘅回應發問。咁第一位係阿梁繼昌委員誒，跟住我見到阿張華峯委員、阿姚思榮委員、陳建波議員都都有問題嘅。噉啊，第一個先阿梁繼昌議員，我諗可以畀。
+
+43
+00:05:33,770 --> 00:05:53,780
+畀大家八分鐘啊！如果嚇噉，你可以少過八分鐘嘅嚇。多謝主席。I think I would like to address the the questions, concentrating on on on the reply this time. I think generally we welcome the changes.
+
+44
+00:05:58,050 --> 00:06:18,060
+First question is about the review. You mentioned that a review will be done no less than three or at most three years from now on, from the implementation date. But however, I would like to ask specifically.
+
+45
+00:09:57,660 --> 00:10:00,640
+financial analyst and and and and.
+
+46
+00:09:08,280 --> 00:09:11,470
+Banking associations and individual banks to get feedback.
+
+47
+00:09:43,350 --> 00:09:46,670
+aside from bankers。
+
+48
+00:09:53,800 --> 00:09:57,230
+no no, I thought okay.
+
+49
+00:09:46,970 --> 00:09:50,630
+perhaps，我認為信用評級機構，perhaps。
+
+50
+00:10:28,500 --> 00:10:33,080
+create a a more transparent, you know.
+
+51
+00:09:22,490 --> 00:09:27,580
+Yeah, we would do that as part of the review of the. As part of the review. Yeah.
+
+52
+00:10:20,990 --> 00:10:27,890
+to comment on it as well. Although I I should think the public, the general public, would not be too keen, but it just.
+
+53
+00:10:35,170 --> 00:10:42,760
+increase transparency and of course your work will be more accountable to the public. that that is my view. okay.
+
+54
+00:09:12,590 --> 00:09:22,200
+So, before the you are going to conduct the review, you will have a industry consultation. Is my understanding correct?
+
+55
+00:09:27,910 --> 00:09:42,850
+So, why don't you also undertake a public consultation as well? Because I do think, because depositors and the general public would like to know. Of course, I mean most general public would not be very interested in in these matters, but
+
+56
+00:07:40,840 --> 00:08:00,850
+So thanks very much for the question. As you'll know, the current draft of the COP that's out for consultation commits to keep the text under review. And today we are happy to commit to do a review within three years. And to the point that the member requests, I think we are also happy to say that.
+
+57
+00:08:00,850 --> 00:08:20,860
+We will do a review every three years. In terms of the types of type of review that we will conduct, I think what this will involve is a consideration of all key aspects of the code of practice based on the experience that from our resolution planning with individual firms in Hong Kong and.
+
+58
+00:08:28,260 --> 00:08:48,270
+Like we are doing now on material changes. Sorry, what what kind of consultation you are going to undertake? Industry an industry consult. So currently the code of practice is is under an industry consultation. Um, so we engage with industry. We publish the draft COP on our website. And I what we're proposing is to repeat that process.
+
+59
+00:08:48,270 --> 00:09:08,280
+So before the review, you would undertake a public consultation. That is your promise as well, right? So subtle difference between industry and public consultation. For your to reassure you, for us, an industry consultation, we publish the doc the draft document on our website, and then we engage with.
+
+60
+00:10:00,980 --> 00:10:20,990
+other professionals will also be interested in in in the exercise as well, and if it is not too troublesome, and I should not think that would be a problem. Because if you publish a a a draft or something for for the industry, you may as well do it and and ask for the public to to.
+
+61
+00:10:43,040 --> 00:11:03,050
+Amen. I think you better to introduce Hong Kong MA's practice all along. Whether this this kind of consultation will be conducted in you know a public way or just an industry consultation, so you have to explain a little bit more, please. Exactly. So I think the HKMA's typical practice for
+
+62
+00:14:43,620 --> 00:14:45,000
+more important factors.
+
+63
+00:15:17,630 --> 00:15:19,040
+Robert，please。
+
+64
+00:13:35,020 --> 00:13:42,730
+隨住個誒時間咧，會越嚟越大嘅。噉我哋而家呢次咧就set咗係三千億。
+
+65
+00:15:05,290 --> 00:15:16,320
+Between banking assets and market size overall, I think we have been very clear that there are other factors that the resolution authority also needs to consider in ensuring that Hong Kong banks can be resolved in an orderly way if they fail.
+
+66
+00:12:40,770 --> 00:12:54,550
+Have a comparison between the two, although you are different regulators. But if that is the the norm, then then I I will have no intention unless there is a real reason to change that kind of approach. Thank you.
+
+67
+00:12:03,080 --> 00:12:20,380
+group who we maintain an active dialogue with on a regular basis and in particular during consultation periods. Okay, may I raise one more question? Okay, sure. Yeah, thank thank you for your explanation. But I would like to to raise a wider issue. Maybe the bureau can answer this question.
+
+68
+00:14:03,300 --> 00:14:22,500
+咯，即係話誒，譬如將來個market size大咗啦，咁誒三千億可能只係佔零點五或者零點四，咁到時我哋就要review三千億去翻去一點二嗰個嗰個門檻，噉我我唔知呢個concept你哋會唔會擺入，都係擺入你哋每三年嗰個重檢裏邊咯。
+
+69
+00:11:03,050 --> 00:11:23,060
+Across supervisory and resolution guidance on standards that banks need to comply with, whether it's under a supervisory SPM, under the Bo, or a code of practice under the FIOR, is to conduct an industry consultation. So that's our normal practice. So I think to depart from that and engage in a public consultation on guidelines would be a departure from.
+
+70
+00:11:23,060 --> 00:11:43,070
+EMA's normal practice. However, I think from a resolution perspective, we welcome engagement from a wide set of participants. That's why we published the draft documents, the draft code of practice, on our website during the consultation period, and to reassure you in terms of the wider set of stakeholders that participate in the market, we.
+
+71
+00:11:43,070 --> 00:12:03,080
+We also engage with them during the consultation period. You mentioned rating agencies, other market participants, those who support and advise banks on debt capital markets issuances through the through the consultation period. Our normal practice is to engage with those bodies. IZDA, for example, they're another typical.
+
+72
+00:12:20,760 --> 00:12:40,770
+Code of practices are issued by many regulators, typically MA and also the SFC. I would just like to know whether the SFC follow a similar consultation period when when they want to revise a code or or to publish a code. Is it the industry route or or the public public route? I mean, I just want to to
+
+73
+00:12:55,000 --> 00:13:15,010
+Well, I think this is a wider question that we can address outside this subcommittee. But I'm happy to take it back and give the honourable Mr. Long reply later on. Okay, thank you. That's my my questions for the moment. Okay. 啊，我就想follow up下啊梁議員。
+
+74
+00:13:15,010 --> 00:13:35,020
+個問題嗰其中一部分咧，就係話誒，金管局會每三年去重檢一次啦。咁誒，但係咧，我有個observation咧，其實香港個market咧，而家越嚟越多，無論內地嘅金融機構或者其他國際嘅金融機構都會嚟嘅。咁即係話咧，我哋個market嘅size咧，可能
+
+75
+00:13:43,290 --> 00:14:03,300
+嘅總資產啦，咁如果我哋嘅market size越嚟越大咧，而家我哋三千億大約roughly就係一點二個percent嘅total at啊物誒banking asset，噉我起碼覺得呢個一點二呢個呢個百分比咧，應該係將來重檢嗰時冇理由重檢會低於一點二。
+
+76
+00:16:29,630 --> 00:16:35,000
+O.K.噉啊，下一位啊，張華峯議員，唔該。啊，多謝主席。
+
+77
+00:16:19,560 --> 00:16:28,610
+GDP，實際上，這個門檻，提出現在在香港，是顯著地高於可比門檻在那些其他主要管轄區。
+
+78
+00:18:35,360 --> 00:18:46,420
+會唔會即係政府又玩呢啲官方嘅語言啊、文字遊戲啊？喺個守則嗰度會唔會再嚟一次即係諮詢我哋業界咧？令到嗰個。
+
+79
+00:19:26,720 --> 00:19:43,560
+自然增長啊！嚇係用啲乜嘢嘅標準去三年後呢個討論嘅標準會唔會將呢個三千億再隨著個經濟發展而提高咗嗰個三千億嘅界限咧？唔該，兩個問題。
+
+80
+00:14:23,610 --> 00:14:43,620
+Sure, I'm I'm happy to let my colleague Rob also contribute. So, there's a set of factors that we've set out in our consultation draft in the in the rules and in the code of practice that has have informed the drawing of the line. And percentage of the market represented in terms of banking assets has been one factor, but there's been a range of other
+
+81
+00:14:45,280 --> 00:15:05,290
+and they relate to the nature of the activities that the banks carry out, the numbers of depositors, the nature of depositors, the number of unprotected balances, and the challenge in applying different types of resolution tools while protecting public funds. So in addition to the factor that you mentioned about rela
+
+82
+00:15:19,530 --> 00:15:39,540
+So while of course the ratio of the threshold to total banking assets is one measure of how important that threshold is, it's also the case that in Hong Kong the ratio of banking assets to the size of the economy as a whole is significantly larger than in any other major international.
+
+83
+00:15:39,540 --> 00:15:59,550
+國際金融市場。所以，在我們的回應中，其實針對Legco提出的問題，在上次的子委員會會議中，我們也比較了兩地的經濟規模。在這裡，我們看到香港的3000億是高於10%。
+
+84
+00:15:59,550 --> 00:16:19,560
+Of Hong Kong's annual GDP, whereas by comparison, the assets of the smallest institutions covered by loss-absorbing capacity requirements in Japan, the UK and the US constitute 7.3, 0.75 and 1.3% of their GDPs respectively. So when measured against GDP.
+
+85
+00:16:35,300 --> 00:16:55,310
+首先咧，我哋都好歡迎咧，即係政府當局咧從善如流啊！即係經過我哋即係上一次嘅會議嘅即係建議啊、討論啊，佢哋啊作出咧即係迅速嘅反應，咁亦都將誒即係嗰個門檻咧由一千五百億咧去到三千億嘅。噉我哋。
+
+86
+00:16:55,310 --> 00:17:15,320
+覺得誒呢個三億，正如我講嘅，我提到三億至三千至四千億呢度咧嘅數字差唔多，所以我哋覺得呢次修改咧對個中小企係有一定嘅幫助，亦都減低佢哋營運嘅成本。但係事實上咧，我哋呢個條例咧，本嚟咧就係咧要。
+
+87
+00:17:15,320 --> 00:17:35,330
+即係個房子大到不能倒嘅呢個銀行嘅體係出現問題嘅時候點樣做？但係咧就因為我哋個資信不足，可能咧搞到所有嘅細嘅銀行都會牽涉在內，所以有出現咗呢次噉嘅即係個討論啦。係咪咁？當當然啦，呢次嗰個太多。
+
+88
+00:17:35,330 --> 00:17:55,340
+到啊三千啲噉啊，大家都覺得啊，應該係呢個時間咧，就應該係對我哋嘅中小企係有一定嘅幫助。咁頭先啊，梁介聰議員都講過，喂呢個噉嘅政策措施會唔會延續到啊證監會嗰度咧？咁其實我今日咧，即係即係呢次咁緊張咧，我都。
+
+89
+00:24:17,760 --> 00:24:19,400
+process.
+
+90
+00:22:58,650 --> 00:23:00,900
+我試下解答。
+
+91
+00:24:19,680 --> 00:24:22,900
+所以，諮詢文件那被發布反映EMA的 views。
+
+92
+00:22:54,420 --> 00:22:57,740
+更加好咧！我我我嘅理解啊，張議員嘅意思係噉。
+
+93
+00:23:01,180 --> 00:23:07,300
+誒，因為其實嗰個實務守則咧，個草擬嗰個草稿咧已經公佈咗。
+
+94
+00:23:07,580 --> 00:23:17,410
+噉，但係當然就住一啲大家好關注嘅部分咧，就誒，我哋已經有一個比較清晰嘅意向。咁至於其餘，
+
+95
+00:21:44,080 --> 00:21:58,030
+重新再睇過，噉我所以講覺得咧，即係話呢個首質嗰陣時咧，應該充分體現到三千億同埋delay兩年呢個原則，噉就會即係我覺得呢樣嘢就會好啲啦嚇。
+
+96
+00:22:18,370 --> 00:22:34,130
+符合到業界嘅期望啊！即係可能你呢度係寫咗噉，咁但係嗰度咧除咗咁之外咧，畫乜乜乜乜乜咁噉，佢驚有啲細節咧會未必能夠符合。噉啊，張議員咧隱隱就覺得你哋呢一次嘅修改，
+
+97
+00:17:55,340 --> 00:18:15,350
+都即係受到咧證金會有一啲條例咧，佢係管大行，但係都管埋我哋咧中小企，令到我哋咧即係無端端咧受到好大嘅資金壓力。咁呢啲咧係點解我今日啊，即係呢兩次會議咁緊張睇就睇呢樣嘢嘅啫。噉啊嗱嗰。
+
+98
+00:18:15,350 --> 00:18:35,360
+嗰個誒，我想咧，即係喺規則之下，我哋定咗已經提到呢個啊三千億啦。時間亦都係滯後咗兩年啦。咁呢個原則上，我哋係誒受落嘅。但係喺嗰個遲啲喺嗰個嗰個守則嗰方面咧。
+
+99
+00:18:46,700 --> 00:19:06,710
+呢個規則係通過守則，亦都滿意噉。呢個嗰個嗰個大到不能到呢個議題，至會即係覺得係比較完美嘅結束同埋完美嘅解決咧嚇。咁呢個係第一個問題，即係會唔會再諮詢業界喺個守則嗰方面？第二咧。
+
+100
+00:19:06,710 --> 00:19:26,720
+誒文件都寫咗咧，三年之後再討論嗰個嗰個三千億嘅。噉我想問下嗰嗰嗰個重新考慮檢討嘅時候咧，嗰啲基準放喺邊度？會唔會誒考慮咧通脹啊？啊，個市佔率啦？
+
+101
+00:19:43,850 --> 00:20:03,860
+好啊，係咪啊？張秘書長，你答清誒誒張議員誒提及呢個證券業噉，今次呢一個誒規則同埋實務守則都係針對銀行界嘅噉，所以我哋暫時未有計劃誒進一步去到證券業誒做誒一個相關嘅規則。呢個可以請個張議員暫時。
+
+102
+00:20:03,880 --> 00:20:23,890
+誒唔使有呢一個擔心。另外咧就係誒誒頭先張議員亦都提到咧，就係誒嗰個守則，我相信係講緊實務守則嗰個諮詢。其實嗰個諮詢期而家都仲未完嘅。咁誒頭先誒金管局所誒作個回應咧，就係雖然誒諮詢期未完，但
+
+103
+00:20:23,890 --> 00:20:43,900
+係因為有啲意見已經收到好明確，噉佢哋亦都想即係提早畀一個意向，等業界知道嗰個誒到時誒到諮詢完咗之後，佢哋嗰個取態會係點樣。咁至於誒誒嗰個十務守則咧，頭先金管局同事都誒承諾咧，就係三年之內。
+
+104
+00:20:43,900 --> 00:21:03,910
+會有一個檢討啦，而之後每三年亦都做一個檢討，而檢討過程之中咧，亦都會同業界做誒溝通同埋諮詢嘅。咁所以我相信有啲乜嘢嘅意見，或者係如果佢哋係誒到時嗰個考慮因素係包含啲乜嘢部分嘅話，業界可以有充分嘅機會同佢哋溝通嘅。
+
+105
+00:21:04,060 --> 00:21:24,070
+阿主席，主席，誒，誒，即係我都有啲擔心啊。雖然咧嗰個規則嚇，即係已經定咗啦，三千億定咗啦，延期咗兩年都定咗啦，但喺細節嗰度咧，會唔會又出現一啲問題咧？令到呢個三千億同埋兩年嗰個嗰個誒碳效嘅執行？
+
+106
+00:21:24,070 --> 00:21:44,080
+其咧又增增添咗一啲啊，所謂一一啲比較嚴厲嘅呢個手則，令到呢個頭先我哋改變咗心思同時間嗰度，又增添咗一啲困難，令到嗰個啊銀行又遇到一個營業上或者其他方面嘅嘅嘅不利嘅嘢，咁又要再。
+
+107
+00:21:58,360 --> 00:22:18,370
+等等，我去即係演繹下啦。阿張議員嘅意思即係話咧，嗱，而家嗰個守則就未過諮詢期，十月三號。噉你哋喺個文件度咧就答應咗，但係呢啲都係一個大框架嚟㗎嘛。咁到你哋出嗰個最終嘅守則嗰時候咧，可能有啲魔鬼細節咧就未能夠完全。
+
+108
+00:22:34,410 --> 00:22:54,420
+你擺咗入原來嗰個手則，因為個手則而家仲係諮詢期完誒未完啦。噉你有冇冇理由會改你嗰個draft㗎嘛？咁但係你後尾嗰個擺落去一個咧，已經係變咗大家又冇第二次機會去表達意見啦。咁點樣可以喺呢兩者嘅嘅嘅一個gap之間咧，可以做得比較更？
+
+109
+00:27:12,090 --> 00:27:13,200
+咯，啊！
+
+110
+00:28:56,190 --> 00:29:00,840
+And I'll just hand to my colleague Rob to talk about how other jurisdictions take this approach.
+
+111
+00:27:55,150 --> 00:28:00,450
+We have taken and clarified today to set the threshold at 300.
+
+112
+00:26:18,380 --> 00:26:31,770
+起碼大家都有個即係準則啦，係咪？誒，另外就係有關誒三年後檢討個問題，三年後檢討，你哋係想向上調定向下調，即係個資產總值？
+
+113
+00:24:43,190 --> 00:24:57,500
+那consultation process that could potentially create some risks for the MA, which we will definitely want to avoid. So I think the changes in the code of practice will be those that limited to those that we've talked about so far and agreed to make.
+
+114
+00:28:40,750 --> 00:28:55,340
+所以，我們還在第一輪諮詢，所以談到第三輪諮詢，就比較困難。但我想，我們今天討論的內容，會被非常重視。
+
+115
+00:23:17,730 --> 00:23:37,740
+冇大家冇表達有關注嘅部分，噉我相信如果冇特別嘅意見的話咧，亦都冇特別需要去作出任何更改。咁所以即係而家，我相信誒金管局同事可以再補充少少，就係而家嗰個態度咧，基本上就係實務守則。大家有意見嘅部分，而我哋亦都。
+
+116
+00:23:37,740 --> 00:23:57,750
+都覺得個意見相當明確，我哋未必需要等到諮詢期完都可以同大家溝通，我哋即係金管局而家目前嗰個意向，咁呢個就係而家做緊嘅嘢。至於其餘即係大家都一路都冇表達有誒，即係什麼特別關注嘅細節，噉我睇唔到有啲咩需要係要。
+
+117
+00:23:57,750 --> 00:24:17,760
+處理嗰啲部分咯，可以請金谷同事再講講。Amin，briefly，I think key maybe one key point is that the HKMA in running the consultation process needs to act reasonably. Um, other we otherwise we expose ourselves to the risk of judicial review for departing from the management of an appropriately reasonable consultation.
+
+118
+00:24:23,180 --> 00:24:43,190
+We will take into account reasonable points that have been raised during the consultation process, and we can't change our position without good reason. So we're setting out today the changes that we think are reasonable and will reflect those. But if we were to change another part of the COP outside
+
+119
+00:24:58,340 --> 00:25:18,350
+O.K.噉我下一位委員，我如果再有其他問題，大家有第二輪嘅嚇。阿姚思榮議員，唔該。誒，多謝主席。就誒呢個規則本身原意咧，就係對嗰啲帶到北衡島嘅銀行咧作出誒有關嘅規定要求嘅。咁但係政府就突然間就轉咗啦嚇，為咗。
+
+120
+00:25:18,350 --> 00:25:38,360
+保弱誒保障香港嘅金融嘅安全啦，所以先係定到一千五百億噉。但係呢個做法咧，我覺得又係一個即係誒叫做使到啲中小銀行咧帶嚟壓力嘅，即係始終你銀中小銀行嗰個經營成本啊各方面啦，佢都要計數㗎嘛。你你作為官方決定嘢，梗係容易啦。
+
+121
+00:25:38,360 --> 00:25:58,370
+但係做做咧，做死人哋嘅，所以政府回應咗，而家係誒三千億啦。但係我三千億呢個數咧，都係要誒，我想清楚問下咧，誒會影響到幾多銀行？因為之前一千八億咧，絕大部分銀行會受影響。但係三千億之後，你有冇計過咧？現時香港銀行會因此噉樣。
+
+122
+00:33:10,820 --> 00:33:11,500
+Okay.
+
+123
+00:31:13,050 --> 00:31:16,700
+當中呢幾年咧，應該都係聽下呢啲誒。
+
+124
+00:32:08,870 --> 00:32:15,450
+誒咁有冇數據咧？第二個就係誒喺檢討嗰陣時候，你會唔會考慮啊？姚議員頭先講嘅意見，唔該。
+
+125
+00:31:36,990 --> 00:31:48,510
+而家你咁空泛去答咧，大家咧始終就覺得我我我冇目標去去去努力啊，咁即係變咗敷衍嚟做，我亦冇意思啊！我覺得係咪應該有個噉嘅承諾咧？咁政府嚇。
+
+126
+00:32:58,220 --> 00:33:10,490
+as stringent as the UK's, perhaps a bit more so than Japan, and perhaps about the same as the US. But I don't want to give concrete answers at this time, but we're happy to do so subsequently.
+
+127
+00:29:41,140 --> 00:29:53,800
+Comparable number, I would just refer back to the the point I made previously that the the 300 billion the proposed threshold here in Hong Kong is more than 10% of Hong Kong's GDP.
+
+128
+00:30:14,100 --> 00:30:32,120
+It's less than one percent of GDP, and in the US it's a bit more than one percent of GDP. So on that comparison, we can see that actually the threshold in Hong Kong as a proportion of GDP is significantly higher than in other major international financial market jurisdictions.
+
+129
+00:25:58,370 --> 00:26:18,380
+受影響有幾多咧？噉樣如果你都係大部分受影響，即係你個措施係即係作用不大。第二咧，就如果按照三千億呢個標準，誒其他誒國家地區佢哋係點樣去釐定呢個標準？譬如新加坡噉樣嚇，或者誒歐洲嘅國家係點樣釐定嘅標準？呢個標準係咪偏高係偏低咁？
+
+130
+00:26:32,070 --> 00:26:52,080
+係咪？如果你係目標向上調，你而家有個有一個即係準則㗎嘛？係咪？譬如話呢三年係冇乜銀行出問題，佢哋嗰個誒守則嘅嘅做法都係按規矩做。噉你哋繼續向上調，咁盡量減輕咗銀行壓力。銀行亦會向呢個誒守則嘅要求去努力做好你哋嘅要求。噉樣大家。
+
+131
+00:26:52,080 --> 00:27:12,090
+目標啊嘛，如果唔係你為咗檢討而檢討，冇意思咯。噉我睇睇係咪呢方面你哋呢個，即係畀大家安心啊！我係向上調嘅，三年後咧，你哋按守則做做得好，我哋可能調調到五千億或者六千億。咁起碼大家清楚究竟我做呢個誒守則達到咩效果，然後大家共同一齊努力。
+
+132
+00:27:15,130 --> 00:27:35,140
+Sure, a couple of points. Three points. I'll copy my ask my colleague Rob to just cover off one of them. So on the number of institutions that that were captured under the 150 billion threshold was 17, based on end 2017 data. If we raise the threshold to 300.
+
+133
+00:27:35,140 --> 00:27:55,150
+100 billion. the the number of firms captured is around twelve. twelve. yeah. so that's based on historical information. the question about the approach of other jurisdictions, I'll hand to my colleague Robert in a minute. in terms of sort of the review in three years' time, obviously we will take very seriously the decision that.
+
+134
+00:28:00,730 --> 00:28:20,740
+and and and the very clear messages that we've received from industry as part of the current consultation and from Legco members in reviewing the 300 threshold, and I think there would have to be very significant developments in the market, very obvious evidence.
+
+135
+00:28:20,740 --> 00:28:40,750
+for any departure from the 300 billion, particularly I think the concerns of Legco members if it were to be lowered. So I don't see I don't see that as a central case, and I think there would have to be a very material development in the market that currently, obviously we can't envisage before with any any risk of that would likely.
+
+136
+00:29:01,120 --> 00:29:21,130
+Yes, just to address the question as to what threshold for imposing loss-absorbing capacity requirements other jurisdictions have used. That's not as simple to answer as we might like, because generally speaking, other jurisdictions haven't provided the clarity around, for example, a total consolidated assets threshold, which is what we're proposing.
+
+137
+00:29:21,130 --> 00:29:41,140
+posing to set out in the code of practice, but what I can tell you is that most other major international financial markets jurisdictions have extended loss-absorbing capacity requirements below the levels of D-SIBs and G-SIBs, which of course is what we're planning here, and in terms of a
+
+138
+00:34:20,800 --> 00:34:22,120
+係。
+
+139
+00:35:21,100 --> 00:35:24,700
+We obviously keep those discussions open, but
+
+140
+00:34:54,510 --> 00:35:00,810
+and that we that the firms above the threshold will be our priority in resolution planning.
+
+141
+00:36:39,360 --> 00:36:50,090
+所以There was no intention anywhere in in the world to cover or extend it to become part of the depositors' protection system.
+
+142
+00:33:29,050 --> 00:33:40,180
+其他 jurisdictions，包括澳大利亞、歐洲聯盟和英國，確保其解決機制和其吸收損失的容量要求可適用於非DZBs。
+
+143
+00:34:22,530 --> 00:34:34,220
+ensure that lack requirements applies to non-DSBs and the UK in particular, as well as some other jurisdictions in Europe like Sweden, apply to comparably small banks.
+
+144
+00:36:22,410 --> 00:36:38,980
+話呢個機制㗎啦，噉你點解要將佢擴闊到噉樣咧？噉樣，噉我希望咧，即係誒有記錄啊！I just want to put on record the intention of the F.I.O. is to manage those too big to fail banks。
+
+145
+00:35:25,050 --> 00:35:41,960
+And and and obviously the future review of any threshold in three years' time will have an impact on those discussions. But I guess I want members to understand that these discussions are happening now and will be happening in the future as part of the MA's work to supervise the resolvability of Hong Kong banks.
+
+146
+00:33:11,780 --> 00:33:28,770
+For the second question, for the second part on on review, but just very briefly in terms of the approach of other jurisdictions, I think as we set out in our response, the written response from the administration, there's a table, and I think two key points I'll just flag from that table.
+
+147
+00:29:54,090 --> 00:30:14,100
+Whereas the the threshold in Japan is lower, essentially around seven percent. Just to make the point, this is not a formal threshold, but this includes the institutions that are covered by the loss absorbing capacity requirements in these jurisdictions. So in Japan, the number is around seven percent. In the UK.
+
+148
+00:30:33,030 --> 00:30:53,040
+誒誒，主席啊，如如果係我覺得就唔好用GDP去做一個比較，因為佢哋嗰個國家嗰個規模啦、人口都唔同，反而係按照嗰個銀行資產總值去作出比較咧，我覺得比較實際啲嘅。噉我唔知有冇呢方面嘅數據啦嚇。咁另外就係頭先講嗰個誒有。
+
+149
+00:30:53,040 --> 00:31:13,050
+有關三年後檢討嘅問題啦。噉我覺得咧，即係始終誒，而家影響到十二間銀行。咁誒，香港發抄銀行都係得得幾間㗎嘛。咁發抄銀行之之後嗰扎銀行咧，其實影響係好明顯。咁所以我覺得呢啲誒，既然都定咗三千億嘅話咧，應該喺做多。
+
+150
+00:31:16,980 --> 00:31:36,990
+誒唔係大到不能倒嘅銀行嚇，噉佢哋本身又唔係發薪銀行，佢造成咗工作壓力，造成一個困難。噉你哋應該多啲聽佢意見。咁去到三千億嘅時候，發覺問題都不大，係咪去調到更高？即係噉樣嘅目標，大家就清楚。然後大家呢幾年咧就會按照手續工作去做，好過。
+
+151
+00:31:48,860 --> 00:32:08,870
+係啦，因為阿姚議員嘅意思就係嗰十二間咧。雖然你哋叫做身體檢查啫，但係檢查完之後會點做咧？唔唔知道噉。佢話應該你哋要誒緊密同佢哋溝通。咁兩個問題嘅一個點解用G誒G D P就唔用我哋香港嘅銀行資產嚟做一個對比？
+
+152
+00:32:18,200 --> 00:32:38,210
+So on the the first question around the why not use the banking assets as the denominator instead. So I just want to clarify that the reference there to GDP, we're not driving our threshold off GDP. That was simply for comparison. I don't have the exact numbers available for the bank.
+
+153
+00:32:38,210 --> 00:32:58,220
+Taking banking assets as a denominator, but just looking from the numbers in front of me on the administration's response to Ledgeco questions from Friday, I would see that if we were to compare it on a banking assets basis, I believe our approach would be less. Our approach would would not be.
+
+154
+00:33:40,780 --> 00:34:00,790
+And so that is the same approach that we're taking in Hong Kong. So these are major capital market jurisdictions comparable to Hong Kong, and in particular I'll pick one. So the United Kingdom, in terms of the non-deebs it considers within scope of lack requirements, the asset.
+
+155
+00:34:00,790 --> 00:34:20,800
+size that they use is one hundred fifteen billion GBP, which is comparable to one hundred and fifty billion Hong Kong dollars. So these key jurisdictions in the European Union, in that includes the European Union banking union jurisdictions and the non banking union jurisdictions, Australia and the UK.
+
+156
+00:39:25,750 --> 00:39:27,000
+delay the path.
+
+157
+00:38:07,190 --> 00:38:08,600
+likely to mean。
+
+158
+00:38:28,410 --> 00:38:32,840
+即係大概係九千億嘅港元，先至係需要包入去啦。
+
+159
+00:39:33,680 --> 00:39:38,660
+南南姆華喂，啊， in school for four， so so you can understand there only four。
+
+160
+00:38:01,430 --> 00:38:06,540
+Australia like to implement only for this ship or special cases.
+
+161
+00:39:27,280 --> 00:39:33,260
+Japan only the three mega banks and and and another major financial.
+
+162
+00:37:53,890 --> 00:38:01,150
+例如你澳洲嗰度咧，你你就講到話澳洲似乎都第二啲都會考慮，但係其實我有啲資料就話most likely。
+
+163
+00:37:10,380 --> 00:37:19,570
+誒誒，ordinance to extend it to others，所以我咧就覺得誒，即係希望都係政府要留意啦。即係今日我哋可能因為你都做咗咁多讓步。
+
+164
+00:38:33,180 --> 00:38:45,280
+England， you know， England is very special because they have suffered from the problem with Northern Rock and Royal Bank of Scotland in the financial crisis. So we can understand why they are so tough on the banks.
+
+165
+00:37:39,860 --> 00:37:53,610
+緊啦，係咪？咁所以我而家有講翻你，你你畀我哋嗰啲嗰頁，我手上有啲資料咧，就係講到咧，你畀我哋嗰啲關於誒亞洲區啊曬各地嗰啲人哋嘅做法咧，其實都唔係全面咯，噉係令人好失望。
+
+166
+00:38:08,890 --> 00:38:28,130
+Macquarie，which perform function in Australian financial system that are different from typical commercial banks，so you are not actually telling us all everything you know。The second one is about Europe，a person to require banks to offer euro one hundred billion to be in in scope。That means nine。
+
+167
+00:34:34,500 --> 00:34:54,510
+In terms of the review point, I think as we've talked about before, the the FIRO applies to all AIs in Hong Kong. So the the reference to a threshold is important as a starting point for the institutions which we think among that very broad community of two hundred AIs are most important for a resolution perspective.
+
+168
+00:35:01,090 --> 00:35:21,100
+所以決 resolution planning is a bilateral discussion between the authorities and banks on an ongoing basis, and it's designed primarily to set the preferred resolution strategy if that bank fails, and to remove that bank's impediments to implementing that strategy. Loss-absorbing capacity is one of the very important barriers to individual banks' resolvability.
+
+169
+00:35:42,390 --> 00:36:02,400
+O.K.咁下一位啊，陳建波議員，解係多謝主席。誒，我因為我都有誒參加嗰個金融機構存摺機製法例，我都有份參與㗎。當時嗰個政策願意又好清晰嘅，即係根本就係一定係針對啲大到不能倒嘅銀行，甚至當時數到幾多間嘅，當時就好清晰，唔知。
+
+170
+00:36:02,400 --> 00:36:22,410
+九九間啊，或者點噉樣嘅，即係咁咧。但係而家咧，你好明顯睇到，哋而家將佢咧係加辣嘅，即係有一個本來儲置大到不能倒嘅銀行咧，而家搞到去咧嚇中小型都要，就甚至轉變為一座保障即係存款嘅計劃。即係香港已經有一個誒存款保障計。
+
+171
+00:36:50,370 --> 00:37:10,380
+所以似乎香港是唯一嘅地方，係嘗試 violate or change it to extend it further, extend your arms to cover the depositors. If we think the depositors system is is is not well enough, then we should improve the the depositors system instead of now using this.
+
+172
+00:37:19,850 --> 00:37:39,860
+誒，我哋都可能需要畀你通過，但係個問題就係話咧，當你喺執行嗰啲誒細節啊，甚至係嗰啲誒cooperate嗰時咧，真係要希望你明白咧，因為你有咁大嘅彈性。如果全世界都冇做到你咁辣嘅話咧，你係冇需要做咁辣嘅。同埋你要明白咧，而家我哋香港銀行都係同嗰啲誒亞洲區競爭。
+
+173
+00:38:45,730 --> 00:39:05,740
+But but still, they now have they what they are saying is we balance size about fifteen to twenty five billion maybe in scope for lag, but the decision will be made on an individual entity basis. So there's a lot of flexibility. That's that's quite like Hong Kong. But I hope you would exercise your discretion.
+
+174
+00:39:05,740 --> 00:39:25,750
+wisely, Singapore there are no plans for non-G ship D ship banks to be in scope at all right now. So there's actually no intention to regulate non-G ship D ship mainland. Obviously we all know there's the plan is much is on a sort.
+
+175
+00:41:47,160 --> 00:41:48,830
+on number eight.
+
+176
+00:40:19,140 --> 00:40:21,840
+all the banks are overcapitalised.
+
+177
+00:43:06,290 --> 00:43:09,490
+important to reiterate that the lack rules and the codop practice.
+
+178
+00:42:35,480 --> 00:42:38,870
+frustrated. so so what? they won't really
+
+179
+00:40:55,890 --> 00:40:59,560
+gentleman會probably in the regional office in the next few years.
+
+180
+00:43:09,780 --> 00:43:14,200
+do not automatically result in lack requirements for any institution.
+
+181
+00:42:39,150 --> 00:42:46,000
+disrupt the financial situation in Hong Kong, then that makes them not necessary for them to recover by that at all.
+
+182
+00:41:50,960 --> 00:42:00,360
+on number eight, I think you are saying that you are now increase the threshold to 300 billion, right? There, there, there's a question because you said that.
+
+183
+00:40:59,910 --> 00:41:12,870
+helping us, helping Hong Kong to deliver this this law. But I I really hope that you would understand because this we are going most likely we are going to pass this this bill today. But I think
+
+184
+00:41:13,440 --> 00:41:26,870
+If the whole intention is to address the too big to fail, please don't derail, and then make it very difficult for this small to medium-sized bank, which in turn will make it very difficult for the SME in Hong Kong because
+
+185
+00:40:22,120 --> 00:40:35,580
+They have all these plans that are ready. Hong Kong is, I mean, the financial is so healthy and so difficult for the bank to run right now. What you are doing right right now, if you for the lag, they will actually heavily.
+
+186
+00:42:01,230 --> 00:42:15,190
+the the resolution of authority will also give consideration to how the resolution increase with the public funds can be appropriately mitigated or managed by other means. So what do you mean?
+
+187
+00:39:39,120 --> 00:39:59,130
+所以你可以 notice that in Asia there's no other regulator that as tough as Hong Kong. It's really necessary, because Hong Kong has been you know after the financial crisis the banks have increased substantially capital requirement and also you have this we carefully scheme that they need to prepare you know when when they
+
+188
+00:39:59,130 --> 00:40:19,140
+They are really in break trouble. The the the first thing that will happen is consume the capital, and then you have this recovery plan where they may need to sell their head office, they may need to sell their long portfolio. Now you are trying to build up this last third layer. To me, it's totally not necessary because now you have.
+
+189
+00:40:35,880 --> 00:40:55,890
+I mean heavily damage their ability to make money, so that they won't have more reserve in the future. So this is really damaging. So we must understand what we are trying to do. Are we really addressing the problem of too big to fail, or now we are extending our arms to do something else? So so I really hope that because you two.
+
+190
+00:41:27,150 --> 00:41:47,160
+the the big banks in Hong Kong have a different way of doing business with small to medium sized banks. They have a a lot of value for the SMEs as well. So you we we must not destroy the value of this medium to size bank in Hong Kong. And then the third question I would like to ask is about about the answer from you. I think it's
+
+191
+00:42:15,470 --> 00:42:35,480
+You don't ask them to do the leg, and then you ask them to do something else. Is that what you are saying? Then that will create another big problem for them as well. So can you clearly say that anyone that is below that threshold, they don't to do any, they don't need to do anything, because they are not so important to really disrupt. Even they go.
+
+192
+00:42:46,280 --> 00:43:06,290
+So can you give me some simple answers, please? Sure, a couple of points there. So we very very much value the feedback that we've had from industry and from Legco members as part of this discussion, and that has really informed the proposal that we put forward today to raise the threshold to 300 billion. And I guess even with that threshold,
+
+193
+00:47:19,160 --> 00:47:21,590
+In mind, okay. Thank you.
+
+194
+00:44:38,840 --> 00:44:47,000
+the S.R.B. in setting EMREL their their version of lack requirements for the banks that fall within their scope, which is limited to 140 institutions.
+
+195
+00:44:09,520 --> 00:44:18,060
+not just in Hong Kong but around the world to enable the authorities to protect financial stability and banks' customers by providing an alternative to liquidation.
+
+196
+00:45:40,100 --> 00:45:50,640
+cannot be credibly placed into liquidation, and if they fail, what we've said here today is that institutions between 150 and 300 billion will not be subject to a lack requirement.
+
+197
+00:46:07,160 --> 00:46:18,850
+What you're saying is that they're definitely not subject to lack requirement, but when they're in in in problem or in trouble, you probably help them instead of you know doing something similar to lack.
+
+198
+00:45:07,480 --> 00:45:21,330
+have sufficient loss-absorbing capacity. So what we're saying is that each, at a national level and at a banking union level, a wider community of banks are within scope, consistent with the kind of scope that we're proposing here.
+
+199
+00:45:50,970 --> 00:46:06,470
+I think the important thing is that does not mean that they can be placed into liquidation if they fail. So we may be forced to take them into resolution if they fail in the future. But we're being clear that those institutions will not have a lack requirement.
+
+200
+00:43:34,490 --> 00:43:51,410
+is if you let large banks, banks that carry out systemic functions or critical financial functions as defined in the FIRO, enter liquidation, it can result in financial instability and negative impact for the bank's customers, including its depositors. There is an important role for DPS to play.
+
+201
+00:43:51,690 --> 00:44:09,240
+但係，key lesson from the crisis is that it's not a credible option to let banks that carry out systemic functions enter liquidation because of the financial stability impact and the impact in particular on on depositors who lose access to their deposit funds. The resolution is designed
+
+202
+00:45:21,770 --> 00:45:39,820
+And to your final point, in terms of other means, so the line that follows the, you know, again from we're a public authority, we have to be have to have regard to the things that we say, so we have identified a risk, and it's the considered view of the MA that institutions above a certain threshold.
+
+203
+00:43:14,480 --> 00:43:34,490
+那係一個決定，那係由MA作為解決方案規劃的一部分，考慮到個別企業的狀況。而就解決方案的作業，我認為有個明顯的互動，即係解決方案同存款保險透過清算。關鍵的教訓係由金融危機。
+
+204
+00:44:18,830 --> 00:44:38,840
+I think we've talked a little bit about the approach of other jurisdictions, and I think you flagged a couple of examples of. Obviously, we we haven't been able to go into sort of each jurisdiction's detailed policy proposals. To your point about the European Union, I think there's a distinction that needs to be drawn between the role of the single resolution board.
+
+205
+00:44:47,360 --> 00:45:07,370
+And that's where the one hundred billion threshold comes from. Under the primary legislation in the banking union, it is still open to national resolution authorities. To they're required to ensure that institutions that are smaller than the one hundred and forty billion or one hundred and forty community that are covered by the single resolution board.
+
+206
+00:49:34,890 --> 00:49:35,940
+咧就大家。
+
+207
+00:47:22,610 --> 00:47:27,140
+O.K. 啊，有冇其他委員仲想發問嘅？
+
+208
+00:49:05,770 --> 00:49:14,600
+首先一一樣嘢啦，噉我覺得咧，如果誒金管局咁關注，第二點咧就係金管局咁關注香港存户嗰個誒。
+
+209
+00:51:36,280 --> 00:51:49,560
+走樣變形咧，呢個我諗係大家都唔係太希望嘅。咁誒，我我就想表達呢三點意見。我唔知阿張秘書長或者阿Amin或者Robert你哋有冇回應啦。但係我就即係我就係想講呢樣啊。阿陳建波議員請。
+
+210
+00:47:29,250 --> 00:47:45,440
+冇咧，我我想我自己表達一個意見，都立此傳召啦嚇，叫做第一咧就誒，頭先啊金管局嘅同事咧就講出啊用GDP嚟量度呢樣嘢咧，噉我都想講咧，其實香港誒而家嘅地位咧都越嚟越。
+
+211
+00:46:19,130 --> 00:46:39,140
+所以所以所以，我諗，佢哋嘅 concern 是你哋會做啲嘢類似於債。但係，但係，但係，我係想指出嘅係，而家你哋有好多嘅工具可以強化銀行嘅資本，可以要求佢哋做呢啲、做嗰啲。係啊，有好多工具畀你哋。債唔係唯一嘅工具，你可以用嘅。係啊，你有好多嘅選擇。所以我希望。
+
+212
+00:46:39,140 --> 00:46:59,150
+Hope you won't always think about that. I would like to compare with an insurance policy. I think let is a sort of insurance policy, so that when they get into trouble, you have this insurance cover. But the problem is, is the if the insurance premium is so high that you you you is not worth buying that because the the cost is so high that you would say that.
+
+213
+00:46:59,150 --> 00:47:19,160
+I won't buy that kind limit. I would buy a smaller limit, then I pay less. So I just want to let you know that all these lack papers would have costs on the on the small to medium sized bank. Actually, even for the bigger banks. So when the cost is so high, then you may not need the insurance policy. So it's very simple, right? That. So so hopefully you will put that in.
+
+214
+00:47:45,730 --> 00:48:05,740
+係誒成為我哋，譬如亞太區啊，或者起碼咧，我哋自己誒成個即係中國嘅一個其中一個金融中心。噉我淨係用我自己嘅，即係我哋嘅G，我哋嘅銀行存款，淨係用我哋自己本地嘅GDP嚟量度咧，係即係。
+
+215
+00:48:05,740 --> 00:48:25,750
+梗係一定偏高嘅誒，但係其實我哋做緊嘅生意係做埋內地啦，做埋附近，即係我哋東盟啊、亞太區嘅生意㗎嘛。咁所以噉樣量咧，同頭先你哋嘅橫向比較咧，我覺得嗰個即係誒合理性係係係有啲疑問嘅。因為譬如我哋舉個例啦，你用誒紐約。
+
+216
+00:48:25,750 --> 00:48:45,760
+嘅銀行嘅存款，同紐約個城市嘅GDP比，同同紐約成個國誒同美國成個國家比，係會完全出嗰個唔同嘅情況出嚟㗎嘛？咁所以點解一一拎出嚟嘅兩組數字咧，我哋都會明顯比其他國家係會高。
+
+217
+00:48:45,760 --> 00:49:05,770
+因為我哋係高度集中，而我哋嘅生意咧係誒來自四方八面嘅，咁所以我覺得咧誒呢一個我希望即係你哋金管局以後唔好太過淨係用一個地區嘅GDP去同佢嘅地區嘅存款去覺得我哋香港特別高風險咧，呢個我又好難去完全接受到啦。呢個
+
+218
+00:49:14,880 --> 00:49:34,890
+即係風險要保障咧，我覺得我哋係應該喺存款保障計劃嗰度做多啲。我完全同意啊，頭先啊陳建波議員講嘅。譬如而家我哋五十萬你唔夠嘅，會唔會提高到八十萬、一百萬咁？因為喺存款保障計劃裏邊咧，每一間銀行都會為呢個保險有幾多存款咧，去畀一個成本。咁呢個變成。
+
+219
+00:49:36,220 --> 00:49:56,230
+誒行係誒接受存款嘅量越大，你畀個保金就越大，咁反而咧係一個相對比較公平。而家呢一種咧就大得不能倒嘅，咁因為係國際都要好似上次胡錦新議員講聯防，噉我哋一定要做好呢個聯防啦。咁對於中小銀行，頭先我諗啊陳建波議員啦、姚思榮議員啊、張華。
+
+220
+00:51:49,850 --> 00:51:50,560
+支持啊！
+
+221
+00:53:11,350 --> 00:53:13,310
+Amin，你有冇嘢想補充？
+
+222
+00:54:00,710 --> 00:54:03,930
+係，係，係。
+
+223
+00:55:04,560 --> 00:55:09,560
+是The Resolution Authority for Banking Sector Entities under the FIRO.
+
+224
+00:55:10,470 --> 00:55:17,030
+我將 now go through each of the eight parts of the rules, highlighting the key elements of each as I go through.
+
+225
+00:53:15,040 --> 00:53:26,240
+In terms of the GDP point, I think it's important to clarify that we've been using that point and the percentage of Hong Kong banking assets primarily for comparison purposes.
+
+226
+00:53:26,520 --> 00:53:40,420
+The primary objectives that we have in our mind when resolution planning, when developing lag policy or drawing the threshold that we've been discussing a lot, are the resolution objectives set out in the FIRO.
+
+227
+00:55:18,060 --> 00:55:33,050
+所以，Part One provides for the commencement of the rules and sets out key definitions, and provides for the resolution authority to notify a classifiable entity of the preferred resolution strategy covering that entity.
+
+228
+00:54:25,240 --> 00:54:43,860
+然後我會逐個問委員有冇問題嘅，好冇？咁誒邊位去？Take us through。啊，OK，Robert，please。Thank you. So I will now do the clause by clause review, and Mr. Chairman, I'd appreciate your your guidance on whether I'm going through in too much or too little detail.
+
+229
+00:52:51,190 --> 00:53:10,010
+表示咧就係誒，無論係呢一個制定誒實務守則嘅過程，同埋甚至誒第二時誒金管局誒同每一間銀行做評估或者互動嘅時候咧，呢個過程都係即係有充分溝通嘅情況之下進行嘅。
+
+230
+00:49:56,230 --> 00:50:16,240
+風議員都講過，佢係對我哋自己本土嘅中小企。上次我記得盧偉國議員都講過嘅，就對本土嘅中小企經濟係好重要嘅，其中一個組成部分啦。噉我哋如果係誒對佢哋實施一啲不合理嘅成本喺度咧，可能亦都不利我哋香港咧，就有唔同嘅銀行咧。
+
+231
+00:50:16,240 --> 00:50:36,250
+去服務唔同類型嘅客户嘅，咁呢個係我誒第二個意見啦。第三個意見，我亦都同啊陳建波議員即係好相似嘅，就係話誒，你哋喺誒嗰個COP裏邊實務守則咧，就同意咗之外咧，你哋就落咗一句，即係頭先啊陳建波議員都讀出嚟啦。噉你頭先講咧就話哦誒由一。
+
+232
+00:50:36,250 --> 00:50:56,260
+千五百億到三千億中間嘅銀行咧，誒，你哋係唔會有拉嘅requirement，但係咧，當然佢有事嗰時咧，你會step in，會做一啲嘢啦。咁呢個我好appreciate嘅。咁但係誒，頭先阿姚思榮議員都講咧，就話希望你哋喺誒，就算係畫咗呢條線咧，喺條線上邊嘅銀行，希望你哋做完。
+
+233
+00:50:56,260 --> 00:51:16,270
+身體檢查之後咧，要同佢哋多啲溝通啦。咁誒，另外咧就係話，對於佢哋有需要符合lab requirement嘅咧，噉我見你哋其實有一條今日冇講嘅，就係話誒一啲AT一都可以作為一啲lab equipment嘅嘅嘅嘅instrument咧。呢一點咧要同佢哋即係做做好充分溝通，或者你嘅計。
+
+234
+00:51:16,270 --> 00:51:36,280
+算啦，噉我希望即係喺你哋實施成個條例嘅過程裏邊咧，都充分考慮我哋呢三次會議裏邊咧，唔同委員咧都表達咗好多意見。我唔希望咧就係話誒大家睇到就係誒你哋好從善如流嚇，即刻反應做咗出嚟，但係有啲魔鬼細節做嗰陣時咧，你哋就有少少。
+
+235
+00:51:51,160 --> 00:52:11,170
+誒即係話咧，你用GDP嚟比較係好有問題嘅，因為點解咧？GDP計嘅方法唔係咁簡單啊！就噉你有幾多就？我舉例咧，我哋保險界每年大概有五千億嘅誒生意咧，嗰個保費。噉我哋有人咧就將佢咧就係做分子啦，分母就係香港嘅GDP，噉啊計咗話我哋佔GDP十幾percent，其實唔係唔遠。
+
+236
+00:52:11,170 --> 00:52:31,180
+完全唔係咁計啊！後來政府搞一擺翻入去咧，我哋計出嚟應該得三點幾percent嚟啫。因為你嗰個分母嘅計法就唔係咁簡單，咪就噉你個生產嘅就擺落去，而係要計要跟嗰啲formula計到個GDP出嚟㗎嘛。咁如果你分母都唔係咁計，你份紙有乜理由咁簡單先陪嚟咁擺落去咧？完全唔啱㗎嘛！咁希望第日都做呢啲數嘅時都要小心啲啦。即係即係唔可以比較。
+
+237
+00:56:35,790 --> 00:56:36,620
+嗯。
+
+238
+00:58:20,550 --> 00:58:21,760
+都冇，OK。
+
+239
+00:57:46,050 --> 00:57:47,320
+and.
+
+240
+00:56:00,020 --> 00:56:04,790
+for banking sector entities under section 21 of the FIRO.
+
+241
+00:55:33,330 --> 00:55:39,150
+Rule one provides for the rules to come into operation on 14 December 2018.
+
+242
+00:57:20,630 --> 00:57:26,650
+And the only other definition I think it's worth flagging at this stage is that of resolution strategy.
+
+243
+00:58:00,040 --> 00:58:07,580
+Provides for the resolution authority to notify a classifiable entity of a preferred resolution strategy.
+
+244
+00:57:10,160 --> 00:57:20,070
+和定義的合併集團，設定出法律實體，與其有關合併要求，於合併基礎上必須達成。
+
+245
+00:56:23,620 --> 00:56:34,200
+Classifiable entities include HK affiliated operational entities, HK holding companies and authorised institutions incorporated in Hong Kong.
+
+246
+00:58:09,130 --> 00:58:20,030
+Moving on now to part two. This is the part. Please stop here for a moment。啊，睇下各位委員誒part one有冇咩特別意見，包括法律顧問。
+
+247
+00:57:48,710 --> 00:57:59,760
+I will then move on, rather than consider any of the other rules in detail and any other definitions in detail. In this part, it's also worth flagging that Rule Three.
+
+248
+00:56:36,920 --> 00:56:53,000
+其他定義，它可能有用於標誌前是資產要求，這涉及到這些規則的核心，意味著要求解決單位或材料子公司維持任何其資產比率在或超過指定的最低水平。
+
+249
+00:56:53,700 --> 00:57:09,880
+The terms consolidated basis, solo basis and solo consolidated basis define the basis on which a lack requirement needs to be met, and the definition of these terms is designed to mirror the meanings of comparable terms set out in the banking capital rules.
+
+250
+00:57:26,930 --> 00:57:44,020
+which refers to a strategy devised by the resolution authority under section thirteen one a or thirteen two a of the FIRA for securing an orderly resolution of a within scope financial institution, or a corresponding strategy developed by an overseas authority.
+
+251
+00:56:05,230 --> 00:56:23,260
+另一個key定義是可分類的實體，which is also dealt with in rule four，which describes the types of entities which can be classified as resolution entities and material subsidiaries，and therefore made subject to loss-absorbing capacity requirements.
+
+252
+00:52:31,180 --> 00:52:51,190
+唔可以噉樣比較，咁所以我好同意你個point。好，啊張佩主席，誒亦都多謝各位議員嘅意見。噉我相信呢個係一個好好嘅溝通同埋互相瞭解嘅過程啦。咁誒議員同埋誒主席畀嘅意見，我相信大家都聽得好清楚。誒咁誒，我亦都再次誒同大家。
+
+253
+00:53:40,700 --> 00:54:00,710
+financial stability, continuity of the bank's critical financial functions, protection of depositors and minimising the risk to public funds. So just to be clear, we are not using measures of GDP on their own. Primarily, they're used for comparison purposes. The more important factors.
+
+254
+00:54:05,230 --> 00:54:25,240
+誒睇下各位委員仲有冇其他問題？如果冇咧，我哋就可自開始進入去誒逐條審議嗰度啦。咁誒逐條審議，因為咧嗰個篇幅都係比較多嘅。我希望誒即係政府當局嘅同事咧，可以用呢個section by section，譬如definition啊，然後即係噉樣。
+
+255
+00:54:44,550 --> 00:55:04,560
+所以，The rules are made under Section 19.1 of the Financial Institutions Resolution Ordinance, which empowers resolution authority to make rules to prescribe loss-absorbing capacity requirements for within-scope financial institutions or their group companies. And these rules are being considered, being put forward by the Monetary Authority.
+
+256
+00:55:40,010 --> 00:56:00,020
+Rule two sets out specific definitions used in the rules, and I don't intend to go through these in detail, but just to flag some of the key definitions. The resolution authority definition refers to the monetary authority as resolution authority.
+
+257
+01:00:42,890 --> 01:00:44,110
+enlighten us.
+
+258
+00:59:25,500 --> 00:59:27,360
+Rule seven.
+
+259
+01:00:40,200 --> 01:00:42,370
+典型例子，你 can。
+
+260
+01:01:25,350 --> 01:01:32,460
+absorbing capacity requirement, and it has to be the case that if there are entities outside the lack consolidation group
+
+261
+00:59:15,720 --> 00:59:23,800
+And these are the rules that set out the criteria that an entity needs to meet in order to be so classified.
+
+262
+01:00:31,310 --> 01:00:39,410
+be adhering to you when you act subsidiaries or or removed his subsidiaries from from from the from the group. I mean any.
+
+263
+00:58:42,230 --> 00:58:54,670
+分類或變動，和包含一個規定，要求一個決議實體或實質附屬公司，通知其決議組合的變更給決議主管。
+
+264
+01:01:32,740 --> 01:01:45,910
+That need to be kept going in the event of a banking group failure, that there are sufficient loss-absorbing capacity resources in place to allow that to happen. So that's kind of the key driver behind this rule.
+
+265
+00:59:27,640 --> 00:59:41,250
+empowers the resolution authority to vary the lack consolidation group of a resolution entity or material subsidiary if it is satisfied that it is prudent to do so.
+
+266
+00:59:57,360 --> 01:00:11,110
+OK，阿梁繼昌言唔該。誒，In Rule Seven Subsection One，嗯，The Authority would have a wide discretion to add or remove。
+
+267
+00:59:41,530 --> 00:59:56,710
+And rule eight then sets out the procedure for the resolution authority to classify entities as resolution entities or material subsidiaries, and also sets out the procedure for the varying of the lack consolidation group.
+
+268
+01:00:11,480 --> 01:00:30,850
+subsidiaries in in the in the I I presume you're talking about the group when you talk about the group in seven one A it means the LAC consolidation group right? What what what instances will you know or what criteria will you?
+
+269
+00:58:22,220 --> 00:58:42,230
+Moving on now to Part Two, this empowers the resolution authority to classify a classifiable entity as a resolution entity or a material subsidiary, and in certain circumstances to vary that entity's lack consolidation group. And this Part Two also sets out the procedure for such classification.
+
+270
+00:58:55,710 --> 00:59:15,720
+Going briefly through the rules one by one, Rule Four sets out what types of entity are classifiable entities. We've already gone through that in the definitions. Rules Five and Six are the rules which empower the resolution authority to classify a classifiable entity as a resolution entity or a material subsidiary.
+
+271
+01:00:45,330 --> 01:01:05,340
+Sure. So subrule seven three provides some high level criteria that will be taken into account. Key amongst them would be the degree of connectedness between resolution entity or material subsidiary and the subsidiary in question, and the preferred resolution.
+
+272
+01:01:05,340 --> 01:01:25,350
+Strategy covering the entity in question would also be important. The key here is that the lack consolidation group is the entity with respect to which a loss absorbing capacity requirement is calculated. So therefore, the make up of that group has to be consistent with the calibration of the loss absorbing.
+
+273
+01:03:44,020 --> 01:03:45,160
+please continue.
+
+274
+01:02:21,440 --> 01:02:22,590
+這些公司。
+
+275
+01:03:45,440 --> 01:03:46,770
+Thank you.
+
+276
+01:03:42,000 --> 01:03:43,600
+咁好，阿Robert。
+
+277
+01:04:19,260 --> 01:04:21,530
+Division One。
+
+278
+01:03:35,780 --> 01:03:41,100
+問題啊！嗰啲佢哦冇冇，即係阿梁議員只係申報啫，係嘛？O K，唔該。
+
+279
+01:01:55,090 --> 01:02:01,150
+matter if say，although it may be not that common in a Hong Kong group.
+
+280
+01:01:46,600 --> 01:01:54,670
+所以，The connectedness doesn't necessarily hinge on the cross shareholding or the ownership alone. I think does it.
+
+281
+01:04:07,860 --> 01:04:18,790
+So moving on now to part three, this sets out the relevant lack ratios for a resolution entity and a material subsidiary, and describes how these ratios are calculated.
+
+282
+01:04:21,810 --> 01:04:33,150
+which includes rules ten and eleven, sets out the relevant external LAC ratios for a resolution entity, being the external LAC risk-weighted ratio.
+
+283
+01:03:03,100 --> 01:03:14,540
+be that we're considered prudent, the resolution authority would bring it within the lack consolidation group, but the starting point is the capital consolidation group, and we would expect that to apply in most cases.
+
+284
+01:03:47,050 --> 01:04:05,580
+So I'm now going to move on to I think I was just describing Rule 9, which requires a resolution entity or material subsidiary to notify the resolution authority of changes to its lack consolidation group, including changes to the membership of the group and changes to the principal activities of group members.
+
+285
+01:02:01,430 --> 01:02:21,440
+because in in a large conglomerate like in Korea or Japan you will have you know companies with very different nature within the group like you have a bank and you have a shipbuilder so would you take into account the the nature of the business as well I mean when when when considering the connectedness of
+
+286
+01:02:23,080 --> 01:02:43,090
+所以，it might be helpful to describe the starting point for the LAC consolidation group, which will be the capital consolidation group under the banking capital rules. Right. So in most cases, we would actually expect the LAC consolidation group to have the same constituents as the existing regulatory supervisory consolidation group under the banking.
+
+287
+01:02:43,090 --> 01:03:03,100
+capital rules and it's only really if there was an unusual circumstance where there was an entity outside the capital consolidation group that there might be a need to vary it. So I think the example you just described, I guess in extremis we can imagine a situation in which there was a subsidiary of an AI that had to be kept going and in those circumstances it might.
+
+288
+01:03:15,300 --> 01:03:35,310
+啊，陳陳紀波議員有有問題。先申報咗，我係東亞銀行獨立非執董啊。今日就冇申報，所以我都穩陣啲，都申報翻啦。啊，噉你申報，我都要申報。我係中人香港嘅顧問嚇。其實我哋要改呢個例咯，因為第一次得啦，但係佢上次而家個要求仲係要每次申報。嚇好唔該誒，噉你對頭先誒？
+
+289
+01:06:25,960 --> 01:06:26,720
+嗯。
+
+290
+01:06:49,820 --> 01:06:50,910
+啊！
+
+291
+01:06:41,190 --> 01:06:42,910
+我 just want to.
+
+292
+01:05:58,650 --> 01:06:01,450
+Moving now on to part four.
+
+293
+01:06:36,800 --> 01:06:40,420
+OK，阿阿梁繼昌議員，唔該。
+
+294
+01:06:20,850 --> 01:06:25,680
+It might also be helpful to flag at this stage that Rule 25(2).
+
+295
+01:06:01,730 --> 01:06:06,900
+This provides for the determination of minimum lack ratios.
+
+296
+01:06:43,290 --> 01:06:49,540
+no，because i i i understand that the the capture component ratio and the resolution component ratio。
+
+297
+01:06:27,000 --> 01:06:36,160
+essentially operates so that rules 18 onwards in this part four also apply to material subsidiaries.
+
+298
+01:04:33,430 --> 01:04:43,900
+Calculating with risk-weighted assets as the denominator, and the external lack leverage ratio, calculated with the exposure measure of an entity as the denominator.
+
+299
+01:05:43,300 --> 01:05:55,030
+Calculation of requirements on a solo, solo consolidated and consolidated basis that are already in the bank, banking capital rules. So, with the chairman's permission, I won't go into any more detail on those rules.
+
+300
+01:06:07,880 --> 01:06:20,570
+Division One sets out a resolution entity's capital component ratio and resolution component ratio, which are used to determine the minimum external lack ratios for that entity.
+
+301
+01:04:44,800 --> 01:05:00,100
+Division two of this part consists of rules 12 and 13, and essentially performs the same function with respect to the internal lack risk-weighted ratio and internal lack leverage ratio for material subsidiaries.
+
+302
+01:05:03,240 --> 01:05:23,250
+Division three of this part sets out how a resolution entity or material subsidiary calculates its lack ratios on a solo, solo consolidated or consolidated basis. Rules fourteen, fifteen, sixteen and seventeen go through this in some detail.
+
+303
+01:05:23,250 --> 01:05:43,260
+For different types of institutions, both authorised institutions and resolution entities and material subsidiaries that are not authorised institutions. But the principles running through all three are broadly comparable, and as mentioned earlier, seek to reflect the interpretation of.
+
+304
+01:06:51,780 --> 01:07:11,790
+Are they fixed ratio or would they be changing in accordance with the circumstances of the entity or the resolution entity or the material subsidiary concerned? Although I I understand that the the formula should be a internationally accepted formula, right?
+
+305
+01:09:22,120 --> 01:09:22,980
+嗯。
+
+306
+01:08:03,040 --> 01:08:05,210
+Okay. Okay.嗯哼。
+
+307
+01:09:52,360 --> 01:09:54,550
+啊！阿梁繼昌議員，請。
+
+308
+01:09:55,610 --> 01:09:58,420
+Rule twenty two， the the formula。
+
+309
+01:08:44,320 --> 01:08:47,500
+And rules nineteen three and nineteen four.
+
+310
+01:07:11,790 --> 01:07:15,770
+There's just two very basic questions. Yeah.
+
+311
+01:07:57,330 --> 01:08:02,540
+小額銀行， in light of the preferred resolution strategy of a particular entity.
+
+312
+01:09:43,270 --> 01:09:50,590
+for GSBs，這些minimum requirements are at least consistent with the minimum internationally applicable standards.
+
+313
+01:08:58,510 --> 01:09:07,170
+Rule Twenty sets out the procedure for the variation of resolution component ratios and capital component ratios.
+
+314
+01:08:47,780 --> 01:08:56,870
+also operate to allow a resolution entity to apply in writing, requesting a variation of its resolution component ratio.
+
+315
+01:09:09,160 --> 01:09:20,860
+Moving on now to Division Two of this part, this establishes the minimum external lack ratios that need to be maintained by a resolution entity.
+
+316
+01:08:27,660 --> 01:08:44,040
+決議權，在特定情況下，值得指出的是，其規則第19/2條，允許決議權變動決議成分比率，若認為合適，則可變動。
+
+317
+01:07:17,310 --> 01:07:37,320
+Sure, thank you. So the capital component ratio is essentially derived from the minimum regulatory capital requirements that an AI has to meet under the banking capital rules. Right. Okay. And the resolution component ratio, in these rules, the starting point is that it is set equal to the capital component ratio, which is why the starting point for
+
+318
+01:07:37,320 --> 01:07:57,330
+Lack requirements is twice capital requirements, but the resolution component ratio is then addressed in the following rules, and that in particular is the element that the resolution authority has the flexibility to vary. And as described in the COP, that might happen in particular for small.
+
+319
+01:08:07,650 --> 01:08:27,660
+Robert, please. So, Rule eighteen, as I was just describing, specifies the capital component ratio for a resolution entity. Rule nineteen provides that a resolution entity's resolution component ratio is equal to its capital component ratio, subject to variation by the.
+
+320
+01:09:23,260 --> 01:09:43,270
+Rule twenty one sets this out for the external lack risk weighted ratio, and Rule twenty two sets this out for the minimum external lack leverage ratio. And it's also worth flagging that each of these rules provides flexibility to the resolution authority to ensure that.
+
+321
+01:11:35,290 --> 01:11:36,160
+Thank you.
+
+322
+01:10:13,990 --> 01:10:14,980
+嗯。
+
+323
+01:10:45,660 --> 01:10:47,060
+所有問題， yes。
+
+324
+01:11:31,520 --> 01:11:34,210
+set out in international standards.
+
+325
+01:10:15,260 --> 01:10:18,080
+also，there's a footnote to sub。
+
+326
+01:10:10,660 --> 01:10:13,710
+How does you derive this three percent and?
+
+327
+01:10:06,150 --> 01:10:09,940
+是任何其他jurisdiction which would impose a higher percentage or or
+
+328
+01:11:07,420 --> 01:11:11,230
+And T-Lac term sheet, but with reference to three percent.
+
+329
+01:12:18,750 --> 01:12:23,860
+模擬的minimum external lack risk-weighted and leverage ratio。
+
+330
+01:10:38,370 --> 01:10:44,910
+percentage right and and I I would like to know more about how you derive this three percent.
+
+331
+01:09:58,700 --> 01:10:05,870
+really complies only with the minimum international standard. Does it mean that the three percent is a minimum percentage? I mean in
+
+332
+01:10:18,360 --> 01:10:38,370
+Subrule two there saying that the TILAC term sheet sets a minimum leverage ratio of 6% and 6.7% from certain dates for global systematically important banks. So these 6% and 6.75 are are really the international prescribed, you know, TILAC.
+
+333
+01:10:47,410 --> 01:11:07,420
+So my reference to international standards was actually specifically with reference to twenty one two and twenty two two, and as you've just identified, these are the provisions which allow the resolution authority to ensure that the global systemically important banks in Hong Kong meet the minimum international standards which are set out in the Financial Stability Board's.
+
+334
+01:11:11,510 --> 01:11:31,520
+This is actually a reference to the leverage ratio, which is also prescribed at a minimum level by international standards. And this 3%, which applies incidentally to more than just GSEBs. So this is the the standard number for the leverage ratio set for banks, not just GSEBs. And 3% is indeed the the minimum number.
+
+335
+01:11:38,730 --> 01:11:58,740
+So moving now on to Division Three, this establishes the minimum internal lack ratios for a material subsidiary, which are the modelled minimum internal lack ratios for the subsidiary multiplied by an internal lack scalar. So I won't go through Rules Twenty Three, Twenty Four, Twenty Five in.
+
+336
+01:11:58,740 --> 01:12:18,750
+detail, but just to describe their effect, essentially what they do is look at the lack ratios that would apply to a material subsidiary were it a resolution entity, thereby incorporating the previous provisions that we've just been discussing, and this produces a.
+
+337
+01:14:34,720 --> 01:14:36,240
+Beyond 24 months.
+
+338
+01:14:53,380 --> 01:15:00,130
+Division five sets out minimum lack debt requirements for resolution entities and material subsidiaries.
+
+339
+01:13:38,210 --> 01:13:45,050
+The minimum lack ratios must be met on a consolidated basis, with reference to the entity's lack consolidation group.
+
+340
+01:13:30,000 --> 01:13:37,660
+Lack ratios in the case of resolution entities, and minimum internal lack ratios in the case of material subsidiaries.
+
+341
+01:13:45,330 --> 01:13:53,650
+And if the entity is an authorised institution, those minimum ratios must also be met on a solo or solo consolidated basis.
+
+342
+01:13:00,590 --> 01:13:09,630
+Division four sets out the requirements on resolution entities and material subsidiaries to maintain their minimum lakh ratios.
+
+343
+01:15:50,940 --> 01:16:01,000
+所以moving now onto part five. This sets out how lack, how an institution's loss-absorbing capacity is calculated for the purposes of these rules.
+
+344
+01:15:15,510 --> 01:15:26,830
+And Rule 35 empowers the resolution authority to reduce an entity's minimum lap debt requirement under this division in certain circumstances.
+
+345
+01:14:36,530 --> 01:14:51,220
+And Rule Thirty Two imposes further LAC ratio requirements on certain global, systemically important banks to reflect international standards, as set out in the Financial Stability Board's T-LAC Termsheet.
+
+346
+01:15:00,410 --> 01:15:15,210
+Rules 33 and 34 provide for minimum lack debt requirements for resolution entities and material subsidiaries, set at one third of their external or internal lack ratios, respectively.
+
+347
+01:12:24,520 --> 01:12:41,170
+Rule 26 then sets an internal lack scalar, and it is the product of the internal lack scalar and the modelled minimum external lack ratios that produce the minimum lack requirements for materials subsidiaries.
+
+348
+01:12:41,570 --> 01:12:58,850
+And as you can see in Rule 26, the starting point for the internal lax scalar is 75%, subject to the power of the resolution authority to increase this figure where prudent, and the procedure for that increase is then set out in Rule 27.
+
+349
+01:13:54,480 --> 01:14:12,330
+This, however, can be adjusted with reference to a solo lax scalar, which is introduced in Rule 30. And Rule 30 also provides for the resolution authority to have a power to reduce the solo lax scalar at below 100%.
+
+350
+01:15:28,250 --> 01:15:47,400
+Division six then provides for the suspension of lack requirements following certain occurrences, including the application of a stabilisation option under the FIRO, the contractual write-down, conversion or modification of regulatory capital instruments or other lack instruments.
+
+351
+01:13:09,990 --> 01:13:30,000
+In more detail, rules 28 and 29 require that resolution entities and material subsidiaries must, at all times after the relevant period, which is generally the period 24 months following their classification dates as a resolution entity or material subsidiary, maintain minimum external
+
+352
+01:14:14,710 --> 01:14:34,720
+Rule 31 provides the resolution authority with the ability to extend the relevant period after which a resolution entity or a material subsidiary must meet a lack requirement, if it is satisfied that it is prudent to do so. So this is the rule that would allow the resolution authority to extend the conformance period.
+
+353
+01:18:37,830 --> 01:18:38,630
+The.
+
+354
+01:16:33,080 --> 01:16:34,950
+schedule one to these rules.
+
+355
+01:18:11,760 --> 01:18:13,730
+When you say evidence,
+
+356
+01:16:56,710 --> 01:16:58,810
+loss-absorbing capacity.
+
+357
+01:18:38,910 --> 01:18:44,130
+The criteria basically, do you need external auditors' evidence?
+
+358
+01:18:05,570 --> 01:18:11,300
+阿梁議員有，I I I want to inquire about rule forty-one。
+
+359
+01:18:30,140 --> 01:18:37,470
+to prove that the the institution or the materials industry or the solo entity whatever have satisfied
+
+360
+01:16:01,840 --> 01:16:12,550
+Rule 37 sets out this process for resolution entities, setting out the items that are to be included in a resolution entity's external loss-absorbing capacity.
+
+361
+01:17:00,510 --> 01:17:12,910
+Rules 39 and 40 then provide equivalent provisions for a material subsidiary in relation to the calculation of its internal loss-absorbing capacity and items to be deducted from it.
+
+362
+01:17:13,210 --> 01:17:26,680
+The operation of Rule 39 is facilitated by Schedule 2, which, analogously to Schedule 1, sets out the eligibility criteria which need to be met by internal lack debt instruments.
+
+363
+01:17:27,470 --> 01:17:42,500
+Note also that Schedules three and four are also relevant to this division, in that they set out more details on how deductions are to be made when calculating the loss-absorbing capacity of a resolution entity or material subsidiary.
+
+364
+01:18:14,130 --> 01:18:29,840
+Basically, are you relying just on internal documentation? For example, you know, just the the the report of a compliance department or internal auditor. Do you need external auditor's opinion on these various you know like requirements?
+
+365
+01:16:13,070 --> 01:16:33,080
+The core component of external loss-absorbing capacity is the total capital of that entity, subject to some modifications. Also including non-capital lack debt instruments, which needs to meet certain qualifying criteria, which for external lack are those set out in.
+
+366
+01:16:36,700 --> 01:16:56,710
+Rules thirty eight sets out the items that are to be deducted from a resolution entity's external loss absorbing capacity. In particular, it requires where a resolution entity holds non capital lack liabilities issued by other entities, to deduct those from its own external.
+
+367
+01:17:44,460 --> 01:18:04,470
+Rule 41 empowers the resolution authority to require a resolution entity or material subsidiary to provide evidence that items claimed to form part of its loss-absorbing capacity are indeed eligible. So, in particular, that they meet the eligibility criteria set out in Schedules 1 and 2.
+
+368
+01:18:44,460 --> 01:19:04,470
+所以，Code of Practice，which is currently out for consultation， provides more detail on what is expected here. In particular, provides that evidence of a detailed internal self-assessment by an issuer be provided to the resolution authority, and also sets out an expectation that an independent legal opinion is provided confirming that the instrument's being
+
+369
+01:20:00,710 --> 01:20:04,470
+can play into generating more revenue in the circumstances.
+
+370
+01:20:24,800 --> 01:20:28,930
+items in the calculation of its loss-absorbing capacity.
+
+371
+01:22:06,220 --> 01:22:10,720
+authorized institutions' officers have to do all these annual reporting, quarterly reporting.
+
+372
+01:20:29,310 --> 01:20:34,270
+And Rule 43 sets out the procedure for imposing this requirement.
+
+373
+01:19:34,460 --> 01:19:40,380
+Right, but but the legal opinion is part and parcel of that evidence, right? Exactly. Yes. Right.
+
+374
+01:21:57,300 --> 01:22:05,710
+yeah啊兩年唔該啊，這些披露係聲明，要被包括在正常報告。我 mean
+
+375
+01:21:26,860 --> 01:21:35,940
+Rule 52 provides details on how disclosures are to be made, and Rule 53 sets out the timing of disclosures.
+
+376
+01:19:04,470 --> 01:19:14,200
+Claims to form parts of loss-absorbing capacity do indeed meet the minimum legal requirements. So you need a legal opinion, but you don't need an audit certificate.
+
+377
+01:21:00,940 --> 01:21:10,730
+Rule 45 sets out the key definitions used in this part, and Rule 46 specifies when the requirements in this part will apply.
+
+378
+01:20:49,830 --> 01:21:00,390
+Moving on now to Part Six. This imposes disclosure requirements on resolution entities and material subsidiaries in relation to their loss-absorbing capacity.
+
+379
+01:20:35,200 --> 01:20:47,540
+Rule forty four allows a resolution authority or material subsidiary, with the approval of the resolution authority, to use a revised methodology for calculating its loss-absorbing capacity.
+
+380
+01:21:11,710 --> 01:21:26,140
+Rules 47 to 51 then set out the specifics of the content of disclosure statements that will be required of material subsidiaries and resolution entities under these rules.
+
+381
+01:19:14,780 --> 01:19:34,130
+So the the code of practice sets out a kind of minimum expectations. So clearly, if the internal if the evidence of the internal self assessment conducted was in any way seems to be deficient, then naturally the resolution authority would be able to then call for more evidence as appropriate.
+
+382
+01:19:40,700 --> 01:20:00,710
+But it's a usual practice for the regulators to ask the AI to you know recruit some external consultant to do some health check internally. And that that's I think what you but that means the the bigger law firms can produce such a
+
+383
+01:20:04,790 --> 01:20:24,800
+Okay, do you have any additional questions on top of this? No, no. Okay, Robert, please continue. Moving on to Rule Forty Two, this empowers the resolution authority to require a resolution entity or material subsidiary not to include or to discontinue the inclusion of any specific.
+
+384
+01:21:36,420 --> 01:21:56,430
+Further requirements as to disclosures are contained in rules fifty four to fifty nine, which also provide for group disclosures, disclosures on internet websites, verification of matters disclosed, and how proprietary or confidential information is to be dealt with.
+
+385
+01:24:41,560 --> 01:24:42,590
+Okay.
+
+386
+01:23:18,150 --> 01:23:19,540
+Right. Okay.
+
+387
+01:22:19,840 --> 01:22:21,550
+所以，你 just acting on。
+
+388
+01:24:43,030 --> 01:24:46,710
+啊！陶瑾新議員，好似唔該。
+
+389
+01:23:12,680 --> 01:23:17,870
+Financial statements that are specifically focused independently on loss-absorbing capacity.
+
+390
+01:24:47,200 --> 01:24:52,950
+誒主席就誒嗰個誒文件嗰度咧就誒。
+
+391
+01:24:17,840 --> 01:24:24,830
+Are they required to opine on the loss absorbing capacity as well in the auditor's report?
+
+392
+01:24:09,700 --> 01:24:16,770
+Obviously, the audit test has to opine on certain things in in in the report. In those reports, at the moment.
+
+393
+01:22:11,000 --> 01:22:19,560
+或或semi或或半年報告，reporting to the MA on existing， they they are already doing that on various things。
+
+394
+01:23:20,100 --> 01:23:29,000
+所以，there is also requirement to you know disclose the loss absorbing requirement on on website. Have I read correctly? Yeah.
+
+395
+01:22:22,770 --> 01:22:32,060
+A different section into these reports, or are you requiring totally new reports to be submitted to the authority? What what is your approach like?
+
+396
+01:24:25,190 --> 01:24:40,970
+所以，There is nothing in these rules which specifically requires that. But naturally, subject to other reporting requirements and the coverage of typical auditors' statements, it might be that they would naturally fall within it. But there's nothing in these rules that specifically requires that.
+
+397
+01:22:32,660 --> 01:22:52,670
+So these requirements will of course require new information to be disclosed in kind of new tables and new templates. But essentially, these requirements mirror the existing requirements in the banking disclosure rules which relate to capital. And so our expectation is that.
+
+398
+01:22:52,670 --> 01:23:12,680
+When meeting these requirements, institutions will essentially add on to their existing disclosures the new information that is being required under these rules. So we're not expecting AIS to adopt an entirely new approach and issue kind of a new set of reports.
+
+399
+01:23:29,680 --> 01:23:49,690
+Yes, that's right. So again, that essentially just mirrors existing requirements under the banking disclosure rules with reference to disclosure around capital requirements. Right. It might be helpful also to point out that the requirements being developed for rules forty-seven to fifty-one, and as referenced in the.
+
+400
+01:23:49,690 --> 01:24:09,700
+Of practice will be derived from again the existing kind of international standards on disclosure around loss-absorbing capacity. So I'm I'm also thinking about the auditor's report, interim report and and and and the auditor's report on on the annual audited accounts.
+
+401
+01:25:03,320 --> 01:25:04,660
+咁咧就誒。
+
+402
+01:25:07,150 --> 01:25:08,550
+就誒。
+
+403
+01:25:05,110 --> 01:25:06,820
+嗰個第七段嗰度咧。
+
+404
+01:26:29,470 --> 01:26:31,180
+啊！即係細銀行倒閉。
+
+405
+01:25:30,810 --> 01:25:33,030
+以致可能對金融穩定。
+
+406
+01:25:08,830 --> 01:25:11,790
+講到咧，就話如果呢個機制咧，
+
+407
+01:25:38,210 --> 01:25:41,420
+我覺得呢個咧就唔能夠咁講嘅，主席。
+
+408
+01:25:33,690 --> 01:25:37,860
+尤其係對存款人造成極大嘅負面影響嗱。
+
+409
+01:25:41,830 --> 01:25:46,090
+點解咧？因為你而家呢個咧係。
+
+410
+01:26:09,940 --> 01:26:14,890
+噉，但係個問題就係你記住，嗰個宗旨咧，由頭到尾咧。
+
+411
+01:25:24,820 --> 01:25:30,280
+倒閉嘅時候，可能需要動用公帑嚟到挽救，或者進行清盤嘅情況。
+
+412
+01:26:03,090 --> 01:26:09,270
+即係唔好意思啊！我用我用即係大細噉樣意思啦，即係唔唔係誒，即係唔係嗰啲超級大嗰啲啦。
+
+413
+01:24:53,600 --> 01:25:03,040
+誒第誒即係誒即係即係呢呢個冇number嚇，即係喺個枱面嗰度嗰個啦，即係十三號嗰個啦嚇。即係中文版嗰個，中文版中文版嗰個。
+
+414
+01:25:12,110 --> 01:25:24,380
+就淨係規定嗰個誒G S I B同埋D S I B先要遵守呢個lock呢個規定啦，L A C呢個就會出現咧，某銀行。
+
+415
+01:26:15,280 --> 01:26:29,190
+我哋唔係喺我哋而家存款保險計劃去擴大，或者我哋咧覺得存款保險計劃就唔夠啊啊！因為咧有啲啊存户咧就係冇得賠。
+
+416
+01:25:46,540 --> 01:26:02,570
+啊，唔誒，應該咁講嗱。你前面第六段咧就話誒，我我哋咧就係誒，除咗存款保險之外咧，有啲人唔包保唔保到㗎嘛，係嘛？咁變咗咧就誒，嗰啲人都會損失啦，即係冧當噉。即係如果嗰啲細銀行啦，即係咁講啦嚇，即係。
+
+417
+01:27:43,380 --> 01:27:44,300
+一個機制。
+
+418
+01:28:10,010 --> 01:28:11,010
+標嘛。
+
+419
+01:27:29,610 --> 01:27:33,280
+就唔可以置身事外，就一齊做。
+
+420
+01:27:44,840 --> 01:27:49,050
+嗱，記住，你個目標一定好清楚咧。我哋係因為呢個嚟立法嘅。
+
+421
+01:26:38,730 --> 01:26:43,600
+配合國際嘅嘢咧，我哋自己係加強自己保障自己嘅全本地全户嘅。
+
+422
+01:26:54,880 --> 01:27:00,980
+你而家呢個法例咧，就係正正真係因為人哋世界大亂啦，驚。
+
+423
+01:26:31,870 --> 01:26:38,450
+咁誒，我哋咧就本地，就算政世界局勢冇要求我哋做呢啲。
+
+424
+01:27:11,010 --> 01:27:18,240
+就所以咧，就要係同世界各個國家司法管轄區嚟到去一齊。
+
+425
+01:26:44,690 --> 01:26:54,100
+就費事咧，要公堂比噉啊，或者咧就誒誒加大嗰個徵款啊，嗰啲噉樣嚇，即係存款保險。你你完全唔係呢個宗旨，唔係呢個目標嘅。
+
+426
+01:27:01,260 --> 01:27:10,690
+就然後我哋香港咧都有啲銀行，就其實係喺個世界體係裏邊會影響全世界一齊攬住死嗰啲，即係講得俗啲。
+
+427
+01:27:33,560 --> 01:27:43,100
+嚟到規管嗰啲大嘅銀行喺香港作為一個運作，而影響外地或者影響我哋嘅一個保障。
+
+428
+01:28:48,060 --> 01:28:58,210
+要誒公堂去救陪畀佢哋，好似唔係好痛喎，好妥喎噉，真就唔係啊！呢個噉嘅嘅嘅社會嘅氣氛都冇，人民冇乜意見。
+
+429
+01:27:18,520 --> 01:27:29,110
+嚟到去處理一啲，如果超級大嗰啲銀行有事嘅時候，我哋咧就香港作為一個負責任嘅國際一員咧。
+
+430
+01:28:11,660 --> 01:28:27,770
+坦白講，亦都個社會亦都冇啊！嗱，我都係一個直選民主議員啦嚇。O K，我我冇個社會冇話，喂，而家而家誒誒，存款保險咪一百萬好似係嘛？五五十萬啊，所以五十萬就冇話嗰啲超過五十萬嗰啲。
+
+431
+01:27:50,000 --> 01:28:10,010
+如如果你話我透過呢個立呢個誒誒誒同國際一齊去合作嘅機制，又夾硬再又話，哎呀，不如我哋本地銀行啊嗰啲小存户，你而家突然間又好似好好擔心嗰啲小存户，就話香港個存款保險就唔夠，所以啊，如果冧咗佢哋都好慘噉樣。喂，大佬啊，而家根本就唔係呢個目。
+
+432
+01:28:28,050 --> 01:28:48,060
+仲有我哋係一個人行五十萬，即係換句話講，你可以擠擠十家人行噉就O K咯。噉啊間間都賠五十萬咯。即係換句話講咧，就冇個社會好強烈咧，就話喂唔係喎。我哋而家嗰啲全部超過五十萬一間銀行嗰啲咧，就好大嘅outcry，即係誒哇喂，你要加加強啊點樣啊？仲有咧就或者其他嗰啲市民就話喂有咩事，如果要
+
+433
+01:29:05,820 --> 01:29:07,340
+嗱，噉啊，仲有。
+
+434
+01:31:11,320 --> 01:31:13,120
+我覺得就更加離譜。
+
+435
+01:29:55,310 --> 01:29:57,180
+你依個有個風險危機喎。
+
+436
+01:29:07,620 --> 01:29:09,620
+你即係大家利是啦。
+
+437
+01:29:14,510 --> 01:29:17,640
+真係大家利是有事嘅時候，誒。
+
+438
+01:30:48,240 --> 01:30:51,980
+仲有你根本就唔符合嗰個宗旨，所以主席對唔住。
+
+439
+01:29:09,990 --> 01:29:13,850
+當嗰個啊小嘅銀行。
+
+440
+01:28:58,560 --> 01:29:05,300
+係咪咁？所以你而家突然間好似關心嗰啲存户，就佢哋又唔係全部受保障。
+
+441
+01:29:18,160 --> 01:29:25,520
+你究竟係咪一定要動用公帑去救嗰啲根本就唔影響你香港嗰個金融穩定？即係我講成個香港嘅金融穩定。
+
+442
+01:29:45,990 --> 01:29:54,860
+根本都而家唔係呢個情況啊嘛，咁所以你無端端同我講話誒誒會招致香港納税人，噉你嗱你仲有喎，你噉樣講咧？
+
+443
+01:30:18,200 --> 01:30:32,250
+有有事嘅時候，如果真係有咩事，你唔去救嗰啲細銀行，超過五十萬嗰啲，到時我就餵你咁寫喎，大佬，我有個合理嘅期望喎，你梗係唔好咁寫啦，真係，喂，五十萬就五十萬，係嘛？
+
+444
+01:30:32,530 --> 01:30:47,710
+喂，五十萬以上就冇㗎啦。噉你要係咁講㗎嘛，大佬係嘛？你自己考慮嗰個銀行嘅嘅嘅嘅嘅嘅穩定性啊，噉樣係嘛？或者你存多幾間呢個係你自己決定係嘛？你而家突然間噉樣講咧，哇！我覺得你真係你你兩頭兩邊都唔係人。
+
+445
+01:30:52,400 --> 01:31:10,040
+我唔能夠接受呢個B呢個你咧，就話誒誒誒誒嗰啲細銀行根本唔影響大局嗰啲咧，你喺呢一個情況之下咧，我覺得係有問題嘅。即係你如果你噉樣仲寫埋，你仲仲搭單寫埋落去，好似好好啊照顧嗰啲五十萬以上嘅存款人嘅利益咧。
+
+446
+01:29:25,980 --> 01:29:45,990
+而當然，因為你有個存款保障啦嘛，咁即係換講個個五十萬以上嗰啲冇得賠。喂，大佬啊，大家已經係喂，大家已經係預咗個心理準備，存款嘅時候都係咁諗㗎啦。已經你而家突然間話五十萬零一蚊噉，哎呀嗰一蚊冇啦，噉啊會上街抗議啊，或者點點點？喂！
+
+447
+01:29:57,480 --> 01:30:17,490
+你明明你就話五十萬就賠五十萬，嗰個夠㗎啦，已經仲有九成幾嘅人都係夠㗎啦嘛，係嘛？你你你統計㗎嘛？你突然間你話唔係而家西林銀行冧嘅時候，你超過五十萬咧啊！如果冇呢個咧，可能分分鐘我哋要考慮要賠畀佢㗎噉樣用公帑啊咁喂，有冇搞錯啊？喂，大佬喂，你噉樣講咧，你你知唔知你而家捉蟲啊？
+
+448
+01:31:13,400 --> 01:31:33,410
+對唔住，真係啊！嗱，呢個係我嘅意見，或者睇下你咩回應。誒，睇下政府當局有冇咩回應啦。即係呢個咧，當然係逐條審議之前，但係因為阿陶議員佢誒頭先冇機會問，咁而家我諗佢補翻問，大家就去照樣去答翻啦，好冇？多謝議員嘅意見。其實好多誒誒議題，我哋頭。
+
+449
+01:31:38,150 --> 01:31:40,810
+唔使簡單嘅，你可以詳細嘅。
+
+450
+01:33:29,100 --> 01:33:32,640
+resolution in in firewalls resolution objectives.
+
+451
+01:34:30,230 --> 01:34:34,340
+依個係均真咧，就係話原本我通過呢個例咧。
+
+452
+01:31:33,410 --> 01:31:37,600
+先都已經討論過，而家請阿Mr.威好簡單咁recap一次嚇。
+
+453
+01:33:54,220 --> 01:33:58,420
+如果有咩你可以follow up啦，唔該。嗱，誒主席，誒。
+
+454
+01:34:34,650 --> 01:34:39,170
+係基礎，就係話你話，因為世界有個公約。
+
+455
+01:34:18,710 --> 01:34:23,580
+反對呢個嘅，OK，我會用盡力嚟到反對呢呢呢呢個嘢通過嘅。
+
+456
+01:34:23,860 --> 01:34:29,620
+咁當然有有人就話：喂，噉你反對啲噉嘅大嗰啲，咪咪冇冇冇冇得搞噉樣。嗱，你記住。
+
+457
+01:32:41,160 --> 01:32:48,680
+Action that the monetary authority takes when a bank fails will be guided by those three really important objectives.
+
+458
+01:31:41,130 --> 01:32:01,140
+Thank you, thank you, and thank you, Member Toe, for the additional comments. Certainly, we we value sort of the feedback that we've received from members as part of this process. And I guess I just like to reiterate one or two points that we've we've touched on earlier today. In particular, that there's nothing automatic in the lack rules or the COP that results in
+
+459
+01:32:01,140 --> 01:32:21,150
+imposing requirements on big or small banks. This happens through bilateral resolution planning with individual firms. So the decisions we take here today do not result in an automatic requirement. That comes as part of individual firm discussions. And I think a priority for the MA in resolution.
+
+460
+01:32:21,150 --> 01:32:41,160
+Planning with individual firms, big or small, reflects his resolution objectives under the FIRO. So, protecting financial stability, protecting continuity in the bank's critical financial functions, including access for depositors, and very importantly, minimising the risk to public funds. So, any
+
+461
+01:32:49,080 --> 01:33:09,090
+And I think there's a there's an important role for the deposit protection scheme, but there's a clear interaction between how resolution applies for banks that might cause systemic risk if they fail and smaller banks that can be allowed to enter insolvency if they fail and have a deposit protection scheme pay.
+
+462
+01:33:09,090 --> 01:33:29,100
+made to the eligible protected depositors. So these are complementary, but I think the key lesson from the financial crisis is that for banks that are cause a systemic problem if they are placed into liquidation, there needs to be an orderly resolution for those institutions. So I'll pause there, but I think the key objectives for the resolution authority are guided by the.
+
+463
+01:33:34,210 --> 01:33:54,220
+誒，主席啊，我我都想講翻咧。頭先其實啊，有好多位委員啦，包括誒我自己啦、陳建波議員啦、姚思榮議員啦、張華峯議員都表達過，即係監管局如果將呢個概念外延咗咧，我哋都係有啲唔係好同意嘅。咁誒，當然頭先啊啊啊Amin再答你嗰度咧，你。
+
+464
+01:33:58,700 --> 01:34:18,710
+我我誒覺得佢誒同呢度冇增加到論據嘅。O K嚇噉就誒，我頭先嗰個論據咧，我仍然認為我都。如果你中意，你可以繼續咧係用書面睇下你揾唔揾多個論據答我嗰個。O K，但係如果你認為呢個書面加埋頭先嗰個就係咁多㗎啦，噉樣噉我可以話畀你聽咧，我。
+
+465
+01:35:25,240 --> 01:35:26,950
+你係咁講㗎當時。
+
+466
+01:34:56,090 --> 01:34:58,470
+我係用呢個機率之下咧，通過原本嘅法例嘅。
+
+467
+01:34:40,170 --> 01:34:44,140
+我哋唔做咧，唔得嘅，因為始終香港係金融中心。
+
+468
+01:35:27,300 --> 01:35:31,750
+我話當時，如果你細嗰啲你嗰啲規則唔攞嚟咧，我今日大嗰個唔會通過你嘅。
+
+469
+01:34:51,290 --> 01:34:55,810
+或者人哋嗰啲超級大嘅喺我哋香港有運作，而會影響到全局。
+
+470
+01:36:58,720 --> 01:37:03,780
+你都你唔係咁同我講嘅，你我相信你同其他同事都唔係咁講嘅，OK？
+
+471
+01:35:32,940 --> 01:35:38,450
+但係，你而家睇清楚啦，原來你真係會咁搞嘅，你根本就違翻原本嘅目標。
+
+472
+01:34:44,420 --> 01:34:50,800
+但係嗰個概念咧，就唔係話我哋搞嗰啲細嘅，而係嗰啲大嘅影響，影響埋人哋啊！
+
+473
+01:35:17,740 --> 01:35:24,120
+你記唔記得？我同你開會，你就話：餵！你信我啦，我哋係而家係做大嗰啲嘅啫。
+
+474
+01:36:51,870 --> 01:36:58,410
+唔係唔唔係唔係，我可以接受嘅精神，亦都我原本嘅法例裏邊咧，嗰個精神都唔係噉嘅。
+
+475
+01:35:39,460 --> 01:35:51,500
+對唔住啊，我唔能。如果你你嗱，我畀個機會你，你仲可以。如果有進一步論據，你可以話畀我聽。但係如果你首先你話，喂，我又嗱，你兩點啫，一來你顧及嗰啲小存户，喂，五十萬以上叫小存户啊？
+
+476
+01:34:58,840 --> 01:35:17,460
+如果你而家係搞搞搞下就搞到連嗰啲細都搞嘅咧，對唔住，我今日由如果你由一開始嘅時候話畀我聽係噉樣，你當然可能嗰陣時唔係咁清楚，但係如果你而家而家睇到細嗱，所以嗰陣時點解我係叫你攞埋啲draw through我先通過大嗰個嘅？
+
+477
+01:35:51,840 --> 01:36:11,850
+我唔敢講啦，可能而家啲啲嘢錢多咗五十萬叫好窮啦。咩窮人一物就三百四五百萬上車盤叫窮人一物啊嘛，大佬係嘛咁？但係對我嚟講，喂，大佬啊，你個scheme一路如果你加你就自己冇呢個都好，你加五十萬加到七十萬，不一百十萬，你同我講就我哋因為domestic嘅本地嘅原因。
+
+478
+01:36:11,850 --> 01:36:31,860
+但係就唔係因為我哋無端端喺國際，我哋需要嗰啲大銀行嘅所謂叫systematic failure系統性嘅失誤咧，有機會咧影響全球一齊冧噉，大家hold住頂住個莊噉，所以你而家暗度陳倉就夾硬搞埋啲細嘅咧，對唔住一鋪還一鋪。
+
+479
+01:36:31,860 --> 01:36:51,870
+你噉樣咧，對唔住，唔可能噉嘅。你另外再遲啲，你話我我劃開咗佢先。如果我真係覺得五十萬要加到七十萬、八十萬啊，再銀行再誒誒納納納啲誒誒徵款或點樣再計過。O K，咁嗰個要全局嚟睇，就唔好根據呢度咧無端端就叫人哋啊啊啊股東咧突然間有一個噉樣，即係我覺得呢個。
+
+480
+01:37:04,060 --> 01:37:24,070
+噉啊！主席，我可以話誒，濕直跳佢，再有冇進一步嘅文件或者論據，否則嘅咧，主席，我堅決係反對呢個呢個法例。好啊，我諗啊，阿陶議員個即係立場，大家好清楚㗎啦。咁至於頭先誒啊，我諗啊，陶議員講咗一點咧，就係話喺嗰個第七段裏邊咧，就誒。
+
+481
+01:39:17,420 --> 01:39:18,030
+係。
+
+482
+01:38:16,630 --> 01:38:20,830
+Division two of this part deals with remedial actions.
+
+483
+01:37:44,210 --> 01:37:50,390
+issue嘅嚇係啦，咁誒，我哋呢度繼續可以誒進行我哋嘅審議先啦。Robert，唔該。
+
+484
+01:37:52,230 --> 01:37:59,700
+Sure, thank you. So moving on to Part Seven, this sets out provisions about the enforcement of the lack requirements.
+
+485
+01:39:09,010 --> 01:39:16,680
+And Rule 64 sets out the tribunal's powers and procedure on a review of a reviewable decision.
+
+486
+01:39:49,030 --> 01:39:56,880
+OK，can I can I can I raise one one one very general questions? Obviously.
+
+487
+01:38:49,200 --> 01:38:57,870
+Part eight then sets out the mechanics for a review of reviewable decisions by the Resolvability Review Tribunal.
+
+488
+01:39:38,690 --> 01:39:48,230
+Provide more detail on deductions in the calculation of external and internal loss-absorbing capacity, Mr. Chairman. That's all.
+
+489
+01:38:58,270 --> 01:39:08,730
+Rule 63 sets out the procedure for a relevant entity's application to the tribunal for a review of a reviewable decision made by the resolution authority.
+
+490
+01:38:21,110 --> 01:38:31,890
+Rule 61 empowers the resolution authority to require an entity that contravenes the rules to take specified remedial action to remedy that contravention.
+
+491
+01:40:09,880 --> 01:40:21,850
+As solicitors and and practicing accountant, I I guess they may not be able to grasp all these you know intricacies in in in one go or or shortly.
+
+492
+01:39:57,330 --> 01:40:09,600
+all these need a lot of compliance resources and and time and training as well and and generally speaking, I I my impression is that well
+
+493
+01:38:32,170 --> 01:38:47,530
+And Rule 62 sets out the procedure for requiring remedial action, including the rights of the entity to apply for a review of the resolution authority's decision to require remedial action by the Resolvability Review Tribunal.
+
+494
+01:37:59,980 --> 01:38:15,810
+Division One Rule sixty provides that an entity that is subject to a requirement under the rules must notify the resolution authority if that entity fails to comply or becomes aware that it is likely to fail to comply with the requirement.
+
+495
+01:37:24,070 --> 01:37:44,080
+嗰度變咗有雙重意義。嗰度咧，可麻煩你哋咧都可以就呢一點，即係畀翻一個誒書面嘅回應佢啊，好唔好啊？即係其實畀我哋小組委員會啦。其實唔係話畀入報投投議員啦，畀翻我哋小組委員會咧，就係誒。In response to佢頭先嗰個誒一個。
+
+496
+01:39:18,680 --> 01:39:38,690
+That brings us on to the schedules, and I don't propose to go into these in any more detail, other than just to repeat that as mentioned earlier, Schedule One sets out qualifying criteria for external lack instruments. Schedule Two sets out qualifying criteria for internal lack debt instruments, and Schedule Three and
+
+497
+01:40:38,860 --> 01:40:39,670
+你 know。
+
+498
+01:40:22,180 --> 01:40:23,220
+嗯。
+
+499
+01:41:00,330 --> 01:41:01,760
+aware that a
+
+500
+01:42:10,810 --> 01:42:15,120
+政府喺邊一方面需要加強嘅話，我哋亦都歡迎呢啲意見嘅。好。
+
+501
+01:41:22,140 --> 01:41:30,400
+You need to to learn all these skills and do the compliance. So so that is a bigger question for the bureau to to address. Thank you.
+
+502
+01:40:23,640 --> 01:40:37,990
+Can the bureau inform us or this subcommittee what sort of training or assistance will you be giving to the compliance team in general? I mean, of the authorised institutions, are there any?
+
+503
+01:43:35,440 --> 01:43:50,870
+The resolution requirements. So loss-absorbing capacity has been a big feature of our dialogue this year on a bilateral basis, and that's business as usual for us. And that dialogue on a case-by-case basis is, in way, the main part of our day-to-day work.
+
+504
+01:40:40,320 --> 01:41:00,330
+updates or seminars or other professional trainings which you could give to the you know industry in general on on all these requirements. That's my my question. I mean, it doesn't necessarily restricted to the LEC requirement at the moment, because obviously there are more newer regulations coming up, and I'm just generally.
+
+505
+01:41:02,130 --> 01:41:22,140
+There's a general fatigue amongst the compliance people, not just in the banking sector, in the insurance sectors, in the you know security sector. I mean, I mean this is really a big problem because of more and more and newer and newer regulations and end time, the short time frame within which.
+
+506
+01:41:30,790 --> 01:41:50,800
+張秘書長，你你係你想回答定係想金管局？誒，我諗金管局同事可以講講，即係佢哋誒誒，即係針對呢個lock requirement誒，對業界嗰個專業嗰個誒要求嗰個理解啦。咁另外就誒喺政府層面，其實我哋當然一路都好關注。
+
+507
+01:41:50,800 --> 01:42:10,810
+誒誒專業服務嗰個係咪足夠係咪誒可以誒維持香港誒不嬲即係一路金融中心專業服務中心嘅呢個地位噉，我哋係好重視呢啲意見，我哋亦都同議員保持誒誒即係恆常嘅溝通。如果有誒即係特別邊一個範疇誒，議員係認為誒。
+
+508
+01:42:15,400 --> 01:42:35,410
+Sure. So the HKMA has a regular dialogue with banking sector practitioners, including INEDs and banking practitioners at a more general level. So, for example, annually there is a regulator's dialogue between the HKMA and banking sector practitioners, in which several hundred bank
+
+509
+01:42:35,410 --> 01:42:55,420
+銀行實習生會收到一個簡報，從HKMA。所以去年，決策和負擔能力是這個簡報的重點。而且今年12月，HKMA會舉辦另一個監管者對話，有幾百個銀行業實習生從香港，專注於負擔能力的要求。
+
+510
+01:42:55,420 --> 01:43:15,430
+In addition to that, I think the role of the code of practice is important for supporting industries' understanding of often quite you know technical rules. And then finally, I think I really emphasise the role of resolution planning between the HKMA and individual firms. I think a major component of that initial phase of bilateral planning is.
+
+511
+01:43:15,430 --> 01:43:35,440
+developing a shared understanding of the resolution strategy and individual requirements. So, for example, with institutions this year, particularly DESIBS, the HKMA will have regular dialogue and meetings, maybe once a month, once every two months, with their counterparts in the institutions who are responsible for delivering.
+
+512
+01:43:51,380 --> 01:44:11,390
+啊，所以，one more question. Sure. Now, Justin, I was talking about the the front line compliance people. Obviously, the INEDs of authorised institutions are the gatekeepers as well, and and I'm I'm quite worried that we we do not in Hong Kong will have enough people like.
+
+513
+01:44:31,400 --> 01:44:31,890
+係。
+
+514
+01:44:35,830 --> 01:44:36,750
+嗯。
+
+515
+01:46:09,240 --> 01:46:10,800
+We will definitely commit to that.
+
+516
+01:46:58,280 --> 01:47:01,180
+OK，OK，Sure。啊，仲有冇其他？
+
+517
+01:44:45,740 --> 01:44:48,920
+I think the latter questions are.
+
+518
+01:44:32,170 --> 01:44:35,550
+Honestly, I think you you have to tell tell this subcommittee.
+
+519
+01:47:01,460 --> 01:47:08,620
+問題冇咧，我想誒法律顧問其實曾經誒提出過一個觀點，需要誒。
+
+520
+01:44:37,060 --> 01:44:44,800
+what do what is your general feeling about the qualities of I N E Ds of A I s in in in this city? Thank you.
+
+521
+01:46:11,520 --> 01:46:24,360
+Can can you answer the second question? I mean, when of course, I mean when an AI appoints INEDs, they need your approval, right? Yeah, interview, interviews and everything. So very very stringent criteria and and.
+
+522
+01:46:44,770 --> 01:46:58,000
+Banking supervisory colleagues, so we're not we're not part. But can the bureau give me a written reply if it's appropriate? This one is okay. I may and ask them to give you a written reply.
+
+523
+01:44:11,390 --> 01:44:31,400
+The honourable Mr Chan, very qualified people to be sitting on the boards of these AIs, and and what what what assistance have you been giving to the INEDs in in you know overseeing the operations of these AIs, and and when you approve the INEDs or AI.
+
+524
+01:44:49,200 --> 01:45:09,210
+It's rather difficult to answer, but at least you have to share with honourable, you know Kenneth Leung, you know what you have been done to inform the INED in relation to latest regulatory requirement, so and so forth. Thank you. So I'll speak to resolution rather.
+
+525
+01:45:09,210 --> 01:45:29,220
+Well, you can address both because everything is important to us. I think so. There's a obviously, as you know, there's a supervisory approval process around the appointment of INEDs, and that's led by my supervisory colleagues. So there is a a process.
+
+526
+01:45:29,220 --> 01:45:49,230
+on resolution, we have been engaging with INEDs in Hong Kong. So earlier this year, there would have been a senior level engagement by the HKMA representatives and bank INEDs in Hong Kong, focused explicitly on resolution, and we will look to continue investing in.
+
+527
+01:45:49,230 --> 01:46:09,240
+Our relationship with Hong Kong Bank INEDs, to because they play a very important role in advancing, ensuring that banks are able to comply with these requirements, but also oversee. So we we see that as a very important relationship for us. So we will continue that relationship specifically on resolution. We
+
+528
+01:46:24,760 --> 01:46:44,770
+What's the general feel? I mean, do do you have a very high rejection rate? I I don't need you to give me a figure, but but generally, what what is the general feeling? So frankly, this is we're representatives from the resolution office and we're responsible for resolution issues. The process that you're talking about is a supervisory issue and is led by my.
+
+529
+01:47:52,750 --> 01:47:54,100
+同埋誒。
+
+530
+01:47:49,710 --> 01:47:52,250
+B嗰度咧，其實已經寫得好清楚。
+
+531
+01:48:36,410 --> 01:48:38,970
+喺呢度想提出修正案、修定案。
+
+532
+01:47:32,880 --> 01:47:36,280
+reviewable decision，係。
+
+533
+01:47:27,610 --> 01:47:32,600
+誒多謝主席。啊，法律顧問嗰個問題就係話嗰個誒。
+
+534
+01:47:54,790 --> 01:48:03,410
+喺六十二五嗰度亦都寫得好清楚，就唔需要誒再作咩進一步嘅澄清同埋修訂㗎啦。
+
+535
+01:47:36,570 --> 01:47:48,510
+誒呢個第二十九B同埋第六十二五條嗰度誒，需唔需要誒列出曬三個出嚟？噉我哋嘅意見就係誒喺二十誒嘅九。
+
+536
+01:48:03,750 --> 01:48:16,120
+我想睇法律顧問誒，對於律政司嗰邊嘅答案，你有冇補充？誒冇補充。冇補充。O K。咁誒，我哋呢邊嘅即係問題，我睇下仲係大家仲有冇？
+
+537
+01:49:15,840 --> 01:49:30,030
+一個情況啦，或者點樣可以支援佢哋嘅一個噉，希望你哋亦都畀出一個書面意見。噉就誒，大家有冇其他事項？冇嘅話就多謝曬大家今日參加。咁亦都誒，多謝政府當局嘅代表嚇，辛苦曬大家，唔該曬。
+
+538
+01:48:59,990 --> 01:49:15,560
+咁誒，希望政府當局咧今日有兩個問題係希望書面回應嘅。第一個就係圖緊新委員嘅一個意見啦。第二個就係我諗啊，梁繼昌委員頭先都提咗一個關於獨立非執行董事誒嘅。
+
+539
+01:47:08,900 --> 01:47:26,950
+C clarification，咁亦都啊，當局亦都有個response，就話問過呢個法律草擬誒嗰邊咧，就覺得冇需要。噉我想呢度咧，可唔可以請誒律政司嗰度將我哋法律顧問嘅問題同埋你哋嘅答案喺呢度都講一講啊？唔該。
+
+540
+01:48:16,400 --> 01:48:36,410
+冇咧，我想講咧，誒，我哋今日就完成咗逐條審議嘅工作啦。噉我已經喺二零一八年十一月廿二日嘅立法會上邊咧，就動議咗個議案咧，將呢個規則嘅審議限期咧，就延展到二零一八年十二月十二號嘅。咁誒，我想睇下委員有冇誒。
+
+541
+01:48:39,980 --> 01:48:59,990
+如果有或者冇都好啦，咁誒個限期咧，其實就係今年嘅十二月五號。咁誒，我會喺今個禮拜五，即係十一月三十號咧，向內務委員會咧就口頭匯報我哋小組委員會嘅審議結果。誒，亦都會將誒當然有啲委員嘅意見咧，我亦都喺嗰度反映啦。

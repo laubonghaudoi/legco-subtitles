@@ -1,0 +1,959 @@
+1
+00:00:00,060 --> 00:00:16,070
+夠鍾夠法定人數，噉我哋開會啦嚇。首先喺度咧，就多謝阿祥哥講話撐我哋啊。呢個委員會咁喺度，祝大家咧新春嚇，工作順利。希望我哋呢一條嘅條例草案可以儘快完成，好嘛？
+
+2
+00:00:16,820 --> 00:00:19,300
+啊！我哋請官員入嚟先，好嘛？
+
+3
+00:00:20,280 --> 00:00:21,360
+通過咗。
+
+4
+00:00:22,350 --> 00:00:23,150
+係啊。
+
+5
+00:00:23,430 --> 00:00:25,870
+誒上一次有。
+
+6
+00:00:26,150 --> 00:00:45,140
+大家都收到秘書處畀大家嘅文件啦，就有兩份嘅會議紀要。咁咧就秘書處咧就冇收到修訂嘅建議。如果委員係冇反對嘅話咧，咁誒我就當大家係通過嗰個會議嘅紀要啦，好嘛？冇問題啊嘛。
+
+7
+00:00:45,420 --> 00:00:49,540
+我喺度，噉啊，通過上次兩份嘅會議紀要。
+
+8
+00:01:02,640 --> 00:01:04,740
+即係今日會議嘅官員。
+
+9
+00:01:05,090 --> 00:01:11,420
+就有財經事務及庫務局首席助理秘書長陳敏恩女士，同埋。
+
+10
+00:01:11,700 --> 00:01:17,510
+誒，仲有我哋誒證監會啦、金管局嘅同事啦。
+
+11
+00:01:17,920 --> 00:01:31,700
+噉我就唔一一咧係去讀啦，好嘛？嚇，大家枱面上咧都已經有出席官員同埋呢個證監會金管局嘅代表嘅名單喺度啦。
+
+12
+00:01:35,770 --> 00:01:55,780
+嗱喺宣前嘅會議上面咧，政府就表示會就條例草案第三部提出委員會審議階段嘅修正案咧，咁所以咧就誒，法案委員如果係同意咧，一並去審議誒第三部嘅條文嘅，即係話第五十六至到六十條嘅條文同埋政。
+
+13
+00:01:55,780 --> 00:01:57,830
+府所提出嘅修正案嘅。
+
+14
+00:01:58,110 --> 00:02:18,120
+噉啊，法律誒呢個我哋嘅法律顧問咧，亦都曾經喺二零一四年二月十一號咧，向政府咧提出咗一啲嘅函件，噉啊啊提問一啲嘅問題嘅。噉啊，政府咧亦都係做咗一啲嘅回應㗎啦。喺大家嘅文件裏邊咧，係啊C B一。
+
+15
+00:02:18,120 --> 00:02:26,150
+八七四零二號嘅文件，咁而家我請啊啊秘書長咧係做個介紹先啦，好唔好啊？
+
+16
+00:02:27,240 --> 00:02:28,550
+多謝主席。
+
+17
+00:02:28,830 --> 00:02:29,860
+嗯。
+
+18
+00:02:30,140 --> 00:02:50,150
+咁條例草案大部分嘅條文已經完成逐條審議嘅，咁剩低咧就只係條例第三部保障條文嘅修訂啦。咁呢個部分嘅條例草案條文咧就只有第五十六至六十條呢幾條嘅。咁喺港交所喺委員會成立咗之後冇幾耐咧，就以團體意見嘅方式。
+
+19
+00:02:50,150 --> 00:03:10,160
+向委員會提交咗一份意見書，就呢個部分提出咗一啲修訂。咁誒，我哋都向委員會表明咗，我哋會跟進呢啲建議啦。咁誒，我哋其實咧，亦都係喺之後咧，就聯絡咗港交所，進一步瞭解佢哋嘅建議。咁喺討論嘅過程裏邊咧，佢哋亦都提出咗進一步嘅建議。
+
+20
+00:03:10,160 --> 00:03:30,170
+嘅噉，我哋向委員會提交嘅誒委員會階段修正案嗰個文件裏邊咧，就已經説明咗邊一啲修訂係應港交所嘅建議提出啦，同埋呢一啲修訂嘅原因嘅。咁在此咧，我就好感謝法律顧問Winnie啦，就喺二月十一日來信要求我哋提交文件。
+
+21
+00:03:30,170 --> 00:03:36,660
+就呢部分嘅修訂咧，就解釋政策嘅目的同埋理據，噉我哋都提交咗文件嘅。
+
+22
+00:03:37,150 --> 00:03:57,160
+咁而家我對文件做一個概括嘅介紹。誒現行證券及期貨條例第四十條裏邊咧，就定明如果認可結算所參與者，即是係認可結算所嘅結算會員違責咧，咁結算所係可以訂立違責處理規則嘅。有關嘅修訂係擴大。
+
+23
+00:03:57,160 --> 00:04:17,170
+大認可結算所違責處理規則嘅適用範疇，繼而擴大條例第三部無力償債凌價條文所賦予保障涵蓋範圍，適用於兩樣嘢嘅一咧就係認可結算所本身嘅違責事項咧，同埋第二樣咧就係認可結算所支援嘅場外衍生工具交易嘅若干。
+
+24
+00:04:17,170 --> 00:04:18,880
+結算安排嘅。
+
+25
+00:04:19,600 --> 00:04:39,610
+誒喺呢度做翻少少個背景介紹，因為即係距離之前嘅會議都有一段時間。誒喺較早前嘅會議咧，我哋都介紹過咧認可機構核准貨幣經紀持牌法團同埋其他定名人士係需要透過指定嘅中央對手方結算。若幹喺有間關規則裏邊。
+
+26
+00:04:39,610 --> 00:04:54,300
+指明嘅場外衍生工具交易嘅，咁呢啲結算係可以直接，即係話以指定中央對手方成員嘅身份啦，或者係間接，即係透過屬於指定中央對手方成員嘅第三方進行嘅。
+
+27
+00:04:54,580 --> 00:05:06,170
+咁間接結算嚟講咧，透過中央對手方結算嘅交易咧，就係可以透過佢嘅成員啦，或者係以成員客户嘅身份嚟到間接結算嘅。
+
+28
+00:05:06,450 --> 00:05:23,190
+咁由於我哋嘅條例會強制規定投資者係需要透過指定指定嘅中央對手方結算某啲場外衍生工具交易咧，噉我哋就認為有關嘅責任必須有適當嘅投資者保障措施支持嘅。
+
+29
+00:05:23,470 --> 00:05:38,740
+咁所以，我哋呢一個部分嘅相關修訂咧嘅重點咧，就係在於確保間接地使用認可結算所服務嘅人士，佢名下嘅持倉同埋資產係得以分隔同埋可以調動。
+
+30
+00:05:39,020 --> 00:05:49,430
+噉樣嘅做法咧，係旨在確保誒為透過認可結算所進行結算嘅投資者咧，係提供更加嘅保障嘅。
+
+31
+00:05:49,980 --> 00:06:09,990
+咁呢一個嘅保障係極其重要嘅。咁假設誒結算成員或者認可結算所佢誒出現無力償債嘅情況之下咧，噉就可以容許投資者嘅持倉同埋資產咧係能夠以更有效率嘅方式退翻畀投資者，或者係根據投。
+
+32
+00:06:09,990 --> 00:06:19,510
+投資者嘅指示進行轉移，而唔會因為破產程序而受到阻延，同埋輕易噉樣分派畀其他嘅債權人嘅。
+
+33
+00:06:19,870 --> 00:06:35,450
+咁誒相關嘅詳情，我哋已經喺文件裏邊咧，就係提供咗。咁誒，我哋亦都咧就係按法律要求嘅要求咧，就係誒解釋咗一個典型嘅客户結算安排嘅實際運作畀委員參考嘅。
+
+34
+00:06:36,820 --> 00:06:56,830
+咁誒，另外咧就呢一部分裏邊嘅另一個修訂咧，就係話令到咧誒嗰個無力償債凌駕條文嘅保障範圍咧，係可以適用於認可結算所本身違責之後所採取嘅行動嘅。呢個做法咧係合乎國際嘅要求，誒支付。
+
+35
+00:06:56,830 --> 00:07:16,840
+及結算系統委員會同埋國際證監會組織，即係CPSSIOSCO啦，佢哋所制定嘅金融市場基建嘅原則咧，亦都提出係有需要喺呢一方面提供保障同埋法律確定性嘅。咁所以我哋新增嘅第四十二A條咧，就係涵蓋咗所有嘅中央。
+
+36
+00:07:16,840 --> 00:07:18,750
+交易對手結算所嘅。
+
+37
+00:07:19,030 --> 00:07:39,040
+咁誒，然後咧，我就會邀請證監會嘅同事向委員介紹條例草案裏邊嘅相關條文，即時係第五十六至六十條。咁同埋咧，就係就相關嘅條文所提出嘅委員會階段修正案嘅英文本作出介紹嘅。咁誒，我哋就好抱歉，暫時未能夠提供中文版。
+
+38
+00:07:39,040 --> 00:07:59,050
+版本噉，所以我哋就會用英文版嚟到誒講解住先嘅。好，多謝主席。專家會邊一位阿梁生係嘛？梁生嚟介紹。誒，主席各位議員，誒我我跟住落去會介紹咧誒個條例草案第三部分嘅修訂啦。咁誒頭先啊，陳小姐都簡單介紹過啦。其實誒喺呢個第三部分嗰個條例。
+
+39
+00:07:59,050 --> 00:08:19,060
+草案嘅修訂咧，其實我哋嗰個改動咧，主要係誒針對兩個方面啦。第一個方面咧就係話頭先提過，就係因為我哋實施個場內衍生工具交易嗰個要求嘅時候咧，要求市場嘅人士咧係用中央對手方或者結算所嚟做結算嘅時候，咁所以我哋覺得咧就喺呢個過程裏邊咧。
+
+40
+00:08:19,060 --> 00:08:39,070
+有好多客户咧，可能係透過啲結算中介人啦，或者係結誒去去做結算啦。咁如果係個結算中介人發生問題倒閉嘅時候，或者就算係結算公司發生問題嘅時候咧，咁呢啲客户嘅資產咧，我就覺得係需要有一個比較恰當嘅誒保障。咁所以，我哋個修訂嘅其中一個部分咧，就主要就係建議咧將現。
+
+41
+00:08:39,070 --> 00:08:59,080
+時嗰個無力上制零價條文咧，就隱身包含到客户方面嘅結算。第二部分咧就係咧誒，其實國際組織而家都都更加著重咧結算所個穩健。咁誒頭先提過啦，就係誒CPS同Iosco咧，即就已經係有個新要求咧，要求結算所咧係要定立一啲誒法例，如果。
+
+42
+00:08:59,080 --> 00:09:19,090
+佢自己倒閉，即係話要結算所自己都唔夠錢去應付一啲會員違規倒閉嘅時候咧，佢應該點樣處理佢誒未平倉嗰啲合約係應該點處理？咁所以我哋呢個第三部分嘅修訂咧，亦都係有一啲改動咧，係去誒將結算所佢自己倒閉嗰個法例咧，係給予即係給予。
+
+43
+00:09:19,090 --> 00:09:39,100
+一個法律上嘅保障啊！咁呢兩方面咧就係主要第三部分嘅修訂。咁頭先提過咧，因為咧誒，我哋第三部分嘅修訂咧，其實咧就誒喺個條例草案遞交咗畀委員審批之後咧，其實交易所咧就提過好多唔同嘅意見。噉我哋同佢傾過之後咧，其實有好多地方都有修改到，因為我哋覺得佢嘅意見。
+
+44
+00:09:39,100 --> 00:09:59,110
+咧都係值得接受嘅噉，所以我跟住落去咧，我就會用嗰個誒委員會審議階段嗰個修訂案咧嚟做個介紹。咁誒，因為好抱歉，頭我哋暫時仲係淨係得英文版本噉，所以咧誒，我跟住落去咧，我諗我就會用英文介紹，因為如果唔係嘅時候咧，有啲詞語我用英文跟住我又用中文講咧就。
+
+45
+00:09:59,110 --> 00:10:19,120
+好似唔係幾恰當嚇咁誒。我跟住落去咧，我就會用嗰個誒誒委員會審議階段嗰個誒修正案嗰個誒版本嚟做個介紹啦。Firstly，I I would like to use the C S A version to brief members on the proposed change set out.
+
+46
+00:10:19,120 --> 00:10:29,820
+In the Part Three of the SFO， firstly is about the cost 57。In the CSA version， please refer to page 96。
+
+47
+00:10:30,870 --> 00:10:50,880
+Okay. Cause 57 amends section 18 of the SFO. Section 18 is about the interpretation of Part 3. I.e., under section 18, we define several terms used in in the Part 3. Cause 57, the subcause 1, expand the definition of.
+
+48
+00:10:50,880 --> 00:11:10,890
+法規， to cover the rules made by the curing house under the new section forty two A. I will talk about the new section forty two A later. But basically, the existing section forty only provides the curing house to make rules in the event that its curing participant are in default. But the new section.
+
+49
+00:11:10,890 --> 00:11:30,900
+Section 42A expand the scope of the default rules to cover the situation where the clearing house can make its own default rule to deal with its own default situation. Say for example, if a clearing house does not have sufficient financial resources to deal with a member default, then the clearing house will become insolvent.
+
+50
+00:11:30,900 --> 00:11:50,910
+所以，under the new sections, the clearing house can make rules to set out what they will do in the event of its own default. So by expanding the definition of the default rules to cover the default rules made by the clearing house in relation to its own default, we can provide sufficient legal backing to
+
+51
+00:11:50,910 --> 00:12:02,050
+ensure that the action taken by the clearing house in the event of its own default would not be challenged by the liquidators. So basically, the first course one is explain the definition of the default rules.
+
+52
+00:12:02,520 --> 00:12:22,530
+Subclause one A amends the definition of the defaulter to include not only the curing participant but also the curing house itself. So basically, after the amendments, the the section the definition of defaulter will include the def will include the the default.
+
+53
+00:12:22,530 --> 00:12:38,310
+of a curing house, the recognised curing house. If the curing house has already made rules to govern its own default, so this amendment is consistent with the new section 42A regarding the default rule made by the curing house to cover its own default.
+
+54
+00:12:41,030 --> 00:12:46,530
+If there's no questions, then I will go to sub course two.
+
+55
+00:12:47,680 --> 00:13:07,690
+Subcourse two includes a new section eighteen seven. As you can see on page ninety six, in A, the sub the subcourse eighteen seven aims to clarify what is market collateral. And in A, as you can see, the market.
+
+56
+00:13:07,690 --> 00:13:27,700
+Collective basically is defined to include includes properties held or deposit as collateral margin or guarantee fund contribution. So this amendment attempts to clarify what is the market collateral, and as a result, the clearing house could be protected in the event of default by the.
+
+57
+00:13:27,700 --> 00:13:28,930
+參與參與。
+
+58
+00:13:30,150 --> 00:13:33,660
+啊，page ninety seven，啊。
+
+59
+00:13:33,940 --> 00:13:53,950
+In B, we further define or expand expand what is the guarantee fund contribution. As member may be aware, a clearing house usually establish a guarantee fund to cover the default arising from its clearing participant. So the guarantee fund is mainly.
+
+60
+00:13:53,950 --> 00:14:13,960
+make up by the contribution by the curing house itself and by all the curing participant. So in other words, in the event of a default by a curing participant, the curing house can use the guarantee fund to cover the loss arising from the default. And we consider one scenario. For example, when a curing participant is in default.
+
+61
+00:14:13,960 --> 00:14:33,970
+所以，under the rules of the recognised clearing house, the clearing house will first use the guarantee fund contribution provided by the defaulter to settle the loss. There may be legal uncertainty because if the guarantee fund contribution is not defined under the SFO as a market collateral, then we
+
+62
+00:14:33,970 --> 00:14:53,980
+We are concerned about whether there may be legal uncertainty regarding the guarantee fund could be available to the clearing house to handle the default situation. For example, in the event of a default by a clearing participant, the creditors of the clearing participant may ask the clearing house to return the guarantee fund contributed by the defaulter to.
+
+63
+00:14:53,980 --> 00:15:11,210
+offset is is is debt or or to pay is debt. So by making clear that the default fund contribution is part of the market collateral, we can provide legal certainty to the clearing house such that they can always use the guarantee fund to cover a default situation.
+
+64
+00:15:12,030 --> 00:15:19,490
+So basically, subsection subcost sorry in B we define what is the guarantee fund.
+
+65
+00:15:19,770 --> 00:15:28,040
+And if members do not have comments, then I will move to page ninety-eight.
+
+66
+00:15:30,310 --> 00:15:31,310
+啊！
+
+67
+00:15:31,590 --> 00:15:37,100
+The cost 58 also proposed to amend.
+
+68
+00:15:39,570 --> 00:15:42,990
+amend the the the section.
+
+69
+00:15:43,580 --> 00:16:03,590
+40 by including a new section 42A. As I mentioned earlier, the 42A, as you you can see in in part A, we proposed to include new sections to enable the hearing house to make rules for taking proceedings or other actions to deal with its own default. So
+
+70
+00:16:03,590 --> 00:16:23,600
+In other words, in the event of a clearing house failure, then the clearing house will, based on what mentioned in its rules, to deal with the outstanding position held by the clearing participant. So by including the clearing house default rules in these new sessions, we can give
+
+71
+00:16:23,600 --> 00:16:43,610
+legal certainty to the enforceability of the recognised clearing house rules in the event of its own default, so we can ensure that the action taken by the clearing house in the event its own default will have the legal finality, so it will not be challenged by the liquidator or will be challenged by the law of the insolvency in Hong Kong.
+
+72
+00:16:45,950 --> 00:16:48,660
+佢，嗯，喺啊。
+
+73
+00:16:48,970 --> 00:17:08,980
+The subsection B and C, ie page ninety nine and page one hundred, we propose to add two subsections to provide a new arrangement, which is now being proposed by the international setting bodies. As we mentioned at the beginning.
+
+74
+00:17:08,980 --> 00:17:28,990
+under the new CPSI school standard, there is a requirement that a clearing house should establish a portability arrangement to protect the interests of the the customer. Under the portability arrangement, in the event of a default by a clearing participant, the kind of the defaulting clearing.
+
+75
+00:17:28,990 --> 00:17:49,000
+Participant will be allowed to port, or in other words, to transfer their position or related collateral to other clearing participant. So in other words, in the event of a default, then the client will not need to wait until the completion of the liquidation process before they can get back their money. So under the portability arrangement, in the event
+
+76
+00:17:49,000 --> 00:18:09,010
+部分的違約，買方可以轉移他們的身分從違約者到其他參與者，來繼續他們的合約。所以這個安排是旨在保護投資者或客户的利益。所以，在第B和C節，我們
+
+77
+00:18:09,010 --> 00:18:29,020
+set out that the curing house can make rules to support the portability arrangement. So basically, B is talking about a client of the curing participant can transfer their position to other curing participant, and C covers the situation where the client can also transfer the related.
+
+78
+00:18:29,020 --> 00:18:32,300
+to other current participant in the event of a default.
+
+79
+00:18:34,800 --> 00:18:36,400
+Any question? No.
+
+80
+00:18:36,840 --> 00:18:38,340
+Okay, go ahead. Okay.
+
+81
+00:18:38,620 --> 00:18:58,630
+Then please turn to page one hundred. And one hundred, as you can see, the sub clause two, we propose to add a new sections to define what is kind account and what is house account. And basically, this amendment is consequential to the amendment to this section forty two A.
+
+82
+00:18:58,630 --> 00:19:06,010
+Because the term kind account and house accounts are used in in these sections, so basically we we define what is kind account and house account.
+
+83
+00:19:10,190 --> 00:19:11,420
+可以，OK。
+
+84
+00:19:13,590 --> 00:19:33,600
+We go to one hundred and one page. Okay, page one hundred and one, the clause fifty eight A, we propose to add the provision of market collateral as in in this sections. Basically, because at the moment the clearing house receive collateral.
+
+85
+00:19:33,600 --> 00:19:53,610
+from the market participant to cover their positions. The collateral can be provided in different forms. Some market participant provide the collateral in a in non cash in a non cash form. Some will provide the collateral in cash. So this amendment is in response to the comments from the Hong Kong exchanges because they believe that.
+
+86
+00:19:53,610 --> 00:20:13,620
+By including the term provision of market collateral, we can make sure that the market collateral definition can include those collateral which are transferred to the clearing house as an outlay transfer. So, in other words, if a clearing participant transfer the cash.
+
+87
+00:20:13,620 --> 00:20:25,610
+到 curing house。然後，by having these new sections， we can ensure that the cash collateral is covered under the insolvency override protection。所以，呢個係主要係technical amendment。
+
+88
+00:20:25,930 --> 00:20:26,790
+嗯。
+
+89
+00:20:28,500 --> 00:20:32,200
+No question. We go to page one or two.
+
+90
+00:20:32,480 --> 00:20:50,760
+Okay，page one o two is a is a minor amendments. We propose to replace the term the net sum if any by any any net net sum. So I think the amendment is straightforward and the language is is better.
+
+91
+00:20:51,650 --> 00:20:57,500
+Okay. Okay. Then, I I would like to talk about.
+
+92
+00:20:58,470 --> 00:21:01,940
+The course 60 page 103.
+
+93
+00:21:02,220 --> 00:21:22,230
+page one hundred and three, the clause sixty, as two new sections, section two and section three, in part five of schedule three of the SFO. Part five of schedule three in SFO is mainly set out the requirement for the default rules to be made by a recognised clearing house.
+
+94
+00:21:22,230 --> 00:21:24,310
+in in the
+
+95
+00:21:24,630 --> 00:21:27,250
+New section two.
+
+96
+00:21:27,940 --> 00:21:47,950
+basically， we want to include a arrangement under the clearing house so that we can better protect the customer. As you can see in the session two and three， under these two new sessions， what we try to achieve is that in the event of a default by clearing participant。
+
+97
+00:21:47,950 --> 00:22:07,960
+When the clearing house calculate the net sums payable by the defaulting participant to the clearing house or vice versa, vice versa, the calculation should be done separately in respect of the client account and house account. So under under default situation, the clearing house could not or not allow
+
+98
+00:22:07,960 --> 00:22:18,030
+To calculate the amount payable by or payable to the current participant for both the current account and house account together, they need to do a calculation separately.
+
+99
+00:22:18,310 --> 00:22:38,320
+And if you look at section three B, i.e. page one hundred and five, you you will have more information about why we need to have a separate calculation. On page one hundred and five, section three, we clarify that in the event of the default.
+
+100
+00:22:38,320 --> 00:22:58,330
+任何應付給清盤人有關其帳户的款項，必須不得抵銷任何應付給參與清盤人的款項，有關其帳户。所以，換句話説，在事件發生違約時，如果帳户有餘款，餘款必須不得允許。
+
+101
+00:22:58,330 --> 00:23:13,570
+to offset any losses arising from the house account. So that means the the kind interest should be protected in the event of default. If there is any surplus fund available in the kind account, the the surplus should be retained and returned to the client.
+
+102
+00:23:14,740 --> 00:23:16,390
+O.K.讓佢暢言。
+
+103
+00:23:17,820 --> 00:23:35,470
+I just want to know if there is any regulation which requires the participant to keep separate client accounts within the so-called client account label if he got you know several thousands of clients.
+
+104
+00:23:35,750 --> 00:23:40,250
+Do they need to keep omnibus client account within the client account itself?
+
+105
+00:23:40,700 --> 00:24:00,710
+我Thank you for the questions. I think there there are two basically two level of the requirements in relation to the kind of segregation. Firstly, under the SFO, we have a kind money rules which requires our licensed corporation to segregate the kind's money.
+
+106
+00:24:00,710 --> 00:24:20,720
+所以佢哋唔可以把公款同私款放喺同一個賬户。所以根據SFO的要求，佢哋需要將公款放喺分開嘅賬户。第二個層面係關於CCP，關於居屋，大部分。
+
+107
+00:24:20,720 --> 00:24:40,730
+The curing house now have established different kind structure to facilitate the curing participant, i.e. the bookers, to segregate the kind position as well as the kind collateral. There are different arrangement. The most common arrangement is that the curing house simply.
+
+108
+00:24:40,730 --> 00:25:00,740
+create a only base kind of account, such that all the kind asset will be maintained by the clearing participant with the clearing house in the same account. But I think over the past several years, there is a trend that more and more clearing house now provide.
+
+109
+00:25:00,740 --> 00:25:20,750
+individual client account to the brokers. So, in other words, if a client requests and the brokers decided to entertain the request from the customer, then the brokers can open individual client account at the clearing house for each of the clients. So, the advantage, of course, is that in the event of the default, the client asset of
+
+110
+00:25:20,750 --> 00:25:23,700
+那 particulat client could be easily identifiable.
+
+111
+00:25:25,990 --> 00:25:27,230
+呀，呢啲。
+
+112
+00:25:29,670 --> 00:25:32,960
+Thank you for your response and.
+
+113
+00:25:33,240 --> 00:25:50,630
+My understanding is that what you have told us and in this committee is that there's a requirement for the client to segregate or or the broker or the participant to segregate client position and client collateral right in two separate accounts. That is the basic requirement.
+
+114
+00:25:50,920 --> 00:25:57,650
+my question is, is there any rules which regulate?
+
+115
+00:25:57,930 --> 00:26:17,940
+The hypothecation, meaning the use of client collateral, in particular in relation to these OTC derivatives, are there special kinds of rule, or are we sticking to the normal rules? Or if there are the normal rules, what what what are those normal rules in relation to hypothecation?
+
+116
+00:26:17,940 --> 00:26:32,310
+Of clients' collateral, are the participant allowed to use the collateral in other ways other than just, you know, putting them or sitting them in a client collateral account? That's my question.
+
+117
+00:26:33,140 --> 00:26:53,150
+Thank you for the question. At the moment, we haven't developed the details requirement for the kind segregation in relation to the OTC new regulations. As we mentioned earlier in the previous meeting, we after this bill is approved by the legislature, we will also make.
+
+118
+00:26:53,150 --> 00:27:13,160
+subsidiary legislations, or we may need to also need to amend existing subsidiary legislations to reflect the new requirement under the OTC regulatory regime. So we still we are still in the process of discussing internally how to set out the requirement in the subsidiary legislation.
+
+119
+00:27:13,160 --> 00:27:33,170
+所以一possibility is that we may amend the existing sublet to include the new requirement for the kind asset protections in relation to the OTC market. But a a a a quick response to your question is that I think in most of the jurisdictions, the collateral provide
+
+120
+00:27:33,170 --> 00:27:53,180
+By clients to cover the client's own position could not be used by the brokers for any other purposes. So the brokers can only use the collateral to offset or to cover the potential loss arising from the position held by the customer. But my my understanding is that they they are quite
+
+121
+00:27:53,180 --> 00:28:11,230
+number of industrial-wide standard contractual template which do they do allow the collateral to be used in other ways? Are you saying that the future direction of the subsidiary legislation will be to prohibit such other use? Is is my question clear?
+
+122
+00:28:11,640 --> 00:28:12,540
+畀佢。
+
+123
+00:28:13,240 --> 00:28:33,250
+Yeah，I I I think at this moment we we haven't have a concrete idea how to do it because the in relation to the OTC market， the the the development is evolving. Say say say for example， we understand in some jurisdictions， the kind the the bookers provide。
+
+124
+00:28:33,490 --> 00:28:53,500
+Allow the client to provide collectible which which are not of good quality. But as you know, the CCP, the clearing house, also need to accept collectible from the brokers. So the CCP, in order to protect itself, the CCP has set out very stringent requirement to determine which particular collectible.
+
+125
+00:28:53,500 --> 00:29:13,510
+could be used by the bookers to cover their positions. So because the the bookers accept the low quality collateral from clients, but on the other hand, the CCP only accept high high quality collateral. So there are some new services developed developed developed by the bookers to help the bookers to
+
+126
+00:29:13,510 --> 00:29:33,520
+channel the low quality colostrum to become a high quality colostrum to meet the requirement by the CCP. So there are many many new developments. So I think at this moment, we I'm afraid that I cannot tell you all the requirement in detail. But in our subsidiary legislation process, we will of course set out all the requirement and the subsidiary legislation.
+
+127
+00:29:33,520 --> 00:29:37,470
+Will also be provided electrical for negative rating.
+
+128
+00:29:38,400 --> 00:29:39,110
+OK。
+
+129
+00:29:40,990 --> 00:29:42,070
+準備過喎，係。
+
+130
+00:29:42,940 --> 00:29:46,360
+啊，OK，then啊啊。
+
+131
+00:29:47,810 --> 00:30:07,820
+Then we, I would like to talk about section three C. In C, we basically clarify that if there is a surplus fund available in the house account of a defaulting current participant, then the surplus fund available in the house account can be used to offset the loss arising from.
+
+132
+00:30:07,820 --> 00:30:17,590
+The client account. So this is a an arrangement to ensure that if the booker is in default, its own money can also be used to cover the loss arising from the client account.
+
+133
+00:30:18,640 --> 00:30:38,650
+Indeed, in the subsection three D, this is a new section we include in response to the comments from the Hong Kong exchanges. As I respond to the question from Mr. Kenneth earlier, in some jurisdictions.
+
+134
+00:30:38,650 --> 00:30:58,660
+The CCP have allowed bookers to open more than one kind account to better protect the interests of the customer. So the new section 3D is included to clarify that if the rules of a recognised clearing house allow a clearing participant to open more than one kind account, then set off.
+
+135
+00:30:58,660 --> 00:31:15,080
+Among different kind account is not allowed. So that means we want to ensure that if the position are maintained in separate account, then that position could not be used to cover or to offset the losses arising from the position held by other customer.
+
+136
+00:31:16,830 --> 00:31:17,580
+OK。
+
+137
+00:31:18,420 --> 00:31:21,350
+Okay，then。
+
+138
+00:31:21,810 --> 00:31:25,180
+I would like to talk about.
+
+139
+00:31:26,160 --> 00:31:27,830
+Page one o six.
+
+140
+00:31:29,130 --> 00:31:49,140
+page one hundred six there are two new subsection A and B. In A, we basically want to clarify that the portability arrangement, i.e., in the event of a default, then a client can transfer the position from the defaulter to other clearing participant. So we want to clarify under A that.
+
+141
+00:31:49,140 --> 00:32:09,150
+The portability arrangement for the outstanding contract in a client account is regarded as settlement of the contract for the purpose of section 1A in in in part five. So, in other words, if a contract of a client is transferred or ported from the
+
+142
+00:32:09,150 --> 00:32:16,510
+一條參與人到另一條參與人，然後，合同會被視為是settled contract under under A。
+
+143
+00:32:16,920 --> 00:32:35,750
+And in B， we further clarify that the rights and the liabilities of the curing participant should include the rights and the liabilities arising from the portability arrangement。所以A和B啊，just mainly for clarification purposes。
+
+144
+00:32:39,330 --> 00:32:59,340
+Okay, if members do not have questions, then I will talk about the new section five. Section five clarifies that the section one, two, three and four in this part applies despite section 55 or disorder.
+
+145
+00:32:59,340 --> 00:33:19,350
+因為在第55節，我們解釋了，對於認可的養老院和養老院參與者之間的合約，養老院參與者應當被視為承認合約的基本原則，因為在這些節目中，我們談到了帳户和房屋。
+
+146
+00:33:19,350 --> 00:33:34,980
+所以我們 want to make sure that even though the clearing participant is regarded as a principal from the clearing house perspective, when we calculate the profit and loss in the event of the default, we also need to separate the calculation between the counter account and the house account.
+
+147
+00:33:37,910 --> 00:33:57,920
+Okay. If no questions, then I will want to talk about the the new section five A. The session, the new section five A, simply clarified the the term set off or offset used in the audience include the netting arrangement. This
+
+148
+00:33:58,270 --> 00:34:18,280
+Change is in response to the comments from the exchanges because the exchange believe that the current term net off or offset may not be clear enough. Whether this two term could cover the netting arrangement in the event of the default. So we discussed with the exchange and agreed that to provide legal certainty, it will be.
+
+149
+00:34:18,280 --> 00:34:25,750
+Better to have the new sections to clarify that set-off and offset also includes a netting arrangement.
+
+150
+00:34:26,990 --> 00:34:28,420
+OK，啊Kenneth。
+
+151
+00:34:29,680 --> 00:34:49,690
+I think the set of concept and netting are two totally different concept, right? You recognise that, right? Set off is where you you set off a surplus and a deficit, and and the netting is only when you consider the.
+
+152
+00:34:49,790 --> 00:35:07,170
+end result of a position, and you do a netting, which also arises in a situation of liquidation. So I'm I'm not too sure.
+
+153
+00:35:07,600 --> 00:35:27,610
+你，what what's the direction of your amendment? Either you you are clarifying the term, or you are saying that set off is a kind of netting. Am I right in saying that, or what is exactly the rationale, or or
+
+154
+00:35:27,720 --> 00:35:29,760
+The mischief of your amendment.
+
+155
+00:35:30,370 --> 00:35:34,750
+maybe I ask my colleagues to to provide further information. Okay.
+
+156
+00:35:35,030 --> 00:35:55,040
+Miss McCudden, yeah, thank you, Mr. Lange, for the question. The idea really is that in Schedule Three, the language used there sometimes talks about settling an obligation or talks about set off or offsetting, and the purpose of the amendment is to make sure because in some jurisdictions they don't do set off, they do netting, and the idea is to make sure that when we
+
+157
+00:35:55,040 --> 00:36:15,050
+談到計算，為目的的第3條款，我們想包括兩種安排：，即減免安排和淨化安排。如我們理解，減免是兩筆已存在的債務義務，而在淨化安排中，這並不存在。實際債務義務
+
+158
+00:36:15,050 --> 00:36:35,060
+does not arise until you come to the final netted figure. So, therefore, the two concepts are very different. But because the existing SFO language uses set off, we want to make it clear that just because we are using it, we are not actually restricting it to that type of calculation. We are also allowing for netting arrangements to be taken.
+
+159
+00:36:35,060 --> 00:36:37,490
+Okay.
+
+160
+00:36:37,890 --> 00:36:39,510
+就係，OK。
+
+161
+00:36:41,110 --> 00:36:42,060
+嗯。
+
+162
+00:36:42,340 --> 00:36:48,460
+If no further questions, then I will talk about the changes on page one o seven.
+
+163
+00:36:48,780 --> 00:37:08,790
+一零七，新section三五B，also wants to clarify that the reference to a some of the money payable by or payable to a person should include the value to be taken into account when the netting arrangement takes place. So this is a very
+
+164
+00:37:08,790 --> 00:37:12,180
+非常similar clarification to the earlier sections.
+
+165
+00:37:12,560 --> 00:37:32,570
+在the the the next section section six, we include different terms to define to give a different definition of various terminology we use in the sections. The definition include client account, house account and netting, as well as the recognised.
+
+166
+00:37:32,570 --> 00:37:52,580
+Tiering House Rules. I think this definition are quite straightforward, so I I would not go through all the definition one by one. Basically, the account account and the house account definition are similar to the definition we I explained earlier. And on page 108, you can see the legal definition.
+
+167
+00:37:52,580 --> 00:38:09,560
+定義的netting， and we also include a definition of the recognised clearing house. Basically, the recognised clearing house rules, those rules made by the clearing house referred to in section one. So these are all the definition issues.
+
+168
+00:38:10,920 --> 00:38:13,260
+Okay, any questions from members?
+
+169
+00:38:16,710 --> 00:38:24,210
+嗱，如果大家同事冇其他啲問題咧，噉我哋就繼續落去下一份文件啊，陳小姐。
+
+170
+00:38:25,130 --> 00:38:39,310
+繼續計算。下一份文件咧，就係我哋就委員會喺之前幾次會議咧，就提出咗一啲問題嘅。噉我哋就已經誒提供咗個回應啦。咁或者喺呢度，我就重點講講幾點嘅回應嘅。
+
+171
+00:38:39,590 --> 00:38:59,600
+咁誒喺回應裏邊，我哋就誒回應翻就住誒草案裏邊第一零一V條啦。誒嗰度咧就有委員係問過咧，裏邊嘅一零一V三條A及B款其實有啲咩唔同嘅。噉我講嗰個背景咧就係如果系統仲要差。
+
+172
+00:38:59,600 --> 00:39:05,510
+參與者唔遵從約官嘅要求咧，咁原眾法庭係可以命令佢遵從嗰個要求啦。
+
+173
+00:39:05,790 --> 00:39:11,430
+及處以懲罰嘅，咁委員就問啦：點解會有呢兩種唔同嘅處理方式咧？噉樣。
+
+174
+00:39:11,710 --> 00:39:21,210
+噉我哋就其實解釋翻咧，誒條例草案嘅相關條文咧，係根據現有嘅條例裏邊嘅第一百五一條草議嘅。
+
+175
+00:39:21,620 --> 00:39:33,640
+噉我哋喺文件裏邊就提供咗一個有關第一百五條一條嘅一個案例咧，就係畀委員參考嘅。咁嗰個案例咧就係詳情咧就係見附件A嘅。
+
+176
+00:39:34,190 --> 00:39:54,200
+噉，從原眾法庭就嗰個個案所作嘅決定可見咧，如果有人係冇誒根據法庭嘅規定遵從某一行嘅命令咧，咁法院咧係可以誒行使酌情權予以處罰啦。而且咧，佢嘅行動就不侷限於可以命令佢遵從嗰個要求，仲可以咧。
+
+177
+00:39:54,200 --> 00:39:57,490
+同時咧，係處以藐視法庭罪嘅。
+
+178
+00:39:58,090 --> 00:40:00,330
+咁呢個就提供咗一個案例解釋。
+
+179
+00:40:00,690 --> 00:40:09,690
+咁誒，另一個我哋提供嘅資料咧，就係咧，關於委員曾經問啦，喺條例之下咧，受與受調查人嘅權利同埋保障。
+
+180
+00:40:09,970 --> 00:40:29,980
+噉係有啲乜嘢嘅？例如咧，委員曾經問過咧，證監會為協助海外規管者而進行調查嘅時候，向受調查人或者提供協助人士所發出嘅交出記錄或文件通知裏邊，會唔會列明海外規管者嘅身份啦、進行調查嘅原因啦，同埋相關嘅海外法。
+
+181
+00:40:29,980 --> 00:40:30,610
+嚟嘅。
+
+182
+00:40:30,890 --> 00:40:50,900
+噉我哋喺文件裏邊咧，就係確認咗咧喺相關嘅通知裏邊咧，係會列明呢一啲嘅資料嘅。咁亦都喺文件嘅附件B嗰度提供咗嗰個通知嘅樣本。此外咧，我哋喺文件裏邊都介紹咗咧，誒喺證券及期貨條例裏邊係定有條文咧，確保受調查人享有法定嘅權。
+
+183
+00:40:50,900 --> 00:40:55,130
+權利同埋保障嘅，咁嗰啲嘅誒條文咧都羅列咗出嚟嘅。
+
+184
+00:40:56,480 --> 00:41:16,490
+咁咧，關於誒誒，我哋本港嘅監管機構同埋海外規管者嗰個協助方面咧，咁委員咧亦都係曾經問過啦，證監會同海外嘅規管者嘅合作啦，誒嗰方面我哋可唔可以要求進一步嘅資料？誒尤其是咧就係國際證監會組織。
+
+185
+00:41:16,490 --> 00:41:25,790
+嘅多邊諒解備忘錄嗰個簽署機構嘅名單，咁呢一方面咧，我哋就係喺文件嘅副辯檢屍嗰度咧，就羅列咗出嚟嘅。
+
+186
+00:41:26,820 --> 00:41:46,830
+噉就住銀行監管咧，委員亦都問過金融管理專員同誒其他海外嘅規管者訂立過啲乜嘢嘅誒諒解備忘錄啊，或者合作安排，可唔可以畀翻咧嗰啲相關嘅規管者嘅名單出嚟咧？噉樣噉，我哋咧呢一方面嘅資料咧就係喺附件D嗰度。
+
+187
+00:41:46,830 --> 00:41:47,990
+提供咗嘅。
+
+188
+00:41:49,580 --> 00:42:09,590
+誒委員亦都曾經問過咧，喺證券及期貨條例裏邊咧，就有一個罰款一千萬元嘅嗰個罰款上限嘅。噉就問翻我哋最初定定呢一個罰款上限嘅理據。誒咁呢一個咧，其實我哋喺最初草擬誒證券及期。
+
+189
+00:42:09,590 --> 00:42:29,600
+條例嘅時候咧，就係參照咗類似司法管轄區嘅做法嚟到定定一千萬元罰款嘅上限嘅。咁相關嘅理據咧，就係喺二零零零年四月發表嘅《證券及期貨條例草案諮詢文件》裏邊咧，就係講咗出嚟嘅。咁咧就有比較過美國同埋。
+
+190
+00:42:29,600 --> 00:42:34,200
+英國嗰個做法咧，咁有關嘅資料亦都係喺文件裏邊提供咗。
+
+191
+00:42:35,580 --> 00:42:54,300
+咁誒，另外想一提咧，就係關於個人資料私隱保障方面嘅誒，噉我哋喺文件裏邊咧，就誒應委員嘅要求咧，我哋就係確認翻咧，誒香港交易資料儲存庫咧係會遵從個人資料私隱條例裏邊嘅規定嘅。
+
+192
+00:42:54,580 --> 00:43:14,590
+咁同埋咧喺誒國際方面咧，其實國際調期及衍生公會協會咧，亦都係擬備咗多份嘅協議書咧，係方便市場參與者者實施同埋遵從有關場外衍生工具嘅監管規定嘅。噉佢哋有三份即係所謂標準嘅協議書咧，係幫助誒市場人士咧。
+
+193
+00:43:14,590 --> 00:43:20,990
+去修改佢哋嘅協議，嚟到去誒遵從相關嘅嗰個規定嘅。
+
+194
+00:43:22,340 --> 00:43:42,350
+嗯，咁其他嘅資料其實喺文件裏邊都誒好詳盡噉樣提供咗。噉我喺最後咧都想提翻咧喺上次會議咧誒主席都有問過我哋，可唔可以修訂附表十一裏邊嘅第三十三括弧四條嘅中文本嘅草擬本咧，令到條文更加容易，令到。
+
+195
+00:43:42,350 --> 00:43:57,800
+誒讀者明白嘅，噉我哋已經就住該條文咧，就係建議委員會審議階段嘅修正案咧，嚟到將嗰個條文簡化嘅。噉我哋雖然暫時只係得英文版，但係我哋中文版都係會有相應嘅修訂嘅。
+
+196
+00:44:00,570 --> 00:44:02,000
+同事有冇問題啊？
+
+197
+00:44:07,620 --> 00:44:10,200
+嗱，如果同事冇問題咧，咁誒。
+
+198
+00:44:10,610 --> 00:44:12,250
+我哋就審議。
+
+199
+00:44:12,600 --> 00:44:14,580
+完呢一份嘅文件啦。
+
+200
+00:44:23,470 --> 00:44:25,200
+嗱，噉我哋就。
+
+201
+00:44:26,070 --> 00:44:29,400
+誒，政府嘅其他嗰啲。
+
+202
+00:44:30,680 --> 00:44:31,930
+修正案咧。
+
+203
+00:44:32,340 --> 00:44:40,010
+就基本上咧都喺大家手上啦，嚇。噉啊，陳小姐，你有冇咩其他嘅嘢要同大家講咧？
+
+204
+00:44:40,290 --> 00:45:00,300
+嗯，就就住誒委員會階段修正案嗰度咧，其實呢啲修正案相當多咧，係因應港交所誒早前交畀法案委員會嘅意見書啦，同埋佢哋其後向證監會進一步建議嘅修訂而作出嘅。咁誒大部分呢一啲嘅建議咧，剛才誒證監會嘅梁生。
+
+205
+00:45:00,300 --> 00:45:02,120
+已經係解釋咗嘅。
+
+206
+00:45:02,590 --> 00:45:22,600
+咁誒另一種數量比較多嘅修訂咧，就係我哋建議咗一個咧，就係引入備存記錄嘅責任同埋相應嘅修訂嘅。咁呢一個我哋誒即係都可以係一一解釋嘅。咁誒仲有一啲嘅修訂咧，就係吸納咗市場人士嘅意見啦，又或者有一啲咧就係令到條文更加清晰、更加完。
+
+207
+00:45:22,600 --> 00:45:25,520
+或者係更加令人容易明白噉樣嘅。
+
+208
+00:45:27,460 --> 00:45:31,760
+噉就係大致上嘅分類就係噉樣。大家同事有冇咩問題啊？
+
+209
+00:45:34,050 --> 00:45:34,860
+冇。
+
+210
+00:45:35,390 --> 00:45:36,360
+冇係嘛。
+
+211
+00:45:38,650 --> 00:45:44,920
+係，阿吳良清議員都可以想了解一下嘅，就係關於備存記錄責任嗰方面咧。
+
+212
+00:45:45,200 --> 00:45:50,510
+誒營運者會唔會因此而增加到成本同埋？
+
+213
+00:45:50,790 --> 00:45:55,940
+嗰啲即係今後呢方面嘅有咩特別嘅標準？
+
+214
+00:45:56,230 --> 00:46:04,460
+即係有關嘅儲存、誒備存記錄站嘅做法嘅啲根據啊，同埋到時嘅。
+
+215
+00:46:04,740 --> 00:46:09,870
+即係相關類似嘅，係咪都會有一個一致性嘅做法？
+
+216
+00:46:10,150 --> 00:46:30,160
+噉啊，收費我仲係比較關注多啲嘅，就睇咧收費方面會唔會因此而引起咗？好啊，啊陳小姐。好，誒多謝主席。誒關於備存記錄責任咧，其實呢一個嘅責任咧，就係補充翻我哋現時喺草案裏邊已經有嘅誒匯報結算同埋交易責任嘅。
+
+217
+00:46:30,230 --> 00:46:50,240
+咁目的咧就係證明翻咧誒相關嘅市場人士，佢哋係唔係有履行到各項嘅強制性責任嘅？咁其實呢一種嘅誒做法咧，即係話要備存記錄咧，都係誒喺證券及期貨條例裏邊都有類似嘅條文啦。咁而就住誒。
+
+218
+00:46:50,240 --> 00:47:10,250
+場外衍生工具呢一方面嚟講咧，其實亦都會係喺國際上都會係誒一貫嘅做法。例如我哋瞭解咧喺誒歐美方面都會有類似嘅做法嘅。咁細節方面咧，我哋就會擺喺個規則裏邊咧，係會再做諮詢嘅。咁誒，其實監管機構我哋瞭解咧，佢就住引入。
+
+219
+00:47:10,250 --> 00:47:30,260
+呢一個責任咧，就有諮詢業界嘅意見，包括誒香港銀行公會。噉佢哋原則上就冇反對誒引入呢一個嘅責任，但係就住細節方面咧，佢哋都希望再瞭解清楚噉樣。咁或者呢一方面，我請金管局嘅同事補充一下。好啊，何生可唔可以介紹啊？哦，O.K.
+
+220
+00:47:30,500 --> 00:47:32,230
+好啊！請誒。
+
+221
+00:47:32,530 --> 00:47:52,540
+係誒，多謝主席，多謝阿吳議員嘅提問。咁正如阿阿阿陳美書佢之前講咗咧，其實我哋都誒已經誒展開咗我哋嘅誒誒初步嘅諮詢咧，同業界、銀龍工會咧，同埋其他嘅持份者都都徵詢過佢哋嘅意見。咁基本上佢哋對於呢個引
+
+222
+00:47:52,540 --> 00:48:12,550
+入嘅誒誒要求咧誒，唔係有太大嘅反對聲音。誒，頭先啊吳議員所提到嘅關於收費嗰個嘅誒關注啊，同埋誒細節上面嘅安排咧，其實我哋喺規則嗰個層面咧係會再詳細嘅做諮詢嘅。咁誒，由於呢一個嘅要求咧，其實係誒誒大。
+
+223
+00:48:12,550 --> 00:48:32,560
+只係同其他誒國家咧，包括歐美呢啲噉嘅誒管轄地方，佢哋嘅要求咧係看齊啦。噉我哋瞭解，其實誒某程度上，佢哋誒大部分嘅誒業界嘅人士咧，其實已經係留意到，亦都誒甚至係已經開始履行緊嘅。噉我哋都會誒留意到，我哋嘅要求咧係唔會係。
+
+224
+00:48:32,560 --> 00:48:47,570
+超出咗誒其他地方佢哋誒相應誒嘅要求，一貫嘅準則嚟到去誒去去誒私加嘅噉，所以呢一方面，我諗我哋都會誒繼續係同業界保持嗰個嘅聯繫同埋誒溝通。
+
+225
+00:48:48,310 --> 00:48:56,480
+好，咁即係換言之，即係同一般嘅叫做電子系統徵費咧，會係基本上一次，係咪會唔會係咁咧？
+
+226
+00:48:57,170 --> 00:49:17,180
+李小姐，係多謝主席。其實呢個同電子誒記錄徵費係誒嗯兩回事嚟嘅。呢個只係佢哋喺進入一個場外衍生工具交易裏邊所誒需要誒，譬如話誒簽嘅協議啊，或者係誒佢哋關於嗰個交易本身一個誒，譬如話佢嗰個嘅。
+
+227
+00:49:17,180 --> 00:49:31,300
+誒確認嘅資料啊，等等嗰啲噉嘅文件嘅檔案嘅嘅存據咁解嘅啫，噉就唔係話佢要誒有另外一套嘅系統咧，去要處理呢啲噉嘅誒嘅資料嘅。
+
+228
+00:49:32,990 --> 00:49:34,200
+清楚咯，嚇。
+
+229
+00:49:34,640 --> 00:49:35,450
+O.K.
+
+230
+00:49:36,930 --> 00:49:38,470
+我啲同事。
+
+231
+00:49:38,750 --> 00:49:41,090
+仲有冇其他問題啊？冇啦。
+
+232
+00:49:41,650 --> 00:49:44,050
+O.K.咁咧就誒。
+
+233
+00:49:44,330 --> 00:49:53,610
+嗱，基本上我哋就完成咗整個法例嘅審議，噉我想問一問政府咧，就係你諗住幾時恢復二讀啊？
+
+234
+00:49:54,030 --> 00:50:14,040
+誒，我哋就誒，其實就住委員會階段修正案就需要加翻個中文版。噉就之後，我哋希望盡快恢復二讀嘅。咁誒，據我瞭解咧，就誒可能如果照計算嘅話，可能最快可能四月左右噉，可能就會係適合嘅時間。哦，好啊，好啊，好啊，OK。
+
+235
+00:50:14,110 --> 00:50:19,320
+嗱，嗰啲同事噉樣咧，政府如果畀咗個誒修訂。
+
+236
+00:50:19,600 --> 00:50:39,610
+誒修正案嘅嗰個中文本咧，噉我就會先交畀我哋法律顧問咧，係睇一睇好嘛，睇下喺呢個翻譯嘅上咧，行文啊各方面有冇咩問題。咁同時咧，亦都可以啊隨時提出意見嘅。咁如果係冇咩大嘅爭議性嘅問題嘅話咧。
+
+237
+00:50:39,610 --> 00:50:59,620
+噉我就唔再開會，好唔好啊？咁如果係有需要嘅，大家嘅同事提出認為誒裏邊有啲嘢係需要咧，係再執一執嘅噉，咁亦都可以向我哋秘書處提出，或者咧就我哋再開多一次會，好唔好？噉我就誒暫時就唔安排會議住啦。噉我哋反正咧。
+
+238
+00:50:59,620 --> 00:51:19,630
+就係預定咧，即係知道政府係準備會喺四月咧，就先至再翻嚟會度咧，係做呢個誒恢復議讀嘅，好唔好啊？咁到時候我哋就會誒秘書處會同政府咧係夾個時間啊。咁同時咧，如果係想做修訂嘅話咧，噉我哋亦都有個時間。
+
+239
+00:51:19,630 --> 00:51:39,640
+嘅程序嘅限制嘅，好唔好啊？啊噉啊，我哋都暫時咧冇辦法咧，係向呢個內會咧係做呢個報告嘅，要等政府咧畀咗確實嘅時間之後咧，我哋先會做嘅，好唔好啊？OK，如果大家同事冇其他問題咧，咁今日嘅會議就開到呢度啦，好唔好？
+
+240
+00:51:39,640 --> 00:51:49,200
+多謝大家嘅出席嚇，亦都多謝誒證監會同埋金管局咧，係誒協助我哋審議呢一個嘅文件嚇，多謝曬。

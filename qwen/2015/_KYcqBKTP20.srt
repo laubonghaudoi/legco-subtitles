@@ -1,0 +1,1743 @@
+1
+00:00:00,000 --> 00:00:04,640
+同年，證券及期貨修訂條例草案委員會主席嘅選舉。
+
+2
+00:00:05,060 --> 00:00:25,070
+根據在於內務守則嘅選舉程序咧，我而家請委員提名主席一職嘅人選，有效提名咧係得由一名嘅委員提口頭作出，並須由最少另外一名委員口頭附議，並為獲提名嘅委員。
+
+3
+00:00:25,070 --> 00:00:29,360
+接納嘅，請委員提名梁君彥議員，請監林議員。
+
+4
+00:00:30,140 --> 00:00:31,340
+有冇話事？
+
+5
+00:00:32,730 --> 00:00:35,660
+張華峯議員，我以我願意接受嘅。
+
+6
+00:00:36,690 --> 00:00:38,180
+有冇其他提名？
+
+7
+00:00:41,840 --> 00:00:42,940
+冇其他提名。
+
+8
+00:00:46,080 --> 00:00:48,610
+誒有冇需要選副主席？
+
+9
+00:00:49,430 --> 00:00:50,430
+冇需要。
+
+10
+00:00:50,710 --> 00:00:53,030
+好嘅，大家冇意見嚇。O K。
+
+11
+00:00:55,550 --> 00:00:57,900
+好啊！我哋請政府。
+
+12
+00:00:58,180 --> 00:01:00,920
+同埋證監會嘅同事入嚟。
+
+13
+00:01:14,900 --> 00:01:16,070
+喺坐呢邊。
+
+14
+00:01:20,580 --> 00:01:21,180
+係。
+
+15
+00:01:27,590 --> 00:01:30,340
+嗱，我歡迎咧財經事務及服務。
+
+16
+00:01:30,680 --> 00:01:36,180
+局嘅副秘書長殷美媚女士，政監。
+
+17
+00:01:36,460 --> 00:01:41,030
+會嘅誒行政總裁歐達禮先生。
+
+18
+00:01:41,450 --> 00:01:45,540
+誒證監會嘅法律服務部首席律師。
+
+19
+00:01:47,020 --> 00:01:53,030
+楊以正先生，啊，楊以正先生。另外咧，就亦都有。
+
+20
+00:01:53,890 --> 00:01:58,000
+財經事務及庫務局嘅首席副助理秘書長。
+
+21
+00:01:58,290 --> 00:01:59,170
+和。
+
+22
+00:01:59,970 --> 00:02:04,900
+何確山女士啊，仲有就係證監會嘅其他同事。
+
+23
+00:02:05,180 --> 00:02:15,890
+誒我就唔一一讀啦，好嘛？仲有就係有律政司嗰邊嘅高級法律助理啊，同埋律師噉樣嚇，好嘛？咁咧就誒，首先我請。
+
+24
+00:02:16,370 --> 00:02:36,380
+啊！甄女士咧，係先介紹份文件，好唔好？啊！多謝主席。嗯，各位委員，我哋今日啊要處理嘅咧就係二零一五年證券及其貨修訂條例草案。咁呢個條例草案包括嗰啲建議咧，都係啊因應證監會佢哋喺佢哋嘅運作上喺啊。
+
+25
+00:02:36,380 --> 00:02:56,390
+實行佢哋個監管個功能上面咧，誒近年積累嘅經驗咧，我係希望就住誒有啲範疇咧、啲範圍作出一啲改良嘅。其中有一個誒比較主要嘅建議咧，就係關於同誒佢哋嘅海外監管機構去交換一啲關於。
+
+26
+00:02:56,390 --> 00:03:16,400
+於監管上面嘅資料嘅噉就，其餘嗰啲啊係比較技術性啦，就希望譬如係我哋建議咧，就取消咗對於一啲啊發牌上面一啲人士嘅即係紙張嘅牌照等等。誒，我或者誒喺呢個機會咧，就請阿歐達禮。
+
+27
+00:03:16,400 --> 00:03:33,480
+先生或者就住一個主要個建議，即係話誒證監會可以同佢哋個監管對手咧誒或者機構咧去交換關於喺監管上面嘅資料呢一方面嘅建議嚇，首先作出一個發言。好，我代表先生。
+
+28
+00:03:35,040 --> 00:03:39,530
+Thank you, and thank you for this opportunity to speak.
+
+29
+00:03:39,810 --> 00:03:54,530
+兩位成員關於這項法案，其在本質上將使SFC能夠將其現有的提供監管輔助給外國監管機構的能力與國際標準對齊，作為。
+
+30
+00:03:54,900 --> 00:04:14,910
+As has just been mentioned, we're also taking the opportunity to address some minor anomalies in the SFO that have emerged during the 12 years the SFC has been administering it. Now, given that supervisory assistance, the supervisory assistance aspect of the bill has attracted most attention, I'll take the time I've got today.
+
+31
+00:04:14,910 --> 00:04:34,920
+just to deal with that aspect and to explain why this small change is nevertheless important to Hong Kong as an international financial centre and why it can also be beneficial for Hong Kong financial intermediaries. Now, I think that the key point to bear in mind is that Hong Kong.
+
+32
+00:04:34,920 --> 00:04:54,930
+Success as an IFC, an international financial centre, is rooted in its globally open markets. That means that we've got a major interest in being able to obtain information from foreign regulators in order to properly supervise overseas headquartered firms in Hong Kong, and also to do all we can.
+
+33
+00:04:54,930 --> 00:05:01,780
+to ensure that our home-grown firms, our local firms, can access overseas markets to expand their businesses.
+
+34
+00:05:02,060 --> 00:05:03,910
+now the first objective.
+
+35
+00:05:04,570 --> 00:05:16,210
+Depends on our ability to conclude reciprocal agreements to share supervisory information with foreign regulators, where the SFC is both a provider and a recipient of information about globally active firms.
+
+36
+00:05:16,490 --> 00:05:29,020
+reciprocity means that our ability to reach these agreements with foreign regulators can depend on whether we are able to provide information to them, which is equivalent to the information we expect to be provided to us.
+
+37
+00:05:29,500 --> 00:05:42,850
+And if our ability to obtain and pass on information is more is more restricted than that of a foreign regulator, particularly if we if we fall short of international standards or expectations, the foreign regulator may actually refuse to cooperate.
+
+38
+00:05:43,130 --> 00:06:03,140
+Now the second objective, which is about market access to overseas markets, depends on the existence of sufficient gateways to provide information to a foreign regulator, so that it's happy to rely on Hong Kong's supervisory oversight of local firms when allowing them to tap markets and investors in the foreign jurisdiction.
+
+39
+00:06:03,140 --> 00:06:03,470
+係。
+
+40
+00:06:03,990 --> 00:06:24,000
+Now, I think it's important to to understand that under the SFO, we already have the ability to share with foreign regulators a large volume of supervisory information already gathered by us for our own purposes. The problem we're now dealing with in this in this bill is that we don't.
+
+41
+00:06:24,000 --> 00:06:32,130
+have the ability to obtain additional information from a licensed corporation, which may be of special supervisory interest to a foreign regulator.
+
+42
+00:06:32,410 --> 00:06:42,500
+我們會確診地期望，外國監管機構應該能夠提供這種資訊給我們，如果我們要求的話，在類似的監管安排下。
+
+43
+00:06:42,870 --> 00:07:02,880
+Now we believe that that this lacuna exists because at the time the SFO was enacted, supervisory cooperation, as distinct from enforcement cooperation, hadn't yet assumed its present international significance. And that contrasts, as I say, with the position on enforcement cooperation, which was already well developed and which differs from supervisory cooperation.
+
+44
+00:07:02,880 --> 00:07:15,620
+因為它主要是關於調查懷疑的 misconduct， 以取得證據， 用於後續的法律程序。 這不是監督合作， 這項修正案是關於的。
+
+45
+00:07:16,390 --> 00:07:33,300
+我應該也指出，這份資料已經由我們掌握，用於我們自己的監管目的，很可能是構成大量對外監管機構有興趣的資料。其他要求提供額外資料的請求，根據修訂的規定，因此可能非常罕見。
+
+46
+00:07:34,220 --> 00:07:53,030
+Nevertheless, the bill now before the committee is designed to fill the gap, so that Hong Kong comes into line with international norms, and to enable its markets, investors and licensed corporations to benefit from the twin objectives I referred to earlier: reciprocal arrangements for the exchange of information and access to foreign markets.
+
+47
+00:07:53,310 --> 00:08:09,810
+Now in fact, this proposal was triggered initially by recent difficulties we did encounter when negotiating market access arrangements for Hong Kong for for Hong Kong intermediaries with the European authorities.
+
+48
+00:08:10,570 --> 00:08:30,580
+這些是條件性地，基於存在合適的監管資訊安排，根據歐盟法律，包括有能力要求公司提供資訊，並非已經由我們擁有。所以，這就是這個修正案的觸發點。現在，已經設定場景，我只想快速聚焦。
+
+49
+00:08:30,650 --> 00:08:36,260
+On the main features of the proposal, including, most importantly, limitations and safeguards.
+
+50
+00:08:36,830 --> 00:08:56,840
+now the key point is that the information requested by an overseas regulator can only concern a licensed corporation or its group companies which is regulated by the SFC and the foreign regulator. It isn't a free for all for information requests made by all sorts of foreign regulators without limitation.
+
+51
+00:08:56,840 --> 00:08:57,670
+但。
+
+52
+00:08:58,340 --> 00:09:18,350
+For that reason, the proposal should not add to the compliance burden on local brokers and other licensed firms who are unlikely to be affected if they do not have a physical presence in the foreign jurisdiction or aren't wanting to operate there under a selling or marketing exemption or similar concession.
+
+53
+00:09:18,350 --> 00:09:20,740
+falling within the foreign regulator's jurisdiction.
+
+54
+00:09:21,400 --> 00:09:26,960
+It also follows that this is only about licensed corporations and their group companies.
+
+55
+00:09:27,240 --> 00:09:33,010
+The proposed power has no relevance at all to listed companies or any other licensed businesses.
+
+56
+00:09:33,340 --> 00:09:48,390
+和的proposal doesn't allow us to conduct a fishing expedition for any and all information held by licensed corporation. It only concerns information about regulated activities under the SFO, which fall under the SFC's jurisdiction and which we can already obtain.
+
+57
+00:09:49,170 --> 00:09:51,840
+for our own purposes under existing powers.
+
+58
+00:09:52,800 --> 00:10:06,510
+Now the second point is that requests from foreign regulators will only be acted on by the SFC if the foreign regulator confirms two things: first, that it can't actually obtain the information by other reasonable means.
+
+59
+00:10:06,790 --> 00:10:13,870
+second that the information requested is essential to enable the regulator to decide whether the licensed corporation.
+
+60
+00:10:14,220 --> 00:10:21,290
+poses a risk to financial stability in the foreign jurisdiction, or whether it's in compliance with legal or regulatory requirements there.
+
+61
+00:10:21,880 --> 00:10:41,890
+The next point is that, as with all existing information requests, the public interest is a guiding principle, and we must also take into account whether the foreign regulator can reciprocate. And finally, supervisory information gathered at the request of a foreign regulator will be subject to important restrictions on its use.
+
+62
+00:10:41,890 --> 00:10:51,270
+by that regulator, and the most important of these is to prohibit the foreign regulator from using information provided by it for any enforcement purposes.
+
+63
+00:10:51,570 --> 00:10:53,510
+包括刑事程序。
+
+64
+00:10:53,810 --> 00:11:04,910
+Before doing that, the regulator would need to initiate an entirely separate investigatory assistance request under the existing SFO procedure.
+
+65
+00:11:05,190 --> 00:11:23,190
+And in that case, all rights to claim privilege against self-incrimination would apply, and in all cases, legal professional privilege and personal data privacy laws would remain unaffected. So, in other words, all of the existing protections applicable to enforcement assistance would would apply in full.
+
+66
+00:11:24,040 --> 00:11:32,390
+and also the bill also makes clear that the foreign regulator must keep the supervisory information provided to it confidential.
+
+67
+00:11:33,490 --> 00:11:42,150
+所有這些新 safeguards 必須被確認在一份寫明承諾，由外國監管機構給予，
+
+68
+00:11:42,600 --> 00:11:53,430
+所以， in sum， we believe that the proposal represents the minimum necessary to ensure that Hong Kong can take advantage of the benefits of greater cooperation amongst international regulators.
+
+69
+00:11:53,980 --> 00:11:58,620
+Now separately, before the bill was introduced into into Legco.
+
+70
+00:11:58,900 --> 00:12:06,020
+The SFC attended a meeting of the panel on financial affairs in April to explain some of the proposed amendments.
+
+71
+00:12:06,300 --> 00:12:15,800
+現在，一些 honourable members at that meeting suggested that a review or appeal mechanism should be available to firms asked to provide information.
+
+72
+00:12:16,080 --> 00:12:21,240
+And parallels were drawn with the local tax information exchange regime.
+
+73
+00:12:22,130 --> 00:12:35,790
+我們看了那項提案的細節，而我們理解成員提出的擔憂，我們不認為這項類比與税制是準確的。
+
+74
+00:12:36,170 --> 00:12:49,290
+And the main point, I think, is that the tax information regime only provides an opportunity to check and correct information to be sent to a foreign tax authority. It doesn't enable the taxpayer to challenge the actual decision.
+
+75
+00:12:49,570 --> 00:12:51,250
+to share information.
+
+76
+00:12:52,040 --> 00:13:10,310
+And further, the accuracy of information shouldn't be a concern for licensed corporations who receive a supervisory information request for the simple reason that it can only be sourced from the licensed corporations or their group companies themselves, rather than from a potentially unreliable third party.
+
+77
+00:13:11,490 --> 00:13:31,500
+它follows that there is little or no purpose in replicating the tax information mechanism in the bill. I should also say that there isn't any precedent internationally for an appeal or a review mechanism for a decision to provide supervisory information about regulated persons to another regulator, including Australia, Singapore, the
+
+78
+00:13:31,500 --> 00:13:33,260
+U.K. and other jurisdictions.
+
+79
+00:13:33,540 --> 00:13:35,590
+那唔係出奇。
+
+80
+00:13:35,890 --> 00:13:48,000
+因為要做，otherwise會 run counterto the prevailing international trend towards greater cooperation， particularly since the financial crisis over the regulation of cross-border market participants。
+
+81
+00:13:48,660 --> 00:14:08,670
+And further, if a regulator outside Hong Kong decides that it doesn't have sufficient confidence in the degree of supervisory cooperation available under Hong Kong law because of an appeal, you know, or a similar procedure, Hong Kong does risk, in our view, being excluded from global regulatory networks enabling greater cross-border.
+
+82
+00:14:08,710 --> 00:14:15,040
+market access, thereby affecting its firms and its status as an international financial centre.
+
+83
+00:14:15,620 --> 00:14:34,140
+所以， to wrap up， the bill proposes what we see as a limited， but important SFO amendment to enable Hong Kong to maintain a regulatory regime which ensures that can operate effectively within today's global markets to its overall benefit.
+
+84
+00:14:34,420 --> 00:14:38,820
+And we believe that that objective is firmly in the in the public interest.
+
+85
+00:14:39,410 --> 00:14:57,750
+那係因為它 enable Hong Kong firms to have more assured access to overseas markets， and also enables the SFC to protect Hong Kong investors and its markets by obtaining more and better supervisory information from foreign regulators about globally active firms through a series of reciprocal arrangements.
+
+86
+00:14:58,030 --> 00:15:04,530
+So, having said that, we seek your support for the proposal, and we're happy to answer any questions.
+
+87
+00:15:05,150 --> 00:15:06,010
+多謝。
+
+88
+00:15:06,500 --> 00:15:07,600
+即係話，供應。
+
+89
+00:15:08,930 --> 00:15:10,710
+啊！多謝主席。
+
+90
+00:15:10,990 --> 00:15:24,190
+即係最近嘅內地嘅股市係大跌嘅，噉啊曾經有傳聞咧，中國嘅仲金、中國嘅誒中證金咧就嚴厲查處。
+
+91
+00:15:24,470 --> 00:15:26,340
+即係個人嘅做事。
+
+92
+00:15:26,690 --> 00:15:33,970
+咁而且咧，佢哋好重視咧，啊調查是否有外資進行惡意嘅拋空。
+
+93
+00:15:34,660 --> 00:15:43,440
+咁嗰個我哋香港拋空其實係合法嘅，我哋都冇一個咩叫做惡意拋空嘅規定。
+
+94
+00:15:43,720 --> 00:16:03,730
+咁如果中證金咧以安金融安全同埋嗰個誒理由啊，即係用金融安全作為一個理由，向我哋香港嘅證金要求，即係提供一啲即係喺香港券商沽空嘅數據，咁因為兩地嘅法。
+
+95
+00:16:03,730 --> 00:16:13,130
+法例唔同，噉啊證金會唔會受理咧？我哋香港證金會唔會受理咧？點樣去即係回應佢哋嘅要求咧？唔該。
+
+96
+00:16:14,040 --> 00:16:14,960
+係，是的。
+
+97
+00:16:19,300 --> 00:16:21,940
+Well, I mean, generally, I don't think.
+
+98
+00:16:22,220 --> 00:16:33,420
+I don't think that question really relates to this bill because that would be more around investigation cooperation as a topic.
+
+99
+00:16:33,700 --> 00:16:52,210
+I think that's the first thing. The second thing is that both we in the CSRC and over a hundred other regulators around the world, in the context of investigation cooperation and enforcement cooperation, are all signed up to a multilateral memorandum of understanding under the auspices of IOSCO.
+
+100
+00:16:52,490 --> 00:17:12,500
+And therefore, if we make requests of the CSRC under that document for information which is relevant to potential misconduct in our markets, and vice versa, we would normally respond. We would normally respond because that's fundamental to the way in which.
+
+101
+00:17:12,500 --> 00:17:20,010
+Regulators, both here and in the mainland, but globally, are able to manage cross-border business.
+
+102
+00:17:22,830 --> 00:17:36,440
+噉，但係回應係點咧？係咪你真係將我哋香港嗰啲建商嘅資料數據全部咧，即係誒交交畀誒鍾志金去即係查核咧？
+
+103
+00:17:40,510 --> 00:17:41,660
+奧達利先生。
+
+104
+00:17:43,840 --> 00:18:03,850
+Well, the arrangements that we put in place, for example, which we spoke about last October before Stock Connect was put in place, were involved an enhanced Memorandum of Understanding, which actually went further, recognising the.
+
+105
+00:18:03,850 --> 00:18:16,950
+Increased connectivity between our markets than the arrangements under AIESEC, the multilateral arrangement I referred to, and we believed at that time that that was necessary, partly because it's mutual and reciprocal.
+
+106
+00:18:17,230 --> 00:18:37,240
+Secondly, because each regulator, although rules and laws are different on each side of the border, quite clearly, each regulator has a real interest in accessing all the information necessary to manage potential misconduct in its own market, which may emanate from.
+
+107
+00:18:37,240 --> 00:18:38,200
+從其他 market。
+
+108
+00:18:38,480 --> 00:18:58,490
+所以，那那 arrangement was very clearly around that purpose. So, depending on the nature of the request, and you know, we would have to assess what the nature of request might be in detail. But generally speaking, we are we are our position, which is aligned with all major.
+
+109
+00:18:58,490 --> 00:19:04,200
+Regulators is to cooperate under these arrangements rather than not, for the reasons I mentioned earlier on.
+
+110
+00:19:04,960 --> 00:19:14,790
+我仲想啊問一問咧，如果海外嘅監管機構佢向我哋證監攞一啲本地嘅法庭嘅資料？
+
+111
+00:19:15,320 --> 00:19:29,260
+但係咧，嗰個海外嘅機構嘅資料咧唔小心畀海外嘅監管機構公開咗、泄露咗，咁請問本地嘅法庭如何追究呢個責任？
+
+112
+00:19:29,540 --> 00:19:32,120
+應該用邊一方面去追究呢？
+
+113
+00:19:40,300 --> 00:19:56,940
+好，唔該先生。Well, the the the obligations of overseas regulators under these memorandum of understanding underpinning supervisory cooperation, but also enforce cooperation, is predicated on the idea of confidentiality.
+
+114
+00:19:57,280 --> 00:20:00,740
+And confidentiality undertakings are given.
+
+115
+00:20:01,020 --> 00:20:21,030
+Now, in our experience, they are honoured, and the reason that they are honoured is that the whole system would break down if there was evidence that regulators were leaking information provided under those arrangements. Now, beyond that, as far as legal redress is concerned, I don't really have a comment because I think that gets into a different.
+
+116
+00:20:21,030 --> 00:20:35,810
+Topic, but so far as we're concerned, the most that we are able to do and should do, so far as a foreign regulator is concerned, is to ensure that there is an explicit recognition that information provided is confidential.
+
+117
+00:20:36,510 --> 00:20:46,220
+Whether it's enforcement information or whether it's it's supervisory, and so far as enforcement information is concerned, which is not part of this proposal, this is an existing
+
+118
+00:20:46,550 --> 00:20:54,480
+under existing SFO procedures, of course, that information can be used in proceedings.
+
+119
+00:20:54,770 --> 00:20:56,600
+And that again, that's reciprocal.
+
+120
+00:20:56,880 --> 00:21:07,610
+But in all cases, all the normal protections arise, such as privilege against self-incrimination, legal professional privilege, etc.
+
+121
+00:21:13,530 --> 00:21:14,190
+係。
+
+122
+00:21:14,560 --> 00:21:34,570
+誒，我最想問問就因為咧噉樣嘅問題咧，所以上一次咧梁君彥議員咧提及咧，即係希望設立一個上訴機制，嗰個讓咧需要提供資料嘅持牌法團有機會向證金提供佢哋咧抗辯嘅理由。咁而家呢個。
+
+123
+00:21:34,570 --> 00:21:54,580
+呢個提議咧，即係喺個證金會嘅資料文件度咧，就冇再提呢個問題，所以我哋覺得呢方面係咪證金仲要即係考慮下，係咪誒，即係有冇其他嘅考慮需要對於嗰個提供嗰個嗰個誒客户資料嘅保密程度？
+
+124
+00:21:54,580 --> 00:21:56,620
+係係係加強啲咧。
+
+125
+00:21:58,580 --> 00:21:59,690
+唔算嘢。
+
+126
+00:22:03,030 --> 00:22:13,220
+Well, I touched on that in the in the opening statement, but I think our general position is that we do recognise the why the concern was raised.
+
+127
+00:22:13,500 --> 00:22:15,370
+But I think that the
+
+128
+00:22:15,770 --> 00:22:22,090
+the reference to the way in which tax information is handled.
+
+129
+00:22:22,370 --> 00:22:36,710
+That's different. The way that tax information is handled is to do with effectively checking its accuracy. It isn't to do with being able to prevent the tax authorities from supplying it to an overseas counterpart.
+
+130
+00:22:37,180 --> 00:22:51,710
+That's the first point. The second point is because the information itself is being sourced directly from the licensed corporation, it then naturally has an opportunity to check that it is accurate. We're not accessing this information from any third party.
+
+131
+00:22:51,990 --> 00:22:58,930
+In which case, if we did that, you could you could envisage a situation where licensed corporations might be concerned.
+
+132
+00:22:59,210 --> 00:23:02,270
+The third point, which is I think the most important, is that.
+
+133
+00:23:03,410 --> 00:23:10,750
+We believe that if you include an appeal mechanism, if an appeal mechanism is included in this legislation.
+
+134
+00:23:11,310 --> 00:23:23,430
+Then, other jurisdictions who may be minded to enter into arrangements around the exchange of information with Hong Kong may not do so.
+
+135
+00:23:23,800 --> 00:23:36,370
+which ultimately means that Hong Kong's market could end up being more isolated than it should be, simply because they wouldn't accept that we're providing a mechanism that is sufficiently internationally compatible.
+
+136
+00:23:37,300 --> 00:23:57,310
+佢最後我都仲想啊，最後震一震我哋證金同政府。佢喺個條例草案咧第七部分之中咧，啊，政府將小型嘅期貨嗰個期權同埋股票嘅誒合約咧嘅徵費由零點一零八元咧改為零點一。
+
+137
+00:23:57,310 --> 00:24:17,320
+咁呢個雖然好少啊，但係能夠解決咗我哋嗰個中小企業嗰個交易系統，因為佢未能夠符合點數三個位，所以好多人咧都好擔心，要唔要花啲錢再去upgrade嗰個電腦？咁而家咧，我哋嘅政金同政府咧就揹咗個。
+
+138
+00:24:17,320 --> 00:24:27,600
+以後嗰個零點後嘅三個位，即係零點一，咁呢個幫我哋好大忙。即係我哋隨住執新機會，我哋喺呢方面係賺政府同埋正金嘅，唔該。
+
+139
+00:24:27,930 --> 00:24:29,070
+梁繼昌議員。
+
+140
+00:24:29,540 --> 00:24:40,560
+Thank you, Mr. Chairman. Just some fundamental question on on the policy of this amendment. Can can the SFC confirm that?
+
+141
+00:24:40,840 --> 00:24:41,970
+啲。
+
+142
+00:24:42,380 --> 00:25:02,390
+The language used in the draft legislation, which includes an authority or regulatory organisation outside Hong Kong, the term 'authority' or 'regulatory organisation' only includes signatory members of the agreement under.
+
+143
+00:25:02,390 --> 00:25:08,020
+iosco， is my interpretation correct? I'm just referring to
+
+144
+00:25:08,300 --> 00:25:23,100
+The amendment bill C1027. Although I'm aware that we are not going to to do the clause by clause examination yet, but it is just a a very broad, you know, broad-brushed question.
+
+145
+00:25:23,380 --> 00:25:24,810
+O.K.唔該。
+
+146
+00:25:25,440 --> 00:25:37,560
+Let me have a stab at that, and then if there are people who are more into the weeds of this, I can pass it over. But I think the answer is it would be wider, wider, wider. So, for example, at the moment, the
+
+147
+00:25:38,140 --> 00:25:58,150
+I mean, the general position is that supervisory cooperation has followed a long way behind enforcement cooperation. Generally, it's only really picked up after the financial crisis. But the sorts of overseas organisations or regulators that we are now dealing with under these sorts of arrangements under our existing power.
+
+148
+00:25:58,150 --> 00:26:18,160
+include the in the UK, for example, the PRA, which is the Prudential Regulator Authority, the Bank of England and the Financial Conduct Authority. Now only the Financial Conduct Authority is a is a party to the enforcement MOU. I think. So that's an example of why I think it might be wider, but
+
+149
+00:26:18,400 --> 00:26:21,010
+Andrew on my right might correct that.
+
+150
+00:26:21,580 --> 00:26:41,590
+Perhaps I can just amplify a little bit. I mean, this would pick up the existing provision in section one hundred and eighty-six-five, which requires our potential partners to be authorities or regulatory organisations that perform similar functions to those that we perform, and also that are subject to.
+
+151
+00:26:41,590 --> 00:27:01,600
+adequate secrecy provisions. So effectively, it will be analogues of ours in other jurisdictions, many of which are already parties to the IOSCO MMOU anyway. But there may be a few on the on the outskirts that that that that aren't currently. But they would still have to go through the same process. We would have to ensure that they carried out similar functions and they were.
+
+152
+00:27:01,600 --> 00:27:09,190
+subject that you know they had secrecy provisions in their law that were comparable to ours. That's the assessment we go through, usually as a precursor to an MOU.
+
+153
+00:27:09,920 --> 00:27:11,330
+講嘢。
+
+154
+00:27:12,270 --> 00:27:32,280
+Okay, understand that. Now, the the second question I'm going to raise is about the type of information. As I understand it, this is the type, the kind of information SFC has already in possession. You're not requiring the licensed corporation to, you know, to dig out.
+
+155
+00:27:32,280 --> 00:27:37,770
+或regenerate some some information and pass it on to the overseas regulator. Is my understanding correct?
+
+156
+00:27:38,480 --> 00:27:58,490
+It's it's a little bit different. So so right now we have we we collect supervisor information from licensed corporations in order to do our day to day inspection work. Yeah, of course, yes, and that's a large amount of information naturally because.
+
+157
+00:27:58,490 --> 00:28:03,050
+It comprises returns and all sorts of other information which we get from.
+
+158
+00:28:03,370 --> 00:28:23,380
+From them. Now, right now, in response to a request from an overseas regulator, we have the ability to exchange that, subject to the normal safeguards, which and pass it across. And they would be that would normally be under these sort of reciprocal arrangements. What this
+
+159
+00:28:23,380 --> 00:28:25,780
+修訂是做，是 to deal with
+
+160
+00:28:26,060 --> 00:28:40,240
+A, what I called earlier on a small but important change, was that, and it was triggered by the negotiation we had with the EU around Hong Kong asset managers being able to access EU markets.
+
+161
+00:28:40,530 --> 00:29:00,540
+the the the stand the the standard that is expected is not only to be able to pass on the information that we already have that large collection of information, but it's also to be able to make an additional request for more information at the request of the overseas regulator. In other words.
+
+162
+00:29:00,540 --> 00:29:20,550
+It's not information that sits within the SFC, but the licensed corporation has. So that's that's the additional and the re and and that but that can only be provided or asked for if the overseas regulator wants it for financial stability purposes in its own jurisdiction.
+
+163
+00:29:20,740 --> 00:29:23,890
+If it already, if it can't get it in any event.
+
+164
+00:29:24,170 --> 00:29:44,180
+或或，to look at whether or not a licensed corporation or its group companies, which also operate there, are in compliance with its own laws and regulations. So that that is additional. But we can't, as I said earlier, we can't go on a fishing expedition for all sorts of information. It has to be information that relate.
+
+165
+00:29:44,180 --> 00:30:04,190
+to SFO regulated activities, in other words, activities that are under our wing in any event, and in respect of which, for our own purposes, we can require it if we if we need it. That's the flavour of it. So, it is different to the assumption, you know, as you described it. It is that the essence is that.
+
+166
+00:30:04,190 --> 00:30:07,390
+additional information request.
+
+167
+00:30:07,670 --> 00:30:14,250
+Okay, I understand that. And just to add on to to to what you have told us, um.
+
+168
+00:30:14,680 --> 00:30:18,730
+Can you clarify that? Is that a precondition that the
+
+169
+00:30:19,180 --> 00:30:33,340
+The kind of information to be requested by the requestor regulator, those information must be legitimately requestable by by by the requester authority. That is.
+
+170
+00:30:33,860 --> 00:30:53,870
+Under the domestic law of the requestor, that is legitimate for them to obtain that type of information. Is that one of the condition that those information requester must comply with before the EU or the licensed corporations could pass on the information?
+
+171
+00:30:54,150 --> 00:31:14,160
+In a sense, yet not as precise as that. In other words, there doesn't there's no precondition that the overseas regulator must be able must be complying with its own law. Because I think it's reasonable to assume in these circumstances when we're dealing with regulators that they will be. But the
+
+172
+00:31:14,160 --> 00:31:20,780
+The crucial sort of safeguard, or one, or is that
+
+173
+00:31:21,060 --> 00:31:41,070
+The overseas regulator must undertake in writing to us or certify to writing to us that it cannot get the information in another way, acting reasonably. First, so we're not the first port of call necessarily. Secondly, as I mentioned, that they need it to handle financial stability.
+
+174
+00:31:41,210 --> 00:31:59,440
+issues in their own jurisdiction, or they need it to deal with compliance issues in their own jurisdiction. So they need to certify to us the purposes for which they need the information falling within those categories only. That's the that's the essence of it.
+
+175
+00:31:59,760 --> 00:32:19,770
+But but my point I'm drilling at is if those information would not have been legitimately obtainable in their their home jurisdiction and then they asked you to provide them with those information that would be a very awkward situation. Maybe you should you know bear this in mind when when we further think about you know the condition.
+
+176
+00:32:19,770 --> 00:32:39,780
+You are going to, you know, to impose on the overseas authority. And the following question, because honourable John Wafford has just raised a question about the the appeal mechanism, which I think Andrew Andrew you have mentioned about it last time. But my understanding now is that there is no appeal mechanism in organisation a licence.
+
+177
+00:32:39,780 --> 00:32:42,680
+operation here cannot.
+
+178
+00:32:43,140 --> 00:32:44,970
+give you the information.
+
+179
+00:32:45,360 --> 00:33:05,370
+due to various reasons, maybe it would be quite onerous for them to produce maybe some some sort of analysis things like that. what what can they do? It seems that there's no appeal mechanism. And of course, I think if they're not complying with the request, then they would be penalised. So what what what is the the arrangement for that?
+
+180
+00:33:05,370 --> 00:33:06,520
+kind of situation.
+
+181
+00:33:06,800 --> 00:33:12,260
+Well, there isn't a set appeal mechanism for the reasons I mentioned earlier on.
+
+182
+00:33:12,540 --> 00:33:13,710
+嗯。
+
+183
+00:33:14,240 --> 00:33:21,960
+If it's the case that a licensed corporation believes that there it has
+
+184
+00:33:22,240 --> 00:33:24,180
+A a legal reason.
+
+185
+00:33:25,030 --> 00:33:44,310
+not legitimate legal reason not to supply the information, and it could be there could be various types of legal legitimate legal reasons. Though I expect it will be a very small minority of cases. Then on a case by case basis, it will be up to the licensed corporation to to put that to us.
+
+186
+00:33:44,590 --> 00:34:04,600
+作為，它覺得從法律角度，它不對它開放提供資訊。現在，我們必須看個案，但否則，我們會期待資訊提供給我們。關鍵在於這 reciprocity。我們不是這樣做。
+
+187
+00:34:04,600 --> 00:34:08,510
+因為我們希望幫助海外的主管機關。
+
+188
+00:34:08,790 --> 00:34:26,640
+We're doing this in our own interests to ensure that we can enter into reciprocal arrangements in order to access information, to equivalent information from overseas authorities, and also enable our firms to access overseas jurisdictions. That's the motivation here.
+
+189
+00:34:26,920 --> 00:34:39,860
+So and that's why, ultimately, if we put appeal mechanisms into this type of legislation, we would not achieve those objectives, or at least those objectives would be at risk.
+
+190
+00:34:40,140 --> 00:34:41,100
+所以。
+
+191
+00:34:42,230 --> 00:34:42,780
+有。
+
+192
+00:34:43,260 --> 00:35:03,270
+Just supplement a little bit. I mean, in terms of enforcing these obligations, the existing Section One Hundred and Eighty, into which one of these key amendments will go, already provides that if you've got a reasonable excuse, then you won't be prosecuted. So which
+
+193
+00:35:03,270 --> 00:35:15,050
+sort of reinforces what I'm actually saying that that to the extent that that a licensed corporation has a reasonable excuse for not supplying information, for example, it's covered by legal professional privilege, then
+
+194
+00:35:15,330 --> 00:35:18,110
+I mean, it won't be prosecuted. I mean, it won't have to comply.
+
+195
+00:35:18,570 --> 00:35:19,320
+然後。
+
+196
+00:35:19,600 --> 00:35:20,800
+全數加一。
+
+197
+00:35:21,080 --> 00:35:22,520
+主席啊，嗯。
+
+198
+00:35:22,800 --> 00:35:25,840
+誒，其實我都有幾個問題。
+
+199
+00:35:26,130 --> 00:35:27,500
+逐個問咧就。
+
+200
+00:35:27,780 --> 00:35:44,530
+我想即係交換資料嗰度咧，即係其實你哋期待係個多邊嘅協議，定係一個多邊嘅協議以外，再有雙邊嘅協議咧？第一個，第二咧就頭先都有提及過，可唔可以詳細啲講講？就係其實係咪被調查嗰個人咧，被要求協助嗰個？
+
+201
+00:35:44,810 --> 00:35:45,860
+機構咧。
+
+202
+00:35:46,620 --> 00:35:52,180
+攞咗啲即係佢佢佢嘅資料，即係你哋將佢嘅資料畀咗人哋咧。
+
+203
+00:35:52,460 --> 00:35:59,250
+佢知唔知道你畀咗啲咩佢？你哋需唔需要清清楚楚話翻畀佢聽？嗱，我畀咗咩嘢人哋個機構噉樣樣？
+
+204
+00:35:59,690 --> 00:36:06,190
+就有冇一啲制裁嘅機制，就係即係頭先咧，同事都問過，但係即係。
+
+205
+00:36:06,470 --> 00:36:07,290
+誒。
+
+206
+00:36:07,570 --> 00:36:14,310
+制裁機制唔係指制裁誒，我哋嗰個被調查嘅機構，而係制裁嗰個對方嗰個嘅。
+
+207
+00:36:15,550 --> 00:36:27,740
+監管機構，個監管機構如果佢違反咗，即係你有協議㗎，你違反咗啲協議，無論佢違反係誒有目的地違反，或者係一時錯手，一時失職。
+
+208
+00:36:28,020 --> 00:36:32,780
+或者咩原因？咁有冇咩制裁機制嘅咧？嗯。
+
+209
+00:36:33,060 --> 00:36:33,720
+好啊。
+
+210
+00:36:36,640 --> 00:36:37,640
+咩事啊？
+
+211
+00:36:38,150 --> 00:36:39,050
+係，真係。
+
+212
+00:36:39,560 --> 00:36:42,430
+Sure. Right. Okay. So.
+
+213
+00:36:42,780 --> 00:37:02,790
+On the question of whether or not we would be entering to multilateral or bilateral, initially it will be bilateral, and that's the case for all regulators because although there is an ambition within the sort of global regulatory community to eventually end up with a multilateral arrangement, very similar to the enforcement.
+
+214
+00:37:02,930 --> 00:37:20,110
+多邊協議 Memorandum of Understanding，That's quite a far way down the track，Simply because supervisory cooperation for securities regulators is quite new，So yeah， bilatral rather than multilateral on a case by case basis，So that's the first one，The the second
+
+215
+00:37:21,120 --> 00:37:39,220
+If we forward information, if we get information from a licensed corporation and then we forward it to an overseas authority, do we have to tell the licensed corporation what we forwarded? The answer to that is, I think, no. We don't have to tell the licensed corporation of that of that fact.
+
+216
+00:37:40,110 --> 00:37:47,150
+And secondly, sanctions. Now, I think the reality in in cross
+
+217
+00:37:47,440 --> 00:38:07,450
+border or international relations between regulators, I think it's recognised that the most one can ask for are non-legally binding undertakings cross-border. Because if one asked for more, you would end up in a position.
+
+218
+00:38:07,450 --> 00:38:27,460
+way you would never reach agreement on a legally binding obligation, but in in practice, the sanction if there were breaches of, for example, confidentiality obligations and such like, is that that regulator would seem to be ultimately an international pariah.
+
+219
+00:38:27,600 --> 00:38:45,960
+言之，某人應當不在該會，即係所謂的監管者合作的會。而其他，包括可能受披露影響的管轄區，因此必須仔細考慮是否會在未來與該監管者合作。
+
+220
+00:38:46,240 --> 00:38:59,070
+Now, from that regulator's perspective, that is quite a major deterrent because all of us in this globalised world want to have good access to cross-border information. So
+
+221
+00:38:59,360 --> 00:39:00,780
+The short answer is.
+
+222
+00:39:01,060 --> 00:39:07,360
+legally no, there are no actual sanctions, but practically yes.
+
+223
+00:39:08,010 --> 00:39:28,020
+我跟住我頭先嗰三個問題咧，啊主席，你哋如果係而家個目標，即係假設間順利過咗呢條法例之後，你哋而家話係主要初期最少一段嘅時間係要會達成一啲叫雙多邊啊雙邊嘅協議噉樣，你有冇啲目標嘅地區或者國家噉樣樣？你其你估計你攞到呢個？
+
+224
+00:39:28,020 --> 00:39:30,800
+權之後，誒主要。
+
+225
+00:39:31,080 --> 00:39:34,010
+嗰個即係合作對象，或者係誒。
+
+226
+00:39:34,330 --> 00:39:46,260
+交誒誒合作對手啦嚇，係邊幾個地區啊噉樣樣？而譬如話你有要幾多個地區，你先cover到八成嘅需求咁算啦嚇，大大睇你睇下點點答答案。
+
+227
+00:39:47,090 --> 00:39:53,230
+第二點嘅關於被調查嘅，你冇冇需要去通知佢被調查嗰陣，你攞啲咩資料畀佢？
+
+228
+00:39:53,510 --> 00:39:54,340
+噉。
+
+229
+00:39:54,820 --> 00:40:09,410
+其實點樣驗證嗰啲資料係，即係當然啦。你查緊佢啲乜嘢，噉你話畀人哋聽，我查緊佢啲乜嘢咁啦。咁但係如果你畀一啲資料佢嗰啲咧，就誒佢又唔知道你畀咩資料佢，咁啲資料正唔正確嘅時候係誒。
+
+230
+00:40:09,690 --> 00:40:12,640
+誒點樣驗證咧？噉嘅樣。
+
+231
+00:40:12,920 --> 00:40:16,030
+誒第三點關於個制裁嗰度咧，誒。
+
+232
+00:40:17,160 --> 00:40:31,920
+喺嗰個雙邊協議上面，即係當然啦。你話誒，即係即係，如果佢哋違反咗，就以後即係咩唔即係唔唔belong to the club嚇，即係你唔喺嗰個圈裏邊噉樣樣。但係客觀上誒。
+
+233
+00:40:33,090 --> 00:40:39,590
+如果冇一啲嘅制裁嘅機制喺裏邊嘅時候咧，噉你擔唔擔心係？
+
+234
+00:40:40,310 --> 00:40:41,390
+因為。
+
+235
+00:40:41,670 --> 00:40:45,320
+有啲嘅監管機構，你唔知，譬如你加入對手嘅機構。
+
+236
+00:40:45,600 --> 00:40:47,480
+佢點樣去？
+
+237
+00:40:47,760 --> 00:41:03,010
+動用佢啲嘅資料，嗱，即係當然佢嗰個，我唔知道佢有冇可能性會出現倒滯，因為佢啲嘅誒，佢啲嘅即係點啊？被調查，香港被調查嘅對象都好啦，佢可能同一啲佢哋國家嘅機構。
+
+238
+00:41:04,430 --> 00:41:09,130
+即係佢哋要入嚟，即係佢佢國家裏邊有啲嘅公司入嚟啊，噉。
+
+239
+00:41:09,410 --> 00:41:26,460
+你又將嗰啲將佢競爭者對手畀咗佢，噉佢唔知用咩方法嚟畀咗佢嘅誒機構，噉啊有利個競爭等等，即係呢啲都係可能性。咁咁如果你喺成個系統裏邊制度裏邊，你冇一啲叫做防止或者係制裁機制嘅時候，會唔會太危險啊？
+
+240
+00:41:29,750 --> 00:41:32,290
+ressure, yep.
+
+241
+00:41:32,570 --> 00:41:52,580
+Okay, on the the first question, which is about bilateral arrangements and target jurisdictions, in general terms, the the jurisdictions that we are spending most of our time putting together memorandum bilateral memorandum understanding are the major international financial centres.
+
+242
+00:41:52,580 --> 00:42:10,380
+which where the larger overseas firms which are headquartered in those places are also operate in Hong Kong and are important for our market. So that means in practice, places like the UK, like Switzerland and of course the United States.
+
+243
+00:42:10,660 --> 00:42:11,710
+啊！
+
+244
+00:42:12,320 --> 00:42:16,970
+those and Germany, France.
+
+245
+00:42:17,250 --> 00:42:20,640
+those sort of jurisdictions. Now you're quite right. It takes time.
+
+246
+00:42:20,940 --> 00:42:28,170
+to build up the underlying memorandum of understanding and gather the undertakings to enable to to enable us to do this.
+
+247
+00:42:28,450 --> 00:42:48,460
+And but currently, we do have, as I say, negotiations on foot with with authorities in most of those jurisdictions around different types of supervisory corporation. So, how long it would take to reach eighty percent of all those jurisdictions? I'm not sure.
+
+248
+00:42:48,560 --> 00:43:08,570
+But it is incremental. It builds up over time. One thing I should say that we would not pass information across normally unless we have a memorandum of understanding in place. And of course, under the new provision, which is this extension around additional information requests, there are.
+
+249
+00:43:08,570 --> 00:43:13,830
+And additional undertakings you've seen, which have to be in place before we provide information.
+
+250
+00:43:14,110 --> 00:43:21,570
+That's the I think that's the first point. The question about accuracy.
+
+251
+00:43:21,850 --> 00:43:41,860
+Well, I think that the information—the only information that we are able to pass over to overseas regulators from a supervisory perspective—is information that is sourced from the licence corporation itself. So it will know that when we.
+
+252
+00:43:41,860 --> 00:44:01,870
+Ask for information in order to pass on, which we would normally do when we're making this sort of request. It will it will be on notice that it would be in its interest to provide accurate information. Now we wouldn't be providing additional information to that to an overseas regulator because it would fall.
+
+253
+00:44:01,870 --> 00:44:06,080
+outside the scope of the request, I think under this under this legislation. So
+
+254
+00:44:06,380 --> 00:44:19,900
+所以， by that token， I don't think we we don't really have a concern ourselves about whether our licensed corporations should be worried about accuracy. And the final point about sanctions.
+
+255
+00:44:20,870 --> 00:44:30,570
+I think you asked: Are we worried that the information could be used for collateral and harmful purposes? You know, in a commercial context.
+
+256
+00:44:30,850 --> 00:44:40,360
+My general response to that is that no, we're not worried, because the track record of the sorts of jurisdictions we deal with.
+
+257
+00:44:40,640 --> 00:44:42,090
+to date.
+
+258
+00:44:42,370 --> 00:45:02,380
+是such that would demonstrate that that should not happen. In other words, for the reasons I mentioned earlier on, this whole sort of system, albeit for supervision bilateral, is based on high levels of trust and mutual interest in and reciprocity.
+
+259
+00:45:02,380 --> 00:45:22,390
+And if that isn't adhered to by regulators, you find that the system breaks down. And in particular, any regulator that is seen to be misbehaving—in other words, passing information across to commercial interests to gain a competitive advantage—will be frozen out of the system. Whether it's bilateral, whether it's
+
+260
+00:45:22,390 --> 00:45:24,430
+是多邊的，In practice.
+
+261
+00:45:25,820 --> 00:45:31,510
+兩位嘢，多謝主席。嗱，依個誒交換嘅誒。
+
+262
+00:45:31,790 --> 00:45:44,170
+資料嗰度咧，咁當然就引觸動好多神經啦。咁但係，我想希望即係政府或者誒政監都係講清楚第一樣嘢咧，啊！
+
+263
+00:45:44,750 --> 00:45:50,320
+海外機構要求嘅資料咧，係。
+
+264
+00:45:50,770 --> 00:46:10,780
+有規限嘅，就唔係話乜嘢都可以攞嚇。咁所以人哋要求嘅規限就係因為佢有個法例同埋啲合乎即係啊啊一般證監嘅規例嘅資料，只係可以要求香港證監去畀。而證監亦都睇過，係呢啲資料係一啲。
+
+265
+00:46:10,810 --> 00:46:16,290
+通常你哋即係做監管嘅資料，只畀嘅就唔會話畀埋曬啲第啲嘢。
+
+266
+00:46:16,570 --> 00:46:24,540
+咁第二樣嘢咧就係話，例如啊，張華峯代表好多小經紀嘅，佢就喺香港做嘅。
+
+267
+00:46:24,870 --> 00:46:30,550
+佢喺外邊係冇任何生意嘅，噉係唔應該。
+
+268
+00:46:30,830 --> 00:46:42,400
+佢嘅資料係唔應該攞到畀佢，因為佢唔喺嗰個第二個監管機構嗰度嗰個地域裏邊做生意，所以佢冇應唔應該係攞依啲嘢嘅。
+
+269
+00:46:42,890 --> 00:46:52,370
+第三咧就係其實好多數據咧都係一般嘅數據嚟嘅，即係你攞嘅資料係唔需要個啊。
+
+270
+00:46:53,140 --> 00:46:59,890
+個license firm係要做好多嘢，好多嘢畀你，即係等於好似呈堂證供咁畀你，而係一般。
+
+271
+00:47:00,170 --> 00:47:02,030
+係喺S F誒。
+
+272
+00:47:02,540 --> 00:47:22,550
+是要攞嘅資料咧，日常去就算做監管攞嘅資料就喺嗰度㗎啦。咁即係呢一度咧，所以其實呢嚿嘢咧係好狹窄嘅，就唔係話講到好闊。人哋中意問你啊攞敵對人嘅資料，你又可以畀到佢咁等等嘅嘢。我或者希望政府或者政監。
+
+273
+00:47:22,550 --> 00:47:24,330
+係。
+
+274
+00:47:25,010 --> 00:47:27,770
+講講我嘅睇法係啱嘅。
+
+275
+00:47:28,380 --> 00:47:29,270
+係。
+
+276
+00:47:31,740 --> 00:47:37,100
+Yeah, sure. On on the on the first point, it really was about scope.
+
+277
+00:47:37,410 --> 00:47:44,790
+It does only apply to the the regulated activities being carried on by the firm.
+
+278
+00:47:45,130 --> 00:48:00,870
+所以那意味著，我們能夠獲取並傳遞給外國監管機構的資訊，基本上等於我們自己獲取的資訊。這就是範圍。
+
+279
+00:48:01,350 --> 00:48:02,470
+嗯。
+
+280
+00:48:02,750 --> 00:48:22,760
+The second aspect, the small broker community in Hong Kong. These proposals should not affect small brokers that are simply acting locally. And the main reason for that is that there is a limitation in the in the proposal, which is that.
+
+281
+00:48:22,760 --> 00:48:38,930
+This would only apply to a licensed corporation, which is also regulated, or its activities are regulated by the foreign regulator, or one of its group companies is also regulated by the foreign regulator. In other words, an internationally active organisation.
+
+282
+00:48:39,360 --> 00:48:40,980
+啊，然後。
+
+283
+00:48:41,260 --> 00:48:43,550
+finally。
+
+284
+00:48:44,440 --> 00:49:01,990
+again, I think it was back to scope and the fact that the S have seen any event has much of the supervisory information collected through its normal supervisory activities. That is the case, and the and the purpose of this amendment.
+
+285
+00:49:02,310 --> 00:49:15,200
+Just going back to its original sort of catalyst is to provide an additional ability to collect further information, which in any event we'd be able to collect for own purposes if we wanted it.
+
+286
+00:49:15,480 --> 00:49:35,490
+但要滿足一個海外監管機構的請求，關於我剛才提到的主題，即係金融穩定和遵守當地的法律。所以呢個係一個小改變，但係係一個重要改變，因為冇呢個，我們會影響到我們的。
+
+287
+00:49:35,490 --> 00:49:42,430
+要進入到這些 reciprocal arrangements， where we are able to access information from overseas regulators， which affects our market。
+
+288
+00:49:43,060 --> 00:49:48,970
+換句另外調翻轉嚟問咧，譬如一個大嘅國際嘅公司。
+
+289
+00:49:49,270 --> 00:49:53,010
+喺香港或者係其他金融公司都有。
+
+290
+00:49:53,570 --> 00:50:07,360
+做嘢做好大㗎啦，咁而係譬如美國喺英國係要求攞依個香港分公司嘅資料，證監係會用翻即係一般嘅程序係會畀依啲噉嘅。
+
+291
+00:50:07,670 --> 00:50:12,810
+啊！資料係畀誒另外一邊你個counterpart。
+
+292
+00:50:14,980 --> 00:50:33,040
+If if the I'm sure the translation was right. So if if an overseas corporation asks, no, we wouldn't provide information. We only reply to provide information in response to request from an overseas regulator. Yeah, yeah, obviously when the overseas regulator requests.
+
+293
+00:50:33,320 --> 00:50:36,160
+information from you on a local branch.
+
+294
+00:50:36,900 --> 00:50:48,650
+Of a international firm. Oh, yeah. The answer is yes. Yes, yes, yes, yes. We would. In fact, that's one of the main purposes. 哎，先生，嘉怡。主席，我想誒。
+
+295
+00:50:49,630 --> 00:50:54,770
+嗱，因為條例咧，當然我哋唔係cross by cross滿快啊，但係咧就。
+
+296
+00:50:55,230 --> 00:51:02,720
+起碼我睇唔到有我嘅想像就係嗱，而家你哋會逐個逐個去簽咗嘅M O U。
+
+297
+00:51:03,390 --> 00:51:22,330
+驗之後先至會誒，即係當當然第一件事咧係過一條例先嚇。過一條例之後咧，你哋就去簽M U，簽完M U之後咧，你就有個basis，有個基礎就可以去交誒，即係應應應人嘅要求，或者我哋要求人哋去交換資料。噉啊，我唔知道你哋有冇考慮過，即係我哋作為立法會把關都好咧。
+
+298
+00:51:23,470 --> 00:51:27,450
+其實我哋，我記得我哋啲税務資料啊，乜乜都好咧，都有啲。
+
+299
+00:51:27,780 --> 00:51:47,790
+逐個國家要睇一睇噉嘅，噉係咪合適咧？不過我我我問問合適，即係同埋呢啲M U M O U，我估唔係太秘密嘅啫。我估都係啲好channel嘅嘢。噉係咪個法係咪應該授權你哋？譬如你哋簽咗個國家就上嚟，我哋即係negative vetting逐個逐個批噉樣樣，噉你先可以。
+
+300
+00:51:47,790 --> 00:52:02,290
+交換咧噉嘅樣，同埋你唔係國家，應該係係咪係咪應該同佢同嗰個嗰個國家嘅嗰個國家嘅政監，即係相對嘅政監去簽咗M.O.U.噉嘅樣。噉係咪咁先至合適啲咧？噉嘅樣，即係我估。
+
+301
+00:52:02,650 --> 00:52:04,830
+呢個呢，你有冇諗過呢個方法咧？
+
+302
+00:52:05,330 --> 00:52:06,170
+咩水？
+
+303
+00:52:09,310 --> 00:52:26,680
+Yeah, I mean we we do. I mean signing MOUs, as I say, quite frequently on different topics. And on on this topic, I mean the the international standard is that the MOUs themselves are not legislation. So you know, in the Hong Kong context, they wouldn't come to Mexico for negative betting.
+
+304
+00:52:26,960 --> 00:52:44,880
+I think in my view, the important aspect is to ensure that the safeguards which would have to apply to all MOUs and exchanges of information are very clear on the face of the legislation, and that would be the boundary within which we are able to agree MOUs.
+
+305
+00:52:45,160 --> 00:53:00,580
+An MOUs vary in in nature. I referred earlier on to the to the recent MOU released. It was last October. We signed with the CSRC effectively as a as a precondition to launching Stock Connect.
+
+306
+00:53:00,860 --> 00:53:09,520
+And that itself went, as I say, a bit further in relation to collaboration than the international.
+
+307
+00:53:10,020 --> 00:53:30,030
+多邊協議，所以佢哋會變，但係由大，MOUs本身，唔係國際上見為立法，而且佢哋唔係法例，所以好難見佢哋會被反對，佢哋要結案得比較快。
+
+308
+00:53:30,130 --> 00:53:50,140
+And they come in different forms, but as I say, it's the safeguard we think it's the safeguard. I don't mean to to wet the MOU. I think what I mean is, you know, after the completion of the legislation, then you start the signing MOU, and then before you before we give the
+
+309
+00:53:50,140 --> 00:54:06,810
+The power to SFC to to allow SFC to exchange information to a particular regulator in a particular country, you table the MOU for us for reference. But we we simply to say yes, you can exchange with that regulator.
+
+310
+00:54:07,090 --> 00:54:12,920
+having your your MOU signed by by yourself, but by by by your organisations.
+
+311
+00:54:13,800 --> 00:54:15,620
+as as a precondition.
+
+312
+00:54:16,100 --> 00:54:18,170
+for passing information across.
+
+313
+00:54:18,450 --> 00:54:24,010
+no，we don't wet your，we don't wet your，what I mean is，you know。
+
+314
+00:54:24,430 --> 00:54:34,270
+If we pass through like this, we simply you know give a blank cheque to you, then you sign M M U M O U for country A B C D E F G.
+
+315
+00:54:34,660 --> 00:54:36,660
+Okay，and then you can exchange.
+
+316
+00:54:36,940 --> 00:54:56,950
+但你 know， if you have a little bit change， okay， after the completion， then you sign MOU with country A and country B。 then you table country A and country B the MOU， and then with with well if it everything is okay fine， we like divided。 then you can start dealing with country A and country B。
+
+317
+00:54:56,950 --> 00:55:16,960
+etc.主席，我我諗或者即係噉樣問咧，即係問翻啊，秘書長啱嘅。其實秘書長明白咧，喺税務條例咧，我哋做咗個master之後咧，你哋係有每一個翻嚟咧，你都會攞翻翻嚟做next writing嘅。噉我即係問問秘書長，依一個喺一個SFO。
+
+318
+00:55:16,960 --> 00:55:36,970
+依一度咧，你會唔會噉樣做？可唔可以考慮咁做？係啊，多謝梁君彥嘅誒解釋。誒，我明白誒，多謝主席，多謝誒委員。誒，我明白後邊嗰個即係一啲思考啦。咁或者我可以咁講咧，誒呢一個同埋我哋嗰個税務資料交換嗰個有啲性質上有啲。
+
+319
+00:55:36,970 --> 00:55:51,710
+分別咧，誒冇錯，相同嘅地方可能係我哋都需要立一個主體嘅法例喺一個誒我哋授權嘅情況之下，去進行一啲啊雙邊嘅協議或者係誒商討噉樣。
+
+320
+00:55:51,990 --> 00:56:12,000
+咁誒唔同嘅地方誒，就係喺我哋税務啊嗰個誒嗰個協議下邊咧，呢一個協議本身咧，佢係有所謂一個誒法定嘅權力嘅啊。咁所以咧誒，但係誒誒喺誒，譬如一啲即係誒證券或者。
+
+321
+00:56:12,000 --> 00:56:25,480
+係財誒誒財經方面個監管機構方面嗰啲所謂誒雙邊嘅協議咧，一般嚟講咧，就自而家個國際上面咧，都係一邊一啲雙邊嘅協。
+
+322
+00:56:25,760 --> 00:56:45,770
+就唔完全話係放喺一個所謂法定嘅權力上邊去衡量。咁但係頭先阿歐達禮先生都講咗，即使係噉樣，就唔代表簽簽啲雙邊協議嘅雙方咧，就唔會尊重呢個協議個裏面嗰啲要求。否則的話咧，佢哋之間嗰啲監管機構嘅互信咧，就會當然。
+
+323
+00:56:45,770 --> 00:57:05,780
+無存呢個係影響佢哋兩家嘅關係咧，一個好大嘅事情。因此放喺呢一個噉嘅啊情況去睇咧，誒而我哋亦都係要求，亦都係誒證監會而家都有做嘅，就係佢哋會將佢哋所有啊，一旦係誒擬定嗰啲雙邊嘅。
+
+324
+00:57:05,780 --> 00:57:25,790
+協議咧都會公開誒誒呢啲協議嘅內容嘅，甚至係會將佢哋擺喺佢哋嘅網站嘅上邊。咁所以我哋認為喺呢個情況之下咧，就唔啊應該就唔需要即係話經過一個所謂誒簽審議啊後修訂嗰個所謂negative嘅rating嘅。
+
+325
+00:57:25,790 --> 00:57:45,800
+程序就未必適合。誒，我估我哋可以提供嘅資料或者係誒，當譬如證監會誒誒簽訂呢啲協議嘅時候咧，我哋盡快可以通知有關嘅事務委員會，即係話有關嘅協議已經簽訂咗，第一時間啦去告知議員嗰個內容。噉我諗噉。
+
+326
+00:57:45,800 --> 00:58:05,810
+噉樣做可能係一個誒誒都係合適嘅方法嚇，或者我點解咁講咧？誒頭先啊，梁君彥議員都好關心，即係呢個數目資料交換嗰個啊情況。實情誒，我哋喺政策上面亦都係關注呢個事情，因為畢竟係誒有好高嘅敏感度。
+
+327
+00:58:05,810 --> 00:58:12,840
+當我哋即係誒而家係呈台畀議員嗰啲建議嘅時候，亦都係基於有幾個考慮。
+
+328
+00:58:13,120 --> 00:58:33,130
+第一個考慮就係呢個係一個規範嘅所謂一個安排。第二就係話誒，亦都係話佢嘅範圍唔係話容許佢個監管機構對手係無止放的嘅要求嘅資料。正如頭先啊歐大良先生所講，係一個合範圍比較狹窄嘅一個交換。
+
+329
+00:58:33,130 --> 00:58:33,880
+資料。
+
+330
+00:58:34,160 --> 00:58:54,170
+咁誒，而當中我哋亦都係有保障，或者再重複一講咧，我哋誒呢個有規範嗰個意思係有幾方面嘅。第一個咧就係個嗰個誒，佢個誒簽訂協議嗰個一方咧，必須係誒同誒證監會咧，佢誒。
+
+331
+00:58:54,170 --> 00:59:04,110
+實質有類似嘅功能，同埋佢會係畀誒證監會同樣嗰個誒待遇嘅。如果證監會係要求對方都係要同樣嘅資料嘅話，
+
+332
+00:59:04,390 --> 00:59:23,270
+第二喺要求資料嘅範圍嗰度咧，佢誒一定嗰嗰啲要求嘅資料係必須要證監會而家佢哋受規管嗰嗰啲活動係個範圍之內，即係話佢唔可以逾越咗。如果證監會嗰隻活動係唔係受證監會規範咧，佢不能要求嗰方面嘅資料。
+
+333
+00:59:23,610 --> 00:59:41,410
+啊，咁誒喺目的上面亦都受到規範，即係話佢只可以要求同啊嗰個金融嘅穩定啦，或者係佢合規，即係個法誒法例方面嘅合規性嗰個影誒嗰個情況係索取資料，除此之外就唔可以。
+
+334
+00:59:41,690 --> 00:59:57,880
+啊，另外就喺嗰個資料嘅運用上，我哋要求有規範，就係話佢唔可以未得證監會同意之前，將呢啲資料去披露。特別誒，佢事前要有一個保密嘅制度去保將呢啲資料去保密。
+
+335
+00:59:58,180 --> 00:59:59,170
+嗯。
+
+336
+00:59:59,890 --> 01:00:19,900
+咁誒二係喺誒證監會去同佢哋去考慮呢一啲誒誒規範嘅時候咧，佢係要用一個書面嘅承諾嘅，即係唔係話即係口頭承諾，係佢要白紙黑字寫低。咁因此我哋覺得呢一個承諾咧係一個比較係誒。
+
+337
+01:00:19,900 --> 01:00:34,290
+認真嘅承諾係可以接受嘅一個一個保障嘅措施。最後咧就係嗰個規範誒嘅範圍，正如所頭先所講咧，如果我哋香港呢個持牌法團誒，
+
+338
+01:00:34,570 --> 01:00:54,580
+佢個關或者有關聯嘅法團咧，佢唔受到誒海外地方個規管者嘅規管咧，佢係唔需要係納入呢個範圍。咁所以喺呢一啲嘅誒規範之下咧，我哋就係誒誒政策上亦都係誒支持有一個噉嘅建議。當然喺誒執行嘅細節。
+
+339
+01:00:54,580 --> 01:01:01,410
+我哋可以係聽取議員嗰個啊意見咧，睇下可以做得啊點樣係啊做做得好啲噉樣。
+
+340
+01:01:01,690 --> 01:01:04,730
+多謝主席。好啊，董事長有冇其他問題啊？
+
+341
+01:01:05,140 --> 01:01:08,140
+主席啊，當當然啦，你講咗咁多。
+
+342
+01:01:08,940 --> 01:01:11,380
+即係所謂保證都好咧，即係。
+
+343
+01:01:12,240 --> 01:01:20,300
+我始終都有啲嗰啲唔係太舒服嘅，即係覺得好似即係嗰個權畀咗政監之後咧，佢就冇一個即係將來。
+
+344
+01:01:20,580 --> 01:01:24,450
+因為政監嗰啲好多工作都係保密嘅。
+
+345
+01:01:24,830 --> 01:01:25,810
+誒。
+
+346
+01:01:27,030 --> 01:01:29,880
+雖然雖然佢有個即係董事局。
+
+347
+01:01:30,160 --> 01:01:34,600
+噉，但係究竟有啲乜嘢可以檢查到你哋？
+
+348
+01:01:35,220 --> 01:01:44,060
+即係你都可能有延退咯，我哋，但係問題就係都有咩可以檢查到你哋出嗰啲嗰啲誒所謂交換資料嗰個？
+
+349
+01:01:44,390 --> 01:01:53,740
+係合符個法例，或者係合符即係頭先所講嗰係列嘅制裁咧，即係嗰係列嘅規定咧，噉樣。
+
+350
+01:01:55,540 --> 01:02:05,580
+冇人去管，即係點啊？證監咪管嗰啲機構啦，但係冇人去管證監，佢佢將呢啲資料去畀咗人哋嗰個嗰個嗰個合唔合法啊？
+
+351
+01:02:08,730 --> 01:02:09,660
+李書長。
+
+352
+01:02:10,240 --> 01:02:30,250
+誒多謝主席。我估誒其實證監會佢個行事咧都係受到誒制衡嘅誒。有幾方面啦。誒第一，佢要受到法律嗰個，佢唔可以逾越喺誒法律畀佢嗰啲權利啦，或者佢要誒遵守一啲義務啦、啲規則啦。第一啦。
+
+353
+01:02:30,250 --> 01:02:50,260
+誒，第二喺佢嗰個行事嗰個誒所謂嗰個過程程序咧，我哋亦都有個程序復檢委員會可以復檢佢個程序嘅。因此誒，佢一啲行事嘅手法咧，或者如果佢係即係誒行事嘅程序係唔合適啊，以致令到有一啲即係。
+
+354
+01:02:50,260 --> 01:03:10,270
+即係誒受益人嗰個誒利益受損咧，喺嗰個程序上面咧係可以受到復檢嘅。實證誒實際上誒過去我哋都誒睇到咧，都誒我哋嘅程序復檢委員會都有充分啦，去去檢視啊證監會佢嗰個行事嗰個方式。
+
+355
+01:03:10,270 --> 01:03:10,600
+係。
+
+356
+01:03:10,880 --> 01:03:30,890
+誒最後，最後當然啦。誒證監會每一個佢嗰個決定或者係誒行動咧，誒基本上都可以誒係係受到司法複核嘅一個誒監管啦。咁呢個當然係一個最後一個一個誒情況。咁誒我相信喺而家證監會。
+
+357
+01:03:30,890 --> 01:03:50,900
+佢個辦事上面咧，佢嗰個誒頭先所講啦，佢嗰個董事會啦，會係誒做出一個監察啦，同埋我哋喺機制上面都有監察嗰個嗰個情況。所以如果誒議員或者係就住佢嘅程序上面誒有疑問咧，我哋亦都係可以作為一個轉介睇。
+
+358
+01:03:50,900 --> 01:03:52,590
+個程序點我可以改善？
+
+359
+01:03:53,360 --> 01:04:03,330
+我諗幾樣嘢啦，好簡短啫，主席。嗱，你有個程序復檢委員會，咁但係個程序復檢委員會，我聽個名又我，因為我冇跟對裏邊嘅工作咧，亦都唔係。
+
+360
+01:04:04,890 --> 01:04:15,300
+佢基本個程序啊嘛，佢佢佢佢又冇條有冇條件去睇嗰啲畀咗啲咩資料，係咪嗰啲資料應該畀？係咪out of嗰個jurisdictions？呢啲係咪？
+
+361
+01:04:15,580 --> 01:04:19,280
+即係有冇有冇機會有冇空間可以查到咧？噉樣第一。
+
+362
+01:04:19,560 --> 01:04:22,190
+第二，可唔可以講啲例子畀我哋咧？
+
+363
+01:04:22,770 --> 01:04:38,780
+我都想聽下誒。我諗交換資料就係雙方面嘅誒，有啲咩嘢嘅情況嘅情況之下，我哋需要揾其他嘅嗱，即係而家我哋冇呢個權啦。將來有，譬如你從呢個紐約、倫敦簽咗啦噉樣樣，噉啊，同佢哋監管機構去。
+
+364
+01:04:39,060 --> 01:04:52,970
+去簽簽咗之後，你覺得我哋有啲咩時候需要去問佢哋攞資料？佢啲例子都當然唔係話某個嗰公司啦，一啲個案咧，你係需要佢哋咧噉樣，或者相反，佢哋有咩例子係需要我哋咧？
+
+365
+01:04:56,480 --> 01:04:57,330
+係。
+
+366
+01:04:57,690 --> 01:04:58,560
+啊！
+
+367
+01:04:59,020 --> 01:05:05,090
+Yeah, so I mean, in terms of examples, I mean, one of our major
+
+368
+01:05:05,370 --> 01:05:25,380
+interests in this is to ensure that when, in particular, there are large European and US financial institutions operating in Hong Kong, notwithstanding the fact that they're they're headquartered in the US and the EU, we have far better
+
+369
+01:05:25,380 --> 01:05:44,730
+access to information which may sit overseas, and in particular in those headquartered jurisdictions, which is of relevance to our assessment of whether those firms are compliant, or indeed might be affecting you know financial stability issues in Hong Kong. That's all.
+
+370
+01:05:45,010 --> 01:05:54,010
+major interest in in globally active firms, which are all headquarters headquartered overseas.
+
+371
+01:05:54,410 --> 01:06:14,420
+The second thing I was just going to say, and getting back to the question of MOUs and such like, is it may be I think best when we get to the to the next meeting, and we're going clause by clause possibly, for us to give a little bit more of a flavour on the on the MOU process, what we do when we enter into MOUs.
+
+372
+01:06:14,420 --> 01:06:16,320
+The one thing I'd say is that.
+
+373
+01:06:16,600 --> 01:06:20,280
+Actually, MOUs are not essential.
+
+374
+01:06:20,670 --> 01:06:40,680
+to enable us to pass information to an overseas regulator or to receive it. What is essential is the legal framework, which is what we're looking at at the moment in relation to this narrow extension of the power, which includes safeguards. That's that's the boundary within which we can operate. But MOUs are customary.
+
+375
+01:06:41,270 --> 01:06:46,000
+And as has been pointed out, they are never legally binding.
+
+376
+01:06:46,280 --> 01:06:53,220
+And because they're cross-border, they cannot be. But they're the basis on which you you effectively, as regulators, build trust.
+
+377
+01:06:53,570 --> 01:07:13,580
+所以你有個Understanding about the way in which you're going to operate, but always bounded by local law, whether it's our own legislation under the SFO, whether it's the legislation which is binding on the overseas regulator. Those are the the key restrictions on the ability to operate. The MOUs, as I say, are optional.
+
+378
+01:07:13,580 --> 01:07:33,590
+customary in order to build up a greater level of trust, and they also often just deal with process themselves. In other words, who you going to contact when you're asking a question, what sort of categories of information should be directed to certain individuals, etc. So a lot of it is around operation.
+
+379
+01:07:33,590 --> 01:07:34,520
+issues.
+
+380
+01:07:34,930 --> 01:07:43,420
+But we can, we can, I think we can refer to kind of by way of samples later in the process as the sort of MOUs that we were talking about.
+
+381
+01:07:44,380 --> 01:07:45,060
+我。
+
+382
+01:07:45,340 --> 01:07:48,640
+我諗，有一個問題未答，主席，關於個誒。
+
+383
+01:07:48,980 --> 01:07:53,160
+process review committee，佢可唔可以睇？佢哋有冇權去睇？
+
+384
+01:07:53,940 --> 01:07:56,680
+即係將來，佢哋有到冇啲咩資料畀咗人哋嘅？
+
+385
+01:07:57,130 --> 01:07:58,240
+睇唔睇呢啲嘅？
+
+386
+01:08:00,750 --> 01:08:01,680
+係。
+
+387
+01:08:05,030 --> 01:08:07,110
+主席或者誒。
+
+388
+01:08:07,430 --> 01:08:10,090
+誒一我就一般情況而言。
+
+389
+01:08:10,430 --> 01:08:30,440
+就誒，復程序復檢委員會其實係佢會睇個案嘅，我知嚇，即係由嗰個個案或者有一啲抽到個個案嗰方面咧，去睇究竟誒證監點樣去執行佢個程序，有冇程序公義啊噉樣樣。噉我諗我即係就住一般佢哋會做，即係話誒個案佢都睇到。
+
+390
+01:08:32,140 --> 01:08:33,250
+我諗誒。
+
+391
+01:08:33,530 --> 01:08:36,600
+政府可以考慮咧，就係安排一次咧。
+
+392
+01:08:36,880 --> 01:08:53,150
+即係議員，如果係對證監嘅工作有興趣嘅話，可以邀請佢哋去證監會嗰處咧，係做一啲簡介啊，噉樣可能會加深議員對證監會嘅嗰個嗰個信心啊，同埋信任程度。
+
+393
+01:08:53,570 --> 01:08:54,690
+讓我聽完。
+
+394
+01:08:54,970 --> 01:08:56,760
+唔該，主席。
+
+395
+01:08:57,260 --> 01:09:17,270
+Mr. Alder, I think I I I I want to pick up one one point you mentioned about the status of the MOU. Of course, I mean I'm I'm again drawing analogy between the SFO and the inland revenue ordinance. What you were saying just then was that section one hundred and eighty six or or the relevant section.
+
+396
+01:09:17,270 --> 01:09:37,280
+In this SFO alone, could give you the statutory power to exchange information to give assistance already, even without any you know signing of MOUs, because it is inherently in in in the power within the ordinances which give you the power. Whereas of course, under the inland revenue ordinance.
+
+397
+01:09:37,280 --> 01:09:50,510
+We set up the legal framework, and and and Hong Kong still has to entered into either a double tax agreement or information exchanging agreement in order for the two sides to exchange information. So
+
+398
+01:09:50,790 --> 01:10:10,800
+Is my understanding of the relevant section of the SFO correct? I think that's right. Because I'm I'm no expert on the tax side. No, no, I'm not. I'm just drawing analogy. Maybe you can just you know enlighten me on this. I think I think you are. I will defer to the administration, but in the sense that the that in the tax world or
+
+399
+01:10:10,800 --> 01:10:30,810
+國際税世界，如您所説，是基於基本上一個網絡的條約，是法律上具有約束力的，從公眾國際法的角度而言。而是在證券監管者的世界，這並不是基於這些關係，並不是基於任何條約。所以沒有法律上具有約束力。
+
+400
+01:10:30,810 --> 01:10:50,820
+Public international instruments under which we operate at all. That means that the only legal bound boundaries on the way in which we share information, and it's pretty common across most most regulators are local law, which will always include or in most cases include secrecy provisions.
+
+401
+01:10:50,820 --> 01:11:10,830
+subject to gateways. One of the gateways, as has existed in the SFO since inception, is to do with passing information to overseas regulators for their purposes, subject to safeguards. But it is only an expression of national law. But as I say, although MOUs are not mandated.
+
+402
+01:11:10,830 --> 01:11:20,400
+They are customary, if not if not if not more than that, they are inevitable, but they are not mandated by the law. Okay.
+
+403
+01:11:20,820 --> 01:11:33,920
+Our MOUs coming in in ready-made, you know, standard template or format. Is there international standard which the regulators will adhere to, or a certain template and?
+
+404
+01:11:34,330 --> 01:11:47,730
+just then the the deputy secretary also mentioned that these MOUs can be found or you are going to publish them on on the SFC website is that currently the case?
+
+405
+01:11:48,410 --> 01:11:52,610
+Yeah, two questions. Yes. Yeah, sorry. On the first point, the
+
+406
+01:11:52,890 --> 01:12:12,900
+This you can't read it here, but this is the IOSCO template which was published in two thousand and ten, and it really is a an agreement amongst the members of IOSCO, which are the world securities regulators, about the sort of model contents of of supervisor in use.
+
+407
+01:12:12,900 --> 01:12:32,910
+所以我們會付很多注意給那，只是因為其他監管者也一樣，我們也參與了那文件的產生，所以那是一個模板。但其實它運作的是一種選單，你可以挑選放入雙邊MOU。所以，但簡短的答案是，是的，有個模板，但係。
+
+408
+01:12:32,910 --> 01:12:45,550
+It's a flexible one, and in terms of publication of MAUs, I think yeah, that's right. So we we would normally publish those MAUs on our website.
+
+409
+01:12:46,080 --> 01:13:06,090
+誒，我想再跟進翻咧，頭先啊，陳仲佳議員講個程序復檢委員會咧，我我想秘書長可以可以即係澄清下咧，呢個程序復檢委員會其實係咪喺個董事局之下嘅一個啊committee啊，亦或係一個完全獨立於證監會一個委員會啊，同埋你哋呢一個程序復檢。
+
+410
+01:13:06,090 --> 01:13:26,100
+委員會入邊嘅成員啊，個任期幾多？有幾多人？同埋係咪即係佢哋嗰個誒身份係非執行董事咧，亦或完全獨立於個證監會咧？唔該嚇。副議員，係多謝主席。誒，程序復檢委員會係誒由政府嗰方面委任，係獨立於。
+
+411
+01:13:26,100 --> 01:13:46,110
+於證監會外邊，佢個誒成員，佢而家係由一個即係誒非官方嘅誒人士咧去誒作為主席啦。噉佢個構成咧就係有誒唔同嘅界別嘅人士啦。誒亦都包括政府有律政署個代表喺度。咁當然誒證監會。
+
+412
+01:13:46,110 --> 01:14:06,120
+亦都有證監會嘅主席，亦都喺度啊，作為一個成員之一嚇。咁但係就誒呢個誒大部分嘅成員，主要嘅成員都係非官方嘅人士嚇，有唔同嘅界別嘅人士。噉就佢哋每一年咧都會發表報告嘅誒。我記得佢。
+
+413
+01:14:06,120 --> 01:14:26,130
+佢哋最新嘅報告都係誒兩三個月前，亦都發表咗就住個個佢哋睇過佢該年睇過嗰一啲個案而得出嘅一啲喺程序上面，佢哋認為誒第一同證誒證監會交換個意見嘅地方誒證監會誒畀佢哋嘅一啲反應。
+
+414
+01:14:26,130 --> 01:14:46,140
+或者係啊，佢哋對於證監會一啲誒程序上面嘅處理嘅睇法，咁都有喺個誒報告嗰度有交代嘅。噉就著住誒就住，譬如證誒證監會各個範疇，包括佢嗰個誒誒發牌嗰個制度啊，佢一啲誒。
+
+415
+01:14:46,140 --> 01:14:59,180
+執行法律嘅誒嗰個誒合規嗰個誒執行執法嗰個情況啊，或者係一啲產品產品嘅審批嘅情況咧，誒佢哋都會去睇嘅，噉就誒。
+
+416
+01:14:59,790 --> 01:15:06,620
+呢個亦都係包括去誒睇一啲個案，去睇個程序實際上係點樣執行。
+
+417
+01:15:07,010 --> 01:15:27,020
+誒誒，副秘書長，我你頭先所講嘅個案咧，即係我我想知道嗰個睇呢個案嗰個啟動機制係點樣樣？係咪誒委員會每一年喺個年頭就話啊，我哋想睇呢個案，咁同證監會協商咗，抑或係證監會要求委員會去睇呢個案啦？抑或係一？
+
+418
+01:15:27,020 --> 01:15:40,380
+啲市民覺得有啲程序唔係好妥當，要求呢個委員會去睇過噉，咁呢三樣嘢究竟係邊？或者你三樣都有嘅，你可唔可以講一講咧？唔該，李李書長。誒，梁議員啊，你而家提呢啲問題咧？
+
+419
+01:15:40,670 --> 01:15:43,880
+就out of我哋呢一個條例草案嘅。
+
+420
+01:15:44,160 --> 01:16:04,170
+嗰個啊，呢個唔係我提先嘅，係啊，陳仲佳議員提關於嗰個protection嘅問題啊。誒，我問埋呢個啫，咁啲書長咧就扼要啲咁多介紹一下，好嘛？如果係需要嘅話咧，我哋就畀一份嘅文件佢，因為呢啲其實都可以查得到嘅資料嚟嘅，係啊。誒，我我估或者我哋誒比較。
+
+421
+01:16:04,170 --> 01:16:10,850
+文件啦，或者係附交，即係我哋最近嗰個誒委員會最近個報告畀各位審覽嚇。
+
+422
+01:16:12,200 --> 01:16:23,410
+同時，咁冇其他問題咧，就我想問問大家咧，就係有冇需要咧，係邀請工作人士咧，係就呢一條嘅條例草案咧，係誒發表意見。
+
+423
+01:16:25,960 --> 01:16:42,260
+冇需要係咪？我諗咁啦，我諗一如正常啦，即係我哋喺個網頁裏邊提出嚟，如果有團體要求上嚟講嘅，我相信我哋要畀佢嚟講嘅。如果佢哋冇要求嘅，佢淨係畀書面意見㗎，我咪睇書面意見咯。
+
+424
+01:16:42,890 --> 01:16:43,740
+我。
+
+425
+01:16:44,020 --> 01:16:47,800
+誒，如果係邀請嘅話咧，我哋邀請咩人士咧？
+
+426
+01:16:49,000 --> 01:17:09,010
+因為我哋通常唔會話廣泛邀請，噉我哋喺個網頁入會公眾邀請嘅嘛嚇。咁唔係唔係，阿主席，我哋誒咁咧，睇下政府畀名單，我哋邀請。或者你問下啲委員有冇名，即係幾團體名單？如果冇噉就政府咯，或者係因為呢一條嘅條例草案嗰個修訂咧。
+
+427
+01:17:09,010 --> 01:17:29,020
+咧佢係相當技術性嘅，亦都係有一定嘅範圍，就住佢哋嗰個即係工作咧，係做一啲修訂嘅啫，就唔應該咧，係就唔會同公眾嘅利益嗰度咧就有咩大關係嘅嘢。咁所以誒，政府你睇下有冇需要，因為我相信咧就。
+
+428
+01:17:29,020 --> 01:17:29,520
+就。
+
+429
+01:17:29,820 --> 01:17:37,210
+誒，政府都有可能接觸過一啲團體，徵詢過一啲意見，嚇，噉你睇有冇需要？
+
+430
+01:17:37,520 --> 01:17:41,870
+誒報啲團體嘅名畀我哋，我哋邀請佢哋好唔好？
+
+431
+01:17:42,380 --> 01:17:43,730
+好嘛。
+
+432
+01:17:44,920 --> 01:18:01,100
+啊，或者我哋誒業界裏邊相關嘅嘅團體都可以嘅嚇。好啊，好。好，善長嘉議員有冇咩其他？冇啦嘛。我相信嗰啲誒。O K，噉我哋就噉樣都要安排咧，就暑假之後㗎啦，可能都係九月份。
+
+433
+01:18:01,380 --> 01:18:03,550
+誒嘅時間，好嘛？
+
+434
+01:18:04,580 --> 01:18:08,430
+我哋再夾啦，啊，具體嘅日子咧，我哋再夾，好唔好啊？
+
+435
+01:18:10,100 --> 01:18:23,810
+嗱，如果同事冇其他問題咧，就今日我哋誒呢個會議開到呢度嚇，噉我會同秘書處咧就夾個時間睇下下一次喺九月，我相信都係誒中下旬之後嘅時間啦，好嘛？
+
+436
+01:18:24,790 --> 01:18:26,470
+O.K.，我宣佈散會。

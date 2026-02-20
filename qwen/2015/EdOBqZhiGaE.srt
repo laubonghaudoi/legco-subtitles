@@ -1,0 +1,2899 @@
+1
+00:00:00,220 --> 00:00:08,070
+法定人數就舉行房屋事務委員會長遠房屋策略小組嘅小組委員會嘅第四次會議。
+
+2
+00:00:08,450 --> 00:00:13,810
+咁咧就議程第一咧就係下次會議討論嘅事項。
+
+3
+00:00:14,090 --> 00:00:16,680
+噉樣咧，就我哋。
+
+4
+00:00:17,170 --> 00:00:37,180
+政府主席咧就喺三月五號咧就同發展局局長咧舉行咗非正式會議，商討咧就係小組委員會嘅工作計劃。其後運輸及房屋局亦都就各事項嘅討論時間咧提出建議，經更新後嘅工作計劃咧就印喺呢個。
+
+5
+00:00:37,180 --> 00:00:46,820
+個建議討論上一覽表，立法會C.P.庫一七零八斜棟一二一三零一號文件，咁咧就誒。
+
+6
+00:00:47,100 --> 00:00:55,710
+亦都印發畀咧係各位嘅啦，咁請大家咧係備悉咧呢個誒嘅工作計劃。
+
+7
+00:00:56,150 --> 00:01:01,240
+咁下次會議咧，就喺四月三十號下晝兩點半舉行。
+
+8
+00:01:01,520 --> 00:01:15,100
+誒建議討論嘅事項咧就有兩個嘅，一個就係檢討配額同埋計分制，第二個咧係檢討副政策。咁咧就請問各位係咪同意呢兩個項目？
+
+9
+00:01:16,740 --> 00:01:24,470
+如果冇咧，我哋就係噉樣進行啦，因為都幾豐富啊！呢兩個內容誒，請官員出席咧嚇。
+
+10
+00:01:26,920 --> 00:01:33,840
+咁今日咧，我哋誒討論嘅項目咧，就係房屋需求推算。
+
+11
+00:01:34,480 --> 00:01:51,260
+有兩份文件嘅，第一份咧就係立法會C.P.括弧一七零八斜洞一二一三括弧零二號文件，就係政府當局就房屋需求推算提供嘅文件。
+
+12
+00:01:51,540 --> 00:01:52,170
+係。
+
+13
+00:01:52,480 --> 00:01:53,790
+多謝你哋出席。
+
+14
+00:01:57,310 --> 00:02:00,500
+咁誒另一份咧就係立法會。
+
+15
+00:02:00,780 --> 00:02:11,630
+I.N.一四斜洞一二一三號文件就立法會秘書處資料研究組已備提為嘅香港房屋需求嘅資料摘要。
+
+16
+00:02:12,150 --> 00:02:32,160
+咁咧就我亦都藉著呢個機會咧，係多謝立法會秘書處嚇，就佢哋嘅辛勞咧，做咗一份咧長達三十頁嘅資料文件。咁秘書處兩位嘅同事咧，亦都係出席今日嘅會議。如果大家有問，
+
+17
+00:02:32,160 --> 00:02:52,170
+亦都可以咧，係文秘處兩位嘅同事，就係研究主任胡志華先生同埋議會秘書資料研究組周家榮先生嚇，歡迎你兩位。咁亦都係誒歡迎咧，柏志高先生同埋你哋嘅同事咧出席，為咗節省時間。
+
+18
+00:02:52,170 --> 00:02:53,960
+我一介紹啦。
+
+19
+00:02:54,380 --> 00:03:01,660
+咁而家咧，我哋就去做以情房屋需求推算，咁咧就係誒請。
+
+20
+00:03:01,950 --> 00:03:21,960
+誒柏志高先生，你哋誒介紹文件啦。Thank you, Mr. Chairman. I'll just do a very brief introduction, and I'll ask Anson to take us through the PowerPoint. The paper this morning reports to members on the discussion in the Long-Term Housing Strategy Steering Committee on the key components.
+
+21
+00:03:21,960 --> 00:03:25,830
+要被包括在長期住房需求的預測中，我強調。
+
+22
+00:03:26,150 --> 00:03:46,160
+At this stage, we're looking at the components to agree on what should be included, what perhaps shouldn't be included. So we haven't got the detailed figures because obviously that is the next stage once we've got agreement on this. However, having said that, as we refine the model and as we get more information, we will have to look again perhaps at some of these.
+
+23
+00:03:46,160 --> 00:04:06,170
+But I believe that the outcome of the discussion has given us a very clear direction for the way forward. This will allow us to project long-term housing demand. But I must stress that it's not it's not something that you take as a fixed situation. This is something that will be
+
+24
+00:04:06,170 --> 00:04:13,120
+evolving over time because the circumstances do change depending on economic, demographic and other factors.
+
+25
+00:04:13,580 --> 00:04:33,590
+what we're what we're basically looking at now is is translating the factors into a more detailed methodology and projection, and of course in due course we will be going back to the long term housing strategy steering committee to discuss those specific projections with them, and of course those will will also be put in.
+
+26
+00:04:33,590 --> 00:04:44,210
+to the the report in due course. Perhaps at this point I'll stop. I'll ask Anson to take us through the key figures, and then perhaps we can have some discussion, Mr. Chairman. Thank you.
+
+27
+00:04:45,180 --> 00:04:47,780
+唔該曬主席，黎生，係唔該曬主席。
+
+28
+00:04:48,430 --> 00:04:55,770
+咁正如頭先誒署長所介紹啦，噉我哋目標咧，今日係向委員介紹翻我哋評估翻長遠房屋需求嘅方法嘅。
+
+29
+00:04:56,560 --> 00:05:16,570
+咁首先咧，我哋必須強調咧，喺呢一個階段咧，其實我哋呢一個誒長遠房屋誒嗰個嘅誒需求嘅推斷咧，其實暫時嚟講都係一個初步嘅睇法。咁因為其實大家都明白呢個係一個好複雜嘅過程啦。噉我亦都係要好謹慎嘅。咁睇睇翻究竟我哋呢個長遠房屋誒長遠房屋嘅需求嘅誒評估咧，係包。
+
+30
+00:05:16,570 --> 00:05:34,130
+啲乜嘢嘅成分啦，咁另外亦都睇下計算嘅方面，亦都係需要啲時間嘅。咁所以我哋強調咧，今次我哋呢一個嘅分誒嘅向大家介簡介嘅呢一個初步嘅睇法咧，噉係必須大家係保持審慎啦。咁亦都係誒，亦都會聽咗大家意見之後，係會作進一步嘅，就需要嘅話，作進一步嘅調整嘅。
+
+31
+00:05:35,690 --> 00:05:55,700
+咁喺我哋進入呢個介紹呢個誒房屋需求，我哋三個主要成分之前咧，咁或者我都想講講我哋而家暫時點樣睇呢個房屋需求呢樣嘢。咁因為房屋需求，我哋必須有一個比較清晰嘅定義，噉我哋先至可以做一個比較誒比較客觀嘅分析嘅。咁喺我哋嚟講咧，就正如我哋文堅都介紹咗啦。噉我哋覺得我哋政策嚟講係一個。
+
+32
+00:05:55,700 --> 00:06:15,710
+誒需要就係話令到香港誒所有嘅住户咧，長遠嚟講都有一個適切嘅居所。咁首先係要強調係一個長遠啦，亦同埋一個適切居所呢兩個嘅概念嘅。咁所以我哋覺得咧，誒喺呢個推斷房屋需求長遠嚟講咧，我哋係要將呢個誒房屋咧係定義為啲長遠嚟講係為香港我哋嘅住
+
+33
+00:06:15,710 --> 00:06:24,490
+住户咧係提供幾多新建而係適切居所嘅總數，咁呢個係方便我哋咧係去推斷究竟有幾多係實質嘅房屋需求嘅。
+
+34
+00:06:25,830 --> 00:06:45,040
+咁跟住下一步咧，我就會向大家介簡介一下，究竟而家我哋初步嚟講嘅睇法咧，究竟誒推推算呢個長遠房屋需求咧，係包括邊三個嘅主要嘅成分？咁首先咧，就喺即係正如啲幻燈片提過啦，第一個就我哋誒最注益都係一個比較重要嘅，就係推算誒住户數目嘅淨增長嘅。
+
+35
+00:06:46,010 --> 00:07:06,020
+噉我哋就覺得誒，因為其實長遠嚟講咧，香港嘅誒，包包括人口啦、住户咧，都因不聽不不同嘅因素咧，係會有改變嘅。咁包括譬如話結婚啊、離婚啊、誒出生啦、誒一啲誒人士會過身啦，咁亦都有啲移民入嚟香港，亦都係移民嚟咗香港呢啲因素嘅。咁長遠嚟講咧，其實係會影響到我哋。
+
+36
+00:07:06,020 --> 00:07:26,030
+嘅住户數目嘅，咁當住户數目如果係淨增加嘅話咧，咁其實我哋係有需要咧，係向佢哋提供一個息前嘅據所。咁點樣去推斷呢個住户數目嘅淨增長咧？噉我哋嘅初步睇法咧，就可以參考翻統計處，其實佢哋都有做到啲誒實際評評估翻，譬如香港人口嘅誒或者住户數目嘅淨。
+
+37
+00:07:26,030 --> 00:07:46,040
+增長呢一個嘅推算嘅噉，譬如話係誒佢哋嘅推算，亦都包括咗。譬如香港永久性居民啦，咁同埋喺二零一一年人口普查嗰時喺香港嘅非永久性居民嘅。噉我哋相信咧，呢一個嘅住户數目嘅淨增長咧，誒好有機會咧係成為第時我哋嗰個長遠房屋嘅需求嘅評估一個比較主。
+
+38
+00:07:46,040 --> 00:07:47,140
+主要嘅成分嘅。
+
+39
+00:07:48,170 --> 00:08:08,180
+咁另外咧，我哋都留意到，其實誒誒，當我哋做呢個推斷嗰時咧，可能有部分誒嘅人士，譬如話好多香港人，可能喺內地啊或者外地工作緊，咁又或者可能其他因素咧，佢哋唔喺香港。咁同一時間咧，亦都有一啲譬如話外地人，其實當時喺譬如二零一一年引發火燭嗰刻係喺香港嘅，譬如有啲外地嚟。
+
+40
+00:08:08,180 --> 00:08:28,190
+學生啦，誒外地嚟嘅工作嘅人士啊，等等嘅噉，其實一部分嘅人士嘅誒或者住户咧，喺我哋嗰個誒嗰個誒住户數目嘅推斷裏邊咧，其實已經參考咗㗎啦。咁但係我哋亦都留意到，可能有部分咧，其實係未被參考到嘅。咁所以，我哋下一步嘅工作咧，我哋會再再考慮翻點樣將一啲其實當。
+
+41
+00:08:28,190 --> 00:08:35,040
+時，我哋未能夠推斷入去嗰個嘅誒人口推誒嗰個住户推算裏邊嘅因素咧，係考慮在內。
+
+42
+00:08:35,630 --> 00:08:55,640
+咁另外，都想誒向大家強調咧，其實誒呢一個嘅住户數目正增長咧，並唔係一個靜止嘅數目嚟嘅。咁即使係誒統計處佢根據翻佢哋嘅專業嘅方法啦，推咗推斷都好咧。噉我哋都相信咧，隨住譬如話經濟啊，誒甚至係譬如話可能誒誒物業市場啊等等，有好多因素改變咧，可能係會影響到譬如。
+
+43
+00:08:55,640 --> 00:09:15,650
+一個住户佢哋會唔會，譬如成立一個新嘅住户咧？譬如話會響到誒結婚啊，誒或者其他因素等等嘅，咁或者生育啊等等嘅。咁所以我哋亦都喺呢一方面咧，我哋特登喺我哋今次做一個長遠房屋嘅需求評估時咧，會考慮咧係進行一個誒設計一個計量經濟模式。咁呢一個咧其實係目的咧係希望係揾。
+
+44
+00:09:15,650 --> 00:09:35,660
+揾翻我哋，譬如話係誒，譬如話之前一段時間啦，咁譬如話當住户數目同埋經濟增長，又或者係誒物業市場嘅嘅改變嘅話咧，其實佢哋嘅關係係點乜嘢咧？咁希望第時咧係會做出一個再詳細啲嘅推斷。咁同埋亦都係假設喺唔同嘅，譬如話係誒經濟增長嘅情況之下咧，其實住
+
+45
+00:09:35,660 --> 00:09:55,670
+數目嘅增長會有啲乜嘢改變？咁目標咧就係做成一係列唔同嘅嘅推算嘅嘅結果出嚟嘅。咁所以我哋呢一個嘅今次我哋嘅推斷咧，其實嘅估算咧就唔會係單一嘅數字，咁好有機會咧係會係一一連串嘅數字。咁為咗係令到大家有更加清晰咁知道，其實。
+
+46
+00:09:55,670 --> 00:10:07,020
+可能係唔因為社會經濟嘅唔同咧，可能個住户數目甚至而因此衍生嘅房屋需求咧，都係會有改變嘅。咁呢一方面，我哋係會直接都係進行緊呢個工作。
+
+47
+00:10:08,260 --> 00:10:28,270
+咁第二個，我哋覺得係比較重要，我哋需要考慮嘅平誒房屋需求嘅一個成分咧，就係曬一啲受重建項目影響嘅住户啦。咁正如我頭先提過啦，我哋定義將房誒房屋需求定義曬一啲，我哋誒有需要為一啲誒住户提供一啲新嘅單位嘅嘅嘅適切嘅單位嘅。
+
+48
+00:10:28,270 --> 00:10:48,280
+嘅嘅數字嚟嘅噉，但係一啲而家已經住緊喺，譬如話，可能佢個單位其實都好係係適切嘅啦。咁但係受到重建項目影響嘅話咧，咁其實當佢哋嘅家園係因為拆樓啊，或者其他原因係要搬嚟嘅話咧，咁其實佢都衍生一個新嘅房屋需求嘅。噉啊，呢方面咧，我哋就覺得亦都係有需要咧，將佢。
+
+49
+00:10:48,280 --> 00:11:08,290
+去計算落去我哋長遠房屋嘅需求評估裏邊，咁呢分可以包翻包括為兩方面啦。咁第一就係公營房屋方面，咁公營房屋大家都知道，培房委會有佢自己嘅一啲重建項目啦。咁房協亦都有佢嘅重建項目嘅。咁呢分我哋係會根據翻我哋呢方面誒掌握嘅資料，做一個評估啦，做一個推算啦。
+
+50
+00:11:08,290 --> 00:11:28,300
+咁第二方面咧就係啲私人市場裏邊嘅誒嘅嘅重建項目啦。咁包括可能係誒市建局啦，噉啊，即係啲私人發展商或者私人嘅誒人士佢自行進行嘅重建項目嘅。咁呢分我哋會盡量係蒐集啲數據咧，做一個推算嚟緊一段時間究竟係有幾多嘅誒誒誒，即係估計有幾多嘅學誒。
+
+51
+00:11:28,300 --> 00:11:33,120
+誒，住户係受重建項目影響而需要一個新嘅適切嘅居所嘅。
+
+52
+00:11:34,080 --> 00:11:54,090
+咁第三咧就係除咗頭先提過兩個項目之外咧，第三咧我哋覺得係個好重要嘅成分，就係喺喺推算長短房需求嗰時，就係一個居住環境欠佳嘅住户啦。咁好似話頭先誒誒簡時介紹嗰時都提過啦，我哋嘅目標係希望為香港市民提供個適切嘅居所嘅，亦都係睇緊一段時間新。
+
+53
+00:11:54,090 --> 00:12:14,100
+嘅單位有幾多？息次單位係需要嘅。咁如果而家其實有啲住係住居住嘅喺啲比較環境欠佳嘅地方嘅話咧，其實我哋覺得係有需要向佢提供一個誒新嘅單位啦，息次嘅單位。咁不論佢係公營或者私營都好咧，其實都呢個需要嘅。咁所以我哋覺得呢一個誒呢一個數字，我哋都需要包括喺我哋嘅推算喺裏。
+
+54
+00:12:14,100 --> 00:12:14,610
+菲律賓。
+
+55
+00:12:17,370 --> 00:12:37,380
+咁啱啱我就介紹咗係三個我哋覺得長遠房屋嘅需求裏邊一個主要嘅成分嘅。噉我哋都喺呢度咧想從而家介紹翻有兩個嘅概念咧，係大家參考翻。咁第一個就係流量嘅概念啦。咁其實大家都可能會留意到，其實而家有部分即係誒誒，其實係兩個喺房屋需求嗰方面咧，可能係兩樣嘢。
+
+56
+00:12:37,380 --> 00:12:57,390
+嘢，大家可能會考慮過嘅第一就係一個存量，即係stock喺英文裡面嘅stock，即係喺一段時間裏邊，究竟有幾多人誒，或者有幾多嘅誒住户啦，同埋有幾多嘅房屋單位係現時係某一個刻咧已經係存在嘅。咁呢個就係存量概念。咁不過咧，我哋今次長遠房屋需求評估咧，集中處理嘅就係一個流。
+
+57
+00:12:57,390 --> 00:13:17,400
+流量概念，咁流量概念有咩分別咧？係講緊係唔係一刻裏邊嘅時間，而一個長時間裏邊，究竟譬如話係下年啦，在下年啦，或者一段長嘅幾年之後，究竟呢一段時間裏邊生產生幾多嘅新嘅房屋需求？而新嘅房屋需求，我哋需要畀幾多適切嘅單位畀佢哋嘅。咁呢個係一個長遠一。
+
+58
+00:13:17,400 --> 00:13:37,410
+個時有時間概念嘅嘅嘅情況嚟嘅，咁同而家一個誒stock concept一個嘅誒存量咧係有啲唔同嘅。咁尤其我哋亦都假設咗而家誒住緊係適切居所嗰啲咧，咁當然可能佢哋譬如話可能有搬屋啊、誒樓換樓啊等等嘅情況出現。咁但係呢啲其實我哋覺得係並不會產生一個新嘅。
+
+59
+00:13:37,410 --> 00:13:57,420
+新嘅對一啲新單位嘅嘅需求嚟嘅，譬如話一個誒家庭，佢一個原因為有啲原因，佢想搬一間大啲單位。噉佢舊嘅單位咧，可能佢賣出去啦，咁亦都可能會租出去嘅。咁當佢賣出去同租出去嗰時，其實亦都係符合住，亦都係已經係誒誒適切噉樣去，亦都係提供咗個單位喺市場上邊係提供滿。
+
+60
+00:13:57,420 --> 00:14:10,240
+租同買咁喺呢方面，其實係冇一個新嘅房屋嘅需求嘅。咁所以，我哋今次嘅評估咧，係集中係會係評估翻嚟緊一段時間一個誒對新嘅房屋需求嘅概念。咁所以呢一個流量概念。
+
+61
+00:14:10,710 --> 00:14:30,720
+咁另外我想強調咧，就係我哋誒其實喺任何嘅推算嘅模式裏邊咧，其實都好難避免係冇一個侷限性嘅。咁無論係因為我哋嘅資訊所數所所受嘅侷限啦，又或者係我哋推算模式可能始終有部分嘅嘅嘅因素未必一定係全面咁考慮嘅。咁所以我哋必須強調，今次係一個我哋任何推算咧都係侷限。
+
+62
+00:14:30,720 --> 00:14:50,730
+彈性。不過，我哋亦都會盡量係做兩樣嘢嘅。第一，就我哋會盡量用一啲可靠係大家公認係可以接受嘅數據啦。咁呢個第一。咁第二就我哋都會盡量用一啲科學化、具客觀性嘅一啲推算模式。咁希望咧係為即係誒長遠房屋需求咧，做一個比較最客觀、最科學化嘅一個推算嘅。
+
+63
+00:14:50,750 --> 00:15:10,760
+咁當然，亦正如頭先所講啦，我哋希望咧誒，亦都因為呢個侷限性嘅原因咧，我哋希望咧係可以誒誒提供一個一係列嘅推算，就唔係一個靜止一個單一嘅數字。咁目的咧係令到大家即係無論係誒市民啦、誒社會啦，或者係我哋即係誒誒去誒預備，譬如話嗰個誒。
+
+64
+00:15:10,760 --> 00:15:21,850
+興建量啊，等等嗰時咧，都有一個清晰啲嘅情況。就因為誒社會經濟環境係會改變嘅，咁所以我希望嗰一係列嘅嘅嘅推算咧，係等大家有幫助，係瞭解其實真正會發生嘅情況。
+
+65
+00:15:24,390 --> 00:15:44,400
+咁另一方面，我亦都想誒提提啦。噉我我哋誒有兩個一兩樣個誒特別嘅考慮嘅因素。咁第一就係投資需求，第二就係調整因素嘅。咁首先講緊投資需求。咁其實喺我哋啱啱頭先嘅介紹已經提過，我哋嘅誒推斷長遠房需求咧，係用社會角度去睇嘅。有即係話一個住户長遠嚟講。
+
+66
+00:15:44,400 --> 00:16:04,410
+係應該有個適切嘅居所嘅。咁呢個係以社會性係希望達至，希望係滿足喺房屋呢方面嘅需求。咁投投資需求咧，其實係另一樣嘢嚟嘅。咁而我哋初步嘅睇法咧，就我哋建議咧係唔唔會將投資需求係計算在內嘅。咁原因咧係有幾樣嘢，都文件有提過嘅。噉我亦都簡單講講。
+
+67
+00:16:04,410 --> 00:16:24,420
+咁所以投資需求，譬如個投資者，佢可能買咗個單位，咁但係長遠嚟講咧，其實即係誒有兩個可能性咧，主要嘅兩個可能性咧，第一就係可能會再賣翻出嚟啦，咁第二就可能會將個單位租出嚟嘅。其實無論佢做呢樣嘢都好咧，其實佢都係咪滿足緊一個社會上實質嘅房屋需求嘅。咁所以其實佢未必。
+
+68
+00:16:24,420 --> 00:16:31,310
+如果就如果將呢個投資需求計落去嘅話咧，可能係會將我哋嗰個誒房真正嘅房需求高估咗添。
+
+69
+00:16:31,600 --> 00:16:51,610
+咁第二就係其實我哋發覺咧，有時係好難去分辨究竟邊一啲係投資需求，邊一啲係真正係房屋需要嘅。咁譬如話，其實對一個尤其係一個置業置居嘅市民嚟講咧，佢當然係佢希望住喺一個單位裏邊，佢哋覺得安居樂業啦。咁但係都絕大部分，我哋相信咧，家庭或者人士都會覺得投資一個單位，其實佢哋一生。
+
+70
+00:16:51,610 --> 00:16:58,450
+喺人裏邊係一個好重要嘅投資決定嚟嘅，咁所以其實有時係好難分辨到投資同埋實質嘅房屋需求。
+
+71
+00:16:58,900 --> 00:17:18,910
+咁第三咧，投資需求其實係非常之難界定啦，亦都好難好準確噉樣去去去量度去評估嘅。咁因為投資需求都牽涉到譬如其他經濟嘅因素啦，譬如話係誒利息啊，誒譬如話誒而家市場上面流動性啊，或者投資氣氛啊等等。咁如果將佢計算落去話咧，其實係會令到我哋嗰個長遠需求咧。
+
+72
+00:17:18,910 --> 00:17:30,840
+可能係偏離咗我哋以社會角度為主嘅呢一個噉樣嘅嘅目標嘅，咁所以初步睇法咧，我哋就覺得我哋係唔建議咧，係將呢個投資需求係計算喺我哋個長期需求裏邊。
+
+73
+00:17:31,610 --> 00:17:51,620
+咁第二個調整因素啦，咁雖然話我哋頭先亦都已經盡量係誒羅列咗一啲我哋覺得要考慮嘅因素，咁譬如三個我哋主要嘅房屋需求成分啦，咁亦都一啲其他嘅因素去參考過，咁但係我都唔能夠排除咧，其實亦都有好多其實影響到真正實質房屋需求，但係可能佢個誒。
+
+74
+00:17:51,620 --> 00:18:11,630
+影響唔係太過明顯，唔係太過顯著嘅因素嘅。咁喺呢一方面咧，其實係我哋建用初步嘅諗法咧，就會有一個叫調整因素嘅方法，即係話我哋如果有一個誒誒評估介出嚟之後咧，我哋會加上一個contention時一個誒一個嘅誒誒數字上去，譬如話係誒嗰個嘅某某一個嘅百分比啦。咁希
+
+75
+00:18:11,630 --> 00:18:19,630
+希望造成一個好似頭先所講一個係係列嘅推算咧，咁令到我哋會更加咁準確或者客觀噉樣咧，係評估多房屋需求嘅。
+
+76
+00:18:23,190 --> 00:18:37,790
+係，噉我頭先就剛剛向誒委員咧係介紹咗我哋而家就住推算長遠房屋需求一啲初步嘅睇法嘅，噉我亦都即係誒多謝大家嘅誒意見，亦都係歡迎大家係畀意見，我哋係即係就住呢方面有啲乜嘢嘅睇法嘅。唔該曬主席。
+
+77
+00:18:38,070 --> 00:18:54,040
+誒，剛才咧就幫你好詳盡介紹嘅咧，就係房屋署助理署長誒策略規劃嘅黎日正先生。多謝你。我我想問一問咧，阿黎生咧，就呢份文件就介紹咗你哋嗰個誒。
+
+78
+00:18:54,610 --> 00:19:14,620
+需求模式嘅初步睇法啦，咁幾時可以有一啲誒？你經過呢個噉樣嘅框架嘅推算嘅數字資料，話到畀我哋嘅委員聽咧？因為呢一個文件咧，都係講嗰個推算模式，咁幾時可以？
+
+79
+00:19:14,620 --> 00:19:21,780
+而有一啲誒數字，即係推算嘅結論咧，誒或者係初步嘅結論咧，嚟到畀到大家咧。
+
+80
+00:19:22,060 --> 00:19:42,070
+係主席，噉就誒就住呢方面咧，噉就頭先介紹過啦。噉我哋其實國亦都已經向我哋長遠火策略嘅督導委員會介紹過，要聽取意見。咁今日亦都喺呢度，亦都同一介紹，亦都係誒歡迎大家畀意見我哋嘅。咁聽完意見之後咧，其實一方面我哋睇睇下有冇需要咧，喺邊一方面咧，再去調整翻我哋而家。
+
+81
+00:19:42,070 --> 00:19:45,070
+嘅睇法啦，咁第二就亦都再開始仲有一個比較。
+
+82
+00:19:45,350 --> 00:20:05,360
+比較艱苦嘅過程啦，就係我哋蒐集有關嘅數據，係詳細咁去分析，同埋係睇下點樣可以將佢做出一個誒精密啲嘅誒客觀啲嘅長遠嘅推斷嘅。噉我哋初步而家好初步嘅諗法咧，就係話我哋呢個誒誒工作咧係會一直進行嘅。咁誒，我哋會計劃咧就係諗住係連埋我哋嘅長遠房屋策略嘅諮詢文件。
+
+83
+00:20:05,360 --> 00:20:25,370
+大概喺年中都公佈嗰時咧，應該就有個初步嘅評估喺裏邊咧，係可以同大家交代嘅。嚇，咁呢個我哋初步有個計劃嘅。咁因為亦都要睇翻大家嘅意見啦。咁誒，如果要調整我哋而家嗰個誒模式咧，其實亦都需要揾翻我哋唔同唔同部門嘅同事，大家一齊再研究。咁同埋都蒐集翻有關數據，因為數據亦都係好重要嘅。我哋都。
+
+84
+00:20:25,370 --> 00:20:35,900
+要確保係要可靠嘅，咁所以呢方面係有啲時間嘅。咁初步睇法就希望喺年中，當我哋公佈文件嗰時咧，係可以同大家有個交代嘅。年中大概幾時到啊？
+
+85
+00:20:36,820 --> 00:20:37,540
+年中。
+
+86
+00:20:37,820 --> 00:20:57,830
+誒初步睇法，我諗暫時好初步噉，暫時就睇應該係六七月左右。咁但係而家我哋一個暫時都係一個初步嘅計劃啦。咁因為誒文件除咗係誒長遠房屋策略，除咗我哋呢個長遠嘅房屋需求推斷之外，亦都其他嘅政策啊，誒或者各方面嘅研究，或者我哋嘅嘅嘅嘅一啲誒建議嘅。咁呢方面亦都係需要時間。
+
+87
+00:20:57,830 --> 00:21:17,840
+安排噉，我哋覺得一次過向大家交代會比較誒合理啲。咁因為除咗我哋講緊需求之外，都講緊我哋喺供應啊，或者係譬如政策方面啊，有啲咩建議噉，亦都係同公眾一次個交代，可能比較適合啲嘅。好多謝你個補充嚇。咁咧，而家咧就係誒誒開放咧畀大家咧嚟去發問。咁咧。
+
+88
+00:21:17,840 --> 00:21:31,480
+咧就而一誒已經係登記咗嘅次序係噉樣嘅，梁家傑議員、李卓人議員、張志紅議員、梁耀忠議員、胡志偉議員、麥美娟議員，咁誒仲有。
+
+89
+00:21:31,760 --> 00:21:51,770
+係梁志祥議員、鐘樹根議員，噉就連問連答第一輪五分鐘先啦嚇。咁而家請梁家傑議員。好，多謝主席。主席，我哋就知道咧，誒做呢一個噉樣嘅估算咧，即係房屋需求咧，其實就以前政府。
+
+90
+00:21:51,770 --> 00:21:56,230
+我都做過嘅，即係八七年做過一次，九六年做過一次。
+
+91
+00:21:56,510 --> 00:21:58,920
+咁當然呢啲噉嘅誒。
+
+92
+00:21:59,560 --> 00:22:16,480
+房屋需求嗰個估算咧，佢有幾準確咧？就我覺得就要睇下，即係你究竟嗰啲數據嘅質素啦，同埋咧你採用嘅一啲假設係唔係啊合理？
+
+93
+00:22:16,770 --> 00:22:19,570
+同埋咧，係唔係切合嗰個？
+
+94
+00:22:19,850 --> 00:22:20,860
+啊！
+
+95
+00:22:21,140 --> 00:22:23,340
+客觀嘅環境嘅。
+
+96
+00:22:23,690 --> 00:22:43,700
+噉我啊想問下嗱，即係誒有個前兩次即係所謂八七年嘅模式同埋九六年嘅模式作為前科咧，我哋可唔可以用一個即係前事不忘後事之師噉樣嘅概念嚟到去睇一睇，而家我哋設計嘅呢個新嘅模式？
+
+97
+00:22:43,700 --> 00:22:44,050
+係。
+
+98
+00:22:44,330 --> 00:22:48,560
+即係距離九六年已經係即係差唔多十七年嘅時間咧。
+
+99
+00:22:48,850 --> 00:22:52,750
+誒，可唔可以建基於九六年嘅模式？
+
+100
+00:22:53,340 --> 00:23:13,350
+有任何誒假設嘅錯誤啊，或者由於嗰啲數據嘅質素唔夠啊，令到而家出現一個噉樣流與供應失衡嘅現象，而又喺呢個基礎上邊咧嚟到完善我哋呢一個，即係可能二零一三年嘅。
+
+101
+00:23:13,350 --> 00:23:20,430
+嘅模式咧，我想知道即係喺誒誒政府方面咧，有啲乜嘢經驗總結？
+
+102
+00:23:20,710 --> 00:23:26,720
+噉就其實誒，主席可能都睇啲文件都知道咧。其實我哋嘅。
+
+103
+00:23:27,000 --> 00:23:36,960
+研究部咧喺啊九六年咧，其實都係做過一個好詳細嘅報告嘅。嗰度咧其實係有列舉咗嗰個。
+
+104
+00:23:37,240 --> 00:23:54,660
+誒，即係政府嗰個嗰個研究裏邊咧，有啲不足之處嘅。噉我想問下，即係政府方面有冇即係睇過本會嘅嗰個房屋需求模式報告，係九六年十月嘅，同埋喺嗰度有冇學到啲嘢咧？咁多謝主席。
+
+105
+00:23:54,940 --> 00:24:07,530
+阿梁議員，今日咧就係立法會秘書處咧，亦都做咗一份咧，我見到詳盡嘅資料文件嘅三十頁嘅，你都可以參考。咁而家我想睇下當局邊一位回應啦。
+
+106
+00:24:08,840 --> 00:24:11,340
+阿柏志高先生。
+
+107
+00:24:12,480 --> 00:24:32,490
+Of course, we're very well aware of the previous models, and we have made reference to them. But quite frankly, we think that it's important to ensure that we get the the appropriate model at this particular moment in time. And for that reason, we've having made reference to the previous models and having noticed that, frankly, that model.
+
+108
+00:24:32,490 --> 00:24:38,930
+was based on a total housing demand assessed by projecting housing demand of different housing needs.
+
+109
+00:24:39,210 --> 00:24:54,660
+It's probably rather more limited than we would need in today's circumstances. So that's why what we're trying to do is to make sure, as you quite rightly said, that we've got all the right data first, and that's why we've got to go through this process to identify the key parameters.
+
+110
+00:24:54,940 --> 00:24:58,490
+and then we'll fit in the data against those parameters.
+
+111
+00:24:58,770 --> 00:24:59,680
+嗯。
+
+112
+00:24:59,960 --> 00:25:03,180
+In so far as the previous models have have certainly.
+
+113
+00:25:03,480 --> 00:25:09,130
+perhaps been criticised. That's a that's a factor, but it's not the factor that's led us to to this approach.
+
+114
+00:25:09,410 --> 00:25:24,210
+呢個approach是基於我們從統計局和其他部門獲得的建議，以確保我們提出合適的方案。主席，我唔係對秘書長不敬啊，不過我時間有限，所以我不如更加聚焦問一問啊。
+
+115
+00:25:24,490 --> 00:25:44,500
+嗱，如果如果九六年嘅模式係誒準確嘅話咧，噉就唔會出現今日呢個即係咁誒供求失衡啊現象啦。咁譬如如果我而家問啊，秘書長，你睇九六模式究竟有邊啲假設或者邊啲數據？
+
+116
+00:25:44,500 --> 00:25:46,610
+嘅質量係。
+
+117
+00:25:46,890 --> 00:25:53,800
+未如理想，而導致今日出現呢個估算嘅失誤咧。
+
+118
+00:25:54,170 --> 00:26:14,180
+主席，no, Mr. Chairman. As I said, the circumstances in one thousand, nine hundred and ninety-six were those circumstances at that time. But of course, members must recall, in one thousand, nine hundred and ninety-seven, ninety-eight, the world changed. We had the Asian financial crisis. In two thousand and three, the world changed. We had SARS. In two thousand and eight, these are the realities that any projection has to.
+
+119
+00:26:14,180 --> 00:26:19,510
+face up to, you can't always take into account circumstances that are out of control.
+
+120
+00:26:19,910 --> 00:26:23,510
+what we're saying now is that we think that we can come up with a model that is
+
+121
+00:26:24,070 --> 00:26:26,740
+better for the current circumstances.
+
+122
+00:26:27,020 --> 00:26:47,030
+但係，必須係一個流模型，佢唔可以係一個固定數目模型，因為我們知道從 previous experience 嘅情況會變，，and that's why the approach we're adopting is not a fixed number， you know， eighty five thousand or whatever。 That's not the approach。 What we're approaching now is to bear in mind it does change over time and factors external affect it， and that's the reality。
+
+123
+00:26:48,590 --> 00:26:49,930
+李卓人議員。
+
+124
+00:26:50,810 --> 00:27:01,630
+誒，都係主席就即係當然，我哋而家係希望可以做到依個嘅評估啦。但係個問題第一咧，就係即係成個評估之後。
+
+125
+00:27:01,910 --> 00:27:13,040
+嚇，長遠來説最慘係長遠呢兩個字。長遠來説，要向所有住户提供適切居所而需新建房屋單位總數長遠。
+
+126
+00:27:13,320 --> 00:27:33,330
+啲人而家等到頸都長，噉我唔知道個長遠係至幾時嚇？幾時就做曬啲評估啦？幾時真係令到啲人咧係可以住到個適切居所嚇？依個第一樣嘢個長遠嚇。第二個問題咧就係個適切居所噉，我覺得依度成個評估裏邊咧咁去第。
+
+127
+00:27:33,330 --> 00:27:53,340
+第三項咧就係居住環境差嗰啲咧，就應該可以得到一個嘅誒，即係即係有個安置喺適切居所呢個需求啦。好啦，咁如果你環境欠佳、適切居所，噉你點定義咧？你點定義適切居所係係好重要，因為如果你定義個
+
+128
+00:27:53,340 --> 00:28:13,350
+即設居所係根本係好擠迫嘅嚇，根本你又當擠迫又睇唔到嚇，而變咗咧就係誒，即係嗰啲人明明有需求，你睇唔到佢嘅需求。即係我唔係噉話你啊，因為即係我冇理由話你一定係即係整低嘅數㗎嘛。但係你喺成個民
+
+129
+00:28:13,350 --> 00:28:33,360
+文件裏邊介紹咧，你都係冇解釋到乜嘢叫適切居所，除咗淨係一句啫，就研究乜嘢叫適切居所。噉你如果就咁研究乜嘢叫適切居所，噉你六七月點做到一個啊評估出嚟咧？如果你冇個定義，咁其實我哋工黨一路推動一樣嘢咧，就係話根本應該有個適切居所嘅定。
+
+130
+00:28:33,360 --> 00:28:53,370
+二嚇，譬如嚇人均嘅住屋面積係最少係幾多嚇？咁呢個亦都係針對劏房嘅嚇。如果我哋覺得劏房本身係不人道嘅話，咁乜嘢叫做一個人道啲嘅基本或者最？
+
+131
+00:28:53,370 --> 00:29:13,380
+最低嘅標準咧，噉就係應該有一個標準出嚟，就係個人均個住屋面積。譬如話，而家即係誒房委會係即係七米就可以進進入一個改善居住計劃。噉我之前我都批評過啦，嚇即係特啱啱即係。
+
+132
+00:29:13,380 --> 00:29:33,390
+誒，佢係誒，即係除咗出嚟咧，就啱啱七點零三米，噉就過咗七米。咁嗰啲我批評過，你都知㗎啦。其實啊，即係不過今日我柏志高，我處長我唔係講緊呢個問題啦嚇。但喺私人嘅房屋嗰度有冇個定義係幾多係？
+
+133
+00:29:33,390 --> 00:29:40,790
+人均面積咁如果有咗人均面積嗰個，你先至可計到呢條數。噉你哋將來會係用咩方法去計啊？多謝主席。
+
+134
+00:29:41,430 --> 00:29:43,960
+我拍九張。Mr. Chairman。
+
+135
+00:29:45,320 --> 00:29:49,190
+I agree with you. We need to come up with a definition of inadequately.
+
+136
+00:29:49,590 --> 00:30:09,600
+We're working on what we're saying here is that will be one of the parameters that we need to look at. And in that context, for example, we have commissioned consultants to help us to do some investigations and survey into subdivided units, for example. What we're doing is collecting that data, and we.
+
+137
+00:30:09,600 --> 00:30:27,790
+我會 be going back to the long-term housing strategy steering committee to take their advice on this point. I don't think, honestly, it'll come down to one factor. And you mentioned size. I don't think it can be just one factor. There are many different factors that actually contribute to
+
+138
+00:30:28,070 --> 00:30:48,080
+The concept of inadequately housed, for example, safety. If someone is living in a property that has sewage running down the walls, it doesn't matter how big it is, it's inadequately housed. Another factor might be location. If they're living immediately under the flight path for the airport, the noise, etc. So I think we have to.
+
+139
+00:30:48,080 --> 00:30:56,360
+Come up with a definition. I agree with you. I haven't got one at the moment. That's part of the process that we're looking at. But I don't think it can be just one trigger factor. I think it has to be a number.
+
+140
+00:30:56,860 --> 00:31:16,870
+即係我當然同意話，即係唔係淨係一個因素啦嚇。噉我亦都好高興聽到，即係好似柏志高上秘都肯定啊，柏麗灣唔係一個適當適住嘅居所，因為佢喺fly puff裏邊啊，咁好多投訴嘅嘢，晚晚都係冇冇教訓。咁呢度都一路已經講開，但好啦，你話唔係一個嘅。
+
+141
+00:31:16,870 --> 00:31:30,000
+誒就純粹睇誒即係嗰個面積，咁但係即係好似你嘅意思，就不單是淨係睇面積，當然好啦。你唔好話淨係睇咗第啲嘢，唔去睇面積。
+
+142
+00:31:30,520 --> 00:31:50,530
+咁即係，我覺得係啊，可唔可以列舉到第一個面積係幾多？第二個安全係幾多？第三其他因素，譬如環境噪音啊，或者係誒，即係嗰個可能係誒近住山坡有嗰個誒嘅，即係誒。
+
+143
+00:31:50,530 --> 00:31:57,830
+啊！傾斜嘅危險，咁嗰類可唔可以列到幾個幾個清楚嘅一個誒因素嚇？
+
+144
+00:31:58,130 --> 00:32:05,840
+可唔可以簡短啲回應？Very quickly, um, Mr. Chairman, I think there will be a list of those factors. But again, let me stress.
+
+145
+00:32:06,140 --> 00:32:13,120
+Not one factor will dominate. You've given the example of being near to a hillside that may be unsafe. Well, you deal with the hillside.
+
+146
+00:32:13,400 --> 00:32:21,040
+doesn't necessarily mean the the accommodation is unsatisfactory. So that's it's not as simple as black and white. It is shades of grey, I'm afraid.
+
+147
+00:32:21,910 --> 00:32:31,810
+陳主席好簡單，就幾時可以攞到個名單？因為佢六七月應該做，咁會唔會有個書面畀我哋依日度係誒嗰個？可唔可以畀個書面資料啊？個清單？
+
+148
+00:32:32,370 --> 00:32:36,290
+It'll be available before June and July, definitely.
+
+149
+00:32:37,190 --> 00:32:40,550
+好好，我哋記錄在案啦，張超洪議員。
+
+150
+00:32:41,160 --> 00:32:42,300
+係，多謝主席。
+
+151
+00:32:42,580 --> 00:32:56,850
+首先都多謝秘書處啦，即係都好短時間內就蒐集咗啲資料。咁正如誒梁家傑議員頭先亦都有提，即係我哋都有好多數字喺度嘅。噉啊，秘書處呢個報告亦都將。
+
+152
+00:32:57,230 --> 00:33:11,790
+誒唔同嘅團體，譬如話香港雜師會啊、英國皇家特許測量師學會啊，或者即係我哋自己政府亦都有做嗰個香港誒二零三零嗰個嘅。
+
+153
+00:33:12,080 --> 00:33:21,120
+研究嗰度全部都有啲基本數字，咁即係對於個房屋需求嗰個數字咧，我哋唔係冇底嘅。
+
+154
+00:33:21,400 --> 00:33:33,000
+咁呢啲嘅條件咧，我哋當然都會認同啦，即係考慮嗰啲嘅嘅因素。但係誒，正如李卓仁議員頭先所指出咧，你嗰個
+
+155
+00:33:33,340 --> 00:33:42,560
+話要長遠將所即係要向所有住户提供一個適切居所咧，呢個何為適切居所好重要。
+
+156
+00:33:43,010 --> 00:33:48,940
+噉我哋啊希望咧，你哋能夠及早界定呢個適切居所。
+
+157
+00:33:49,400 --> 00:34:02,730
+因為譬如喺英國咧，佢哋二二零零六年咧就已經有個定義，即係咩叫做佢哋叫decent homes，即係一個或者勉強亦做體面嘅居所或者體面嘅住所。
+
+158
+00:34:03,380 --> 00:34:23,390
+呢個喺其他國家咧，亦都有類似嘅講法嘅，即係人均面積以外咧，我哋要講埋個衞生啦、基本嘅設施咧，譬如話獨立嘅廁所啊、獨立嘅廚房啊，啊一啲嘅安全嘅設備啊，或者係設施啊，呢啲其實我相信都應該即係。
+
+159
+00:34:23,390 --> 00:34:29,190
+誒對房屋局嚟講，誒運房局嚟講，應該都係基本常識嚟。
+
+160
+00:34:29,580 --> 00:34:49,590
+咁所以我希望佢哋能夠早日定立呢個嘅定義。除咗定嗰定義之外咧，其實我覺得應該咧係從立法嗰度去處理添，因為而家我哋有即係數以萬計嘅劏房啦，我哋唔唔知道幾多，噉佢哋又做緊研究，但係呢啲劏房咧好明顯咧。
+
+161
+00:34:49,830 --> 00:35:00,670
+有好多係唔會符合一個一般我哋香港社會可以接受嘅一個所謂適切居所呢個呢個噉嘅水平。
+
+162
+00:35:01,240 --> 00:35:05,510
+噉我記得咧，喺誒一九九零年咧。
+
+163
+00:35:05,790 --> 00:35:12,370
+當時深水埗南昌街發生一個龍屋嘅大火慘劇，死咗成五個人。
+
+164
+00:35:12,650 --> 00:35:15,570
+誒六個人傷咗五十幾人。
+
+165
+00:35:16,100 --> 00:35:23,270
+之後咧，政府就定立咗呢個誒牀位預所條例，或者我哋俗稱農屋條例。
+
+166
+00:35:23,560 --> 00:35:29,570
+咁之後咧，就對於呢啲噉樣嘅真係環境惡劣嘅居所咧，有所規限。
+
+167
+00:35:29,850 --> 00:35:42,750
+我都想問下誒柏志高常秘咧，即係佢哋有冇意思去朝呢個方向考慮？因為而家嗰個劏房嘅情況已經係泛濫啊！
+
+168
+00:35:43,310 --> 00:35:50,510
+繼續咁落去咧，即係其實我哋已經發生過好多單，嚇碼頭位嘅冧樓、花園街嘅大火。
+
+169
+00:35:50,790 --> 00:35:58,980
+呢啲都已經即係誒會已經發生咗，我哋唔希望再見到進一步嘅慘劇。咁既然，
+
+170
+00:35:59,260 --> 00:36:08,340
+誒，我哋真係要定一個基本線，咩叫為之適切居所？佢哋會唔會有一個立法嘅傾向？
+
+171
+00:36:08,620 --> 00:36:28,630
+帕奇哥先生，Thank you, Mr. Chairman. I I think I think there's again no disagreement. We we need to be able to understand what we're talking about. We need to be talking on a common ground. But I think we also need to have a system that allows for change in aspiration, change in condition, change in circumstances. I'll give you an example from my own life. My grandfather.
+
+172
+00:36:28,630 --> 00:36:29,730
+lived in.
+
+173
+00:36:30,020 --> 00:36:31,970
+council housing all his life.
+
+174
+00:36:32,490 --> 00:36:34,200
+didn't have indoor toilets.
+
+175
+00:36:34,480 --> 00:36:38,110
+had next door toilets, but at the time that was considered good housing.
+
+176
+00:36:38,830 --> 00:36:51,600
+nowadays you move forward forty, fifty, sixty years, that's not good enough. So even if we do come up with a definition, it's got to be a definition that can keep pace with time. So that's the first point. I think it's very important to bear that in mind.
+
+177
+00:36:51,880 --> 00:37:11,890
+secondly, when you come up with a definition, as I said to the previous honourable member, it can't be based on just one or two factors. It's got to take into account a number of different factors that affect circumstance. Because you know, as I said, something that's a good size can actually be inadequate because of circumstance. Something that's very small can be
+
+178
+00:37:11,890 --> 00:37:13,220
+adequate because it's.
+
+179
+00:37:13,570 --> 00:37:25,690
+In good condition. So, what we're trying to do is come up with an acceptable definition for the community. But it will not be based on just one factor. It will have to take into account all these factors, and it needs to be flexible over time.
+
+180
+00:37:26,230 --> 00:37:27,600
+梁耀忠議員。
+
+181
+00:37:28,610 --> 00:37:29,670
+係你。
+
+182
+00:37:29,950 --> 00:37:34,440
+問啊！我即係會唔會考慮就個定義立法啊？柏治高先生。
+
+183
+00:37:35,920 --> 00:37:45,670
+Mr. Chairman, I think we're not really at the point of the recommendations from the Long Term Housing Strategy Steering Committee. That's for them to advise, and we'll take a view on that.
+
+184
+00:37:47,140 --> 00:37:48,710
+跟住啊，梁耀忠議員。
+
+185
+00:37:49,000 --> 00:38:09,010
+主席誒，今日咧就講呢個長遠房屋策略嘅時候咧，最主要講嗰兩個觀點啦。首先，阿阿黎生都講咗，就係長遠就係適切嘅居所。咁長遠咧，就過去我哋都即係通常一般嚟講話咧，長遠房屋策略係講十年嘅。咁但係不過咧，即係今次咧就誒長遠長。
+
+186
+00:38:09,010 --> 00:38:29,020
+有幾耐咧？係冇講畀我哋聽嘅。咁究竟佢用一個幾耐時間去計算咧？五年、十年、十五年、二十年咧？噉我諗希望佢能夠可以清楚界定一下。如果唔係咧，意義唔好大嘅，因為因為你都唔知講幾時嘅嘢係咪？因為第一點，第二點嘅話咧，剛才我同意嘅秘書長所講嘅問題就係適切。
+
+187
+00:38:29,020 --> 00:38:43,330
+嗰個問題咧就係即係要下定義，但不過你話即係唔係考慮一個因素，但正正我哋今日要講呢個防遠長遠嘅房屋策略嘅話咧，噉你冇一個噉嘅定義出嚟嘅話咧，其實根本第一冇得傾嘅。
+
+188
+00:38:43,760 --> 00:38:52,860
+即係唔知點為之需求，變咗嚟講一句，咁所以咧就係無論你係有幾咁複雜都好咧，你都要喺咁複雜裏邊咧，你都要列出。
+
+189
+00:38:53,350 --> 00:39:13,360
+基礎嗰啲嘅條件出嚟，包括咗面積大小，包括咗居住環境等等。即係你唔如果唔列嘅話，呢個點討論咧？即係你你話即係誒幾多個量噉，我同你就講幾多個嘅單位量量數噉樣。原來大家嗰個嘅定義都唔同嘅，咁冇意思。畀人講係。
+
+190
+00:39:13,360 --> 00:39:33,370
+噉，剛才兩位同事都同你講過，其實就係咁複雜裏邊嚟講，你唔有迴避呢樣嘢嘅。頭先特別書長不斷就話：，哎呀，好多因素，好多因素噉樣。咁好多因素點咧？你咁化，你就要係做一個嘅即係研究報告出嚟啦。噉你點點進行咧？呢個我覺得係一個問題。呢個就係一個問題。第二個問題裏邊咧，就係頭先阿黎生所講咁多。
+
+191
+00:39:33,370 --> 00:39:40,200
+行裏邊嚟講話咧，係冇講到你即係誒防嗰啲嘅房屋政策。
+
+192
+00:39:40,480 --> 00:39:44,460
+政策其實都可影響到嗰個房需求，但係依冇講。
+
+193
+00:39:44,740 --> 00:40:04,750
+即係譬如，如果舉例舉例子嚟講，你收緊嗰個負政策嘅話咧，噉就可能咧就係對於房屋需求就大好多㗎啦。噉你會唔會即係列出即係未來裏邊嚟講啊？講房屋長遠趨勢，你都喺譬如講明即係幾耐裏邊嚟講，我哋現行嘅房屋政策係唔會大改變嘅，因為你一改變咗之後咧就好多嘢變。
+
+194
+00:40:04,750 --> 00:40:12,400
+變化就唔同咗㗎啦。譬如而家嘅一子一女政策噉啊，咁突然就你話我取消啊噉樣，哇！咁個房屋需求又大咗。
+
+195
+00:40:12,680 --> 00:40:26,920
+噉你會唔會真係咧？呢啲嘢嘅嘢裏邊咧，唔好好似頭先你講呢呢幾個幾點咁簡單嘅，噉就唔係咁簡單嘅。講房需求嚟講嘅，噉你會唔會羅列曬你要顧及嘅一啲範疇出嚟，然後先至去做一研究咧？
+
+196
+00:40:27,270 --> 00:40:35,470
+係係咪阿黎生還是阿柏超？柏超生。I'll start, perhaps, Mr. Chairman. Um, ten years. Yes, that's the time frame that we're looking at.
+
+197
+00:40:35,750 --> 00:40:55,760
+Of course, ten years is just a time frame. What we're trying to do is come up with a model that actually can be rolled forward and reviewed on an annual basis or a biennial basis, whatever's appropriate. But yeah, ten years I think is appropriate for this type of exercise, because quite honestly, things change in Hong Kong so quickly. Even ten years is a long time.
+
+198
+00:40:55,790 --> 00:41:15,800
+In terms of the definitions, as I say, the intention is that we will have working definitions, and they must of course be set out in in the report. So there will be an opportunity during the consultation on the report for the community to comment on those, to give us their feedback, to let us know if that's the right definition or not.
+
+199
+00:41:16,000 --> 00:41:31,430
+In terms of the factors, I agree there can't be just one. But it is something that I don't. I also don't think that there can be fixed factors. Things will change over time, and we need to be able to modify the model to suit those changes.
+
+200
+00:41:31,710 --> 00:41:35,910
+finally, in terms of existing policy.
+
+201
+00:41:36,630 --> 00:41:49,630
+The long-term housing strategy steering committee is looking at at all aspects of housing issues, including it has specifically been consulted on housing authorities.
+
+202
+00:41:50,380 --> 00:42:10,390
+different policies, for example, well-off tenant policy, etc. The advice that the long-term housing strategy steering committee gives on those issues will be reflected back to the housing authority, and they will be tasked to look at those issues specifically and consider whether their policies should be modified. Because I think that that is important.
+
+203
+00:42:10,770 --> 00:42:26,710
+但係，係某啲嘅，但係，
+
+204
+00:42:26,990 --> 00:42:47,000
+主席，即係大家知道咧，就誒，即係好多嘢都不斷改變緊啦。大家明嘅呢樣嘢嚟講係，但係不過咧，你唔喺當下呢個時間，即係做出一個嘅定義出嚟嘅話咧，你不斷用一個所謂嘅不斷改變、不斷改變咧，咁去即係迴避個問題咧。其實你個做呢個嘅最後嘅研究出嚟咧，其實可能會失敗。
+
+205
+00:42:47,270 --> 00:43:07,280
+而過去可能亦都係由於噉樣樣而失敗，都未定。噉我我覺得即係你一定要係做一個好好啲嘅，即係頭先講嘅範疇啊。嗰政策裏邊啊，咁去改變啊啲，同埋嗰定義裏邊，一定要係畀一個嘅嘅報告我哋睇一睇先得。I agree with that, Mr. Chairman. I certainly agree with that.阿胡志偉議員。
+
+206
+00:43:07,750 --> 00:43:08,440
+啊。
+
+207
+00:43:09,110 --> 00:43:10,030
+代主席。
+
+208
+00:43:10,320 --> 00:43:17,510
+咁咧就誒，其實主要我哋參考翻咧，就係誒嗰個三個組成嘅係部分啦。
+
+209
+00:43:17,900 --> 00:43:32,630
+噉你會睇到咧，就係居住環境欠佳咧，就我哋而家即係同時成日都講嗰啲可能係劏房啊，各方面嗰啲需求嚇，即係有危險嘅住房單位，呢個都比較上容易明白嘅。
+
+210
+00:43:33,450 --> 00:43:34,450
+誒。
+
+211
+00:43:34,800 --> 00:43:43,590
+適切嘅居所咧，呢個係一個即係我自己睇翻咧，我我唔知有冇理解錯，其實就係你係講緊就係話。
+
+212
+00:43:43,870 --> 00:44:03,880
+如果我哋個社會要處理呢件事嘅時間，就應該係要供應一啲係適切嘅區所去應付，即係居住環境欠佳嘅住户。咁呢個係一個元素，但另一個元素其實今日我哋嘅社會因為即係發展到今天咧，其實好多嘅。
+
+213
+00:44:03,880 --> 00:44:04,820
+人咧。
+
+214
+00:44:05,100 --> 00:44:25,110
+係諗緊自己嘅居住。我舉個例子，以前可能我哋一家四口住嗰個三百尺單位，咁買咗個單位都覺得唉死慳死抵都好啦噉樣樣。咁但係而家另一種嘅需要就係話，喂，可能亦都係要改善環境嘅喎，就係你所講嘅適切居所呢個概念啦嘛。咁因此就話咧，我就覺得喺。
+
+215
+00:44:25,110 --> 00:44:37,250
+你你呢個元素，你其實你應該拆翻開做兩嚿，而唔係將一嚿嘢咧就擺埋一齊。即係話，佢住緊喺個居住環境欠佳嘅住户咧，本身就係需求嘅一部分。
+
+216
+00:44:37,550 --> 00:44:49,460
+另外一個部分咧，就係有人咧係講緊，我想進一步改善自己個環境喺你嗰個嘅係適切居所定義下邊咧去考慮。
+
+217
+00:44:49,740 --> 00:44:57,150
+同樣嘅邏輯咧，你就會係翻翻去咧，就係而家成個社會嗰個嘅係即係家庭嘅觀念就係。
+
+218
+00:44:57,580 --> 00:45:17,590
+正如房委會以前咧就講，一定要兩個人先至叫個家庭嘅。後來咧就拆到一個人都可以做家庭去申請公屋，而家咧就要搞個係計分制。但係你個社會係變緊嘅時間，就係好多人選擇緊一個人做嗰個嘅係即係家庭嘅單位，選擇獨身啊嘛。
+
+219
+00:45:17,590 --> 00:45:25,350
+咁但係我見你喺呢個元素裏邊咧，你就冇將呢一個即係我嗰個家庭嘅組合。
+
+220
+00:45:26,090 --> 00:45:46,100
+係放喺你嗰個研究裏邊，因為唔同嘅家庭組合咧，其實都會影響到你嗰個總體嘅需求嘅。咁所以我諗呢一度咧，其實就我有兩個意見要搞翻上去嘅。第一個咧就係喺你嗰個嘅係C點嗰度咧，就應該拆翻做兩個唔同嘅需求，即係話係。
+
+221
+00:45:46,100 --> 00:46:06,110
+居住環境欠佳，呢個係具體嘅需求。另外一個咧就係改善環境嘅需求，作為總體考量。另一個就係話個家庭嘅組合變化嗰個需求咧，亦都應該存在喺裏邊。我想聽聽你嘅回應，係柏志偉先生，哦黎生，係係唔該曬主席，亦都多謝阿胡。
+
+222
+00:46:06,110 --> 00:46:26,120
+為誒會議員嘅意見嘅噉就住兩方面啦。咁第一就係呢個誒居住環境欠佳，住户咁誒一方面即係當然係有需要係向我哋提供適切居所啦。另一方面就係一啲可能係都想改善環境嘅住户咧。咁呢方面我哋嘅誒要係會留意下會議員嘅意見嘅。咁呢方面我哋會再考慮。咁至於第二個關於即係家庭觀念或者係即係譬如話。
+
+223
+00:46:26,120 --> 00:46:46,130
+可能而家比較多嘅人士係想獨居啊，或者等等咧。咁其實呢方面咧，我哋係考慮到㗎啦。咁誒，其實第其中一個我先介紹嘅一個最主要新房屋需求嘅一個嘅成分咧，就係呢個住户數目淨增長。咁呢個其實係統嘅住係係根據翻誒前一段時間啦，譬如大概十年之後咧個個嘅誒社
+
+224
+00:46:46,130 --> 00:47:06,140
+會趨勢包括係啲乜嘢咧？包括係誒誒，即係除咗啲基本因素，譬如話誒誒結婚啊、離婚啊、誒誒出生啊、死亡啊，或者係移民啊等等嘅因素之外，再計算埋譬如話佢哋究竟誒而家嗰個嘅誒住户嘅數目，譬如話住户數目可能平均嚟講喺香港係比較細啲啦，小家庭比較多啲嘅。其實呢啲因素咧，其實喺
+
+225
+00:47:06,140 --> 00:47:26,150
+呢個誒推算過程裡邊咧，亦都已經計算在內嘅。噉我哋喺啲計算嗰時亦都會考慮埋，即係譬如而家可能比較多咗個趨勢，就係比較多咗誒市民係中意獨居啦，又或者可能個家庭數目嗰個人數，譬如話以前可能三四個嘅家庭，而家係細咗，可能係二點幾人一個家庭咧。咁呢啲其實係會計算在內嘅。咁因為佢亦都會直接影響到第時究竟房。
+
+226
+00:47:26,150 --> 00:47:46,160
+需求嘅嘅嘅數目嘅，咁所以呢方面就誒啊，唔使擔心咯。其實我哋會在係會詳細考慮呢方面因素嘅。主席唔好意思啊，因為我自己見翻佢喺A段嗰度咧，就誒第一冇提到呢一點啦。第二個就係我嘅理解咧，就係而家房屋需求嘅推算咧，就用緊一個誒過往可能三個人。
+
+227
+00:47:46,160 --> 00:48:06,170
+家庭而家二點幾噉樣樣咧，就當攞平均數嘅噉，但係大家都會知就係話，即係正如啊，而家公屋輪候冊上邊咧，可能有超過一半人咧係單身嘅。呢個反映咗就係話咧，嗰個獨居嘅需求咧，其實你係要真係唔可以就噉話，我擺咗落去嗰個嘅係即係總體。
+
+228
+00:48:06,170 --> 00:48:21,650
+睇嘅係誒住房需求，即係住户增長嘅淨增長嘅數目，一個平均數咧，係作為拉拉扯扯噉嘅。我覺得你要獨立處理咁解。阿黎生可唔可以誒，或者你回應下咧嗰個計獨居或者係單身呢個作為一個元素咧？
+
+229
+00:48:21,930 --> 00:48:41,940
+係，多謝主席。噉就正如我已經提過，其實計算嘅方法咧，即係誒，主要就根據翻以前一個概一個趨勢，即係譬如話越嚟越多。咁至於譬如話呢一兩年嘅情況，其實亦都係計算在嘅。咁不過即係誒，或者詳細嚟講點樣做一個住户嘅推算咧，其實我哋今日有誒統計處同事嘅，咁或者我都請佢詳細講講究竟點樣係計算咗呢方面嘅因素喺度。
+
+230
+00:48:41,940 --> 00:49:01,950
+係啊，統統計處係阿林漢坤先生嚇，請你回應。噉就其實嗰個住户嗰個推算咧，我哋已經考慮咗個個趨勢，或者我簡單講講，譬如嗰個結果咧，你會點樣理解就係我哋跟而家嗰個住個推算咧，譬如一人家庭嗰啲咧，喺一一年嗰譬如大概佔十七個percent咧。
+
+231
+00:49:01,950 --> 00:49:21,960
+其實推算到二零二一年咧，就係十七點八個percent嘅。其實係係一路根據以往趨勢，係多咗一人家庭，二人家庭就多到會仲仲多啲添。就係二零一一年嘅大概二十五點二個percent咧，其實一路推算到二零二一年，一十年後咧就係二十九個percent嘅，一佔全香港嘅住户嘅嘅數目嗰個比例，其實相對。
+
+232
+00:49:21,960 --> 00:49:41,970
+多咗嘅咁反反為就嘅啲大家庭咧，譬如誒五人以上或者四人以上啊，四人以上嗰啲咧，其實由而家大概二十一個percent咧，其實會推算到去誒十年之後大概得十八點三個percent嘅啫。咁所以個推算已經考慮咗過由大家庭變成細家庭嗰個趨勢啊，已經考慮咗裏邊㗎啦。
+
+233
+00:49:41,970 --> 00:49:43,210
+好，麥美娟議員。
+
+234
+00:49:45,070 --> 00:50:05,080
+先生，我諗咧，即係啊，秘書長，即係頭先你講咧，我哋好多，因為做一個噉嘅計劃咧、規劃咧，我估好多嘅問題咧，即係就係嗰個定義嘅問題，嗰個definition咧一定要搞清楚。但係我同意秘書長頭先講嘅，我哋好多嘢都要keep pace with time。但係但係咧，誒，究竟？
+
+235
+00:50:05,080 --> 00:50:25,090
+究竟十年前嘅規劃裏邊，我哋嘅定義同今日嘅定義有啲咩唔同，或者有啲咩係相同，咁都要講。譬如頭先有好多同事都問咩係適切，同埋乜嘢係唔適切。好似而家居住環境欠佳嘅，咁究竟係點定義咧？以往可能居住環境欠佳，我哋諗就係農屋㗎。就
+
+236
+00:50:25,090 --> 00:50:44,090
+但係依家係多咗好多劏房、板間房，咁嗰個即係你哋係點樣去計算咧？噉啊，另外咧就係我想問一啲誒，點解你覺得用流量會比用存量咧係更加準確去計到嗰個房屋嘅需求？
+
+237
+00:50:44,600 --> 00:50:46,850
+嗯，Mr. Chairman。
+
+238
+00:50:47,840 --> 00:50:49,760
+30 years ago， squatter huts。
+
+239
+00:50:51,060 --> 00:50:52,480
+10 years ago.
+
+240
+00:50:52,760 --> 00:50:53,760
+It was.
+
+241
+00:50:54,060 --> 00:51:14,070
+Subdivided flats. Sorry, bed space apartments. Today it's subdivided flats. The reality is, circumstances will always change because in the private sector, people want cheap accommodation, and as we close down certain types of accommodation, the private sector is very creative and will come up with new ones. So that's why the flow concept is better. It doesn't just say.
+
+242
+00:51:14,070 --> 00:51:15,300
+everything will be.
+
+243
+00:51:16,050 --> 00:51:36,060
+Based on today, it says as we go forward, things will change and our model must change to accommodate. So we think that approach is better, definitely. In terms of similarities, I think there are similarities. I mean, the commitment to public rental housing as the fundamental solution to the worst off in our community.
+
+244
+00:51:36,060 --> 00:51:56,070
+People who really can't afford accommodation in the private sector, that remains and will continue. There's no doubt about that. Some things have changed. Ten years ago, home ownership scheme was still a very aggressively projected approach to housing. That was changed in 2002. It's now come back. We
+
+245
+00:51:56,070 --> 00:52:16,080
+have to take into account those changes. So that's why we think all of these things have to be accommodated in a model that is sustainable over time, and not just look at it as a snapshot, which says today the the problem is this and this is the solution. It doesn't work like that. So that's why we're approaching it this way, Mr. Chairman.
+
+246
+00:52:16,490 --> 00:52:36,500
+噉我想問，係咪即係話你哋第日嗰個報告喺年中你成日講嗰個咧，係會包括你預期喺十年之後？正如你頭先講，你咪講緊依家嘅問題，你要講將長遠嘅問題，係咪即係你已經包括預期喺十年之後或者五年之後，香港嘅房屋將會出現咩問題咧？
+
+247
+00:52:36,960 --> 00:52:56,970
+Mr. Chairman, the reality is, and I've said this in many different occasions, it takes time to build property. Doesn't matter if it's the public sector or the private sector. The quickest anyone can do it is roughly five years. Anything that we're doing today is already committed, more or less. Certainly, the public housing programme for the next five years.
+
+248
+00:52:56,970 --> 00:52:58,970
+It'll be seventy-nine thousand. We know that.
+
+249
+00:52:59,420 --> 00:53:15,980
+所以 therefore it has to be beyond five years, up to ten years. The next time that we can modify the projection in terms of the public housing programme, there are already statements in terms of the five year period after this five year, it'll be a hundred thousand at least. That's the commitment.
+
+250
+00:53:16,340 --> 00:53:27,050
+what you do then is you have to look at what does the projection tell us in terms of not just the public side but the private side and the mix and this sort of thing, so yes.
+
+251
+00:53:27,330 --> 00:53:47,340
+The recommendations will be, I assume, because I don't know the report yet. It's still being the subject of discussion. I hope will come out with some indicative model that tells us what we should be building and some indication as to the numbers that we should be building. So that's what we're that's what we're aiming for, Mr. Chairman.咁會唔會都包括？
+
+252
+00:53:47,340 --> 00:53:56,580
+一啲定義喺依家嘅嘅，譬如後先講嘅咩係適切居所，或者咩叫居住環境欠佳嘅依家嘅定義咧？
+
+253
+00:53:57,020 --> 00:54:11,690
+即係我哋可以到時係諗住你有啲咩indicator去講乜嘢係適切嘅居所，乜嘢係居住環境評價，即係到時係咪你嘅recommendations都會有呢啲indicator咧？
+
+254
+00:54:11,990 --> 00:54:32,000
+Mr. Chairman, as I said, it will be a range of issues that we tackle, both in terms of defining or coming up with a description for inadequately housed, and it won't be just one definition. Likewise for adequately housed, although it's it's a it's a bit more complicated because.
+
+255
+00:54:32,000 --> 00:54:37,790
+for adequately housed, there's a difference in between the public sector and the private sector. The private sector
+
+256
+00:54:38,320 --> 00:54:43,920
+my view of what I consider to be adequately housed will differ dramatically from
+
+257
+00:54:44,240 --> 00:54:58,810
+perhaps my colleague on the left here, because there's choice involved. It's what I can afford, whereas in the public sector we provide to a certain set parameters. And you know, members would have heard earlier the comments about what we regard as.
+
+258
+00:54:59,090 --> 00:55:02,200
+adequate space, inadequate space in the public sector. So
+
+259
+00:55:02,480 --> 00:55:13,200
+This is the other thing we've got to bear in mind when we're coming up with a model. This is a model to look at the whole of housing, not just the public sector. And the perceptions, the expectations are different on the two sides.
+
+260
+00:55:13,570 --> 00:55:33,580
+唔係我估咧，秘書長，即係我哋唔係講個adequate housing，我哋講緊乜嘢係decent啊？decent homes for people in Hong Kong。仲有冇補充啊，白處長？Well, Mr. Chairman, certainly, my view is that the definition of decent homes for people is the public housing. That's the bare minimum. That's already in place, I think.
+
+261
+00:55:33,770 --> 00:55:34,390
+不。
+
+262
+00:55:34,670 --> 00:55:45,590
+again, you have to bear in mind that the perception what the public accepts in the private sector is different. So you can take what we provide as the public sector as what we accept as decent housing.
+
+263
+00:55:46,730 --> 00:55:49,640
+誒剛才咧就喺。
+
+264
+00:55:50,230 --> 00:56:08,660
+前一前面嘅議員問過有關嘅問題，柏志高先生咧亦都講咧，佢係會咧係畀一個會後畀一啲文字嘅資料咧，係去誒個定義嘅內容咧，佢會列佢嗰啲項目嘅。
+
+265
+00:56:08,940 --> 00:56:12,690
+即係關於供應房屋個適切嘅問題。
+
+266
+00:56:13,050 --> 00:56:33,060
+梁志祥議員，係主席，就誒，我覺得長遠房屋政策咧，就以三十年作為一個起點咧，我覺得合合情合理嘅。咁過去其實都一直都係用呢個數字做一個即係即係研究，咁而咧，我又覺得咧，即係每十年左。
+
+267
+00:56:33,060 --> 00:56:38,420
+節檢到亦都係合合理嘅，因為而家咧，大家睇到從政治上考慮咧。
+
+268
+00:56:38,700 --> 00:56:42,840
+誒，我哋過往三三屆特首啊，計埋今屆。
+
+269
+00:56:43,120 --> 00:56:46,300
+咁每一個特首其實佢都有一個房屋政策喺度。
+
+270
+00:56:46,580 --> 00:57:02,320
+噉啊，董建華八萬五，咁去到曾蔭權咧就全部唔起，咁嚟到我哋啊梁振英就話要要追趕嚇。咁所以咧，其實咧，你每十年做一個研究咧，即係做一個檢討咧，就會適合咧呢個政治上考慮。
+
+271
+00:57:02,600 --> 00:57:04,730
+咁而咧，我就誒。
+
+272
+00:57:05,170 --> 00:57:25,180
+又睇到即係我哋立法會秘書處啲資料咧，其實就好詳盡。不過我我我就唔知房委即係阿阿柏志高先生，你哋個個研究咧會唔會參考埋我哋誒立法會嗰個秘書處嘅一啲資料啦？咁因為當中有啲咧都係涉及到誒誒不同團體嘅研究資料嘅，我。
+
+273
+00:57:25,180 --> 00:57:41,840
+覺得呢一個咧係相當有用啦，噉啊特別咧就佢哋做一啲研究，好似香港集思會佢哋做一啲研究咧，都係用十年嘅個模式去研究私人市場。嗱呢呢個咧其實就好有趣嘅。嗱我哋大家都睇到而家房屋嘅發展咧。
+
+274
+00:57:42,120 --> 00:58:02,130
+就公營一部分，即係我相信而家政府就好被動嘅，睇私營嗰個嗰個賣樓情況，然後再決定咧自己嗰個公屋究竟起幾多噉啊，造成咗咧就特別咧，就上一屆政府啊造成咗咧，即係個情況就停曬添，因為你私人樓根本就啊即係都。
+
+275
+00:58:02,130 --> 00:58:19,350
+都興建得好少，好似而家我哋數字睇就係呢幾年咧，私人樓嗰個興建數字咧係倍跌啊，唔係倍增係倍跌嘅。咁如果係噉樣嘅情況下咧，我哋公屋又唔起嘅咧，噉啊全全世界冇屋住嘅。咁好啦，我哋做呢個研究咧，究竟係？
+
+276
+00:58:19,660 --> 00:58:39,670
+公營同埋私營樓個比例，究竟你哋點樣去去作出一個即係適當嘅決定咧？咁因為呢個咧就涉及到咧誒私人樓，如果佢唔起，噉啊政府樓就當然要起啦。咁但係私人樓又起，政府樓又起，噉就變咗超量啦，係咪？咁好似八萬五個年代啦。咁所以我就想。
+
+277
+00:58:39,670 --> 00:58:59,680
+知道咧，其實呢個研究個目標啊，頭先講過所謂適切適切嘅意思，即係話咧，除咗佢可能係改改善自己居住環境之外咧，就話咧係公私型嘅比例係咪適切？我覺得呢一個咧都係我哋研究嘅嗰個項目嚟嘅。噉我想知道，即係你哋呢方面嘅睇法係點樣？
+
+278
+00:59:00,190 --> 00:59:10,180
+I've been away, Mr. Chairman. You put your finger on a very difficult point, to be frank with you, and this is one of the issues that the long-term housing.
+
+279
+00:59:10,490 --> 00:59:13,480
+Strategy Steering Committee is going to have to get to grips with.
+
+280
+00:59:13,830 --> 00:59:19,660
+The, but let me take you back. I know we're up against time, but let me take you back a little bit.
+
+281
+00:59:19,990 --> 00:59:22,170
+決策是 taken ten years ago.
+
+282
+00:59:22,560 --> 00:59:30,340
+were decisions taken at that time under the circumstances of that time? and and let me remind members at the time, property prices were crashing.
+
+283
+00:59:30,620 --> 00:59:43,710
+There was a glut of supply in the market. There was almost no demand for private sector. The demand for HOS had disappeared. I can show you the figures. There was almost we couldn't sell all the units that we had.
+
+284
+00:59:44,860 --> 01:00:04,870
+Roll forward ten years, completely the different situation, and that I think is the problem that any demand-based model has. That you can take into account all sorts of, you know, projections, demographics, economics and whatever. What you can't take into account is what happens in the wider world. So I think you need to to come up with a model that
+
+285
+01:00:04,870 --> 01:00:06,900
+是flexible，那係第一點。
+
+286
+01:00:07,240 --> 01:00:12,890
+In in doing so, you can't have a fixed ratio between the public sector and the private sector.
+
+287
+01:00:13,250 --> 01:00:14,090
+because。
+
+288
+01:00:14,370 --> 01:00:23,380
+the the demand will change and again you don't really want a situation where government dominates the supply of housing that's not healthy we know that.
+
+289
+01:00:23,730 --> 01:00:28,970
+所以，我唔諗會會coming up with necessarily specific ratios。
+
+290
+01:00:29,370 --> 01:00:31,390
+但係，what we've done and again.
+
+291
+01:00:31,800 --> 01:00:36,640
+歷史是重要 here，The decisions taken in 2002 to
+
+292
+01:00:37,630 --> 01:00:41,650
+政府pull back from the market entirely and leave the market to decide.
+
+293
+01:00:41,940 --> 01:00:56,260
+Obviously at the time they were the correct decision. Today the government has changed its position quite dramatically and said no, actually, we can't just allow the application list system to perpetuate because that puts too much control in the side of the private sector.
+
+294
+01:00:56,540 --> 01:01:06,080
+what we need to do is to have a sales programme that supplies a constant stream of units. Now, that then becomes relevant because of this.
+
+295
+01:01:06,360 --> 01:01:18,020
+how do you know what is the relevant number of amount of land to provide for a certain number of units in the private sector? and this is where this exercise comes in. but you're right, it is a very difficult problem.
+
+296
+01:01:20,150 --> 01:01:25,700
+啊！主席，我有少少嘢，即係剛才佢講，我覺得有啲誒好矛盾嘅地方。
+
+297
+01:01:25,980 --> 01:01:44,620
+問啦，點樣解釋得到咧？而傢俬人市場個樓咧，從幾年前咧倍跌到咧，而家得萬零個即係新嘅新建嘅私人樓。咁如果呢一方面你講嘅係正確嘅話咧，噉你零二年嘅時候過多，點解而家突然間又過少咧？簡短啲啦，簡短都。
+
+298
+01:01:44,900 --> 01:01:52,100
+very simply, Mr. Chairman. As I said, the there was a period where there was an oversupply. That period.
+
+299
+01:01:53,070 --> 01:02:02,520
+was addressed by this decision from government to pull back from the market, but of course you then have to have another review, another decision as to when you get back into the market.
+
+300
+01:02:02,800 --> 01:02:06,060
+There, you could argue it should have been five years ago, or.
+
+301
+01:02:06,410 --> 01:02:17,410
+10 years ago, I can't really defend that decision. I can say that the decisions taken today are based on what we think are the correct situation today, and that's where we have to go from here.
+
+302
+01:02:18,050 --> 01:02:28,030
+誒，仲有咧，就係阿梁議員剛才開頭嘅時候講咧，就希望就政府都參考秘書處提供嘅資料，好嘛？啊！
+
+303
+01:02:28,490 --> 01:02:48,500
+佢哋已經係點嘅頭，回應咗你㗎啦。啊，表象都應承咗啦。咁而家接住咧係鐘樹根議員。好啊，多謝主席。尋日咧就誒梁振英特首咧喺天津講咧，我哋將來咧房屋咧就唔單止係數量嘅問題，仲要有一個質量嘅問題。噉我覺得你哋。
+
+304
+01:02:48,500 --> 01:02:53,080
+設計呢個長遠嘅房屋策略，有冇諗到質量嘅問題咧？而家咧。
+
+305
+01:02:53,540 --> 01:02:58,400
+誒，我哋啲公屋政策咧，好多佢質量上好多荒謬嘅政策。
+
+306
+01:02:58,680 --> 01:03:02,490
+誒，頭先同事冇講，因為頭先同事講好多嘢，我都贊贊同。
+
+307
+01:03:02,850 --> 01:03:06,660
+點樣方冒發呢啲質量嘅問題？一個。
+
+308
+01:03:07,180 --> 01:03:09,770
+一個香港嘅特區就兩個制度。
+
+309
+01:03:10,130 --> 01:03:17,000
+譬如話，每人嘅居住面積有新舊制之分，舊制住舊屋邨咧。
+
+310
+01:03:17,310 --> 01:03:25,110
+嗰啲擠迫程度咧，比劏房更甚。劏房其實唔係差嘅，劏房有獨立廁所，不過佢唔安全嘅問題。
+
+311
+01:03:25,390 --> 01:03:45,400
+而家你咧好多人咧就一家四口有男有女就大個咗啦，十幾廿歲住埋一個地方咧換衫都冇地方換。如果有一對仔女噉就好就好煩啦。依啲噉嘅問題係咪好嚴重咧？比劏房更嚴重咧？但係咧你哋新制咧就比好多而家好多新。
+
+312
+01:03:45,400 --> 01:03:49,180
+移民入咗嚟啦，佢嘅用新制嘅方法。
+
+313
+01:03:49,460 --> 01:03:53,660
+噉啊，造成社會矛盾咯喎！好多企香港嘅居民咧。
+
+314
+01:03:53,940 --> 01:04:13,950
+原居民咧住咗幾十年，就挨緊呢啲噉嘅擠逼户，跟住見到啲新入嚟嘅人咧就寬敞寬敞一啲咧。咁呢啲咧新移民，噉佢就話：喂，有冇搞錯啊？佢入一入一嚟到都未嚟到香港夠七年，噉嘅可能佢即係搭住嗰個本地居民咧一齊咁入咗嚟，噉佢又點解會住大？
+
+315
+01:04:13,950 --> 01:04:22,550
+大屋啊！市民唔會諗其他嘢，噉啊，淨係諗最表面嘅嘢。依啲你係咪要改咧？佢哋長遠策略離婚個問題。
+
+316
+01:04:22,980 --> 01:04:34,550
+科貿而家因為基層嘅市民好多都係呢啲户主老嘅男户主上大陸娶咗一啲年輕嘅婦女嚟，但係啲人咧一嚟到咧就開始搞離婚啦。
+
+317
+01:04:35,670 --> 01:04:41,570
+啊！佢哋依啲咧嚟嘅時候，仲可能帶埋個仔女。有啲係前夫所生嘅嘅仔女嚟。
+
+318
+01:04:42,180 --> 01:04:50,680
+呢啲三廿零四廿歲嘅婦女，同埋嗰啲仔女十八七七八歲，噉你離婚嘅時候咧，就話佢要照顧仔女，就要佢。
+
+319
+01:04:51,080 --> 01:04:58,860
+佔據咗客家轉地主，直情係佔據咗嗰個房屋。嗰個老嘅六啊幾歲冇工作能力嘅，你又趕佢走？
+
+320
+01:04:59,140 --> 01:05:00,860
+你係咪荒謬啊？呢啲嘢。
+
+321
+01:05:01,280 --> 01:05:07,720
+喂，你點樣會淨係睇依個噉嘅保護婦兒條例咧？你唔考慮個社會因素，唔考慮啲經濟因素咧？
+
+322
+01:05:08,210 --> 01:05:27,020
+係咪redeemless啊？阿阿柏志高真係噉嘅喎。第三樣嘢咧，我就覺得數量嘅問題咧，你扶户政策，我諗都係遲啲都會講下次會議會投資係，但係我都覺得咧，扶户政策你應該係牽動埋嗰個居屋政策，因為你要畀人哋。
+
+323
+01:05:27,300 --> 01:05:35,100
+走啊嘛，exit啊嘛！你個你話佢庫户交唔起租，你有一個地方畀佢走得㗎，噉你有屋畀佢賣啊嘛。
+
+324
+01:05:35,380 --> 01:05:50,990
+你依個又唔去諗，樣樣嘢你都係孤立咁去睇，年老嘅人口結構都係。我希望主席咧都睇一睇咧，其實好多方面咧都值得我哋咧係專題去講嘅。人口年年老人口問題咧點解咧？
+
+325
+01:05:51,400 --> 01:06:07,020
+老咗，而家咁多老人退休，咁多人退休，我哋都退休。但係而家嘅年輕人同我哋嗰代唔同，我哋嗰代咧自己捱麪包去供第一層樓，而家呢班友咧年輕嘅咧就唔係嘅，等老豆畀首期嘅。
+
+326
+01:06:07,300 --> 01:06:27,310
+咁啲友咧又好錫仔女喎，因為得一個兩個啊嘛。畀咗首期之後，我咪有資格去申請公屋咯。噉我冇所謂，我退休咗，我我降低我要求啊。公屋仲好啦，有亭台樓閣，有花園嚇，仲好過住私人樓。噉嘅時候嗰個需求咧就咪係機械性，係睇個人嚇個心。
+
+327
+01:06:27,310 --> 01:06:45,340
+收入或者有幾多人數？你考慮埋依啲社會因素，所以依啲係應該要專題去再研究。我希望咧，即係政府制定依啲長遠政策咧，都要考慮下我哋嘅質量問題。你而家房屋政策不合理嘅問題，多謝主席。邊一位答？
+
+328
+01:06:45,620 --> 01:06:47,230
+阿爸叫佢揸。
+
+329
+01:06:47,810 --> 01:07:07,820
+There seems a little bit of a contradiction here. The honourable member says that public housing is very good, so therefore young people want to go in there, and then says on the other side, it's not good enough. The reality is, and I absolutely don't agree, that public housing is ridiculous. There are certain policies that are difficult to administer. I accept that, particularly divorce.
+
+330
+01:07:07,820 --> 01:07:18,470
+個情況係真係非常非常困難，我接受那，但係，作為政策係關心，係實用、現實的政策去處理情況，我係怕。
+
+331
+01:07:18,770 --> 01:07:34,510
+That is a reality. Where, for example, there are policies in place to allow us to deal with overcrowded households. They can apply. We will give them opportunities either on an annual basis or a biannual basis if they're overcrowded.
+
+332
+01:07:35,090 --> 01:07:55,100
+those policies are all in place。啊，主席啊，我想講講咧，佢話我矛盾，我其實唔係矛盾，我講係佢唔好咧，就係佢而家嗰啲舊村舊嘅居民嘅擠迫户問題，新村嗰個環境咧係比私人樓好嘅，依個係事實係一個問題。嗯。No, again, Mr. Chairman, I must come back. In fact, reality
+
+333
+01:07:55,100 --> 01:08:07,230
+In the older estates, we have more people that are overaccommodated because people have moved out, their children have left them. It's actually not as bad as the honourable members presented. I won't answer the other points.
+
+334
+01:08:08,370 --> 01:08:09,930
+好，梁國雄議員。
+
+335
+01:08:10,590 --> 01:08:11,220
+好。
+
+336
+01:08:15,250 --> 01:08:25,310
+啊，其實你而家今日嗰個北部就係十二年前阿孫明陽搞出嚟㗎嘛，係咪？即係你哋見到個樓市唔得啦，地產商詐營。
+
+337
+01:08:25,590 --> 01:08:27,840
+董建華就叫阿孫明陽走去。
+
+338
+01:08:28,120 --> 01:08:36,680
+停建呢個居屋就減建公屋，跟住一路又撤銷租管又領回，係你哋將嗰個泡沫。
+
+339
+01:08:38,040 --> 01:08:46,310
+用行政嘅方法整出嚟㗎嘛？如果你如果如果你完全全靠市場嘅，點會嗰個泡沫咁快可以漲翻上嚟啫？
+
+340
+01:08:47,040 --> 01:08:55,050
+係咪？所以即係我聽咗啲同事喺度講翻，又講呢啲講冇意思，根本就係個政治嘅問題嚟嘅。你哋中意個樓市？
+
+341
+01:08:55,330 --> 01:08:57,910
+有泡沫咪升上去咧？而家繼續升緊啦。
+
+342
+01:08:58,200 --> 01:09:07,810
+減嗱好簡單啫嘛，良知長問嗰個問題點解私樓供應咁少？睇住嚟食啫嘛，我起我起咗之後啊，唔拎去買得啊？
+
+343
+01:09:08,210 --> 01:09:09,380
+你罰咯！
+
+344
+01:09:09,670 --> 01:09:11,650
+係咪啊？你唔會收翻啲樓嘅？
+
+345
+01:09:12,330 --> 01:09:13,800
+係咪有啲就？
+
+346
+01:09:14,080 --> 01:09:19,460
+起起下，我喺誒元朗有啲見到起下，突然間唔起，冚住佢。
+
+347
+01:09:19,850 --> 01:09:22,350
+揾啲膠紙冚住佢，唔起住都有。
+
+348
+01:09:23,200 --> 01:09:30,600
+所以如果你話你純粹係依賴市場嚟搞咧，就搞唔到，而且仲要幫助個市場，就一定冇命啦。
+
+349
+01:09:30,930 --> 01:09:33,540
+咁簡單，你租賃嗰度我已經講啦。
+
+350
+01:09:33,820 --> 01:09:37,520
+你租管首先要翻恢復翻先啦。
+
+351
+01:09:37,890 --> 01:09:43,530
+即刻止止得咳㗎嘛，係必你痛嚟㗎嘛，必你痛都唔食。
+
+352
+01:09:43,880 --> 01:09:47,840
+去研究個病，我係嘥時間啦，痛都痛死咗啦！
+
+353
+01:09:48,120 --> 01:09:50,080
+即刻做嘅嘢唔做。
+
+354
+01:09:51,410 --> 01:09:55,560
+佢解釋唔到嘅，點解唔可以用租管先殺住呢個歪風？
+
+355
+01:09:57,290 --> 01:10:05,560
+阿林主任可唔可以講下咧？因為佢而家係講好多唔夠嘅基礎，唔係我我唔會同大家咁愚咁愚蠢啊！
+
+356
+01:10:05,840 --> 01:10:09,840
+係睇唔到成個問題啊！兩個bubble，第一個bubble就係迴歸之前。
+
+357
+01:10:10,320 --> 01:10:12,450
+土地供應有限。
+
+358
+01:10:12,730 --> 01:10:15,130
+係咪啊？得五十公頃。
+
+359
+01:10:16,230 --> 01:10:22,760
+呢個老實講，你上去網上咪喺度傾嘅，睇黃於佔啊、顧宇德嗰啲講曬啦。
+
+360
+01:10:23,440 --> 01:10:33,990
+係嘛？你根本分析個問題就冇，連個方法論都冇，呢個梁生呃人嘅啫嘛！喺度講話自己天下無敵，佢根本都唔知個樓，佢知道個樓市嘅。
+
+361
+01:10:34,610 --> 01:10:36,800
+兩次bubble嘅成因，因為佢係做。
+
+362
+01:10:37,080 --> 01:10:40,210
+做做呢啲生意噉，我點會唔知啫？
+
+363
+01:10:40,660 --> 01:10:45,670
+佢依家唔敢解決呢個問題啊嘛！短期又唔解決，長期又唔解決。
+
+364
+01:10:46,810 --> 01:10:48,630
+係咪拎兩拎兩幅？
+
+365
+01:10:48,930 --> 01:10:57,580
+講人講地起一千個單位出嚟當交功課，你點搞啊，哥？你公你一定要做翻公屋居屋，做翻條街梯。
+
+366
+01:10:58,220 --> 01:11:00,360
+畀嗰啲窮人有機會先啦。
+
+367
+01:11:01,930 --> 01:11:08,610
+撤銷租管，咪誒誒恢復租管？你唔係做啲積吉，你要睇到啊嘛！
+
+368
+01:11:08,950 --> 01:11:10,500
+喂，主席。
+
+369
+01:11:10,780 --> 01:11:13,070
+你過開人大政協會議。
+
+370
+01:11:13,350 --> 01:11:17,130
+李克強上台講咩啊？佢唔係立法，佢要發三章啊！
+
+371
+01:11:17,410 --> 01:11:20,310
+立法立得嚟都夠鐘啦，約法因為我為。
+
+372
+01:11:20,790 --> 01:11:30,880
+用公費嘅停台留管啊，唔要啊，公費旅行留學唔要啊，喂，講明啊人哋，因為咪政治承諾咯。
+
+373
+01:11:31,160 --> 01:11:46,010
+你如果講翻立法，又靠我哋立法，又要佢哋拎啲法例嚟，又要我哋喺度立立到天光啦！你個政權連約法三章都唔敢啊，約法咗嗰啲唔唔做啊，個政綱喺度㗎哥。
+
+374
+01:11:46,750 --> 01:11:48,990
+個正光咪即係約法三章咯。
+
+375
+01:11:49,980 --> 01:11:54,470
+啊啊！主席，你都識㗎啦，劉邦入入關中就約法三章。
+
+376
+01:11:55,740 --> 01:12:00,020
+我哋啱啱講緊立法，我哋啲同事同佢同佢push，同佢癲。
+
+377
+01:12:01,170 --> 01:12:07,160
+我最慶在保皇黨啊！喂，呢個我我我幾次畀人拉都係呢啲嘢。
+
+378
+01:12:07,440 --> 01:12:10,210
+第一次就係反對佢嗰個誒。
+
+379
+01:12:11,570 --> 01:12:14,350
+領匯上市，畀人畀人斬咁滯。
+
+380
+01:12:14,630 --> 01:12:21,840
+第二次租管又係孫明揚呢個人作嘅，我喺嗰個示威，我就判呢個六十個鐘頭嘅。
+
+381
+01:12:22,470 --> 01:12:26,640
+嘅誒係啦，社會服務令，佢而家就逍遙法外。
+
+382
+01:12:27,660 --> 01:12:32,650
+係咪？佢喺教育界嗰度又整嗰啲咁一鑊一劈竹出嚟，十五年免費教育做唔到嘅。
+
+383
+01:12:33,110 --> 01:12:38,220
+呢個官制有問題啊嘛，柏志高先生，鐵打嘅衙門流水嘅官。
+
+384
+01:12:38,920 --> 01:12:45,510
+你做官嘅，不停嚟同個政府解解釋個個政策。你嗰啲局長有冇上嚟啊？張炳良。
+
+385
+01:12:46,480 --> 01:12:48,580
+張炳良講乜嘢啊？
+
+386
+01:12:50,270 --> 01:12:55,250
+你叫公務員上嚟，佢咪同你應酬咯？鐵打牛牛水。
+
+387
+01:12:55,530 --> 01:12:57,530
+你明唔明啊？白字哥。
+
+388
+01:12:57,910 --> 01:13:02,180
+你係project，個project時永遠都會有嘅，你個project就永遠move on嘅。
+
+389
+01:13:02,710 --> 01:13:06,800
+越move越move越高嘅，有乜意思啊？呢個制度？
+
+390
+01:13:07,380 --> 01:13:09,950
+你自己都知啊！你嗰陣時做緊咩？十幾年前。
+
+391
+01:13:12,020 --> 01:13:17,720
+時間到啦，謝偉全議員，啊，副主席，係多謝主席，係誒。
+
+392
+01:13:18,570 --> 01:13:38,580
+評估個房屋需求嘅時候咧，頭先大家都講咗咧，即係話首先即係有個定義咧，咩叫適切嘅居所？咁但係反而咧，我覺得即係除咗呢樣之後咧，即係係頭先可能都提過咧，就話究竟政府扮演咩角色咧？噉樣其實呢個房屋政策就好緊要。點解咧？
+
+393
+01:13:38,580 --> 01:13:58,590
+譬如頭先講，譬如你係誒定咗一個定義之後，咩適切嘅時候咧？咁究竟譬如而家政府係喺個公屋居屋方方面係做嘢，咁但係你私人市場係可以扮演幾多？譬如好簡單，如果你係定咗個定義嚇，即係無論喺面。
+
+394
+01:13:58,590 --> 01:14:06,720
+面積或者其他設施方面，我哋有個目標，噉就可以釐定到政府做幾多嘢。假設。
+
+395
+01:14:07,000 --> 01:14:10,970
+啊！好似特首講，我哋嗰個人均嘅面積。
+
+396
+01:14:11,250 --> 01:14:16,180
+係其中一個。如果我哋定得高咗嘅時候，噉係咪？
+
+397
+01:14:16,460 --> 01:14:26,270
+多啲喺呢方面，即係政府可以做得多啲嘢，即係居屋方面啊，喺公屋方面咧都扮演角色，而私人只係。
+
+398
+01:14:26,730 --> 01:14:35,070
+提供一啲，譬如話係好大嘅單位咧，噉樣，咁呢個其實冇政策，我覺得咧就做唔到嘅。
+
+399
+01:14:35,350 --> 01:14:55,360
+噉啊，當嗰個私人市場曾經有一段時間就話冇人買樓，其實好簡單，點解冇咧？就係貴，呢個相對啊。你當然同而家比咧，覺得好平，但係嗰時冇工做啊嘛。噉你呢個考慮呢個問題就係話經濟問題。咁所以喺政府係扮演咩角色，幫人哋去？
+
+400
+01:14:55,360 --> 01:15:04,610
+事業咧，咁呢個你就影響你嗰個需求嘅，即係我覺得呢樣嘢咧，你如果冇個政策咧，你個需求咧都係得個講字嘅啫。
+
+401
+01:15:04,900 --> 01:15:24,910
+咁喺個推算嗰個户口個數目嘅淨增長嗰度咧，我希望佢可以留意一樣嘢。頭先誒柏志高先生都講過，佢會有嗰個種類，即係話嗰個類別，即係譬如頭先講咧，就可能一人户啊、二人户啊、三人或者四人。咁另外我都想希希望佢留。
+
+402
+01:15:24,910 --> 01:15:44,920
+依一樣嘢就係嗰個年齡方面嘅，即係人口結構之外咧，仲有個年齡啊。因為點解咧？而家嚟緊咧啊？誒，財政司長都講過有數字咯，即係我個老人越嚟越多啦。噉你嗰個供應嚟講咧，係咪靠私人市場咧？抑或係政府咧係方便？
+
+403
+01:15:44,920 --> 01:16:04,930
+即係個老人嘅居長者嘅居所呢方面咧，你冇政策留翻私人市場，私人市場會點會做呢啲嘢咧？你唔好講呢啲嘢係根本你係空談嘅啫，要靠私人市場有啲一定要政府你扮演咩角色？所以其實好似頭先好多同事。
+
+404
+01:16:04,930 --> 01:16:12,950
+包括啊，李卓仁議員講：你冇嗰個定義咩叫適切居所？有啲人講，譬如。
+
+405
+01:16:13,550 --> 01:16:20,960
+有個定義就係你有子女超過幾多年齡，就要一定個人每個人一間房。噉你已經影響啦。
+
+406
+01:16:21,410 --> 01:16:41,420
+另外嗰個十年嗰方面咧，其實唔係好長㗎啦。其實好短，因為點解咧？你定咗個單位嘅需求個類別之後，你仲要有土地嘅供應個土地供應加埋落去咧，十年啊，而家講啊，即係已經係唔可以當係長期噉。所以你其實研究，頭先你提講三十年，其實都好適合。
+
+407
+01:16:41,420 --> 01:17:01,430
+因為十年嚟講，而家講十年，其實我覺得唔可以叫長期咯。你睇下嗰個供應個土地，一講講五七年，又要可起四五年，已經十年啦。今日決定啊，十年後先有，所以我希望咧，就喺呢方面咧，真係政府咧應該定咗。
+
+408
+01:17:01,430 --> 01:17:06,100
+自己個政策同埋政府喺房屋方面，自己扮演咩角色？
+
+409
+01:17:06,450 --> 01:17:11,010
+我哋香港每一個人咧，政府畀到乜嘢畀我哋？
+
+410
+01:17:11,730 --> 01:17:20,940
+我哋喺未來喺一段時間嚟講咧，政府可以令我哋點樣改善我哋嘅居住？呢啲全部都有個目標先得嘅。唔該，主席。
+
+411
+01:17:21,370 --> 01:17:23,610
+係八小時啊！
+
+412
+01:17:23,950 --> 01:17:43,960
+I think there's a couple of points there. The role of government, I think, government has many different roles. You're quite right. I mean, it's not just about providing public rental housing or home ownership scheme. You can see where government has taken a view to interfere intervene in the market recently with special stamp duty and buyer stamp duty, where we've taken a view that from a
+
+413
+01:17:43,960 --> 01:17:46,170
+從經濟和金融 perspective。
+
+414
+01:17:46,450 --> 01:18:06,460
+The housing market is going to have a negative impact. We move in. I think government also has a role, particularly in land supply. No one else can provide land. Government must do that. And this is where this exercise comes into play because obviously, you, the chief executive has already said we will provide land and we'll build up a land bank, so that.
+
+415
+01:18:06,460 --> 01:18:13,590
+In future, we'll have adequate land to respond to different circumstances. That is certainly the 30-year, 40-year programme.
+
+416
+01:18:13,870 --> 01:18:33,880
+但within that，as I've said before，I think you have to take a slightly shorter term look at what needs to be provided for people within their own horizon. I honestly can't see that you can tell people that in 30 years' time we'll give you a solution. I think you need to be talking five to 10 years' time for practical solutions，and that's what we're trying to aim for，Mr.
+
+417
+01:18:33,880 --> 01:18:34,400
+之前。
+
+418
+01:18:34,680 --> 01:18:36,000
+六位國會議員。
+
+419
+01:18:36,340 --> 01:18:37,630
+多謝主席。
+
+420
+01:18:38,200 --> 01:18:49,420
+就今日咧，立法會秘書處嘅關於香港嘅房屋需求啲資料摘要咧，其實裏邊咧數字咧就的確可以講係。
+
+421
+01:18:49,840 --> 01:18:52,270
+觸目驚心嚇，用呢個講法。
+
+422
+01:18:52,660 --> 01:19:04,800
+如果睇表一咧，二零零三到二零一二年間嗰個私人樓宇嘅誒買賣協議數目、金額、落成數目等咧，就即係睇到個民怨點解會發生。
+
+423
+01:19:05,210 --> 01:19:08,300
+一手銷售，二零零三年咧。
+
+424
+01:19:08,580 --> 01:19:23,470
+係二萬六千四百九十八總金額咧，係七百三十億四千八百萬取出嚟咧，平均就係二點七六，即係話二百七十六萬一個單位。
+
+425
+01:19:23,750 --> 01:19:33,470
+好啦，去到十年之後，二零一二年係乜嘢咧？第一個數量大減啦，由二萬六千幾咧跌到只係一萬二千九百六十八。
+
+426
+01:19:33,830 --> 01:19:37,280
+但係，除嗰個總金額嘅一千三。
+
+427
+01:19:37,560 --> 01:19:41,890
+百零誒九億有多咧，平均咧係。
+
+428
+01:19:42,320 --> 01:19:43,150
+一。
+
+429
+01:19:43,650 --> 01:19:45,270
+千零一十萬。
+
+430
+01:19:46,720 --> 01:19:48,620
+即係話咧，你十年內咧。
+
+431
+01:19:48,900 --> 01:19:56,430
+呢個一手銷售嘅平均嗰個誒相比咧，係三點六六倍。
+
+432
+01:19:56,710 --> 01:20:05,840
+好啦，二手又點咧？嗱，以前我哋都話啊，你想上車去啲還頭還畀啦，買舊樓啦，但係二手嘅銷售咧。
+
+433
+01:20:06,330 --> 01:20:23,200
+二零三二零零三年咧，四萬五千幾個單，個個個誒買賣協議數目啊，取除嗰個總金額咧，得出嚟咧係一百七十九萬啊，即係二百萬以下平均就一個二手嘅單位，但係咧十年之後到二零一二年咧。
+
+434
+01:20:23,580 --> 01:20:30,640
+啊！六萬八千幾個買賣協議數目咧，除出嚟嗰個平均金額咧係四百七十萬。
+
+435
+01:20:30,920 --> 01:20:32,160
+相比咧。
+
+436
+01:20:32,440 --> 01:20:35,650
+都接近三倍嚇，二點六三倍，相比。
+
+437
+01:20:36,750 --> 01:20:56,760
+所以即係我我我相信喺呢個誒所謂個需求推算咧，其實點解需求推算咧，梗係最終就係喺個供應與需求supply demand之間如何作出平衡。我相信柏志高先生咧對嗰個供即係嗰個公屋嗰個計劃啊方面咧，可能係比較有有把握，但係咧睇翻整。
+
+438
+01:20:56,760 --> 01:21:05,420
+個個香港個房屋策略咧，真係喺私人樓宇呢啲即係噉樣嘅失控嘅誒價格。
+
+439
+01:21:05,700 --> 01:21:08,450
+嘅變化咧，係的確係。
+
+440
+01:21:08,730 --> 01:21:28,740
+造成而家咧咁大嘅嘅民怨，咁所以咧其實喺呢方面咧，我我認為咧係真係要誒有關當局咧係再進一步分析，裏邊咧當然有部分係尺價嘅提升啦，有部分咧就係正如我頭先所講嘅，以前就還頭還尾，但係而還頭還尾而家嗰啲樓咧嗰啲新樓咧，特別係咧都毫。
+
+441
+01:21:28,740 --> 01:21:29,750
+摘花。
+
+442
+01:21:30,240 --> 01:21:50,250
+根本就唔係一般嘅誒嚇，即係特別誒，即係初出身做幾年，即使大學畢業，甚至無有多啲學位嘅打工仔咧，係能夠可以承擔得起。所以呢呢呢個咧，我覺得喺即係呢方面嘅誒進一步嘅誒即係深入嘅研究同埋即係推。
+
+443
+01:21:50,250 --> 01:21:55,070
+算咧係好重要，其實最終咧就要問翻政府咧，究竟。
+
+444
+01:21:55,350 --> 01:22:15,360
+以往十年係噉樣啦，跟住嚟嘅十年二十年，究竟喺個私樓方面，你哋嘅政策如何？有咩方法咧，係使到整個私人樓宇嘅發展咧，有較為健康，亦都係市民能夠負擔得起嘅發展嚇？多謝主席，各位先生。Thank you, Mr. Chairman. I think that's an
+
+445
+01:22:15,360 --> 01:22:25,820
+interesting analysis. I think it's based on the census and statistics information, so I can assure you we've been looking at that ourselves. In in terms of of the way forward, I think
+
+446
+01:22:26,100 --> 01:22:28,610
+There are there are few issues here. One is.
+
+447
+01:22:28,940 --> 01:22:48,950
+land supply and how the land is is released onto the market and what conditions are applied. Now, members, I'm sure are aware that in recent months we've been releasing land with conditions, small unit requirements, Hong Kong people for Hong Kong, Hong Kong property for Hong Kong people, the Kai Tak sites. We also
+
+448
+01:22:48,950 --> 01:22:58,630
+also put conditions on the development programme. In other words, within a certain five-year period, they have to complete development. I think those are indicative of the sort of
+
+449
+01:22:58,960 --> 01:23:04,510
+active measures the government can can take to encourage the market.
+
+450
+01:23:04,950 --> 01:23:08,090
+但係，會永遠係一個constraint。
+
+451
+01:23:08,370 --> 01:23:28,380
+I think on government interfering directly in controlling prices in setting sizes and all that, that must be left to the market and what the market can determine. What we need to do, I think, is to provide the alternatives, particularly for the low-income families. And this is the home ownership scheme programmes, of course, public rental housing for the
+
+452
+01:23:28,380 --> 01:23:31,000
+very lowest income, and I think by
+
+453
+01:23:31,430 --> 01:23:32,260
+first.
+
+454
+01:23:32,540 --> 01:23:52,550
+reinstating the programme, which is a very important decision, and more importantly, making sure that the programme is sustained over time and hopefully grows over time, not just from the initial seventeen thousand, but a regular five thousand or whatever. We give the clear message that there will be alternatives to the private sector, and I think that will put put pressure on the private sector. But
+
+455
+01:23:52,550 --> 01:23:58,770
+I think it's absolutely right. Government has a role. We need to define that role, and I think that'll come out of the LTFS.
+
+456
+01:24:00,310 --> 01:24:05,080
+誒，多謝柏超先生嘅回應。其實咧。
+
+457
+01:24:05,480 --> 01:24:20,120
+陸議員咧，你睇下表三咧，你睇下嗰個誒秘書做出嚟嗰個資料文件咧，嗰個資業負擔比率啊，你咧更加睇到嗰個問題。二零零三年咧係百分之廿一點一。
+
+458
+01:24:20,400 --> 01:24:37,760
+一路去到二零一二咧，係百分之五十二點三，爆煲㗎啦。所以我哋從呢個表三咪睇到咧，市民嗰個供樓負擔其實已經去到不可以負擔嘅情況。
+
+459
+01:24:38,130 --> 01:24:42,130
+非常之驚人啊！嚇，好，繼續係國家奇遇。
+
+460
+01:24:42,550 --> 01:24:44,130
+多謝主席。
+
+461
+01:24:44,490 --> 01:24:52,130
+噉啊，頭先大家都見到啲數字啦，其實都話驚人咧，都係馬後炮嚟。所以頭先啊，梁國雄講咧。
+
+462
+01:24:52,540 --> 01:25:02,520
+有啲道理，因為坐喺度咧，當所有啲保皇黨又好、建制派啊、功能組別都好咧，政府零三年做所有嘅動作咧。
+
+463
+01:25:02,840 --> 01:25:12,150
+建制派都係支持呢一啲噉嘅錯誤嘅政策，包括宣九招啦、停建居屋啦、減建公屋啦，又唔見有人出聲。
+
+464
+01:25:12,430 --> 01:25:16,620
+去到而家啦，爆煲咧噉啊，個個都叻㗎，事有孔明，個個都叻。
+
+465
+01:25:17,860 --> 01:25:19,670
+政府嘅文件咧。
+
+466
+01:25:20,370 --> 01:25:22,980
+難聽啲都係垃圾。
+
+467
+01:25:23,910 --> 01:25:33,050
+今日出咗兩樣嘢，我希望大家都睇嘅。第一咧，香港嘅樓價升幅去年咧冠全球，百分之廿三。
+
+468
+01:25:33,330 --> 01:25:34,840
+第二咧就係。
+
+469
+01:25:35,290 --> 01:25:42,770
+你哋嘅老闆咧，梁振英咧就喺天津又講嘢，佢就話香港咧係需要更加多嘅樓宇嘅居住面積。
+
+470
+01:25:43,050 --> 01:25:46,260
+即係話咧，無論有錢人、窮人都住多啲。
+
+471
+01:25:47,460 --> 01:25:49,100
+我問政府。
+
+472
+01:25:49,700 --> 01:25:54,610
+點樣去改善公屋嗰個每人嘅平均嘅數字？
+
+473
+01:25:54,930 --> 01:26:00,340
+拍至高就係耍花槍，哦！佢話我哋係會㗎啦噉樣，但係唔會有承諾嘅。
+
+474
+01:26:00,620 --> 01:26:03,110
+噉我唔知你有冇聽阿梁振英講嘢啦噉。
+
+475
+01:26:03,470 --> 01:26:04,770
+但係，
+
+476
+01:26:05,310 --> 01:26:07,680
+而家個住屋個需求咧。
+
+477
+01:26:07,960 --> 01:26:09,560
+就改變咗好多嘅。
+
+478
+01:26:10,310 --> 01:26:15,780
+越嚟越多嘅包括離婚嘅比例啦，佢哋都要住嘅，越嚟越多係單身。
+
+479
+01:26:16,480 --> 01:26:20,080
+喺個文件嗰度，或者政府拎出嚟嘅。
+
+480
+01:26:20,360 --> 01:26:27,310
+都係冇回應到係足夠嘅數字，譬如舉個例，舊年有成一萬九千宗嘅離婚嘅個案。
+
+481
+01:26:27,950 --> 01:26:37,760
+有好多咧，其實都係需要一啲新嘅房屋，即係由一個家庭、小家庭去到各自係去租住，或者係買一個樓宇。
+
+482
+01:26:38,520 --> 01:26:42,500
+我哋靠一手樓咧，就與虎謀皮嘅第一。
+
+483
+01:26:43,110 --> 01:26:47,600
+啱啱洪水橋元朗呢一個新嘅樓盤。
+
+484
+01:26:48,090 --> 01:26:54,750
+即係三個鋼線走出嚟嗰度，尺價係萬五蚊，新界西萬五蚊一尺。
+
+485
+01:26:55,120 --> 01:26:57,990
+我哋啲嗰啲新畢業嗰啲咧。
+
+486
+01:26:58,270 --> 01:27:02,270
+要做一百五十年啊，先至可以住到幾百尺。
+
+487
+01:27:02,830 --> 01:27:04,390
+講大學畢業生。
+
+488
+01:27:06,520 --> 01:27:10,110
+呢個毫無即係。
+
+489
+01:27:10,660 --> 01:27:16,110
+人性嘅一啲地產嘅霸權咧，政府係視而不見。
+
+490
+01:27:17,260 --> 01:27:27,980
+噉啊！佢亦都唔需要驚嘅，因為事實上樓宇嘅供應，公屋又好，居屋又好，樓宇嘅面積咧，政府其實都係噏嘅啫，噏完之後咧冇結果嘅。
+
+491
+01:27:28,280 --> 01:27:32,670
+嚟緊嘅居屋或者公屋嘅數字咧，都係相當之少。
+
+492
+01:27:33,540 --> 01:27:36,720
+幾年後嘅五千嘅居屋，嘥氣。
+
+493
+01:27:37,190 --> 01:27:41,940
+公屋嘅數字去到而家，政府就話：啊，我唔夠地，我起唔到㗎啦噉樣。
+
+494
+01:27:42,370 --> 01:27:43,700
+居住嘅面積。
+
+495
+01:27:44,140 --> 01:27:49,450
+噉啊，楊振英啊叻㗎，佢最叻嘅話，佢三屆都做唔完，即係最好你選多佢兩屆。
+
+496
+01:27:49,830 --> 01:27:57,300
+即係呢一啲咧，完全係噏完就算嘅一啲嘅政策咧，就同政府今次呢個文件咧一脈相承。
+
+497
+01:27:57,580 --> 01:28:01,910
+因為入邊咧，完全係冇講到居住面積。
+
+498
+01:28:02,190 --> 01:28:03,710
+係點樣去增加？
+
+499
+01:28:04,320 --> 01:28:05,850
+點樣去解決？
+
+500
+01:28:06,450 --> 01:28:15,020
+一啲唔同嘅社會嘅結構改變咗嘅住屋個需求，亦都冇講到咧，係點樣去解決最重要一樣嘢？
+
+501
+01:28:15,300 --> 01:28:21,590
+因為你要知道咧，私人樓宇嘅供應咧就唔喺你手上嘅，地產商係聰明過你好多。
+
+502
+01:28:21,870 --> 01:28:39,310
+政府可以做嘅，都係透過咧，係更加擴大嘅公屋同埋居屋嘅供應咧，係先至可以令到好多係冇能力係追得上樓價嘅人去住。如果呢兩個政府都唔係着力去做咧，基本上冇將來可言。
+
+503
+01:28:39,680 --> 01:28:49,370
+我唔知政府喺啲所謂新嘅指標入邊係點樣去量度，包括我哋頭先講，我頭先講嘅一啲結構、家庭結構嘅改變。
+
+504
+01:28:49,650 --> 01:28:59,010
+住屋嘅面積，你嘅要求將來係幾多？同埋係居屋係點樣係扮演個更加重要嘅角色？主席。
+
+505
+01:28:59,290 --> 01:29:09,600
+派 chief officer， I'm a little bit perturbed, Mr. Chairman, because perhaps the member doesn't understand the purpose of the paper. That's to set out the principles on which we'll be looking at.
+
+506
+01:29:11,040 --> 01:29:17,150
+projection of housing demand，it's this paper is not about trying to provide the solutions that will come later.
+
+507
+01:29:17,430 --> 01:29:37,440
+所以請excuse me if I'm a little bit confused. But the purpose of the paper has never been to suggest solutions at this time. The purpose of the paper is to set out those issues. And I agree with you, we do need to take into account the growth in single family, single unit families, the impact of ageing, for example, divorce. All of these things are being taken into
+
+508
+01:29:37,440 --> 01:29:57,450
+And I think we did describe that earlier in the in the meeting, Mr. Chairman. As far as the various measures that we want to deal with, and again the honourable members talked about increasing the size of flats. In fact, over the years we have been increasing the size, the space per person that.
+
+509
+01:29:57,450 --> 01:30:17,460
+We allocate in the public sector, and we will continue to do that. I've said that before in the housing panel. I would also point out that, in terms of the commitment by government to try and deal with the private sector, we've said very clearly first that we will sell sites with conditions. We will.
+
+510
+01:30:17,560 --> 01:30:37,570
+commit firmly to the home ownership scheme and increase the numbers. That we will deal with issues such as affordability through the measures which I hope members will support on special stamp duty, buyer stamp duty, ad valorem stamp duty. These are all part and parcel of the measures, practical measures that we're bringing out now.
+
+511
+01:30:37,570 --> 01:30:51,150
+to deal with the circumstances. This exercise is a forward-looking exercise, looking at what the demand will be in ten years' time, and those are the the issues that we've got to decide. Have we got the right content for us to determine those demands in future?
+
+512
+01:30:51,930 --> 01:30:54,090
+誒，繼續係逢險機遇。
+
+513
+01:30:54,480 --> 01:30:55,380
+係。
+
+514
+01:30:55,830 --> 01:30:57,200
+我哋誒。
+
+515
+01:30:57,780 --> 01:31:02,330
+誒部門即係有冇睇我哋誒研究組畀我哋份文件？
+
+516
+01:31:02,800 --> 01:31:06,190
+研究組畀我哋份文件，都冇講解決方法。
+
+517
+01:31:06,620 --> 01:31:10,420
+但係，將研究組嘅比嘅文件同政府嘅文件比較咧。
+
+518
+01:31:11,500 --> 01:31:15,860
+我諗政府即係，我只能夠講個嘢，即係醜喎，真係分分鐘。
+
+519
+01:31:16,870 --> 01:31:20,710
+係虛虛到咧，係完全冇講嘢。
+
+520
+01:31:21,320 --> 01:31:30,240
+研究組嘅文件畀好多數字，我哋就提出嗰個問題個情況，等我哋掌握瞭解嘛。我哋政府嗰份文件連乜都冇嘅。
+
+521
+01:31:31,480 --> 01:31:46,430
+中學生都可以寫啲份文件出嚟。我哋研究複介房屋咧，要睇下幾多人數，幾多家庭。我要睇下咧，誒邊啲人有困難誒要住嘅噉，列曬啲項目出嚟，就作一作位一份文件畀我哋立法會嘅長遠著策略小組去去傾咧。
+
+522
+01:31:46,710 --> 01:31:51,350
+一係就你自己房屋房屋局咧係冇料，一係嚟耍我哋。
+
+523
+01:31:52,210 --> 01:31:55,420
+即係讓我哋白白花咗兩個鐘頭開一次噉嘅會。
+
+524
+01:31:55,700 --> 01:32:03,830
+而開完之後，你都唔係第一唔知你講乜，唔知你想點，亦都唔知你根據現在嘅實況係點樣樣，然後叫我哋去傾。
+
+525
+01:32:05,430 --> 01:32:07,670
+我就係覺得真係醜嘅呢份文件攞出嚟。
+
+526
+01:32:09,450 --> 01:32:19,260
+第一、第二點，長遠房屋策略今日唔係由零開始啊！你今個政府唔係唔係新政府，唔係一個突然間成立獨立嘅國家嘅政府啊！
+
+527
+01:32:19,540 --> 01:32:30,000
+你八十年代有第一次嘅長遠房屋策略，九十年代啊，誒一九九八年有第二份嘅長遠房屋策略。你唔係建基呢啲房屋策略基礎之下再寫第翻第三份嘅咩？
+
+528
+01:32:31,530 --> 01:32:36,910
+八十年代嘅長遠房屋策略有曬佢住屋嘅定義嘅喎，獨立永久自足。
+
+529
+01:32:37,190 --> 01:32:44,800
+就係一個家庭應該要有嘅基本嘅嘅單位嘅嘅嘅標準，我呢啲三個標準唔要啦，而家係咪咧？
+
+530
+01:32:45,080 --> 01:32:53,050
+你應該喺呢三個標準之下，又唔要再改善啊嘛！你連獨立自足永久呢三個呢呢三三樣嘢都唔提出嚟。
+
+531
+01:32:53,510 --> 01:33:05,840
+我八十年代長遠房產量，喺房委會傾嘅時，我就提埋英國喺七十年代已經有性別嘅嘅嘅界定啦。男女仔嘅嘅子女係自己要獨立房間嘅。
+
+532
+01:33:06,120 --> 01:33:14,170
+譬如一個四人家庭，夫婦一個仔一個女，係三房嘅，即係仔有一個房，女有一個房，男女唔應該同房嘅。
+
+533
+01:33:16,360 --> 01:33:20,430
+如果係四人家庭，一兩個夫婦加兩個仔咧，係兩房嘅。
+
+534
+01:33:20,710 --> 01:33:38,820
+因為兩個仔都係男仔，嗱呢啲係性別嘅界定嘅時候，你會擺埋落去變成一個新嘅因素咧。當然最最新嘅因素，有特首講，其實我我選特首時就提，就每人嘅平均居住面積，我哋同新加坡比係新加坡嘅不半，我哋平均根據統計處畀我嘅數字咧係一百三十五尺。
+
+535
+01:33:39,560 --> 01:33:41,180
+新加坡係成三百尺。
+
+536
+01:33:41,460 --> 01:33:48,240
+咁呢啲係咪我哋要改善嘅一個標準咧？你連呢啲提都冇提，噉啊，淨係講居住環境欠佳嘅住户。
+
+537
+01:33:49,690 --> 01:33:51,920
+咁叫噉就叫咗一份文件。
+
+538
+01:33:52,830 --> 01:33:54,570
+你叫我哋，叫我哋去傾。
+
+539
+01:33:55,330 --> 01:33:59,720
+噉我我就覺得政誒主席，我覺得即係政府呢份文件係真係醜嘅，真係。
+
+540
+01:34:01,300 --> 01:34:04,610
+咁而家阿柏超欣，你回應未？我未講完。係。
+
+541
+01:34:05,270 --> 01:34:18,540
+譬如嗰個推算推算住户嘅數嘅嘅數字，你連嗰個推推算住户數字嘅標準嘅要留意嘅項目都冇。頭先國家琪有提，我哋份文件講得好仔細啊，咪畀書住嗰份文件。
+
+542
+01:34:19,180 --> 01:34:22,870
+離婚嘅數字係咪增加咧？結婚嘅數字係咪增加咧？
+
+543
+01:34:23,150 --> 01:34:25,370
+單身嘅趨勢係咪增加咧？
+
+544
+01:34:25,660 --> 01:34:33,140
+呢啲係你要考慮嘅呢啲element，所以呢個呢個題都有問題嘅。我哋考慮增加家庭增加，噉就大家諗啦。
+
+545
+01:34:33,420 --> 01:34:36,160
+即係呢個係係係乜嘢文件啊，主席？
+
+546
+01:34:36,460 --> 01:34:42,380
+係完全一個嘅惹火到咧，根本就就就係完全睇即係睇唔起我哋立法會。
+
+547
+01:34:44,140 --> 01:34:52,360
+最後投資嗰度，投資嗰度點可以話唔理咧？投資嗰度唔係影響個數字啊，係影響佢扭曲咗個市場。
+
+548
+01:34:52,720 --> 01:34:59,060
+佢扭曲到可以令到樓價、租金飆升、飆升到我哋租唔起、買唔起，咁呢個係咪個因素咧？
+
+549
+01:35:00,230 --> 01:35:07,640
+如果當有呢啲因素嘅時候，我哋政府係咪將將來考慮面對呢啲值呢啲因素嘅時候，我哋要有出出嘅對對策咧？
+
+550
+01:35:09,510 --> 01:35:15,760
+我早梁振英兩個月講港人講，我又未講港人講地，我就係有啲地規定係淨係賣畀香港人。
+
+551
+01:35:18,260 --> 01:35:38,270
+咁呢啲係一個誒，你你列出嗰啲因素之後咧，你先至諗個因素嘅對策嘛。如果你咁講，即係你唔使你個投資狀況扭曲成日，點都唔使理。你畀唔畀時間畀部門回應啊？佢回唔回應佢嘅事，我就要講我啲老氣嘢。就呢個係我覺得呢份文件咧，唔該，可唔可以主席係指示特誒部門下次整嗰個好似我哋。
+
+552
+01:35:38,270 --> 01:35:42,080
+研究咗噉嘅質素嘅文件，再攞上嚟傾過。
+
+553
+01:35:42,360 --> 01:36:02,370
+有關你嘅要求咧，其實喺你未到之前咧，就阿黎先生亦都回答議員嘅問題咧，係解釋過呢一份文件嗰個構思同埋個原因，所以咧就我認為咧，部門喺先前咧已經講咗佢哋嗰個睇法㗎啦。主席，佢講咗睇。
+
+554
+01:36:02,370 --> 01:36:22,380
+法唔等於我接受嘅睇法，我就要求政府咧就再畀多間民嚟出嚟。你又不在場，你已經表達咗你意見，你又冇時間咧係畀部門回應。如果你想部門回應你嘅睇法，你排隊第二。主席頭先都有議員講嘢，佢都過咗時間嘅，都畀你都畀佢應，畀佢應。你已經過咗太多啦，逃緊新議員。啊，廿四秒。
+
+555
+01:36:22,380 --> 01:36:33,820
+誒，主席啊，唔緊要啊，我誒重複馮建基嗰個議員嘅誒問題，畀政府部門回應。好啊，我都我即係我嘅意見同馮建基係一樣咧。可以，我覺得呢份文件咧。
+
+556
+01:36:34,310 --> 01:36:54,320
+係好離譜，好嚇。阿柏昭先生。Thank you, Mr. Chairman. Again, let me repeat. The paper is based on what we're presenting to the Long-Term Housing Strategy to get their agreement to the parameters that we're going to use to forecast the demand for housing over time. That's the purpose of the paper. It's not intended.
+
+557
+01:36:54,320 --> 01:37:03,350
+never was intended to give solutions. For the solution side of the equation, we need to take advice from the LTHS. Once we define the size of the problem.
+
+558
+01:37:03,630 --> 01:37:09,490
+The purpose, and again, we did explain this in our PowerPoint presentation earlier, and I've explained it a couple of times.
+
+559
+01:37:09,770 --> 01:37:13,550
+this is not about us coming to the members and saying.
+
+560
+01:37:13,830 --> 01:37:26,170
+look members these are the problems and these are the solutions what we're saying to members here is we want your advice have we covered all of the right issues have we covered subdivided units have we covered
+
+561
+01:37:27,430 --> 01:37:47,440
+families as as Mr Fung suggested, you know the difference between a family with two children, male female or male male or female female. Do we need to take those things into account? That's why we're here. Because I think members would criticise us quite rightly if we didn't listen to their views on these issues, just went ahead and came up with a figure. We're here.
+
+562
+01:37:47,670 --> 01:37:51,120
+deliberately with this paper to tell people.
+
+563
+01:37:51,400 --> 01:38:11,410
+What we intend to do, and to ask, is this what you want us to do? So that's the purpose of the paper. In terms of issues that we have discussed in the earlier part of the conversation, we will be coming up with definitions as to what are inadequately housed. We've agreed to do that, and we will be providing information on that. We will be coming up
+
+564
+01:38:11,410 --> 01:38:14,960
+with information on the different
+
+565
+01:38:15,240 --> 01:38:22,580
+Demands within the overall picture. So, for example, again, the comment about excluding.
+
+566
+01:38:23,130 --> 01:38:43,140
+The investment demand, we have explained the reason for that is that when someone buys a property for investment purposes, that property is still available. It's either used for his or her occupation, or because they want to get a return on their investment, it's rented out. So the effect on the number of units.
+
+567
+01:38:43,140 --> 01:39:03,150
+朱挺，我聽我。 sorry, Mr. Chairman, I would like to finish this because you know we're being criticised here for something that I think is rather unfair. We have been coming with a particular objective in mind to let members have their views, and I don't think it's right to say that we're not giving answers.
+
+568
+01:39:03,150 --> 01:39:05,640
+We were never intending to give answers in this paper.
+
+569
+01:39:06,340 --> 01:39:12,630
+之前或者我講咗誒有限時間，我講咗就先啱啱嗰點先啦。誒investment demand嗰度，即係投資嗰度。
+
+570
+01:39:12,970 --> 01:39:22,920
+我唔知就拍志高先生或者其他同事咧，你知唔知道而家咧？即係我舉例一啲內地人咧，佢買咗香港屋咧，就唔係住啊！
+
+571
+01:39:23,200 --> 01:39:24,670
+又唔係租啊！
+
+572
+01:39:25,120 --> 01:39:26,820
+佢係咩？佢當係保險箱。
+
+573
+01:39:27,810 --> 01:39:30,740
+嗱，即係呢個咧，誒，我越嚟越聽得多。
+
+574
+01:39:31,020 --> 01:39:36,480
+唔係淨係喺西九龍誒上面啲豪宅嘅，嗰度特別多。
+
+575
+01:39:36,810 --> 01:39:37,850
+誒。
+
+576
+01:39:38,470 --> 01:39:42,300
+個問題咧，佢可能嗱，你當佢係流動人口啦。
+
+577
+01:39:42,580 --> 01:39:45,460
+但係佢可能咧，一年咧，可能住一段好短時間。
+
+578
+01:39:46,000 --> 01:39:48,260
+但係佢主要咧就係擺財物。
+
+579
+01:39:48,630 --> 01:39:57,440
+啊！個保險箱擺一兩千萬或者幾千萬人民幣現金，擺幾幅名畫，有啲誒。
+
+580
+01:39:57,720 --> 01:40:03,370
+即係古董啊，咩都有，OK噉啊嚴密保安噉啊，當然佢亦都有個好嘅管理公司啊嗰啲。
+
+581
+01:40:03,650 --> 01:40:06,140
+咁呢個咧就好，我唔知點樣計。
+
+582
+01:40:06,680 --> 01:40:26,690
+即係當然你可以話噉，你咪當佢流動人口，流動人口噉佢亦都誒買買個property啊。但係如果當佢呢個數量係好大嘅時候咧，你就變咗take away，即係你拎走咗我哋好多咧。咁當然你話我哋唔係要預測咗之後就去誒供應埋佢買做呢樣嘢，我哋唔一定。甚至你用嗰個B S D。
+
+583
+01:40:26,690 --> 01:40:41,420
+譬如而家諗嗰啲嘢啊，或者甚至你誒講人講地，咪就係佢根本買唔到啊噉樣。但係個問題就係你喺呢度裏邊咧，即係如果你作為一個長遠房屋策略咧，你其實咧呢部分係應該要誒誒誒擠落去嘅因素。
+
+584
+01:40:41,700 --> 01:41:01,710
+噉你然後估計有幾多係佢買咗係會租翻出嚟嘅咧？咁嗰個會供應翻畀個租盤啊嘛。但係佢唔係租嘅咧，噉就另外一件件事喎，係嘛？咁同埋你又唔係話真係全面可以限制嘅買喎。噉就算畀埋B S D你，佢都係買咗佢喎，係嘛？咁變咗你咪要呢啲咪要諗咯嚇。
+
+585
+01:41:01,710 --> 01:41:06,350
+我唔知呢個因素能唔能夠説服你，再改一改呢度裏邊咧，有另一啲嘅睇法咧噉。
+
+586
+01:41:06,690 --> 01:41:11,480
+阿朱先生，啊，朱先生。
+
+587
+01:41:12,360 --> 01:41:32,370
+哦，係，誒，係呢個梁永盛先生，財政司司長辦公室首席經濟主任。咁其實我哋係誒頭先啊柏志高先生講過啦，就話一般嘅投資咧，因為會即係可能會租翻出嚟啊，嗰啲我哋就可能即係一般嚟講，我哋係唔睇。咁但係其實咧，我哋。
+
+588
+01:41:32,370 --> 01:41:52,380
+係有考慮過頭先啊，陶景新議員講嗰樣嘢，就話譬如某一啲特別嘅買家，佢哋真係中意攞咗層樓係唔擺出嚟嘅，真係養老署也好，點都好咧。咁呢啲情況咧，其實我哋係會誒做一個，即係喺個最尾嗰個推算嗰個做一個調整嘅。咁其實呢個喺阿黎生最初嗰個誒。
+
+589
+01:41:52,380 --> 01:42:12,390
+誒presentation嗰度咧，最尾嗰度話其他因素嗰度咧，其實我哋係會考慮嘅。噉我哋就會睇翻一啲即係歷史數據啊，究竟有幾多？譬如話外來人嚟香港買樓啊，咁其實我哋覺得一啲好即係唔係好完全啦，都大致上知道可能即係中間誒會唔會有好多係外嚟誒佢哋叫做自主啦。
+
+590
+01:42:12,390 --> 01:42:25,420
+可能佢哋嘅自主嘅意思係，其實即係可能擠貨啊、諸如此類啊嗰啲噉嘅嘢。咁其實呢啲我哋係會嘗試基於翻以前以往嗰個歷史數據咧，喺將來我哋嘅推算會做翻一個適當嘅調整嘅，其實。
+
+591
+01:42:25,850 --> 01:42:29,970
+唔係，就我希望你分項嘅原因咧，因為唔係我哋好難好難知道啊。
+
+592
+01:42:34,250 --> 01:42:35,290
+誒。
+
+593
+01:42:36,270 --> 01:42:56,280
+誒，阿馮宇仁唔使咁勞氣，並不是針對。唔係勞氣，呢個係事實嘅數字。我係因應住咧，就係部門回應你嗰個説話嘅意思講曬未係噉樣，因此咧每一個議員咧，佢哋都略略有過時，我咧係噉樣嘅安排嘅。好啦，而家。
+
+594
+01:42:56,280 --> 01:43:01,970
+咧第一輪咧就已經完啦，噉我作為議員咧就問我嘅五分鐘。
+
+595
+01:43:02,690 --> 01:43:13,780
+誒，我想咧就就著咧政府呢份文件講咧，就係話評估長遠房屋需求嘅方法嘅目的，就係係講呢一個嘅內容。
+
+596
+01:43:14,400 --> 01:43:21,990
+咁既然咧係講嗰個方法，我哋有幾個意見咧，就希望部門考慮。
+
+597
+01:43:22,410 --> 01:43:42,420
+第一個咧就係，既然係講個方法，正如咧，亦都有議員係講咧，我哋呢一個嘅研究咧就唔係今日係第一次，以往十多年咧亦都係，係亦都有個係研究。咁喺我哋呢一個重新嘅研究裏面咧。
+
+598
+01:43:42,420 --> 01:43:53,480
+係會唔會都就著以往每個歷史階段嘅定定，即係都有一個總結經驗、吸取教訓。
+
+599
+01:43:54,000 --> 01:44:09,160
+誒以作出新嘅改善嘅內容咧，呢個係第一個意見係會唔會都應當係有呢個內容咧？因為呢所有嘅嘢咧都唔能夠割斷嘅，個歷史係有個延續落嚟，有個變化嘅。
+
+600
+01:44:09,440 --> 01:44:10,690
+呢係第一個問題。
+
+601
+01:44:11,270 --> 01:44:25,760
+第二個問題咧，就係喺呢個研究方法裏面，是否都應當考慮呢一個新一屆政府特首咧，佢就房屋政策佢提出嘅新嘅主張？
+
+602
+01:44:26,040 --> 01:44:28,710
+譬如話，誒講人講地。
+
+603
+01:44:28,990 --> 01:44:32,050
+以往冇提過嘅，現在係噉樣提。
+
+604
+01:44:32,660 --> 01:44:40,570
+譬如話，誒特首梁振英講咧，就係嗰個居住嘅質量質素。
+
+605
+01:44:40,850 --> 01:44:51,420
+即係大概噉嘅意思啦，我唔係佢嘅原話。噉我哋是否亦都應當咧係有呢個嘅考慮咧？嚇喺元素上面。
+
+606
+01:44:52,030 --> 01:44:53,160
+第三。
+
+607
+01:44:54,040 --> 01:45:14,050
+第三就係話咧，係就著呢個人口嘅變化，特別咧，我最近睇到咧，誒近年咧好多喺香港出生，香港出生就係非本地居民嘅父母，其實呢個可能對於十年二十年。
+
+608
+01:45:14,050 --> 01:45:23,070
+後咧，嗰個住屋需求好大影響嘅，呢個噉樣嘅演變嘅嘅計算嘅。
+
+609
+01:45:23,390 --> 01:45:29,090
+架構亦都會唔會考慮咧？我提出啲三點，希望部門回應。
+
+610
+01:45:29,770 --> 01:45:34,380
+Thank you, Mr. Chairman. Yes, on the first one, absolutely.
+
+611
+01:45:34,660 --> 01:45:54,670
+Not only have we studied what was done in the previous exercises, but we we are constantly making reference both to the the previous methodology to trying to make sure that our current methodology is better, but also definitions and and the standards. But as I said in response to some earlier questions.
+
+612
+01:45:54,670 --> 01:46:08,480
+Obviously we've got to upgrade to the current standards and the current circumstances. So while they're useful references, I I think it's really a reference to help us to refine rather than just simply taking them off the shelf and reusing them.
+
+613
+01:46:08,760 --> 01:46:26,440
+In terms of the methodology, of course, the C's manifesto, the policy address and other statements are are of course important factors that have to be borne in mind in this exercise. And I can assure members that the long-term housing strategy is well aware of those.
+
+614
+01:46:26,720 --> 01:46:33,460
+not least because of course the starting point from from most of the discussion has to be the existing position.
+
+615
+01:46:33,760 --> 01:46:47,760
+the existing policy and the existing commitments that have already been made by the new administration, and I can assure you that things like quality, space per person will are issues that we're looking at.
+
+616
+01:46:48,040 --> 01:47:03,710
+Thirdly, on demographic changes, yes, I can say that children born in Hong Kong to non-Hong Kong permanent residents are a factor that we will be taking into account in the context of our demographic exercise.
+
+617
+01:47:04,030 --> 01:47:23,200
+the the difficulty of course is knowing if and indeed when these people might try to come back to Hong Kong and I think that's a general problem not just that it affects housing it affects our education our social welfare you know labour policies and so on so that must factor into this exercise as well so we will be doing that.
+
+618
+01:47:24,580 --> 01:47:27,520
+噉啊！希望當局咧認真考慮啦。
+
+619
+01:47:27,800 --> 01:47:47,810
+即係特別係雙非嬰兒咧，呢個問題咧，可能係會影響幾大嘅嚇。第日我舉個例，譬如以雙非嬰兒，佢係有香港身份證，咁嗰陣時佢置業，噉你又算乜嘢咧？係嘛？咁呢個係好大嘅影響啦嚇。所以就將。
+
+620
+01:47:47,810 --> 01:47:53,150
+佢嗰個講人講地，到陣時喺落實嘅時候，就可能會出現呢個矛盾啦，係嘛？
+
+621
+01:47:53,430 --> 01:48:13,440
+好啦，咁咧就誒，我就作為議員個人就用完，而家咧剩翻咧係大概誒六分鐘。咁咧就因為仲有四個議員咧就排隊，咁咧就我哋嘅法定時間咧就係去到十點半鐘結束。噉我要得到大。
+
+622
+01:48:13,440 --> 01:48:27,420
+大家同意咧，我延長呢個法定時間去到十點四十五分，以便咧仲有四位議員咧可以喺第二輪係發問，好嘛嚇？咁大家同意啦嚇，噉我哋延長。
+
+623
+01:48:27,700 --> 01:48:47,710
+誒呢個誒去到誒十點四十五分，我為咗咧亦都誒考慮，可能仲除咗呢四位，仲有其他問咧，因此我咧就係現在第二輪咧，每人咧係四分鐘嚇，四分鐘，噉就張超宇，跟住嘅胡。
+
+624
+01:48:47,710 --> 01:48:53,460
+志偉、馮檢基、郭家麒，每人四分鐘，連問連答。O.K.，多謝主席。
+
+625
+01:48:53,760 --> 01:49:13,770
+就我當然同意咧，頭先幾位同事講，包括啊馮建基議員咧，即係呢一個噉嘅文件咧，的確係即係單薄到咧令人難以置信，即係同秘書處嘅提供嗰份文件咧就相形見拙嘅。咁呢個文件就連政府自
+
+626
+01:49:13,770 --> 01:49:33,780
+自己做嘅一啲嘅數字都冇引用，即係我哋秘書處都講，都引用咗一啲民間團體啦，亦都引用呢個政府自己即係二零三零嗰個研究。噉啊，呢度咧就今日呢個運防運防局提供嗰個文件咧。
+
+627
+01:49:33,780 --> 01:49:35,580
+咧就的確太單薄嘅。
+
+628
+01:49:35,860 --> 01:49:55,870
+咁喺呢度咧，我亦都希望民防局或者政府咧都要誒翻翻去睇翻你自己嗰個二零三零嘅研究裏邊咧，都有一啲數字顯示嘅，即係譬如話包括咗誒喺秘書處嗰個報告第廿三頁咧，就你講緊個需求咧係介乎，即係講二零零三至。
+
+629
+01:49:55,870 --> 01:50:14,910
+到二零三零年期間個需求係介乎二萬七千九百個單位至到四萬一千八百個單位呢啲，我係想你澄清幾多係私營嘅單位，幾多係公營嘅單位呢個誒第一點啦。第二點就係就住誒你哋提供個文件其中。
+
+630
+01:50:15,190 --> 01:50:35,200
+第十三即係第十四啊，即係私段嗰個居住環境欠佳嘅住户，當然會影響即係嗰個房屋嘅需求啦。我想問你哋有冇就住居住環境欠佳呢度落一個定義啊？即係如果你冇一個清晰嘅定義嘅話，你又點樣去推算呢一個誒？
+
+631
+01:50:35,480 --> 01:50:39,600
+居住環境欠佳，佢哋嗰個房屋嘅需求咧。
+
+632
+01:50:39,880 --> 01:50:47,910
+你哋會唔會參考呢個關愛基金嘅定義？當然，關愛基金定義亦都被批評係即係唔。
+
+633
+01:50:48,190 --> 01:51:08,200
+唔完整，亦都太過苛刻。咁關愛基金而家都係喺度檢討緊佢哋嘅定義。誒，而家大概有兩萬個即係申請啦，關於呢個關愛基金係居住環境欠佳嗰個嘅津貼。但係修定咗之後咧，估計可能有六至七萬。呢一方面。
+
+634
+01:51:08,200 --> 01:51:16,880
+你哋會唔會有誒交代咧？即係除咗我哋頭先問你何為適切居所呢個定義之外，你會唔會有一個？
+
+635
+01:51:17,160 --> 01:51:20,110
+喺居住環境欠佳呢方面有個定義。
+
+636
+01:51:20,510 --> 01:51:21,510
+被拒證。
+
+637
+01:51:22,520 --> 01:51:28,050
+Mr. Chairman, I don't think I want to comment on the secretariat paper.
+
+638
+01:51:28,330 --> 01:51:48,340
+Produced for members' information, it's nothing we've produced. I would say that in preparing the data, once we've got the definitions and once we've got the parameters set, of course, we'll provide our own data based on those parameters, and in due course, they will break down into what we feel are the appropriate numbers for.
+
+639
+01:51:48,340 --> 01:52:07,510
+public and private, but at this stage we haven't got that because, as I've explained, we're trying to get members' views as to whether we're going to cover the right things. So I think that's probably as far as I can go on that one. In terms of inadequate households, again I think I've mentioned this that the intention is that we will come up with
+
+640
+01:52:08,180 --> 01:52:15,040
+definition， it won't be you know black and white in terms of you know this is in this is out. it will be a range of issues.
+
+641
+01:52:15,320 --> 01:52:16,740
+但係，我諗。
+
+642
+01:52:17,310 --> 01:52:27,210
+我會 probably not say that the community care fund definition will be relevant to this, because that is for other purposes. It's not for housing purposes.
+
+643
+01:52:27,490 --> 01:52:47,500
+We have regard to it, but we'll have to have our own definition because the purpose of our exercise is to look at what we need to do in housing terms. As members are no doubt very well aware, community care fund is looking at it in much broader context as to family circumstance. the the issue
+
+644
+01:52:47,500 --> 01:53:01,660
+of of carrying out this exercise and reviewing what we intend to do, yes, you know this will be an ongoing exercise, not a fixed exercise. So the review will continue to go forward.嚇，對唔住啦，夠鐘啦。嚇。
+
+645
+01:53:02,030 --> 01:53:08,510
+胡志偉議員就而家不在座，咁誒，而家馮檢嘅議員啦。主席，我就同你講文件。
+
+646
+01:53:08,910 --> 01:53:20,080
+你第七，你A係第七段八段嗰度又講緊嗰個正住嘅數目增長。我想問你呢個係完全冇提究竟咩叫正住嘅方面。我再想問你幾個項目會唔會包喺裡面咧？
+
+647
+01:53:20,360 --> 01:53:32,250
+包括譬如單身個趨勢，包括離婚嘅數目、結婚嘅數目、包括同志嘅數目。大家唔好留意同志都可以一齊申請公屋，係咪？咁呢啲數目係咪會擺埋你個項目裡面咧？
+
+648
+01:53:33,450 --> 01:53:53,460
+重建B嗰度講重建影響嘅住户，你究竟自己公公營房屋而家有冇重建計劃？如果冇重建計劃，你點樣評估你個重建咧？重建響誒七誒七十年代開始，但係響誒九誒呢十呢幾年裏面咧就已經完曬完成曬之後，你唔好再有重建計劃係咪？你呢度？
+
+649
+01:53:53,460 --> 01:53:58,160
+就會評估埋你哋應該對某一啲公營房屋要有重建咧。
+
+650
+01:53:58,440 --> 01:54:18,450
+第二就係私營房屋嗰個重建，你點樣去理解、你去認識人哋重唔重建咧？你唔知私私人發展商佢嗰個，你唔係私人發展商討論嗰條蟲，你點要掌握咧？靠以前嘅以前嗰個重建咧，就係好睇經濟，經濟好咧就重建快啲，經濟唔好就唔重建慢啲。噉你又點點去搞咧？第四。
+
+651
+01:54:18,450 --> 01:54:26,920
+你信唔承認政府自己八十年代嘅獨立自主永久會係你而家都承認嘅，還是你呢個都連呢個都可以抹咗佢唔要嘅咧？
+
+652
+01:54:27,670 --> 01:54:42,240
+居誒頭先講個性別咧，個係譬如英國好早期七十年代已經人哋已經用有用有用嘅政府會唔會考慮呢個範圍？居個人居住面積會唔會考慮呢個範圍？成為呢一個係居住欠佳，譬如minimum最少一個人有幾多呎？
+
+653
+01:54:42,520 --> 01:54:53,840
+呢啲會唔會成為你將來考慮嘅範圍咧？最後就係投資，投資如果個數字大到係足夠影響我哋嗰啲嘅住屋嘅租金同埋價值。
+
+654
+01:54:54,120 --> 01:55:01,900
+甚至包括頭緊先頭咁講嘅，佢買咗之後，佢都唔係諗住攞嚟係去去住嘅，去住嚟用嘅。咁呢啲你會唔會考慮咧？
+
+655
+01:55:02,960 --> 01:55:06,700
+係邊一位答啊？係啊，黎生。
+
+656
+01:55:08,010 --> 01:55:08,790
+係。
+
+657
+01:55:09,890 --> 01:55:29,900
+邊嘅議員嘅提問咧，咁有幾幾點回應咧？咁首先就係住户數目淨增長。咁其實我哋都有提過，究竟咩叫淨增長咧？就係話誒，首先你一段時間裏邊咧一定有啲誒新嘅住户係落誒形成嘅，譬如話有人結婚啦，誒，或都可能譬如話有有啲誒屋企人想搬出嚟住噉樣。咁呢個係新嘅增長。同一時間咧，一定有啲係住户係會流失嘅，譬如話成日。
+
+658
+01:55:29,900 --> 01:55:49,910
+家庭，譬如誒因為離婚而分拆咗啦，又或者譬如話誒因為譬如有單身嘅佢過身啦，咁等等，亦都可能係移民離開香港嘅，咁所以我哋係會將一段時間做一個推斷，就係話誒一個正新嘅增長減翻一個即係預計推斷係會係少咗嘅住户咁計出嚟嘅，相信係一個增長嚟嘅叫正增長，咁當中已經考慮咗頭先議員好多。
+
+659
+01:55:49,910 --> 01:56:09,920
+係議員提及嘅，譬如雙非嬰兒啊，誒一啲誒，譬如啲流動居民，佢可能有啲時間長期唔喺香港，咁但係佢嘅嘅冇住屋需要咧，咁等等。噉，所以呢方面咧，其實我亦都會考慮嘅嘅嘅嘅情況嚟嘅。咁主重建嘅方面咧，嗱誒，我哋最主要係睇翻誒，如果供應房咧，主要係防險同埋防防位同埋防險啦。咁防位當然我哋自己係會比較瞭解就係。
+
+660
+01:56:09,920 --> 01:56:29,930
+房委會已經宣佈咗邊一啲嘅重建計劃啦。咁嚟緊誒誒，如果新嘅重建計劃真宣佈嘅話咧，咁嚟緊亦都係會再計算內在內嘅房嘅方面，亦都係會同我哋會密切合作。噉我哋都會知道佢邊方面嘅重重建嘅私人嘅方面咧。噉我哋亦都要睇翻啲現有嘅數據啦。咁譬如話一啲誒誒，市建局咁可能影一啲數據，佢知道嚟緊邊嘅地方佢。
+
+661
+01:56:29,930 --> 01:56:49,940
+進行重建計劃啦。咁另外，知一啲私人市場，譬如私人發展商佢做嘅嘢咧。咁當然，我哋唔會真確實知道佢做緊啲乜嘢。咁但係我哋都其中方法就係考慮翻過往嘅數據，譬如話誒，之前佢有幾多個誒呢啲重建嘅嚟緊，我哋可唔可以用呢個方法去推算翻嚟緊嘅嘅嘅嘅重建嘅嘅嘅嘅數目咧？噉樣噉，我哋會再詳細喺呢。
+
+662
+01:56:49,940 --> 01:57:09,950
+考慮呢方面嘅，咁至於頭先即係亦都有提過話，譬如啲定義上嘅啦，咁譬如話一啲咩誒獨立自主等等咧，噉我我哋係會去即係正如頭先秘書長所講啦，噉我哋會考慮一藍字因素嘅，咁當然唔能夠話即係黑非黑即白，咁邊啲係邊啲唔係，噉我哋會詳細再考慮嘅，嚇，咁投資需求方面，我諗我哋頭先都提咗，咁誒最主要我哋好關注呢方面。
+
+663
+01:57:09,950 --> 01:57:20,670
+咁有需要嘅話，我哋係當我哋初步睇法覺得係並冇需要。咁但係而家有啲係真係發現係大量嘅誒嘅人士，可能係買咗完全唔止住嘅話咧，噉我哋會再留意嘅。多謝主席。
+
+664
+01:57:20,950 --> 01:57:22,030
+阿鳳姐。
+
+665
+01:57:22,590 --> 01:57:42,600
+你繼續啦。我想再問就係，我現在覺得頭先噏咗呢啲嘢咧，可唔可以你畀嗰個將你認為考慮嘅因素再寫翻翻份文件畀我哋？誒，你問呢個問題咧，啊，馮議員喺誒第一輪誒前一輪嘅即係前一啲時間問嘅議員咧，就秘書長已經。
+
+666
+01:57:42,600 --> 01:57:52,020
+承諾咗佢會係畀一個書面咧，就係嗰個誒定義因素會列曬出嚟啦嚇，佢會做嘅嚇。
+
+667
+01:57:52,470 --> 01:57:56,530
+仲有冇議員喺第二輪要發問？係副主席。
+
+668
+01:57:56,810 --> 01:58:07,960
+謝偉全議員，誒多謝主席。其實我想問下，即係睇下秘書處嗰度做咗一份嘢，好好啊。咁誒，可唔可以有多少少或者資料咧？即係表一嗰度咧。
+
+669
+01:58:08,240 --> 01:58:22,190
+佢有嗰個買賣協議嘅數目咧，我唔知道，可能誒政府方面即係邊個部門咧，即係有冇嗰啲面積添啊？即係唔知有冇即係涉及嘅面積。你問秘書處係咪？係啊係。係噉，終於係問秘書處啦。
+
+670
+01:58:22,770 --> 01:58:42,780
+咁呢個第一、第二個表咧，就表四都同樣啦，即係有嗰個誒房屋個單位嘅數目咧，咁有冇嗰啲即係總共面積咧？我唔係話即係即係可能涉及，譬如你係三萬幾個單位，究竟加埋咧總共會涉及嘅面積幾多嘅噉樣？唔知有冇咧？係啊，邊位？阿胡生，係胡志華。
+
+671
+01:58:42,780 --> 01:59:02,790
+先生係誒，多謝你嘅讚賞先嚇。噉我哋誒，其實我哋表一同埋表四咧，其實裏邊嘅資料咧都係我哋都係基於喺誒統計處裏邊攞出嚟嘅資料咧。呢個係我喺公眾資料上高攞得最好嘅部分嚟嘅咧，已經係噉。至於譬如話，佢裏邊有冇再詳細一啲誒？
+
+672
+01:59:02,790 --> 01:59:22,800
+誒分級啊，或者再嘢咧，可能呢啲要問翻政府統計處嚟講係預備畀你哋嚇，唔該。主席誒，即係睇下可唔可以攞到，因為其實好緊要，即係你個面積咧就會影響你其實有幾多地需要幾多地誒去供應，先可以產生到咁多嘅面積畀人去住。咁所以我我。
+
+673
+01:59:22,800 --> 01:59:40,950
+另外再問一問一個誒，唔知可唔可以咧？可能就誒政府我唔知有冇，因為好多時候咧，而家我哋好多即係做一啲而家新嘅政策，都係嗰啲短期炒賣。噉啊，短期炒賣咧，嗰啲數字咧，唔知有冇？譬如話，即係買咗個單位，可能三年內咧又再賣出嚟。
+
+674
+01:59:41,230 --> 02:00:01,240
+咁呢呢啲數字唔知有冇咧？噉啊，即係我唔知政府或者秘書處可以幫手。咁另外仲有一個數字咧，其實咧，誒我知道有啲誒誒機構做過嘅，香港平均咧，即係每家庭咧，即係換樓嘅頻密嘅次數，譬如話佢幾年換一次嘅。咁呢啲咧，其實可能。
+
+675
+02:00:01,240 --> 02:00:16,540
+某程度亦都反映咗咧，係嗰個換樓可能係一個改善居住方面嘅一個要求嚇。噉我唔知有冇呢啲數字或者秘書處？我先請秘書處回應，再請部門回應。秘書處回應可唔可以做到啊？
+
+676
+02:00:16,870 --> 02:00:36,880
+啊，局啊，秘書長，你想講先係嘛？你嚇？Sorry, can I just say, um, in terms of some of the information, um, in terms of flat sizes in the private sector, of course we don't, because we calculate, we collect the information based on price, and that's the parameters that we have. So if if the secretariat can find that, then
+
+677
+02:00:36,880 --> 02:00:56,890
+Obviously that would help. In terms of the information about short-term reselling, we have provided some information in the context of the buyer's stamp duty and special stamp duty bills committee, and we can certainly recirculate that information to members if they're interested. I'm not sure we can determine it down to the individual flats and how many how many.
+
+678
+02:00:56,890 --> 02:01:02,530
+times an individual flat has been resold, that information we don't know, but we can say how many times
+
+679
+02:01:02,810 --> 02:01:03,940
+We have had to.
+
+680
+02:01:04,270 --> 02:01:13,000
+record and charge special stamp duty, which is intended to deal with these short-term reselling. So we'll circulate that to you.
+
+681
+02:01:13,290 --> 02:01:22,030
+主席，我想問啊，政府會唔會因為而家嗰個面積咧，其實都我覺得幾重要咧，即係往後會唔會有咧？即係尤其是咧，當誒。
+
+682
+02:01:22,340 --> 02:01:42,350
+一手嗰個面積嗰個定義咧，而家都定咗啦。因為將來我覺得即係長遠嚟講咧，嗰個面積方面都好大影響。除咗個單位數目之外，因為始終你誒即係講限量限尺咧，其實同我哋即係社會或者誒政，
+
+683
+02:01:42,350 --> 02:01:51,340
+政府認為居住方面，大家可以定嗰個誒水平啊，嗰個嗰個誒有直接關係。
+
+684
+02:01:51,920 --> 02:02:03,030
+保障下。Again, Mr. Chairman, I think we we may have more information when the new bill on the control of first-hand residential properties comes in. But again,
+
+685
+02:02:03,310 --> 02:02:13,250
+in so far as the existing historic information we have not collected on the basis of size, in the private sector, the collection is primarily on the basis of price.
+
+686
+02:02:14,270 --> 02:02:18,480
+誒時間到啦，我都要止住個跌漲嚇。
+
+687
+02:02:18,760 --> 02:02:29,410
+咁咧就秘書處，你稍後你會後你話一話畀謝委員聽點回應啦。時間到啦。咁而家咧，國家議員翻到嚟，國家議員四分鐘啊！啊，好啊，多謝主席。
+
+688
+02:02:29,710 --> 02:02:31,720
+嗱，我諗咁咧，即係。
+
+689
+02:02:32,000 --> 02:02:37,220
+整體嚟講咧，呢個文件咧係不能收貨咧。呢個係個大家嘅睇法嚟。
+
+690
+02:02:37,640 --> 02:02:53,630
+無論係對於財政司辦公室、運房局咧交呢一個文件咧，我哋都係有好大嘅唔同意。噉我我係覺得公道啲咧，主席，我我哋畀個時間佢，因為佢而家畀長策會去傾咧，就唔等於咧。
+
+691
+02:02:53,910 --> 02:02:56,880
+就係政府係冇佢初步嘅評估。
+
+692
+02:02:57,160 --> 02:03:17,170
+初步對於房屋面積佢哋嘅目標，或者佢對於佢手上有嘅資料嘅估計，即係你唔可以話啊，我哋長策會會傾咧，或者將來有一個討論嘅結果。我哋而家亦都唔係要個討論結果，我哋要個評估嘅基礎。包括頭先啊，有同事講，你希望。
+
+693
+02:03:17,170 --> 02:03:26,070
+嗰個人均嘅面積，無論喺私樓同埋公公營房屋係幾多？你預計嘅比較準確一啲，未來十至二十年。
+
+694
+02:03:26,350 --> 02:03:29,900
+你對人口，包括唔同人口嘅結構。
+
+695
+02:03:30,180 --> 02:03:37,450
+佢哋需要嘅面積，你都唔可以咁交呢啲噉嘅紙就算嘅，大佬係嘛？呢啲你叫你叫我哋啃落去。
+
+696
+02:03:38,410 --> 02:03:44,130
+即係你去拎去長策會，你拎咩文件咧？我哋亦都係冇係阻擋嘅。
+
+697
+02:03:44,410 --> 02:03:50,290
+但係，除你呢一個睇房屋政策，我哋嘅小組係個責任咧，去審視翻。
+
+698
+02:03:50,570 --> 02:03:55,390
+你嘅評估啊嘛，你噉你有個評估，你你可能你話要兩個月。
+
+699
+02:03:55,810 --> 02:03:59,150
+要翻嚟嘅，我哋明白，所以我具體嘅問題係兩個。
+
+700
+02:03:59,540 --> 02:04:00,310
+主席。
+
+701
+02:04:00,590 --> 02:04:04,280
+佢幾時會拎翻翻嚟？佢初步評估嘅數字。
+
+702
+02:04:04,590 --> 02:04:24,600
+具體嘅，第二就係我頭先聽阿柏志高先生講咧，佢都係有一個以往佢嘅承諾，同埋將來個評估，對於公共房屋入邊，佢預計每一個人嗰個啊要求啊需求等等，我就想佢有一個比較誒清楚嘅一個文件畀我哋，即係過往。
+
+703
+02:04:24,600 --> 02:04:38,870
+啦，佢一路個改變咧，同埋佢將來嘅，你唔好話而家你係冇一個噉嘅誒初步嘅評估，係畀翻我哋。噉啊，主席，你可唔可以係都畀一個即係時間佢哋要翻翻嚟呢個會入邊去交代翻我哋頭先嘅要求？
+
+704
+02:04:39,270 --> 02:04:48,200
+Thank you, Mr. Chairman. Honestly, we don't have any projections at this stage. We haven't carried out any of the work because we're waiting to be told.
+
+705
+02:04:48,510 --> 02:05:08,520
+what are the what are the issues we have to address? I can't give you something I don't have. That's why I'm here。主席真係好離譜啦！你個你嗰位特首嘅梁先生，日日喺個街度講啊，尋日都亦都同公眾去講，就話要香港人要住寬敞啲。如果你唔知嘅，你不如翻去問下樑振英啊，究竟佢腦入邊諗啲咩嘢？係每人係住多幾多？咁呢個。
+
+706
+02:05:08,650 --> 02:05:25,610
+政府嘅政策唔可以係噉樣嘅，即係特首講完之後咧，下邊啲官員話我冇嘅，連呢個目標都冇，咁咪唔好講咯。你等啊，白。係唔好意思嚇。Again, Mr. Chairman, I can give you the figures as to the current allocation standards in the public sector.
+
+707
+02:05:25,930 --> 02:05:44,660
+但，what people choose to buy and what they can afford to buy in the private sector determines the space allowable for them. I can't control that. That's the private sector. So, even when we go forward, the best we will be doing is to say, under our definition of inadequately housed, what we think is an inadequately housed.
+
+708
+02:05:44,940 --> 02:06:04,950
+situation and that will not just be based on space as I described earlier in the conversation. It has to take into account a lot of factors such as the state of the accommodation. You can have a large flat that has sewage running down the walls. That's not adequately housed. That would be a factor.
+
+709
+02:06:04,950 --> 02:06:24,960
+你可有個大型平，立即下飛行路徑的機場，噪音問題會係一個因素。有好多因素，我們要決定，當我們提出一個定義不夠適當的住户。正如我開頭説過，我重複多次，這次會議的目的是要獲得成員對我們應該考慮什麼的意見，所以當我們
+
+710
+02:06:24,960 --> 02:06:31,800
+come up with those figures, they do adequately reflect what members want us to do. That's the purpose of this exercise.
+
+711
+02:06:32,770 --> 02:06:43,520
+主席，你可唔可以叫佢頭先嗰個要求好具體嗰啲？而家最後我會係總結。而家咧，石禮謙議員咧第一次要求，噉啊仲剩翻。
+
+712
+02:06:43,800 --> 02:07:03,810
+三分鐘，畀兩分鐘你啦，好嘛？我唔使要兩分鐘，我想誒要求下啲文件嘅主席。你講啦，誒，我想咧就即係睇到立法會秘書處嗰嗰嗰嗰篇啲文件係非常之有用嘅，主席。頭先啊，阿阿謝員講嗰啲資料都係應該要有喺度。第二樣嘢，我想叫政府咧。
+
+713
+02:07:03,810 --> 02:07:23,820
+可唔可以？如果長策會嗰啲文件，畀長策會啲文件唔係話秘密或者可以畀到我哋咧，畀我哋參考下，等我哋瞭解到將來去畀我哋睇長策會嗰啲誒報告啊。噉佢啲啲報告都要從一個一個文件，即係嗰啲資料喺邊度出嚟？咁如果佢有啲資料，可唔可以畀？
+
+714
+02:07:23,820 --> 02:07:29,210
+嗰啲長策會去畀長策會嘅資料畀我哋，可以研究下，畀我哋參考下，主席。
+
+715
+02:07:29,510 --> 02:07:46,820
+Mr. Chairman, in fact, what we're doing is providing members exactly the same content as we provide to the members of the steering committee. Because obviously, there's no point in us providing different information. So the papers we produce here are based on the papers we produce to the steering committee. There's really no difference.
+
+716
+02:07:47,100 --> 02:08:07,110
+主席，即係如果係噉嘅資料長策會，真係我都戥佢哋，或者佢哋係超人，我哋真係蠢人。主席，即係即係你淨係睇翻我哋嗰個，而家我係秘書處嘅文件畀長策，佢哋畀政府畀長策會嘅文件，完全真係唔同。主席，因為個政府啲文件係我我都錯過第二啲嘅策策策。
+
+717
+02:08:07,110 --> 02:08:27,120
+委員會啲文件啊，個都係即係好詳細同埋好有深度。依個冇深度又冇闊度，我唔知係咩度，係完全即係主席，即係係無道主席誒。主席有道，係主席有道，仲有啲文件，政府無道啫。係政府即係主席，即係我覺得，如果佢係喺，如果佢證佢證明到佢係所。
+
+718
+02:08:27,120 --> 02:08:44,220
+有個畀長察會啲文件係所有噉嘅文件啦，我哋都冇冇冇任何。柏志高生，你可唔可以再補充回應啊？議員嘅批評。No, Mr. Chairman, I think I said, as I say, we we're trying to provide members with all the information we're providing to the steering committee. That's the only way this can work properly.
+
+719
+02:08:45,570 --> 02:08:49,850
+嗱噉樣啦，誒政府嘅回應你都聽到啦。
+
+720
+02:08:50,190 --> 02:08:54,760
+誒，我哋嘅批評，我諗在座嘅官員亦都聽得好清楚啦。
+
+721
+02:08:55,040 --> 02:09:08,780
+最後咧，我想咧係總結咧，今日政府提交呢份文件咧，就係就著房屋需求的推算，你睇下睇個標題，個目的咧，佢就話評估長遠房屋。
+
+722
+02:09:09,140 --> 02:09:29,150
+需求的方法的方法，誒呢份文件咧，我相信各位員咧已經喺誒我哋超過兩個鐘頭嘅評論裏面咧，提出好多意見。我希望咧，當局咧係詳細聽咗我哋嘅意見之後。
+
+723
+02:09:29,250 --> 02:09:49,260
+你係就著，因為你都話嚟聽我哋意見啊嘛。我希望你哋咧就係稍後誒提交一個補充嘅文件，就話聽咗我哋嘅意見之後，包括你哋聽埋督導委員會嘅意見之後，你哋已經採納到十麼方法？
+
+724
+02:09:49,260 --> 02:10:09,270
+我相信呢個大家係需要知嘅，個呢個就係結論啦。你用咩方法嚟作日後推算嘅理論框架或者係理論基礎？我覺得我哋係需要知嘅。正如大家講，我哋需要監督嘅。咁因此咧，我係希望政府在你做出研究嘅結論。
+
+725
+02:10:09,270 --> 02:10:27,480
+之後咧，即係用什麼方法結論？之後咧，你畀翻份文件畀我哋，我哋畀大家傳閲，然後我哋再睇下需唔需要開會。噉我嘅結論咧就係噉樣。噉啊，呢個會議咧亦都係到到法定時間啦。噉就冇其他事項，會議到此結束。

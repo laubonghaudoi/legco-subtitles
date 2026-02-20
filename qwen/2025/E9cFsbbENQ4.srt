@@ -1,0 +1,2531 @@
+1
+00:02:13,000 --> 00:02:15,210
+啲可能，我哋會見到嘅情況。
+
+2
+00:00:00,000 --> 00:00:08,970
+歡迎各位出席今日嘅與實施無紙證券市場制度相關的六項附屬法例小組委員會嘅會議。
+
+3
+00:01:22,110 --> 00:01:32,700
+規定咧，旨在定定一啲適用於唔同發行人同埋核准啊證券登記機構必須要遵守嘅一啲最基本嘅水平。
+
+4
+00:02:35,500 --> 00:02:47,540
+而就某些嘅事宜咧，容易引起爭拗，咁會對推行我哋上市人啊同埋股東普遍使用未來嘅無紙證券制度咧，帶嚟一啲嘅影響。
+
+5
+00:03:08,110 --> 00:03:20,500
+將一啲即係我哋頭先講過啦，我哋一啲嘅最低要求以上嘅一啲即係誒誒更加更加好、更加優化嗰個嘅情況嘅細則同埋準則咧，可以喺呢度擺落去嘅。
+
+6
+00:00:49,370 --> 00:01:01,820
+各位委員，大家好。誒喺請證監會同事去到就上一次嘅會議嘅個別跟進事項作出回應之前咧，我希望即係誒簡單講講我哋呢個法例嘅思路同埋我哋嘅目的。
+
+7
+00:03:22,000 --> 00:03:38,770
+事實上咧，隨住金融基建嘅完善化同埋現代化、電子化程序，對於發行人同埋證券登記機構喺行政工作同埋企業管治上咧，都有相當嘅好處。啊，以股東通訊為例，我哋預期喺推行咗之後咧。
+
+8
+00:03:39,050 --> 00:03:58,340
+大部分嘅發行人同埋佢嘅亦啊核準嘅登記啊機構咧，都會喺開户或者用其他嘅溝通渠道嘅時候咧，攞到股東嘅電郵地址，用電子嘅方式作為呢個通訊聯繫。我哋相信咧，業界亦都係樂意推行啊，促進無紙化嘅措施嘅。
+
+9
+00:00:09,350 --> 00:00:29,360
+誒噉啊！再次歡迎誒財富局、證監會同埋誒律政司嘅代表啦。咁誒，議程第一咧就係同政府當局去舉行誒會議，去繼續逐條審議啦。誒，逐條審議之前咧，就大家可以留意啦。誒喺枱面咧有誒一份文件係誒。
+
+10
+00:00:29,360 --> 00:00:49,370
+證監會提供嘅就誒，根據對上一次誒三月二十一號開會討論嘅一啲跟進嘅一啲回應嘅噉，或者我哋開始逐條審議之前，睇下證監會對於呢份文件有冇啲咩，或者局方有冇啲咩誒需要同我哋誒誒報告下。唔該，多謝主席。
+
+11
+00:01:02,100 --> 00:01:22,110
+嗱誒，上一次我哋誒會嗰度都有講過啦。其實我哋誒喺根據二零二一年我哋嘅修訂條例嘅框架底下咧，無紙證券市場嘅制度嘅附屬法例嘅定明係喺新制度下面嘅運作同埋監管一啲嘅細節啊，法例條文包括我哋上一次討論有關持有人登記冊嘅。
+
+12
+00:01:32,980 --> 00:01:52,990
+啊，有關呢啲嘅基本水平嘅定定咧，其實係啊由證監會喺二零二三到到二零二四年所進行咗一係列廣泛嘅市場諮詢之後咧，而定出嘅一啲嘅基線嘅要求。啊，以喺優先保障咧嚟自世界各地股東，涵蓋可能。
+
+13
+00:01:52,990 --> 00:02:13,000
+有啲年紀比較長，或者將來有機會繼續持有實體證券嘅股東，以及咧唔同種類嘅機構嘅股東嘅權益嘅基礎上咧，平衡各方，包括上市人啦、交易所、中介人、核准證券登記機構嘅操作需要，並且預留一定嘅彈性咧，以照顧將來一。
+
+14
+00:02:15,490 --> 00:02:35,500
+啊，未能達到，大家會留意到啦。未能達到我哋喺法例上面嘅要求咧，啊，我哋係會有一啲嘅刑事嘅責任同埋規管嘅行動。我哋唔希望咧喺一啲嘅特殊情況之下，有發行人被逼啊違犯嘅情違法嘅情況，或者佢嘅股東容。
+
+15
+00:02:48,100 --> 00:03:08,110
+喺定定我哋誒喺條例入邊寫嘅最低水平嘅基礎上咧，我哋可以透過其他嘅行政措施，譬如誒證監會會制定嘅核准證券登記機構操作準則同埋相關嘅指引，同埋一啲嘅上市規則等等咧，通過呢啲行政措施咧。
+
+16
+00:03:58,650 --> 00:04:18,660
+喺上一次會咧，議員提到誒好多嘅具體建議，我哋都覺得係誒誒一啲好嘅建議。譬如吳建莊議員啊、陳肇雄議員、簡惠文議員、江玉寬議員咧，就喺嗰個登記啊冊入邊嘅個人資料，譬如話我哋係咪誒地址啊啊呢個啊啊身份證號碼或。
+
+17
+00:08:19,320 --> 00:08:22,020
+就誒討論到誒。
+
+18
+00:06:48,780 --> 00:06:56,930
+係，證監會有冇啲咩誒繼續即係逐條審議啦？去去到啱啱誒局方嗰個誒內容有冇啲咩其他補充啊？證監會嚇。
+
+19
+00:05:18,690 --> 00:05:30,620
+但係雖然如此咧，就住即係議員喺之前有提過嘅建議咧，我哋啊同埋證監會咧，就住進一步進一步點樣去優化各項附屬法例咧，持有呢個開放嘅態度。
+
+20
+00:06:31,040 --> 00:06:48,500
+我哋見到情況係點啊？同埋我哋累積咗一啲嘅操作經驗嘅時候咧，有需要咧，我哋亦都可以做一啲法律啊方面嘅優化嘅嚇。啊，主席，我簡單講講就住啊當中啊上一次幾條嘅提嘅內容咧，我哋證監會同時可以逐一條去同大家啊go through啊。
+
+21
+00:04:18,660 --> 00:04:38,670
+或者一啲嘅電郵資料啊，啊，嚴江議員亦都有提過咧，就話喺啊同股東通訊嗰陣時，係咪可以用即係郵寄以外嘅其他方法咧？呢啲咧，我哋覺得都係對於促進市場進一步賣向電子化，或者喺投資者保障同埋喺提升市場效率方面咧，都有一啲嘅正面嘅作用。但係咧，有。
+
+22
+00:04:38,670 --> 00:04:58,680
+由於即係部分可能牽涉嘅影響咧，可能比較大，即係譬如我哋今朝啊有幾位議員，我哋都有睇呢個啊啊穩定幣嗰個條例，就住譬如一啲嘅條款，我哋講電郵地址，我哋都要有啊一啲好好具體嘅嘅definition，我哋要擺落去，所以呢啲咧，我哋覺得係要小心，即係要要睇清。
+
+23
+00:04:58,680 --> 00:05:18,690
+坐喺喺嗰個誒，如何放落去，或者係咪放落去，或者如何放落去咧？我哋都要誒小心去考慮嘅。誒就住目前嘅各項嘅具誒附屬法例咧，佢哋反映咗誒證監會喺之前講過市場諮詢期間啊參與者嘅誒所凝聚到嘅共識。
+
+24
+00:05:30,900 --> 00:05:50,910
+誒而家誒議員審議嘅附屬法例喺審議期過咗之後咧，同埋政府喺有關修訂到到實施中間咧，仲有一段嘅時間嘅。誒喺第一次會議，我哋嘅投影片都講過，我哋希望就係誒成個誒無紙化嘅框架就會喺誒明。
+
+25
+00:05:50,910 --> 00:06:10,920
+年年初生效啦，噉我哋嗰個嘅生效公告咧，我哋就相應會喺希望喺今年年底嗰度就就去啊啊提交立法會嘅。我哋屆時咧可以就啊議員嘅提出嘅意見咧，可以做進一步嘅報告啊，包括我哋喺審視相關嘅行政措施啊之後嘅結果。
+
+26
+00:06:11,030 --> 00:06:31,040
+啊！即便就算喺喺新制度實施咗之後咧，我哋都係記得誒，議員就住啊唔同嘅措施點樣可以進一步嘅優化咧，我哋都會繼續去去睇嘅。啊，二期咧就係喺就算法例制定咗，我哋嘅呢個無紙化生效咗之後咧，我哋見到有需要嘅時候誒，點樣喺啊落實咗個情況。
+
+27
+00:06:59,280 --> 00:07:19,290
+誒，主席，我想問下，就需唔需要將我哋上次議員啲問題咧，我哋個回應咧，我哋喺依度講一講，定係我哋可以直接去逐條審議啊？誒，唔唔使好詳細去誒，去去係啦係啦，即係就就係啱啱基於局方講嘅內容，有冇啲咩補充啫？如果冇都都冇冇其他補充嚇。
+
+28
+00:07:19,290 --> 00:07:39,300
+冇冇特別啊！主席唔該，好噉，我諗誒，即係再次強調，我諗議員帶嚟嘅一啲意見，佢哋背後都有一定嘅誒，即係誒佢哋嘅唔同嘅界別誒所誒遇到嘅困難，同埋誒即係佢哋誒表達呢啲噉嘅意見咧。希望嗰個政府雖然未必喺嗰個。
+
+29
+00:07:39,300 --> 00:07:59,310
+法律條文嗰度，因為都理解到誒誒，即係喺嗰個對於備受監管又好，喺嗰個誒即係成成件事型嘅唔同嘅持份者嗰個影響都會較大。但係啱啱誒，我諗局方講到嗰個內容咧，就係喺一啲行政嘅措施咧、指引啊等等咧，亦都可以誒，即係。
+
+30
+00:09:24,120 --> 00:09:27,140
+係會點樣樣咧嚇？唔該，主席。係證監會。
+
+31
+00:12:00,340 --> 00:12:03,570
+誒，我哋停一停。誒，陳仲尼議員。
+
+32
+00:10:27,670 --> 00:10:33,530
+其他嘅誒誒條件，我哋先至可以繼續畀佢誒繼續運作噉。
+
+33
+00:11:26,080 --> 00:11:35,810
+So we go to clause twelve of the USM rules. So clause twelve deals with transfers by way of an instrument of transfer.
+
+34
+00:11:36,090 --> 00:11:46,430
+Subclause one clarifies that the issuer has the prerogative to refuse the use of instruments of transfer to effect transfers that are in uncertificated form.
+
+35
+00:12:23,860 --> 00:12:35,730
+太闊啦，又或者可唔可以請局方咧解釋下，你哋擺呢個括弧三落去嗰陣時候咧，係覺得有啲咩嘅情況或者理由之下咧，即係佢係可以拒絕呢個轉讓？
+
+36
+00:10:53,840 --> 00:11:05,790
+啊，誒或者係吊銷個牌照噉樣，噉你喺個規喺個守則就更多唔同嘅誒，可以即係規管佢嘅或者係紀律佢嘅做法係咪？係啦，冇錯冇錯。好唔該。
+
+37
+00:11:46,740 --> 00:11:59,810
+Subclause two clarifies the particulars that the instrument of transfer must include, and subclause three preserves the issuer's right to refuse to register a transfer on other grounds.
+
+38
+00:07:59,310 --> 00:08:19,320
+執行到誒一啲具體嘅細節，因為即係個魔鬼喺細節度啦嚇，咁所以嚟緊我諗即係誒，我我哋都即係誒希望證監會同埋嗰個局方誒繼續去隨着即係議員所提出呢啲意見去推行好啦。咁而家去到誒進一步逐條審議嘅，噉我哋上次咧就。
+
+39
+00:08:24,090 --> 00:08:44,100
+上次咧就討論到證券及期貨無紙證券市場誒規則第三部嘅第十二條噉啊誒呢而家去到呢度咧，可以先誒證監會誒做一個介紹，從嗰度開始。哦，係誒簡簡惠敏議員，主席係唔好意思，我想就住即係頭先講。
+
+40
+00:08:44,100 --> 00:09:04,110
+嗰度咧，我哋理解嘅嚇，即係多謝副秘書長同埋即係證監會代表有提到，即係嗰個誒我哋嘅關注同埋即係嗰個將來要持續檢視嗰個即係誒做法啦。咁咧就可能擺喺個規則誒個靈活性冇喺個即係核准證券登記機構嘅守則噉樣咁有。
+
+41
+00:09:04,110 --> 00:09:24,120
+靈活性同埋可操作性啦。咁不過，你趁呢個機會，可唔可以同我哋同埋公眾都解釋下咧？你喺個規則同埋嗰個守則嗰個意義啊，即係或者嗰個佢個地位上邊嚇。如果係個守則係咪主要即係係點樣咧？係係規管嗰個守則嘅對象，佢如果違反嘅後果係？
+
+42
+00:09:27,640 --> 00:09:47,650
+噉，議員啊，多謝你個提問。我我嗰個守則咧，其實都係我哋證監會誒一向咧監管啲市場人士嘅一個做法嚟嘅，即係話我哋有個法例嘅要求啦，就係某啲市場嘅人士需要誒受證監會規管啦。咁喺呢個情況就係啲核准得證券登記公司啦。咁但係喺法例度咧，我哋會有一個框架。
+
+43
+00:09:47,650 --> 00:10:07,660
+畀我哋去監管嗰啲機構，但係我哋通常都會有一啲守則咧列明咧，我哋唔同嘅關注嘅地方咧，我哋嗰個期望係乜嘢？咁如果係嗰啲誒同埋啲要求啊，咁如果啲核准證券登記機構咧，將來就住啲守則某啲條款，如果佢達唔到我哋要求咧，噉就其實係一個我哋會關注睇。
+
+44
+00:10:07,660 --> 00:10:27,670
+啊！佢係咪對我哋？我哋監管佢咧，我哋係咪需要再有一啲調整？咁即係簡單講咧，去到最嚴重咧，如果守則有一啲條款佢達唔到我哋要求咧，我哋可能會誒即係再審視下佢係咪合適作為我哋一個誒核准證券登記機構，或者我哋去到一啲例如我哋可能私加一啲。
+
+45
+00:10:33,830 --> 00:10:53,840
+係，即係話理解為可以話對佢發牌啦，或者持續畀佢去經營嘅一種嘅監管嘅手段嚟嘅嚇，喺個守則度就係。咁違反嘅時候咧，就對你嚟講亦都多啲靈活性係咪啦？即係你可以喺紀律上邊去處理佢，就並唔係規則上面咧，就係誒可能係罰款啊。
+
+46
+00:11:06,070 --> 00:11:26,080
+好誒，逐條審議之前，主要都講一講，因為今日個會議安排嘅時間兩點半到六點半，相對比較長，所以我哋開到大概一半嘅時間，我哋會有一個簡短嘅即係誒五分鐘嘅休息。噉啊，先預告先。咁而家我哋可以交翻時間交翻畀政教會，係逐條審議誒第三部第十二條嗰度。唔該。Thank you very much, Mr. Chairman.
+
+47
+00:12:03,850 --> 00:12:23,860
+誒多謝主席，主席啊，我就關心咧十二條括弧三嗰度咧，頭先誒即係政府嘅同事都讀咗啦，就係話咧括弧一咧，即係佢唔係淨係侷限於咧括弧一裏邊所講嗰啲情況下，嗰個發行人咧可以拒絕轉讓啦。噉我自己就擔心，即係其實會唔會寫得？
+
+48
+00:12:37,070 --> 00:12:57,080
+應該冇。Yeah, thank you for that question. So generally, an issuer would have ability to refuse a transfer under, say, for example, their terms of issue, or their articles, or general law even. The idea of this legislation is not to affect any of that.
+
+49
+00:14:34,370 --> 00:14:35,500
+個轉讓。
+
+50
+00:14:16,460 --> 00:14:17,820
+哦，OK。
+
+51
+00:14:35,780 --> 00:14:39,290
+噉我哋而家就做緊一個無紙形式嘅。
+
+52
+00:12:57,080 --> 00:13:01,430
+所以一個例子會係，例如如果，
+
+53
+00:14:19,220 --> 00:14:24,700
+係誒簡惠敏言，即係我都想解解嗰個十二一括弧B啦。
+
+54
+00:14:25,120 --> 00:14:34,090
+如果嗰個單位嚇，即係個標的單位係屬無紙形式嘅話，呢一條係講發行人可以拒絕佢。
+
+55
+00:15:52,490 --> 00:16:01,600
+If the securities are in uncertificated form, it is the prerogative of the issuer to say no. I'm not going to accept an instrument of transfer.
+
+56
+00:13:21,720 --> 00:13:31,180
+所以，的idea是，這條立法應該不影響任何發行商當前在如何處理轉移工具方面的權利。
+
+57
+00:13:51,620 --> 00:14:01,640
+因為又冇講明乜嘢ground，又冇講明乜嘢嘅理由，噉我就所以就想即係瞭解下，即係誒，其實你哋係諗到啲乜嘢嘅情景咧？
+
+58
+00:14:02,340 --> 00:14:14,090
+係啦，除咗啱啱嗰個，即係你誒證監會提出相對比較合適，仲有冇啲咩避免貸款？Yeah, another example would be if the certificate, for example, is forged. That would be another grounds for refusal.
+
+59
+00:14:39,570 --> 00:14:51,820
+證券，我哋點樣去解讀啊？即係呢呢一條係咪？你跟住後邊會有講到，如果係用無紙形式嘅股票嘅話咧，就係點樣樣去做個轉讓嗰個嘅登記咧？
+
+60
+00:15:33,140 --> 00:15:52,210
+insists on using a instrument of transfer. So the way we have done the legislation is basically to give the issuer the prerogative to decide that when when it is when they can refuse an instrument of transfer. And the general idea is that
+
+61
+00:13:01,710 --> 00:13:21,720
+Parties have placed an instrument of transfer before the company, but the details are inaccurate. For example, they are purporting to transfer one thousand shares when they only have eight hundred shares. So, the issuer should be entitled to reject that kind of a transfer instrument of transfer.
+
+62
+00:13:31,610 --> 00:13:51,620
+或轉賬 requests。好啊，跟住不過我頭先聽到同事佢答咧，嗰啲咪就應該係括弧二B啊嗰啲講明咗咯，即係佢譬如話佢嗰啲股數唔啱啊，嗰樣嘢，即係佢佢咪就係話任何關於轉讓唔啱嘅嘢喺二嗰度已經包咗，即係其實我冇問題嘅，但係我覺得第三咧係寫得好闊。
+
+63
+00:14:53,120 --> 00:15:13,130
+perhaps I can explain the approach we have taken in the entire part first. In that case, so the idea is not to mandate when the issuer can use an instrument of transfer and when the issuer can use a specified request. And the reason for that is because we need to allow flexibility for the issuer.
+
+64
+00:15:13,130 --> 00:15:33,140
+要要deal with unique and varied circumstances. The other concern is that we don't want the investor to demand how they can use how they can effect transfers. So, for example, we don't want a situation where the shareholder actually holds the shares in uncertificated form, but
+
+65
+00:16:21,970 --> 00:16:23,770
+一個instrument of transfer。
+
+66
+00:17:46,600 --> 00:17:48,980
+兩方咧，就係。
+
+67
+00:18:59,040 --> 00:19:02,210
+或者我哋睇埋後邊嚇，即係指明要求啊。
+
+68
+00:16:24,050 --> 00:16:27,690
+所以，的basis of this is that the issuer.
+
+69
+00:18:50,480 --> 00:18:54,130
+用一個紙張嘅轉讓文書咧，個發行人都可以拒絕嘅。
+
+70
+00:16:55,000 --> 00:16:58,790
+所以，idea here is to build in a degree of flexibility.
+
+71
+00:16:27,970 --> 00:16:34,710
+And its share registrar will necessarily always endeavour to use the most effective means.
+
+72
+00:16:59,070 --> 00:17:07,910
+所以，那the issuer can deal with unique circumstances without the investor insisting on the method of use.
+
+73
+00:17:10,750 --> 00:17:26,310
+係，啊主席，我諗就係由於我哋唔係好知道咩叫做specified request啊，因為我哋可能未去到嗰條啊指明請求啊，誒，我而家噉樣初步聽咧個理解就係話，我哋如果嗰個
+
+74
+00:17:49,750 --> 00:18:09,180
+唔一定，應該話令到個賣方就唔可以一定要用紙，即係instrument of transfer，用一個轉讓文書嘅方式先至去嚟到去做呢一個轉讓，係咪啊？你想解釋嘅就係因為等於你後邊講specify request嘅時候咧，係咪專門我嚟處理嗰個無紙形式嘅轉讓個登記咧？
+
+75
+00:16:01,960 --> 00:16:21,970
+and then likewise if the securities are in sorry if the securities are in certificated form then it is the prerogative of the issuer to say I'm not going to accept a specified request and if they are in uncertificated form it's the prerogative of the issuer to say I'm not going to accept an
+
+76
+00:16:34,990 --> 00:16:55,000
+They will not be able to use a specified request as a means to effect transfers of paper, certificated securities. Likewise, if the securities are in uncertificated form, they would not be inclined to constantly receive instruments of transfer.
+
+77
+00:17:26,590 --> 00:17:46,600
+本來即係你誒局方即係證監會解釋investors，我相信係係你解讀為即係買賣雙方啦。如果嗰個本身個股票咧係一個無紙形式嘅，咁嗰個文書即係呢度就講個轉讓文書嘛。咁亦都令到嗰個投資者兩
+
+78
+00:18:10,460 --> 00:18:30,470
+即係你既然係無紙啦嘛，噉你就唔想佢用翻一張instrument of transfer有紙嘅嚟到去轉讓嚇。我諗要要要解釋翻，你擺翻落個scenario度好啲個情景啊。唔該。我諗我我就試下解解一次啊，簡議員嗱，即係即係第十二咧括弧一咧，其實就係話咧誒發行人可以。
+
+79
+00:18:30,470 --> 00:18:50,480
+以拒絕一啲人一啲轉讓，嗰個轉讓咧係基於一啲紙張嘅轉讓文書啊嘛。咁所以嗰度咧，我諗係誒去即係避免一啲誤會啦。所以誒十二一B咧就講明，就算嗰個標的單位係無紙嘅，即係話有一個投資者，如果佢揸住嗰個股票係無紙形式，如果佢想
+
+80
+00:19:02,870 --> 00:19:22,880
+好啊，江玉歡議主席誒，我想誒就有關啊，頭先陳仲離議員問嗰個問題咧誒，我認為咧喺三第三條呢度咧，可唔可以或者請政監嗰度都講清楚嗱？因為第三咧確實咧係任何情況底下都可以拒絕嘅。
+
+81
+00:19:57,610 --> 00:19:58,220
+係。
+
+82
+00:21:50,420 --> 00:21:52,630
+第一，呃，的地。
+
+83
+00:21:42,020 --> 00:21:45,120
+我哋呢度誒停一停誒，譚愛羣議員。
+
+84
+00:21:45,630 --> 00:21:49,750
+誒，主席，我是問一下，這個十三條，這個。
+
+85
+00:21:52,970 --> 00:21:58,630
+就是基於指明請求而登記轉讓，並非合理的。
+
+86
+00:21:19,480 --> 00:21:25,210
+Subclause two also clarifies the particulars that the specified request must include.
+
+87
+00:21:34,740 --> 00:21:40,740
+and subclause four preserves the issuer's right to refuse to register a transfer on other grounds.
+
+88
+00:21:58,910 --> 00:22:06,590
+切實可行，因為前面A、B、C都是比較明確的，但是D的話呢，這個並非合理的。
+
+89
+00:20:58,600 --> 00:21:06,990
+The securities are in uncertificated form, sorry, are in certificated form, or are in the process of delisting.
+
+90
+00:21:25,490 --> 00:21:34,460
+Subclause three allows for a specified request to consist of a written instruction instead of an authenticated message in certain circumstances.
+
+91
+00:21:07,410 --> 00:21:19,200
+Subclause two clarifies what constitutes a specified request. So basically, it's two authenticated messages, one attributable to the transferor and the other to the transferee.
+
+92
+00:19:42,960 --> 00:19:55,960
+打個記錄話畀我哋聽，係會基於呢啲噉嘅理由先會去到拒絕咧。嚇唔該，廉政監會。Thank you for that question. So yes, in indeed, the issuer would be expected to act reasonably.
+
+93
+00:19:22,950 --> 00:19:42,960
+雖然咧，我知道你哋好好寫咗附註，噉你可唔可以畀翻一啲comfort？我哋大眾市民就係話都係基於一啲合理合法嘅情況底下，你哋先會去到拒絕嗰個登記咧嚇呢一度。雖然你文字上冇寫噉，但係喺呢個法案委員會裏邊，你可唔可以都有？
+
+94
+00:19:58,570 --> 00:20:18,580
+我諗最主要誒個個關注點就係誒言辭，啱啱啱啱好好好明顯提咗出嚟一啲比較合理嘅，好似啱啱所講用咗一個股數，佢都冇唔存在有足夠嘅股數，噉你冇可能要求一啲嗰個誒持股人唔擁有嘅一啲股份去作出一啲行動啦。咁不過同時間我諗其他委員。
+
+95
+00:20:18,580 --> 00:20:38,590
+大家關注嘅地方就係會唔會即係太闊咁？啱啱都聽到啦，即係都要有一個合理嘅合理嘅一個範圍之內咯嚇。即係雖然喺個文字上就睇唔到有額外太多嘢箍住呢樣嘢。好嘅，咁或者我哋誒冇其他問題，就繼續可以誒證監會逐條審議，可以繼續嚇。
+
+96
+00:20:38,590 --> 00:20:58,600
+Thank you, Mr. Chairman. So we move on to clause 13. So clause 13 deals with transfers by way of a specified request. Subclause 1 clarifies that the issuer has the prerogative to refuse the use of a specified request to effect transfers under certain circumstances, and these include where
+
+97
+00:23:16,530 --> 00:23:17,040
+嗯。
+
+98
+00:22:14,520 --> 00:22:15,470
+謝謝。
+
+99
+00:25:10,040 --> 00:25:11,310
+係，證監會。
+
+100
+00:22:06,870 --> 00:22:09,380
+誒，並不是那麼的明確的。
+
+101
+00:25:06,910 --> 00:25:09,560
+點做係有啲關係嘅嚇，或者可以解一解。
+
+102
+00:23:59,320 --> 00:24:03,600
+誒包含到未來，如果有啲咩改變咧，即係都唔會受到影響。
+
+103
+00:22:09,660 --> 00:22:14,050
+這裏面有沒有什麼準則？或者舉個例子説明一下？
+
+104
+00:25:12,470 --> 00:25:30,540
+所以，The idea is that where the shareholder is holding certificated securities, even if the transferee is going to hold in uncertificated form, the transfer will be effected by way of an instrument of transfer. This is simply
+
+105
+00:22:16,500 --> 00:22:36,510
+係，鄭家梅。Yeah, thank you very much for that question. In putting that particular paragraph in, our main concern was to tackle situations of takeover offers. So, in a takeover situation, particularly where the takeover is a hostile takeover, the
+
+106
+00:22:36,510 --> 00:22:56,520
+Share registrar acting for the offeror will not be the same share registrar as the target company's share registrar, and so that share registrar will not be in a position to receive electronic instructions. And so, it may be necessary for paper instructions to be.
+
+107
+00:22:56,520 --> 00:23:16,530
+provided so that paragraph is designed for that scenario. We did not specifically cast that to refer to the takeover scenario. In case there were other situations with similar practical limitations that we cannot currently think of, so that it could cater for those situations as well.
+
+108
+00:23:19,300 --> 00:23:39,310
+OK，嗯，係一位誒，我自己都有個問題，就係喺第十三點嘅C個部分啦。其實除誒呢度都有提及到，即係如果一啲除牌嘅程序誒，同埋喺呢誒誒，除咗呢度，仲有啲其他誒條文都會有提及到除牌嘅。咁當然我哋嗰個預算案入邊都有提及過誒，未來即係都會去。
+
+109
+00:23:39,310 --> 00:23:59,320
+檢討一下，如果除牌嘅機制咁再設立一個長尾一個交易嘅一個板，咁當然我知道而家呢啲嘢係一啲可能長線可能發生、可能唔發生嘅事情。咁但係對於誒多陣時係咪都再要誒跟進翻改翻條法例咧？因為而家寫嘅方式就都足夠一個誒誒，即係。
+
+110
+00:24:06,880 --> 00:24:26,890
+主席，你嗰個問題，我估咧主要都要睇翻咧。將來如果係誒設立一個已經除咗牌嘅平台嘅嘅買賣嘅平台嘅時候咧，其實個個個細節係點啊？因為而家都誒坦白講未有一個叫誒初步諗法係點啦。我諗要睇埋個細節，我哋先至可以決定得到咁誒。
+
+111
+00:24:26,890 --> 00:24:46,900
+我諗呢度暫時，我哋誒，如果將將來真係大家有個共識，設立一個誒已經畀已經除牌嘅公司都可以做買賣嘅平台，我哋會睇埋呢呢度無紙化嗰啲法例咧，需唔需要有一啲相應嘅修訂？嚇。O.K.，好唔該。下一位誒，簡惠敏議員。主席嗱，我哋而家處理緊十三條啦。
+
+112
+00:24:46,900 --> 00:25:06,910
+噉我不如請局方解釋一下，如果喺無紙證券同埋咧十二條下無紙，十三咧就係講有紙證券嘅，咁嗰種我哋即係嗰個轉讓嘅登記會係點樣樣做咧？然後即係畀嗰個發行人個權去拒絕嘅時候，係即係同你前面係應該。
+
+113
+00:27:09,050 --> 00:27:11,290
+我唔知嗰個答案係咪正確。
+
+114
+00:27:05,510 --> 00:27:08,230
+continue the entire process electronically.
+
+115
+00:28:40,050 --> 00:28:44,590
+Yeah, so it is intended. Thank you for the question. It is intended.
+
+116
+00:27:51,590 --> 00:27:58,620
+翻返去睇第十二條咧，就係話，如果賣嘅時候咧，已經係一個無紙嘅證券嘅話咧，個。
+
+117
+00:26:57,780 --> 00:27:05,230
+但係，實際 transfer，所以，what happens is that the paper instruction goes to the share registrar， and then the share registrar will then
+
+118
+00:26:48,220 --> 00:26:57,500
+所以， in order to allow for this degree of flexibility，133 allows for instructions to be by way of paper to some extent.
+
+119
+00:26:03,860 --> 00:26:15,080
+as you will see we have we have allowed for a scenario where a paper instruction may be received so that is in thirteen three
+
+120
+00:26:35,450 --> 00:26:47,940
+因為，作為我們理解， not all share registrars may be able to provide a facility an electronic facility for joint holders from the get go.
+
+121
+00:25:50,880 --> 00:26:03,580
+for the for all other situations where the securities are already in uncertificated form, the intention is that it would be electronic.
+
+122
+00:25:30,870 --> 00:25:50,880
+This process is simply one that has been agreed among the share registrars and ourselves and the exchange, because it's pragmatically the most sensible way forward. Because in any case, in that situation, you will need to attach the paper title document, so it makes sense to just allow that whole process to be a paper one.
+
+123
+00:26:15,440 --> 00:26:35,450
+And the reason for that is twofold. One is to allow for some flexibility to deal with investors who may not be as tech savvy and who may need some assistance, especially elderly investors. Secondly, it's also to deal with the situation of joint holders.
+
+124
+00:27:11,570 --> 00:27:31,580
+係，主席。啊，我諗聽嚟咧，就即係話，對於嗰個誒register即係個登記處啦、個證監會啦、exchange即係交易所咧，都同意咗相關嘅呢個做法啦，就係話要視乎嗰個轉讓我標的嗰個證券係乜嘢啦。如果個標的證券咧現時係有紙嘅，係一個仲係有紙。
+
+125
+00:27:31,580 --> 00:27:51,590
+型嘅話咧，就係個sell side佢就係揸住一張有紙嘅即係證券啦。噉就算嗰個買方嚇，佢想用一種無紙化形式嚟到去持有咧，咁都會係用紙本嘅形式去轉讓嘅，就視乎嗰個賣嗰個subject係乜嘢啦，係有紙定無紙嚇。咁如果
+
+126
+00:27:59,200 --> 00:28:19,210
+發行人咧就有權去拒絕你用一個轉讓文書去轉讓啦，噉樣嚇。咁而喺有紙嗰種情況去做嗰個經認證信息嗰度咧，呢度我諗都要解解個操作啊。點解會即係話你話對於一啲老友記嚇，即係可能長者嚟講咧？
+
+127
+00:28:19,210 --> 00:28:39,220
+佢會想保留翻三括弧B嗰種嘅選項，係咪因為你驚佢未必有一種手機嘅嘅嘅工具畀佢去發一啲認證嘅信息啦？啊，如果冇呢個問題嘅時候，咁將來嗰個轉讓係點樣樣？你嗰個fancytaker message經認證信息係點樣樣運作啊？唔該。
+
+128
+00:28:44,990 --> 00:29:05,000
+for people who really can't deal with electronic transfers, it's it's really there just as an additional flexibility. I know that a lot of elderly investors are actually very quite quite tech savvy. It's only really for a small population that may not be, and it's really there to.
+
+129
+00:31:54,120 --> 00:31:56,030
+我 suppose。
+
+130
+00:31:39,810 --> 00:31:42,370
+It's much shorter than the current ten days.
+
+131
+00:31:05,380 --> 00:31:08,280
+ASR code indicated that.
+
+132
+00:30:05,090 --> 00:30:08,990
+Done swiftly. Is there a process to expedite that so that?
+
+133
+00:31:42,780 --> 00:31:49,400
+第二部分個問題有冇啲咩？
+
+134
+00:31:56,440 --> 00:32:03,420
+If the so, yeah, you're right. This is an and connector. So, like I said, the tech savvy.
+
+135
+00:31:08,980 --> 00:31:21,710
+Certain timelines, and in in the case of transfers which involve deposits into SECs, for example, the timeline we're looking at is within the T plus two settlement cycle. Okay, so
+
+136
+00:30:09,390 --> 00:30:24,370
+no further delay, and also that it's mentioned there that it's as long as it's reasonable and also practicable. Can you give me like an example where it's not reasonable and not practical?
+
+137
+00:32:03,740 --> 00:32:20,430
+carve out and the carve out for joint holders that that's the main reason for that paragraph B. So if in fact the share registrar has a facility for effecting transfers by authenticated instructions for joint holders, then we do not expect them to be relying on this.
+
+138
+00:31:22,140 --> 00:31:39,190
+因為有不同scenario，但係我們有 elaborated on this in the ASR code to make sure number one that it's done on an as soon as practicable basis，所以唔係話佢哋有兩日嚟坐喺度，但係佢哋做咗盡快，兩日或者係幾多日係絕對嘅最大。
+
+139
+00:29:05,000 --> 00:29:25,010
+Allow some flexibility for the share registrar to deal with that situation. The concept there is, or the expectation there is, that the investor may come to the counter, the share registrar's counter, and provide some sort of written instruction. And then the share registrar, based on that written
+
+140
+00:29:25,010 --> 00:29:45,020
+instruction might input the relevant information into their system, and so in that sense, you still have an electronic transfer. So it's really just a way of finding a right balance to deal with all these different considerations。好，好，到咗。好，下一位何敬康副主席。嗯。
+
+141
+00:29:45,080 --> 00:30:05,090
+Yes, I got two two questions. In the event that written instructions required under any circumstances, is there any process in place to expedite the authentication process to make sure that it's swift?
+
+142
+00:30:25,360 --> 00:30:45,370
+Sure, thank you for the question. So first, your question was about expediting the transfers where there's a written instruction. Yes. So I think what we are anticipating is a situation where the person giving the written instruction is actually approaching the share registrar physically at their counter, and so all the relevant information.
+
+143
+00:30:45,370 --> 00:31:05,380
+Would be received and input into the system. In terms of the time needed or the time within which these transfers need to be effected, the intention is that transfers by specified request must be done as soon as possible. And we and we have in the.
+
+144
+00:32:20,710 --> 00:32:40,720
+The reason we put that in is because we understand that it is an expensive system to build in for the share registrars, and they have quite a lot to do to implement USM from day one. So we we understand the need to prioritise. But as and when they get their systems to be able to cater for joint holders, we do.
+
+145
+00:33:22,570 --> 00:33:23,400
+講到。
+
+146
+00:33:12,970 --> 00:33:16,290
+this kind of instruction. fair enough.
+
+147
+00:33:00,730 --> 00:33:04,630
+and look at all the circumstances.
+
+148
+00:34:49,670 --> 00:34:53,920
+The idea is to give the the offeror the flexibility.
+
+149
+00:33:17,330 --> 00:33:21,900
+O.K.可以繼續誒第十四點，可以繼續誒審議嚇。
+
+150
+00:34:15,020 --> 00:34:20,620
+所以，它 specifies who may execute the instrument and the particulars to be included in the instrument.
+
+151
+00:35:15,410 --> 00:35:22,050
+情況底下，個issue有冇責任係通向SFC係通報嘅？譬如喺Listing Rules裏邊。
+
+152
+00:33:05,050 --> 00:33:12,660
+Okay. And I should add that it's in the share registrar's interest and also the issuer's interest not to encourage.
+
+153
+00:34:20,980 --> 00:34:29,210
+and subclause three clarifies the requirements where a specified request is used to effect transfers from a minority shareholder to the offeror.
+
+154
+00:34:05,520 --> 00:34:14,740
+Subclause two clarifies the requirements where an instrument of transfer is used to effect the transfers from a minority shareholder to the offeror.
+
+155
+00:33:56,010 --> 00:34:05,240
+所以，against that background，subclause one clarifies that clause fourteen applies in relation to a minority buyout under the CO。
+
+156
+00:33:25,400 --> 00:33:37,220
+Thank you, Chairman. So we go on to Clause 14. Clause 14 deals with transfers from a minority shareholder to an offeror pursuant to a buyout under the company's ordinance.
+
+157
+00:33:37,570 --> 00:33:55,660
+The co provisions referred to the use of an instrument of transfer when effecting buyouts, and the relevant provision has actually been amended under the 2021 amendment ordinance to allow for these transfers to be effected by way of an instrument of transfer or a specified request.
+
+158
+00:32:40,720 --> 00:33:00,730
+Not expect them to be giving this option to to such holders. In the case of tech savvy holders, I guess there wouldn't really be such scenarios. How do you determine someone who is tech savvy or not tech savvy? I think I would expect the share registrar to take a common sense approach.
+
+159
+00:34:29,660 --> 00:34:49,670
+I think just one point to add in light of members' earlier questions, the option is given to the offeror as to whether to use an instrument of transfer or a specified request, because depending on the certain on the specific circumstances of the case, they may not be able to use one or the other. So the
+
+160
+00:34:55,400 --> 00:35:15,410
+誒，江玉歡議誒主席啊！主席誒，我想問翻個關於呢一部分一個即係少少嘅問題，即係其實頭先喺嗰兩個section即係十二十三嗰度咧，都有講到個issuer咧係有權可以refuse to register嘅。我想請問多一句啫，就係話誒，如果喺嗰種咁特殊嘅情。
+
+161
+00:35:44,350 --> 00:35:45,780
+誒嚴光議員。
+
+162
+00:36:08,900 --> 00:36:10,820
+咁咧，可唔可以解釋一下？
+
+163
+00:37:34,160 --> 00:37:36,540
+或者梁生有冇啲咩補充啊？係咪啊？
+
+164
+00:37:12,580 --> 00:37:15,840
+That's the reason for putting paragraph C in.
+
+165
+00:36:48,560 --> 00:36:52,370
+maybe just to expand why that requirement is in there.
+
+166
+00:35:30,280 --> 00:35:35,470
+And one of the notification requirements is a half half yearly reporting.
+
+167
+00:36:02,290 --> 00:36:08,620
+誒咁咧，除咗處處牌咧，仲有停牌嘅。咁咧停牌咧係咩考慮？停牌係咪都係唔畀嘅？
+
+168
+00:36:52,650 --> 00:36:59,280
+It's really because if the securities are already in the process of delisting.
+
+169
+00:35:35,750 --> 00:35:42,520
+And one of the items that we would require them to report in that is whether they have refused any transfers.
+
+170
+00:35:22,960 --> 00:35:30,000
+So when we come to the ASR rules, you will see that we have notification requirements.
+
+171
+00:36:59,560 --> 00:37:12,300
+And for whatever reason, the investor wants to use a certificate, an instrument of title, an instrument of transfer. There's no real need to persist with the use of a specified request.
+
+172
+00:36:11,660 --> 00:36:27,350
+係，陳家梅。Thank you for the question. So, if I have understood it correctly, it's talking about where the trading is suspended. So, when trading is suspended, there would not be any transfers anyway. So, I'm not sure.
+
+173
+00:35:46,080 --> 00:36:02,010
+誒主席，誒唔好意思咧，我誒可以可唔可以翻翻嗰個第十三條嘅十三條嘅誒嗰個詩咧，嗰個誒第一嘅古詩嘅話咧，該等政權咧正處於嗰個除牌嘅情情緒嘅。
+
+174
+00:37:16,300 --> 00:37:33,880
+所以，主席，我係係咪建議咧？係加上嗰個唔係停牌兩個字咧，仲係譬如行牌比較全面一啲嘅嘛。啱啱講嘅係停牌咧，誒誒時間咧，當然咧唔可以畀轉人啦。但係咧，你如果加上係咪更加全面啲咧？停牌、除牌先啱啦，都唔會啊。
+
+175
+00:36:28,550 --> 00:36:48,560
+I suppose you can still deposit the shares into seacars. I beg your pardon. Yes, you're right. You can deposit the shares into seacars. This would not apply in that scenario. We're not looking at that scenario where trading is suspended. We're looking at the scenario where the securities are in the process of delisting.
+
+176
+00:37:42,720 --> 00:38:02,730
+阿袁議員，我我諗我解釋多次啦，即係十三C咧，我哋中文用嗰個字咧係叫除牌，除牌即係delisting，即係嗰間上市公司唔唔再有資格喺交易所個平台度掛牌做買賣。咁呢個情況咧就唔可以再做㗎啦。噉你你提嗰個例子咧，停牌即係可能短時間，誒有好啲原因，佢暫時唔可以做買賣。咁呢個
+
+177
+00:38:46,730 --> 00:38:47,550
+所以。
+
+178
+00:38:48,120 --> 00:38:49,250
+所以，然後，
+
+179
+00:38:40,620 --> 00:38:43,190
+O.K.誒，繼續嚇證監會。
+
+180
+00:38:55,170 --> 00:38:58,680
+which is on authenticated messages.
+
+181
+00:38:49,530 --> 00:38:54,590
+Sorry, thank you, Mr. Chairman. So we can move then on to part four, I think.
+
+182
+00:39:38,270 --> 00:39:43,900
+Subclause two expands on the meanings of various terms used in subclause one.
+
+183
+00:38:22,740 --> 00:38:28,610
+幾日佢就會復牌啦，噉就佢就誒未必影響到。我諗呢個係佢。
+
+184
+00:38:29,290 --> 00:38:36,820
+停停牌係唔唔受影響嘅，即係只係淨係包括除牌嗰啲，所以唔包喺入邊停牌係嘛？
+
+185
+00:39:19,340 --> 00:39:27,820
+of the relevant recognised clearinghouse or ASR, and must be sent in accordance with the operating rules of those facilities.
+
+186
+00:39:28,100 --> 00:39:37,530
+and thirdly, it must be one that is between either an issuer and a registered holder or transferee, or between an offeror and a registered holder.
+
+187
+00:40:31,610 --> 00:40:43,370
+應該冇呀。Yeah, thank you for that question. So the reason is because the term rules in the context of a recognised clearinghouse is already defined in Schedule One of the SFO.
+
+188
+00:39:58,180 --> 00:40:10,020
+and also in the case of the definition of operating rules, the definition seeks to clarify that it refers to rules or procedures that govern communication of messages using the facilities concerned.
+
+189
+00:39:44,180 --> 00:39:57,730
+All the definitions are largely for drafting purposes, so they seek to identify the particular issuer, or offeror, or operating rules, or registered holder in in the context of subclause one.
+
+190
+00:38:02,730 --> 00:38:22,740
+就唔包咯，呢個呢個在內噉，所以嗰個停牌同除牌係兩件事嚟嘅。係噉，所以呢度已經清楚，因為呢度淨係針對除牌，唔係停牌嚇。一個適用程度，我諗即係未必係喺呢呢一個條文就即係你除牌就會有個影響，但係喺個停牌就因為基於即係可能隔半日啊，或者幾個鐘頭或者隔。
+
+191
+00:38:59,330 --> 00:39:19,340
+所以Part Four deals with the use and effect of authenticated messages. Clause 15 expands on what constitutes an authenticated message. So subclause 1 clarifies that the message must first relate to prescribed securities. Secondly, it must be sent using messaging facilities.
+
+192
+00:40:11,460 --> 00:40:31,470
+誒，江玉歡議員誒，主席，我想請問一下關於operating rules嗰度咧。嗱，我唔熟悉嘅操作咧，我想請問一下點解recognised clearing house同approved securities registrar嗰個寫法會唔同？後者會elaborated咁多嘅，想請問點解咧嚇？
+
+193
+00:41:13,480 --> 00:41:14,140
+要唔要？
+
+194
+00:41:15,320 --> 00:41:16,480
+要開麥。
+
+195
+00:40:43,750 --> 00:40:46,060
+whereas not for ASRs。
+
+196
+00:43:15,540 --> 00:43:18,710
+好唔該，誒，江玉歡言。
+
+197
+00:41:07,150 --> 00:41:12,200
+放咗係其中一部分嘅條文，或者呢個可以係啦，誒律政司代表。
+
+198
+00:42:08,680 --> 00:42:15,150
+嗯，或者誒，如果主席係講緊上次開會講嗰個電子文本同埋誒。
+
+199
+00:43:56,800 --> 00:44:08,130
+section十八啊頂頭B嗰度個一boy又出現咗register holder，咁究竟我應該用section二個definition咧，定係用section十五個definition咧？請問？
+
+200
+00:41:53,820 --> 00:42:07,760
+條嗰度咯，係即係佢就換句話嚟講，唔適用於喺其他地方。但係上次我哋討論嗰個情況咧，就係屬適用於誒成成個誒條文嘅，咁所以就可以搬翻到去上邊。但係呢個就唔係，係咪咁意思啊？
+
+201
+00:44:08,590 --> 00:44:22,650
+呢個第一個問題，第二個問題就係話，其實係咪真係要咁仔細？我就睇register holder同埋issue啊，真係其實真係一定要redefine過咩？我想請問一下，係咪真係要噉樣做咧？想問下D.O.J嘅同事。
+
+202
+00:43:20,130 --> 00:43:36,500
+主席，啊，我多謝你記得呢個問題嚇。誒，我想請問一下啦，噉就因為主席呢個問題啦，其實喺第十五條嗰度咧，喺個definition嗰度，registered holder特別同埋issuer咧，其實喺section two都已經define過啦。
+
+203
+00:40:47,140 --> 00:41:07,150
+唔該，好。我呢呢呢個環節，我都有少少問題想問，因為誒，我諗之前誒，如果冇記錯，好似簡議員曾經都提過，有陣時有啲定義咧喺誒條文入邊，有冇啲咩誒特別考慮，即係係唔係放喺前邊？因為上一次開會咧，我哋都有部分嗰啲條文咧，就係淨係。
+
+204
+00:41:33,810 --> 00:41:53,820
+會擺翻喺誒個規例誒，通常第二條啦就會擺係啦，就係噉樣去分。噉我諗即係呢度第十五條嗰啲定義咧，全部佢咧其實第十五條嗰啲定義咧係適用於第四步嘅。啊，唔係，sorry，係第第十五條嘅。咁所以佢就會喺翻十五。
+
+205
+00:42:15,430 --> 00:42:35,440
+誒hard copy form嗰兩個定義咧，噉我哋其實誒我哋翻去考慮過之後咧，其實係誒我哋喺嗰個回覆度就講咗係會誒留翻喺第八條嘅。咁個原因就係因為咧嗰兩個定義咧係真係誒適用於第八條嘅啫。咁個原因就係第八條咧係參。
+
+206
+00:42:35,440 --> 00:42:55,450
+按照公司條例底下嘅相關嘅規則，咁公司條例嗰個規則入面咧有呢兩個定義。咁所以我哋為咗要兩個條文嘅運作係一致咧，第八條就要加翻嗰個定義。咁但係就住第六條都有用到electronic form同埋hard copy form呢兩個字。咁但係咧，因為第六條係誒誒U.S.M，即係我哋無紙。
+
+207
+00:42:55,450 --> 00:43:15,460
+以證券呢個獨有嘅條文嚟嘅，噉就所以就唔需要同公司條例嗰啲有個一致性。噉我哋考慮到其實誒hard copy form同electronic form呢兩個字本身佢嗰個通常嘅含義咧，已經可以係適用噉，所以咧就冇需要去將第八條嗰個特登隱埋落去第六條嗰度咯。
+
+208
+00:43:36,790 --> 00:43:56,800
+咁嗱，你呢一度咧就係話，in this rule嚇就噉樣解就要用特別呢一種解釋嘅。咁嗱，我又想請問一下啦。咁去到第第十八section十八咁先算啦，都有出現register holder嘅喎。噉我究竟係我想請問一下，噉我應該係如果係去到第。
+
+209
+00:46:40,940 --> 00:46:41,770
+先生。
+
+210
+00:46:38,770 --> 00:46:40,660
+係邊位回答？係。
+
+211
+00:45:15,180 --> 00:45:18,610
+屋先，我唔係要佢哋改，因為我自己噉嘅睇法。唔該，主席。
+
+212
+00:45:19,360 --> 00:45:24,680
+O.K.唔該唔該，先生留意到。O.K.嗯誒，簡惠文議員。
+
+213
+00:44:42,980 --> 00:44:54,620
+所以咧就我哋會就住經認證信息乜嘢為之係誒登記持有人同埋受養人啦，同埋係誒發行人呢啲咧就會再再有個定義噉樣嘅。
+
+214
+00:46:24,990 --> 00:46:38,320
+第六條唔使定義佢咧，就係清晰咧噉樣。即係我自己覺得個解釋係有少牽強嘅，即係為咗要解釋你點解第八條要照抄落嚟，又唔喺第六條定義啦噉樣嚇。啊，睇下局方有咩回應。
+
+215
+00:44:22,970 --> 00:44:42,980
+係律政司嘅同代表。誒係係，多謝多謝主席同埋多謝江議員嘅提問啦。咁誒呢兩個定義咧喺第十五條嗰度又再定義個原因，就係因為咧我哋第四部咧係講緊誒關於authenticated message，誒即係經認證信息嘅條文噉。
+
+216
+00:44:55,170 --> 00:45:15,180
+主席，我有一個我想make一個note啫，即係嗱，我認為除非真係好有必要啫。舉個例子係一個法例嗰度，咁唔通某一個人就出封信，噉你要要喺嗰個section嗰度講嗱，如果我講咧凡指出封信嘅時候就係出信嗰個人咯，咁即係我我有時覺得係未必要。不過呢，我一個note。
+
+217
+00:45:24,960 --> 00:45:44,970
+誒主席，誒我都多謝你記得起上次八第八條同埋第六條啦嚇。其實即係局方嘅回應對於第八條、第六條點解做佢而家嗰個做法咧，我自己個人就覺得即係都有即係完善嘅空間嘅嚇。誒不過即係本身唔係一個即係好主要嘅啦嚇。
+
+218
+00:45:44,970 --> 00:46:04,980
+即係因為你第八條其實解嚟解去個解釋都係話跟翻公司條例嘅相關條文，佢因為第八條所以又搬翻過嚟，就要定義翻誒乜嘢叫做電子形式，咩叫印本形式噉樣。咁但喺第六條咧就好似你頭先指出咁啦，第六條其實都有出現呢個字嘅喺嗰度就唔定義，就用佢本身字義。
+
+219
+00:46:04,980 --> 00:46:24,990
+嗰個嚇，即係原來佢個ordinary meaning佢個噉，但係hard copy form嚟嚟計啦嚇，以hard copy form咧，其實定義咗嘅話咧係講得比較闊啲嘅嚇，即係包括紙本或者係其他嘅嘅形式噉樣。噉係唔係自己用佢個即係？
+
+220
+00:46:46,470 --> 00:47:06,480
+姚米，先生係畀先生個米。姚米係，咁多謝議員嘅提問啦。咁其實我諗呢度真係誒係按需要，因為我哋寫法例嘅時候咧係真係睇嗰個需要。咁第八條我都係有個確切嘅需要，係即係確保誒呢度即係USM rules同埋公司條例規則嗰個運作一致咧。所以我哋。
+
+221
+00:47:06,480 --> 00:47:26,490
+先至會擺翻嗰個定義喺度。其實本身如果冇第八條嘅話咧，我哋覺得係電子形式同埋印本形式呢兩個字。特別係咧第六條裡面咧，其實佢有再講多啲嘅啫。佢有講其實係電子形式就係去傳送去該人指明嘅電子地址啦。印本形式咧。
+
+222
+00:47:26,490 --> 00:47:46,500
+就係將有關通知郵寄去嗰個人最後為人所知嘅地址啦。咁所以其實第六條本身係會長進啲，即係佢自己一條文係會長進啲去解説嗰個實際嘅嗰個個傳送嘅模式嘅。咁所以本身其實我哋覺得第六條係真係唔需要另外特別有定義係。但係主席，我諗咧你個。
+
+223
+00:47:46,500 --> 00:48:06,510
+重點其實係講咩叫印本形式啊？唔係講送嗰個形式。印本形式咧，你第八條定義咧就係講紙張形式或能夠供閲讀的雙類形式咯，係就住印本形式而定義嘅，唔係就咧嗰種即係寄送或者係派送嗰種方式嚟到去定義嘅。
+
+224
+00:48:46,530 --> 00:48:47,480
+唔該。
+
+225
+00:51:00,620 --> 00:51:02,620
+要-prescribe securities.
+
+226
+00:51:02,900 --> 00:51:05,380
+和啲 particulars。
+
+227
+00:49:12,310 --> 00:49:16,400
+Thank you, Mr Chairman. So we move on to Clause sixteen.
+
+228
+00:51:05,750 --> 00:51:10,760
+the particulars of a registered holder of the of the prescribed securities.
+
+229
+00:51:29,140 --> 00:51:34,180
+clause 19 deals with authenticated messages sent by a principal.
+
+230
+00:50:34,400 --> 00:50:40,300
+Clauses eighteen to twenty-one, they deal with the effect of authenticated messages.
+
+231
+00:48:48,300 --> 00:48:58,050
+係啦，或者我諗可以誒，正咁去睇下有冇任何有優化空間啦。即係當然，即係呢個誒誒原則性未必係影響到誒。
+
+232
+00:48:58,330 --> 00:49:12,030
+誒極之重大嘅一個情況，不過即係都誒對於嗰個成個誒係啦係啦個解讀會可能會順啲，睇下有冇任何優化空間啦。咁誒好，冇其他問題，我哋繼續啦嚇。
+
+233
+00:50:14,150 --> 00:50:27,920
+And subclause two clarifies that the addressee there can be more than one addressee, and where it is expressed as being addressed to one person on behalf of another, then both persons are to be regarded as addressees.
+
+234
+00:49:35,540 --> 00:49:50,290
+and subclause two clarifies that an authenticated message may be attributable to more than one person, and where it is expressed or identified as being sent by one person on behalf of another, it is attributable to both of these persons.
+
+235
+00:51:11,040 --> 00:51:26,010
+Subclause two clarifies that the provisions that is clauses nineteen to twenty one apply without prejudice to the liability of any person for causing or permitting the message to contain inaccuracies or to be sent without authority.
+
+236
+00:49:16,680 --> 00:49:35,260
+所以，Clause 16 deals with the attribution of authenticated messages. Subclause 1 provides that an authenticated message is attributable to a person if it is expressed or otherwise identifiable as being sent by or on behalf of that person.
+
+237
+00:48:06,510 --> 00:48:26,520
+其實另外一個做法，如果你想將公司條例去保持一致咧，你亦都可以話在本條中引用到呢啲字嘅時候咧，就依據公司條例嘅第十一條，即係引述翻嗰個嚟到去講係咩嘢定義，係咪一樣可以咧？即係因為你噉樣做法咧，就會引起我哋可能及後都會有。
+
+238
+00:48:26,520 --> 00:48:46,530
+呢啲嘅疑問嘅，即係正如侯清光議員嗰個係另一個例子。點解你喺第十五條定義咗，但係喺後嚟又有用呢個字？噉係咪當用翻register holder嘅時候，我就睇第二條咧，就淨係第十五條先適用？你第十五條嗰個具體定義咧，真係有少少混亂。
+
+239
+00:49:54,140 --> 00:50:14,150
+Moving then to clause 17. Clause 17 clarifies who are to be regarded as addressees of authenticated messages. Subclause 1 provides that the addressee of an authenticated message is the person to whom the message is expressed to be addressed, or otherwise identifiable as being addressed.
+
+240
+00:50:40,610 --> 00:51:00,620
+所以，starting first with clause 18，this delineates the extent to which these provisions apply。That means the provisions 18 to 21。Subclause one clarifies that the provisions apply only in respect of authenticated messages that relate to rights，benefits or privileges attached。
+
+241
+00:53:04,270 --> 00:53:05,260
+青瓜妹。
+
+242
+00:53:55,590 --> 00:53:56,670
+The.
+
+243
+00:52:32,100 --> 00:52:33,670
+啊！江玉歡議員。
+
+244
+00:53:24,160 --> 00:53:27,900
+所以， similar to what you do with online banking, for example.
+
+245
+00:53:56,970 --> 00:54:01,090
+The way it would work is that so long as the
+
+246
+00:53:50,000 --> 00:53:54,840
+If there is no authority or if it's by mistake, yeah.
+
+247
+00:51:34,460 --> 00:51:43,760
+subclause one clarifies the extent to which the provision applies. So it applies where the message is sent by a person on their own behalf, i.e., as principal.
+
+248
+00:53:39,050 --> 00:53:48,430
+所以你問Whether the message can be whether the authority I think can be disproved.
+
+249
+00:52:11,350 --> 00:52:21,270
+Subclause two provides that the principal cannot deny that the message was sent with their authority, or that the information in the message is correct.
+
+250
+00:52:21,700 --> 00:52:31,740
+Subclause three provides that the agent cannot deny that they had authority to send the message, or that the mess or that they sent the message.
+
+251
+00:51:44,040 --> 00:51:54,380
+and subclause two provides that the person sending as principal cannot deny that the information in the message is correct or that the person sent the message.
+
+252
+00:53:28,180 --> 00:53:38,770
+and the person sending the message, if it is an agent, would have the authority to send through that USI facility.
+
+253
+00:52:33,950 --> 00:52:47,200
+主席，我有兩個問題。第一就喺十九嗰度咧，十九誒，想請問十九個一嗰度，咁想請問會唔會可以disprove by呢個fraud或者係mistake嘅咧？
+
+254
+00:51:56,060 --> 00:52:10,190
+Clause 20 deals with authenticated messages sent by an agent. Subclause 1 clarifies the extent to which this provision applies. So it applies where the message is sent by a person on behalf of another.
+
+255
+00:52:47,990 --> 00:53:03,900
+另外就係喺二十嘅二啊，誒所謂有呢個二A嚇，所謂有呢個principles authority呢度。請問可唔可以clarify一下係咪包actual同埋implied authority啊？嚇，唔該。
+
+256
+00:53:06,120 --> 00:53:23,880
+Yes, thank you for those questions. So I think it's important to bear in mind that authenticated messages are sent through an electronic system and through a USI facility. So the way it works is that the person entering the instruction would have a username and password.
+
+257
+00:55:40,980 --> 00:55:41,560
+嗯。
+
+258
+00:55:42,430 --> 00:55:43,220
+Okay.
+
+259
+00:55:54,510 --> 00:55:55,460
+嗯。
+
+260
+00:55:51,740 --> 00:55:53,420
+我或者證監會可以繼續。
+
+261
+00:55:35,890 --> 00:55:38,850
+yes, that's correct. I think it's worth
+
+262
+00:55:59,580 --> 00:56:03,500
+所以，我們move then to clause twenty one。
+
+263
+00:55:46,450 --> 00:55:51,460
+係有冇誒？每答咗個問題冇冇其他跟進？OK。
+
+264
+00:54:41,580 --> 00:54:47,480
+fraud between the principal and agent, for example, then that is a matter that they need to sort out.
+
+265
+00:55:28,930 --> 00:55:35,470
+一齣嘅話咧，其實呢個就會變咗係a matter between嗰個principal and the agent啦，啱唔啱咧？
+
+266
+00:56:24,480 --> 00:56:34,690
+sent the message, and where the message is attributable to a principal and an agent, that the message was sent by the agent with the principal's authority.
+
+267
+00:54:01,560 --> 00:54:21,570
+USI facility is used and used in accordance with the terms of the operating rules. It will be binding on the person sending the message or the person to whom the message is attributable. And if there is any dispute, as between, say, for example, a principal and an agent.
+
+268
+00:54:21,570 --> 00:54:41,580
+then that would be something that they need to sort out, because the concern is that the addressee should not be affected. The addressee should be entitled to rely on a message that has been sent in accordance with the operating rules, and sent in accordance with the rules of requirements of these provisions. So if there is some
+
+269
+00:54:48,860 --> 00:55:08,870
+主席，我想問一問多句，即係話我嘅我嘅誒諗法，即係喺十九同埋二十，十九同二十係兩樣嘢嚟嘅。即係話，如果喺十九，無論有誒欺騙嘅情況（fraud）或者有mistake，只要其實嗰個authenticated message係being sent嘅時候咧。
+
+270
+00:55:08,920 --> 00:55:28,930
+其實就已經冇得翻轉頭㗎啦。OK，即係話等嗰個誒受victim同佢自己報警或者佢拉嗰啲人咯，係咪？而二十咧就係喺principle同埋principle同埋agent嘅情況，即係話無論嗰個agent如果佢冇實質或者冇implied嘅authority，如果佢做咗個authenticated。
+
+271
+00:56:04,470 --> 00:56:24,480
+Clause twenty one clarifies the right of an addressee to rely on an authenticated message. Subclause one provides that an addressee may accept the following: first, that the information contained in the message was correct; secondly, where the message is attributable to a person as principal, that the person.
+
+272
+00:56:35,280 --> 00:56:55,290
+Subclause two clarifies that an addressee may not accept the matters set out in subclause one if they had actual notice of certain things. First is that any information in the message was incorrect. Secondly, the person expressed or identified in the message as having sent it did not in fact send it.
+
+273
+00:58:40,870 --> 00:58:42,000
+係證監會。
+
+274
+00:57:58,290 --> 00:58:01,420
+點解係唔包？只係可以有actual notice咧噉。
+
+275
+00:59:11,610 --> 00:59:15,170
+到 actual notice and not included constructive notice.
+
+276
+00:57:02,040 --> 00:57:06,660
+所以，這係where the addressee has actual notice of these matters.
+
+277
+00:59:41,780 --> 00:59:47,560
+subsequently they did and there's something they can do about it. We would want them to take steps.
+
+278
+00:59:15,580 --> 00:59:21,380
+In terms of your scenarios for subsection three, a subclause three.
+
+279
+00:56:55,420 --> 00:57:01,760
+and thirdly, the message was not sent with the authority of the principal expressed or identified in the message.
+
+280
+00:57:07,000 --> 00:57:14,120
+subparagraph three clarifies that an addressee who has actual notice of the matters mentioned in subparagraph two.
+
+281
+00:58:42,320 --> 00:58:51,320
+Yeah, so thank you for those questions. The intention is that it includes actual notice. The reason for that.
+
+282
+00:57:14,400 --> 00:57:24,370
+may nevertheless rely on the message if, at the time that they received the actual notice, it was not practicable for them to stop the processing of the message.
+
+283
+00:57:25,430 --> 00:57:37,510
+and subclause four clarifies that an addressee who is permitted by clause 21 to accept any matter is not liable to any other person by reason of relying on the matter.
+
+284
+00:58:21,710 --> 00:58:40,590
+explain一啲scenario，即係畀一啲scenario，我哋睇一睇點解會去到三呢種情況咧？係因為三就咁睇咧，就咁睇就覺得即係大眾嘅市民可能有啲驚嘅。如果咁嚇，你搞唔切，你搞唔切就會繼續去到，就算你知道都好咧，你都會繼續去。噉我想請問點會發生呢種情況咧？
+
+285
+00:57:38,280 --> 00:57:58,290
+誒江玉歡議員，誒主席，誒我有一個問題關於誒Sub Clause Two嗰度，嗱Sub Clause Two嘅咧第五行就話咧要有Actual Notice嘅，噉我想請問一下呢個係咪誒唔會包Constructive Notice？咁如果係唔包嘅話，其實嗰個原因點？
+
+286
+00:58:01,700 --> 00:58:21,710
+第三咧，我想請問一下嗱。第三齣現一個scenario咧，好特別嘅，主席就係話當嗰個addresser咧，其實誒佢就算知道一都好咧，佢已經冇嗰個即係唔reasonably practicable畀佢stop去到process嗰個有關嘅message。想請問呢一度可唔可以？
+
+287
+00:58:51,600 --> 00:59:11,610
+is if if we are allowing or rather if we are depriving the addressee of the ability to rely on the message, it is important that the notice that the reasons for that is that it actually knows that they should not be relying on that notice. So for that reason, we have limited that.
+
+288
+01:00:07,850 --> 01:00:08,330
+嗯。
+
+289
+01:00:26,500 --> 01:00:27,460
+點解唔會？
+
+290
+01:00:24,010 --> 01:00:25,480
+O.K.可以繼續。
+
+291
+01:00:47,270 --> 01:00:51,970
+subclause one delineates the scope of clause of clause twenty two.
+
+292
+01:01:09,220 --> 01:01:14,940
+Subclause three clarifies when the requirement to receive title instrument doesn't apply.
+
+293
+01:00:52,250 --> 01:00:58,690
+它 notes that it only applies where the securities are participating securities and held in certificated form.
+
+294
+01:00:30,180 --> 01:00:37,890
+Right, we move then to part five, which is dematerialisation on request of an investor.
+
+295
+01:00:38,680 --> 01:00:46,920
+所以，Clause 22 deals with dematerialisation of prescribed securities at the request of a registered holder.
+
+296
+01:01:44,440 --> 01:01:53,100
+Subclause seven notes that breach of the issuer's obligations under this clause without reasonable excuse is an offence, and it sets out the applicable penalties.
+
+297
+01:00:59,060 --> 01:01:08,880
+Sub-clause two provides that the issuer may dematerialise such securities at the request of a registered holder, and it sets out the prerequisites for doing so.
+
+298
+01:00:08,610 --> 01:00:20,780
+Allow that transaction to go through. The idea is really to strike a sort of balance between the rights of both parties, while also allowing transactions to go through efficiently and quickly.
+
+299
+01:01:15,220 --> 01:01:28,650
+Subclauses four to six, these describe the issuer's obligation upon receiving a DMat request. So these are that the issuer must, as soon as reasonably practicable, decide whether to accept or refuse the request.
+
+300
+01:01:28,930 --> 01:01:43,440
+and if the request is accepted, the issuer must dematerialise the securities and cancel the title instrument, and if the request is refused, the issuer must as soon as reasonably practicable notify the holder of the refusal and give reasons.
+
+301
+01:01:54,960 --> 01:02:09,870
+啊，江玉歡議員主席，我想請問一下咧，就係喺第四嗰度嗱誒呢個即係誒無紙化嘅request啦嚇，即係可以咁講咁咧就要as soon as reasonably practicable噉樣進行。
+
+302
+00:59:21,660 --> 00:59:41,670
+We don't really have specific scenarios in mind. The provision is really there to allow for the possibility that this might have happened, that when the when the addressee sent the message, they didn't they didn't have that awareness. But it might be in the event that
+
+303
+00:59:47,840 --> 01:00:07,850
+There is a balance here between wanting the transactions to go through as quickly as possible, and how quickly they actually go through. So if they haven't actually gone through, and the addressee somehow has notice of something in the message that is inaccurate, then it should not be able to.
+
+304
+01:02:10,150 --> 01:02:30,160
+誒，即係仲有，即係話，如果唔得accept或者refuse個request，都要係合理時間內進行。噉我想請問一下，點解唔可以impose一個time limit咧？喺呢一度，即係我作為一個市民。好啦，另外啦，呢個同我第七嗰度嗰個問題有關聯嘅嗱。第七咧，你就話如果佢。
+
+305
+01:03:22,220 --> 01:03:22,700
+嗯。
+
+306
+01:03:22,980 --> 01:03:23,970
+嗯。
+
+307
+01:03:00,090 --> 01:03:01,320
+continues咧。
+
+308
+01:05:52,390 --> 01:05:54,010
+好，誒，譚國強議員。
+
+309
+01:05:49,940 --> 01:05:51,850
+真係睇唔到嘅，好嘛？唔該。
+
+310
+01:02:30,160 --> 01:02:39,800
+佢唔符合Sub Rule Four去做Contravene咗Sub Rule Four咧，佢就有一個即係除咗話有一個Fixed Fine，佢仲可以有一個Further嘅Daily Fine。
+
+311
+01:04:18,000 --> 01:04:29,570
+即係佢要有個誒決定，就係幾時先為止係一個合理嘅時限。咁由嗰日開始咧，佢先至先至可以去計係咪有個即係持續嘅罪行噉樣咯。
+
+312
+01:03:24,250 --> 01:03:37,170
+That's really the main reason for not putting in a day. The the code, however, does elaborate on what is absolutely maximum. So we do have we we strike a balance that way.
+
+313
+01:03:37,450 --> 01:03:56,180
+在terms of the daily fine， our understanding or I should say my understanding, maybe Mr C will expand, is that it is for the court to decide what is the what is what day from which day to count the daily fines. I don't know if Mr C wants to。先生有冇啲咩補充？
+
+314
+01:02:40,080 --> 01:03:00,090
+嗱，我就喺度諗啦。四，如果你都冇一個你冇一個限期，嗰只係盡快做咯。噉你點七？你點可以罰佢每日罰款咧？即係我唔明啊！即係當你冇指明佢要幾耐之內去做，你點可以有一個further fine for each day that the offence
+
+315
+01:03:02,210 --> 01:03:22,220
+新加坡嘅。Yeah, thank you for that question. So on the issue of why there is no time limit, the reason is because we we if we were to set a time limit, it would be in in days. And in certain cases, you may not need days. And so the idea is that the issuer needs to do this as quickly as possible.
+
+316
+01:03:57,990 --> 01:04:18,000
+主席誒，多謝誒江議員嘅提問。咁誒頭先Miss卡林嗰個解説都係誒正確嘅。咁因為我哋就算係一個所謂佢個罪行元素有一啲所謂合理嘅，即係究竟係咪reasonably practicable？咁最終法庭喺定罪嘅時候，佢都需要咧係定出一個。
+
+317
+01:04:29,900 --> 01:04:49,910
+主席，我我呢度個note即係我唔係話要改嚇，即係我自己覺得就好嘥法庭時間咯。嗱，你唔擺一個話，即係你唔講問咩為之係合理，跟住你就叫法庭去到定七百蚊，即係如果係即係罰咧就七百蚊一日啊！坦白講咧，邊個會打上去法庭？就因為你遲咗兩日啦，係咪先？但係唔。
+
+318
+01:04:49,910 --> 01:05:09,920
+咪喎！如果你喺呢啲攞裏邊，你寫到明佢要幾多日之內做，我作為一個消費者，我作為一個投資者，我就知道佢係錯啊，定唔係錯？就唔需要去法庭嗰度叫法官去到定咩叫做reasonably practicable。我覺得噉樣好浪費法庭嘅時間。呢個我個note嚟嘅，主席啊，唔該。不過理解係。
+
+319
+01:05:09,920 --> 01:05:29,930
+係咪個指引或者係個手則入邊有一個誒實際嘅一個誒日數係咪啊？啱啱我聽到。Yeah, thank you, Mr. Chairman. There will be something in the code. Um, also because we might want to keep that time as short as possible. So over time, we might want to shorten it. So we want to have that flexibility for keeping.
+
+320
+01:07:03,950 --> 01:07:05,180
+係，精加妹。
+
+321
+01:06:57,630 --> 01:06:58,990
+對，這一些去。
+
+322
+01:05:55,070 --> 01:05:56,910
+誒誒，謝謝主席。
+
+323
+01:05:57,810 --> 01:06:00,210
+就是第二十二條。
+
+324
+01:07:35,710 --> 01:07:38,900
+And in that case, what will happen is that.
+
+325
+01:07:51,980 --> 01:07:55,410
+O.K.冇其他跟進嘅話，噉啊，證監會可以繼續。
+
+326
+01:06:59,690 --> 01:07:03,280
+拒絕去實物化的，接下來會是什麼的處理呢？
+
+327
+01:07:27,680 --> 01:07:34,760
+which case they would be entitled to refuse to dematerialise the certific the share the securities.
+
+328
+01:06:00,490 --> 01:06:08,280
+第六款呢，就是如果發行人決定拒絕去實物化的請求，啊。
+
+329
+01:06:08,690 --> 01:06:17,330
+因為我們這個整個這一條是説請求去實物化，那麼就會結束它去實物變成無紙化。
+
+330
+01:07:39,790 --> 01:07:50,660
+the the whole shareholder base will be protected because nobody wants a fraudulent certificate to be dematerialised and inflate the total shareholder volume.
+
+331
+01:07:58,260 --> 01:08:09,220
+應該到二十三。Right, thank you, Mr. Chairman. So moving on to clause 23. Clause 23 deals with the dematerialisation of prescribed securities at the request of a transferee.
+
+332
+01:08:09,500 --> 01:08:25,550
+所以 subparagraph one delineates the scope of clause twenty three, and it notes that it only applies where the securities are participating securities held in certificated form, and where the issuer has received a request to register a transfer of them.
+
+333
+01:05:29,930 --> 01:05:49,940
+Keeping it in the code at the beginning of implementation of USM, the share registrars may need a bit more time to sort of make accommodations. So that's why we've taken this approach. So there will be certainty as far as the investors concerned.好，主席，我希望咧即係政府當局能夠到時畀市民多啲嘅指引，好嘛？因為普通市民睇條law或者點樣佢。
+
+334
+01:06:17,610 --> 01:06:37,620
+但是現在這裏還是有發行人，有的情況下面是可以決定拒絕去實物化的。啊，我看了前面的內容的話，那可能就是説這個證券是不現實的，現實的並不存在的，或者是這個政治權益是很有問題的這些情況。如果是一種正常的情況，是不會拒絕他去實。
+
+335
+01:06:37,620 --> 01:06:57,630
+實物化是應該接受它的無紙化的，那如果是有這種情況，就是要拒絕去實物化，接下來會是怎麼一個處理呢？因為我們並不想一直拖着這個證券中呢有一些成分是實物的方式存在，我們是想追求百分之一百的，呃，這個無紙化的存在，所以。
+
+336
+01:07:07,670 --> 01:07:27,680
+Yeah, thank you very much for that question. So a very valid question. Actually, we don't expect the issuer to refuse the dematerialisation. The one scenario we can think of is where the certificate itself is questionable, where there is suspicion that the certificate itself is fraud, fraudulent.
+
+337
+01:09:23,700 --> 01:09:26,010
+subparagraphs five to seven.
+
+338
+01:11:40,640 --> 01:11:47,130
+and these are that the issuer must as soon as reasonably practicable dematerialise the securities and cancel the instruments.
+
+339
+01:10:31,940 --> 01:10:38,620
+Clause 25 deals with the dematerialisation of prescribed securities at the initiative of an of an issuer.
+
+340
+01:09:54,850 --> 01:10:02,550
+subparagraph eight notes that breach of the issuer's obligations without reasonable excuse is an offence, and it sets out the applicable penalties.
+
+341
+01:10:06,240 --> 01:10:14,100
+Moving then to clause 24, clause 24 simply deals with the form of a demat request.
+
+342
+01:09:46,300 --> 01:09:54,500
+如果申請被拒絕，發卡人必須通知轉讓人拒絕及原因，並拒絕登記轉讓。
+
+343
+01:10:39,110 --> 01:10:48,870
+subparagraph one delineates the scope of clause 25 and it notes that it only applies where the securities are participating securities and held in certificated form.
+
+344
+01:08:26,020 --> 01:08:36,110
+Subclause two provides that the issuer may dematerialise such securities at the request of a transferee, and it sets out the prerequisites for doing so.
+
+345
+01:10:20,480 --> 01:10:31,420
+If that's okay, we'll move on to part six. Part six deals with the issuer's authority to dematerialise, rematerialise and issue new units in uncertificated form.
+
+346
+01:08:36,760 --> 01:08:48,850
+所以，這包括了，the transferee must be a system member, that it has received a dematerialisation request and the relevant title instruments, and that the issuer is satisfied that the transfer may be registered.
+
+347
+01:11:07,960 --> 01:11:22,890
+subclause three clarifies when the requirement to receive title instruments doesn't apply, and as with the earlier provisions, it's where the governing provisions do not require instruments to be issued, or where the issuer is satisfied that the the instrument is lost or damaged.
+
+348
+01:08:49,210 --> 01:09:04,960
+Subclause three clarifies that clarifies when the requirement to receive title instruments doesn't apply. So this is where the governing provisions do not require such instrument to be issued, or where the issuer is satisfied that the instrument is lost or damaged.
+
+349
+01:11:23,560 --> 01:11:40,360
+Subclause four expands on some of the circumstances in which an issuer may dematerialise securities at its own initiative. It is not an exhaustive list. Subclause five describes the issuer's obligations if it decides to dematerialise the securities at its own initiative.
+
+350
+01:09:05,400 --> 01:09:23,020
+subparagraph four clarifies that the disapplication of the requirement to receive title instruments a title instrument that is lost or damaged does not extend to other instruments that are not lost and damaged and that have to be submitted for the purposes of the DMAT request.
+
+351
+01:10:49,240 --> 01:11:07,410
+Subclause two provides that the issuer may, at its own initiative, dematerialise securities if certain prerequisites are met, and they are basically one that the holder or prospective transferee is a system member, and secondly that the issuer has received the relevant title instruments.
+
+352
+01:09:26,290 --> 01:09:46,300
+describe the issuer's obligations upon receiving a demat request from a transferee. So it's again, the issuer must as soon as practicable decide whether to accept or refuse. If it accepts, the issuer must as soon as reasonably practicable register the transfer, dematerialise the securities and cancel the instrument.
+
+353
+01:13:38,960 --> 01:13:42,060
+Moving then to part five, sorry, part seven.
+
+354
+01:13:42,340 --> 01:13:47,230
+Part seven deals with facilitating the market's transition to full dematerialisation.
+
+355
+01:13:47,580 --> 01:13:53,350
+clause 28 sets out the various mandatory obligations to be imposed on issuers.
+
+356
+01:14:56,360 --> 01:15:02,340
+namely， it is to be set by the corresponding parties， or if they fail to do so， by the SFC。
+
+357
+01:12:29,870 --> 01:12:37,760
+Moving then to clause twenty-seven, this deals with the rematerialisation of prescribed securities in limited circumstances.
+
+358
+01:13:26,810 --> 01:13:34,770
+subparagraph five notes that breach of the issuer's obligation under this clause without reasonable excuse is an offence and sets out the applicable penalties.
+
+359
+01:11:47,540 --> 01:11:55,510
+subparagraph six notes that breach of the issuer's obligations without reasonable excuse is an offence, and it sets out the applicable penalties.
+
+360
+01:14:47,360 --> 01:14:55,870
+subparagraph four relates to subparagraph one, and clarifies how the deadline for existing prescribed securities is to be set.
+
+361
+01:12:57,140 --> 01:13:08,120
+subclause three clarifies that any title instruments issued to a recognised clearinghouse or its nominee must be in such number and denomination as specified by the clearinghouse or nominee.
+
+362
+01:11:59,510 --> 01:12:11,780
+Clause twenty six deals with the issue of new certificates. Sorry, with the issue of new units of new units of securities in uncertificated form, at the initiative of the issuer.
+
+363
+01:12:12,220 --> 01:12:27,780
+subclause one delineates the scope of the clause, subclause two sets out the prerequisites for issuing new units in uncertificated form, subclause three describes the issuer's obligations when issuing new units in uncertificated form.
+
+364
+01:14:30,670 --> 01:14:46,560
+Subclause three mandates that subscription warrants and rights under a rights issue must be participating securities by the time they are listed. If at the time of their issue, the underlying securities are participating securities.
+
+365
+01:13:53,630 --> 01:14:10,660
+subparagraph one mandates that all existing prescribed securities constituted under the laws of four key jurisdictions must become participating securities by the deadline specified in respect of them, or within five years of USM implementation, whichever is earlier.
+
+366
+01:13:08,440 --> 01:13:25,600
+subparagraph four notes the issuer's obligation to include certain further matters in a notice sent under clause six, and these are to clarify that the title instruments are to be issued following the rematerialisation, and if so, when and how such instruments may be obtained.
+
+367
+01:14:11,240 --> 01:14:29,700
+subparagraph two mandates that all prescribed securities constituted under the laws of the four key jurisdictions and first listed after USM implementation must be in uncertificated form from the time of their listing or such later date as permitted under this clause.
+
+368
+01:12:38,040 --> 01:12:56,810
+Subclause one delineates the scope of disclosure. Subclause two describes the issuer's obligations, namely that the issuer must rematerialise any units that are in uncertificated form before they are delisted, and if their governing provisions so require, they must issue title instruments as soon as practicable thereafter.
+
+369
+01:17:16,140 --> 01:17:16,970
+應該。
+
+370
+01:16:38,100 --> 01:16:39,210
+點解會？
+
+371
+01:17:18,030 --> 01:17:19,460
+好嘅，繼續可以。
+
+372
+01:16:10,260 --> 01:16:11,760
+啊！江玉歡員。
+
+373
+01:15:02,620 --> 01:15:06,500
+and it is to be specified in by notice in writing to the issuer.
+
+374
+01:16:32,950 --> 01:16:37,090
+咩為之係一啲reasonable excuse佢可以唔做咧？一二三。
+
+375
+01:16:05,210 --> 01:16:09,780
+Subclause ten expands on the meaning of terms used in clause twenty-eight.
+
+376
+01:15:48,060 --> 01:15:54,630
+Subclause eight clarifies the deadlines may be revised or cancelled in the same manner as they are specified.
+
+377
+01:17:07,760 --> 01:17:15,670
+issuer has to delist, so that would be an obvious example where then it's no longer meaningful to proceed with this.
+
+378
+01:16:39,490 --> 01:16:47,460
+Yeah, thank you for the question. So it's really to allow for any intervening events that may have occurred and that may require.
+
+379
+01:15:54,970 --> 01:16:04,800
+subparagraph nine notes that breach of the mandatory obligations under subparagraphs one to three, without reasonable excuse, is an offence and sets out the applicable penalty.
+
+380
+01:15:37,470 --> 01:15:47,780
+subparagraph seven sets out a list of some of the factors that may be taken into account when deadlines are specified in respect of existing prescribed securities or IPO securities.
+
+381
+01:15:24,830 --> 01:15:36,120
+和第二，係The SCHK must be satisfied that there are exceptional circumstances justifying deferral， and that not granting deferral will unreasonably delay the intended listing date.
+
+382
+01:15:06,980 --> 01:15:24,550
+subparagraphs five and six relate to subparagraph two, and they clarify the prerequisites for deferring the deadline for IPO securities to become participating securities. These are that the deferral is by the SCHK and only possible within the first year of USM implementation.
+
+383
+01:16:12,940 --> 01:16:32,950
+誒，你呢個二十八咧好重要啦，即係成個transition個provision。我想請問一下喺第九嗰度咧，你哋講話個issue啊，即係如果佢冇一個reasonable excuse，ok噉佢就犯法啦。噉啊，想請問一下，依個係一佢必然要做嘅嘢啦，係咪？噉你可唔可以解釋下咩？
+
+384
+01:17:45,290 --> 01:17:45,820
+係。
+
+385
+01:19:21,230 --> 01:19:22,600
+OK，可以繼續。
+
+386
+01:17:23,020 --> 01:17:24,980
+所以，我們 move 然後 to close。
+
+387
+01:18:49,120 --> 01:18:51,180
+for against breach.
+
+388
+01:19:01,570 --> 01:19:05,050
+then the more they should be penalised. That's the logic.
+
+389
+01:19:49,150 --> 01:19:53,090
+Sub-clause six expands on the meaning of the term specified person.
+
+390
+01:19:23,130 --> 01:19:28,830
+所以， we come then to the last section of these rules, which is clause thirty two.
+
+391
+01:18:41,440 --> 01:18:48,690
+我認真㗎，冇嘢。Thank you for that question. So the daily fine is really just an added incentive, an added deterrent.
+
+392
+01:18:53,400 --> 01:19:01,290
+So it it would the way the way we think about it is that it's bad enough that they don't comply, and the longer they wait.
+
+393
+01:17:46,110 --> 01:17:54,890
+clause 30 prohibits the further issue of title instruments, and it makes breach without reasonable excuse an offence and sets out the applicable penalty.
+
+394
+01:18:31,000 --> 01:18:40,660
+嗱，佢唔做就唔做啊！或者你唔想佢噉樣做係咪？理論上唔應該有daily fine嘅喎，我自己覺得係咪合適咧？想請問點解會有咁咧？
+
+395
+01:19:05,760 --> 01:19:18,570
+嗯，咁即係話主席，即係話嗱，你譬如廿九啦，你唔想佢再發行紙本啊？即係如果佢繼續噉樣發行，你就斷日噉樣再罰佢啦，係咪？That's correct. Yeah. O.K.唔該。
+
+396
+01:18:15,180 --> 01:18:30,720
+都係好有道理嘅，寫得嚇，即係話如果噉樣進行嘅時候咧，嗱新嘅誒法學咧就唔能夠再以紙形式啊等等，廿九同三十嚇各有佢嘅道理。咁但係廿九同三十，我想問點解要有每日嘅罰款咧？又
+
+397
+01:16:47,750 --> 01:17:07,760
+some change in the timeline, or that may make it unnecessary for the offeror for the issuer to participate in USM. An obvious example would be if between the time of the date for the issuer being specified and the actual date, for whatever reason the
+
+398
+01:17:25,280 --> 01:17:45,290
+所以我們move then to clauses 29 and 30. These impose restrictions and obligations in respect of prescribed securities that have become participating securities. Clause 29 prohibits the further issue of new units in certificated form. It also makes breach without reasonable excuse an offence and says and sets out the applicable penalty.
+
+399
+01:17:55,170 --> 01:18:15,180
+Clause 31 requires all units of those securities held within CICAS to be dematerialised within six months of the securities becoming participating. Again, it makes breach an offence and sets out the applicable penalties.呃，江玉歡議員，啊，主席，我想請問一下喺廿九同三十咧，嗱廿九同三十。
+
+400
+01:19:29,140 --> 01:19:49,150
+So, clause thirty-two provides for exemptions from the obligations under Part Seven. Subclause one exempts securities that are in the process of delisting. Subclause two empowers the SFC to exempt or defer an issuer's obligations under Part Seven. Subclauses three to five expand on the SFC's exemption power.
+
+401
+01:22:18,770 --> 01:22:19,220
+嘅。
+
+402
+01:20:56,490 --> 01:20:57,660
+可以繼續。
+
+403
+01:21:11,190 --> 01:21:13,630
+係咪啊？即係已經三十二條都講咗啦。
+
+404
+01:21:08,070 --> 01:21:10,800
+即係第七部分誒過咗啦。
+
+405
+01:20:52,940 --> 01:20:55,800
+好，唔該，誒證監會係。
+
+406
+01:21:53,910 --> 01:21:58,480
+啊！會係點樣做咧？請問係或者證監會先生係咪？係。
+
+407
+01:21:44,840 --> 01:21:53,630
+政協會即係討論政策嘅時候有提過話，譬如話喺將來英國係就税，或者邊度地方係就税嘅話，會喺呢度加入去嘅。
+
+408
+01:20:58,300 --> 01:21:07,790
+誒，Right，thank you，Mr. Chairman。So誒，唔好意思誒，誒，簡惠敏二。係主席，我想問我哋而家係咪即係係呢個part？
+
+409
+01:21:31,570 --> 01:21:42,120
+地方啦嚇，咁而家就係百慕達啦、開曼羣島啦、香港啦，同埋中國內地嘅。誒，如果要修改呢個schedule係喺邊度定明啊？我想睇睇。
+
+410
+01:20:41,130 --> 01:20:51,800
+啲係規管性質嘅罪行，而且咧私家嘅罰則輕微咧，所以佢哋都會係誒個立法原意都會係一個嚴格法律責任罪行嘅。咁呢個補充資料畀議員參考，多謝主席。
+
+411
+01:21:14,320 --> 01:21:31,240
+exception嗰度嚇，啱啱啱啱完咗第七部分，係係我想問個schedule嗰度，即係個附表咧，附表係就係有邊啲地方而家咧係指明咗係嗰個地方嚇，誒係即係話我哋無紙化適用嘅一啲嘅誒。
+
+412
+01:20:01,110 --> 01:20:21,120
+哦，誒法律顧問有個補充時間，交畀你係多謝主席嘅。噉就住誒呢個無紙證券市場規則啦，即係第十五號法律公告咧，有個概括性嘅補充畀翻議員拆識嘅。咁喺第十五號法律公告底下咧，有十三項嘅新罪行嘅。咁呢啲新罪行咧都冇明文規定到咧誒。
+
+413
+01:20:21,120 --> 01:20:41,130
+需唔需要證明呢個犯罪意圖嘅？噉我哋法律事務部曾經同當局作出個書面查詢啦，噉就問佢哋呢啲誒罪行係唔係嚴格法律責任罪行嚟嘅？咁即係控方無需證明有幹犯呢啲罪行嘅犯罪意念元素。咁而當局回覆亦都表示咧，呢啲罪行咧係嚴格法律責任罪行。咁咧佢哋認為因為呢？
+
+414
+01:21:58,760 --> 01:22:18,770
+係，多謝主席，多謝簡議員個提問。咁如果要修改呢個誒U.S.M. Rules個附表咧，噉就會用翻即係本身我哋定立呢個U.S.M. Rules嗰個賦權嘅條文。噉就係由證監會都係透過誒negative fatting嘅形式定立一個修訂規則去修改嗰個附表。
+
+415
+01:22:19,730 --> 01:22:39,740
+即係到誒換句話嚟講，因為呢樣嘢去實施就即係預計啦嚇，因為而家仲誒時間未真係完全確定，就係去到二零二六年初噉，可能中間呢段時間仲有啲其他地區啊，仲會進行一啲討論。咁假如有有啲咩改動嘅，噉你哋當時都誒即係好似相類似而家呢？
+
+416
+01:22:39,740 --> 01:22:59,750
+呢個噉樣嘅狀態係咪啊？即係誒，如果過咗當時，即係實施之後咧，咁可能又要即係做做一啲誒。OK，明白誒，應該有冇誒？可唔可以畀一畀嗰個你講SFO嘅邊一條啊？即係你話根據SFO邊一條可以去去增加，或者即係亦都包括減少係咪咧？定係你依個會？
+
+417
+01:25:11,050 --> 01:25:11,800
+嗯。
+
+418
+01:23:21,190 --> 01:23:22,060
+大家好。
+
+419
+01:24:36,300 --> 01:24:37,510
+嘅進程咯。
+
+420
+01:25:08,010 --> 01:25:10,100
+明證券去實物化。
+
+421
+01:23:22,390 --> 01:23:24,830
+一零一A A M。
+
+422
+01:23:37,880 --> 01:23:41,360
+就係授權咗證監會訂立規則。
+
+423
+01:23:42,650 --> 01:23:47,810
+定立規則邊一度啊？可唔可以即係明確少少？即係一零一AAM。
+
+424
+01:23:50,260 --> 01:23:56,470
+如果係就住誒無紙化嗰啲咧，噉就會係一零一AAM嘅第一。
+
+425
+01:23:56,750 --> 01:24:02,970
+款入面A嗰啲，即係涉及或關乎定名證券嘅活動及事宜。
+
+426
+01:24:38,770 --> 01:24:47,220
+即係揀誒，再重複多次就係一零一A.M.嘅一誒A同埋二J噉樣咯。
+
+427
+01:23:28,840 --> 01:23:37,600
+即係二一年嗰條，即係當時嘅第十七號公誒條例，第十七號條例二零二一。
+
+428
+01:24:03,250 --> 01:24:15,800
+咁入面最尾嗰度就有就係三，就係將定名證券由有紙形式轉換成無紙形式，或者相反啦，同埋利便同促促進定名證券電子用途啦。
+
+429
+01:25:12,120 --> 01:25:25,190
+的進程噉樣嚇，邊度提到話係邊啲係納入嗰個誒適用嘅地方咧？哦，我諗呢個就真係誒誒成個點樣，即係呢個J就其實賦權係有一個好。
+
+430
+01:22:59,750 --> 01:23:19,760
+會唔減少咧？因為即係大家都預咗係呢四個地方係誒噉就係即係我哋之前討論嗰個二零二一年修訂條例入面咧，加入去證券及期貨誒條例裡面第一零一AAM條嗰度，就賦權證監會去訂立規則嘅。
+
+431
+01:24:16,290 --> 01:24:36,300
+同埋最尾誒J即係即係下一版啊，即係誒第二款嘅J嗰度就係定名誒過渡至定名證券全面去實面去實物化，包括定名證券去實物化設定時間表同期限，以及其他方式控制定名證券去實物化。
+
+432
+01:24:48,000 --> 01:25:08,010
+主席，我就留意到二J咧就冇特別提到個地方嘅，即係話過渡至定名證券全面去實物化，包括為定名證券咧去實物化設定個時間表及期限。即係頭先主席你提到嗰個而家嘅時間表就係初定係二零二六啦。咁以及以其他方式控制定。
+
+433
+01:28:08,850 --> 01:28:10,160
+In clause.
+
+434
+01:26:25,580 --> 01:26:27,080
+嘅噉就係。
+
+435
+01:26:52,880 --> 01:26:55,400
+啊，張樂你又可以改噉樣咯，係。
+
+436
+01:27:44,820 --> 01:27:48,500
+係，或者喺誒證監會穆小姐啊。
+
+437
+01:26:57,270 --> 01:27:01,590
+或者即係你噉，你依度喺邊度引用呢個schedule咧？
+
+438
+01:26:27,460 --> 01:26:32,200
+第廿八條，即係誒第一章第廿八條嗰度。
+
+439
+01:28:20,790 --> 01:28:27,480
+hence the reference to section 28, sorry to rule 28 in the schedule itself.
+
+440
+01:27:37,290 --> 01:27:44,400
+係邊一條啊？二十八條，我睇到，所以頭先我自己都指出咗呢個第二十八條。第二十八條嘅邊一條十？
+
+441
+01:28:10,500 --> 01:28:18,110
+2810， there is a term specified prescribed securities， which is then defined by reference to the schedule。
+
+442
+01:27:22,950 --> 01:27:36,680
+第二十八條嗰度就引用咗個附表，因為二十八條就係頭先一開始講嗰個，即係誒幾時係需要作為一個參與證券啦，即係參與落去呢個無紙化制度嗰度係啦。
+
+443
+01:25:46,920 --> 01:26:05,290
+點解你唔喺呢一度去講呢度嘅schedule嗰啲嘅地方係可以嚟到去修定咧？因為第二十八條嗱呢一度咧個rule上邊即係嘅附表啊，主席就喺嗰度個方括弧係指住rule廿八噉樣係第二十八條。
+
+444
+01:25:25,470 --> 01:25:45,480
+誒好大嘅空間就係究竟係我哋點樣去制定個時間表，包包括係究竟係即係by reference to地方啊誒幾誒，同埋係一個咩嘅時間表噉。我諗呢個就係一個好概括嘅賦權，就係畀證監會去定，即係投制定嗰啲過渡嘅細則咯，係。
+
+445
+01:26:05,570 --> 01:26:25,580
+咁喺廿八條嗰度邊一度講喺廿八條佢係可以去調節嗰個地方？哦，關於調即係收即係調節一啲制定附屬法例嘅原則，其實喺《適宜及通則附例》入面咧有一個即係概括嘅條文，關於附屬法例。
+
+446
+01:26:32,770 --> 01:26:52,780
+佢就係話可以誒，第廿八第一章第一章第廿八條第一C款嗰度，佢就係話咧誒，任何嘅附屬法例咧都可以誒，由相同嘅人士透過定立時候嗰個方式去修訂嘅。咁所以咧就整體而言，嗰啲附權條文就好少再講話。
+
+447
+01:27:02,940 --> 01:27:22,950
+即喺呢一個規則，自己本身邊度引用呢一個附表？邊一條引用啊？哦，係規則本身引用呢個附表咧。如果睇翻個附表，通常我哋右上角嗰度會就會有個即係方括號，就講咗引用個附表嘅條文嘅。咁喺呢度咧就係第二十八條咯，即係U.S.M.
+
+448
+01:27:48,840 --> 01:28:08,850
+Can take that question. So the way Rule Twenty Eight works is that the term specified prescribed securities is used in section in Clause Twenty Eight One and in Clause Twenty Eight Two. So it those clauses start with the issuer of any specified prescribed securities and then.
+
+449
+01:29:55,290 --> 01:29:56,280
+誒。
+
+450
+01:29:02,700 --> 01:29:03,750
+所以。
+
+451
+01:29:00,930 --> 01:29:02,420
+Okay.
+
+452
+01:30:10,660 --> 01:30:12,230
+啊！The
+
+453
+01:29:31,870 --> 01:29:34,240
+approved securities register. I beg your pardon.
+
+454
+01:30:05,660 --> 01:30:10,380
+gearing ratio is again defined to refer to
+
+455
+01:30:12,610 --> 01:30:17,920
+percentage calculated in accordance with the formula set out in the definition.
+
+456
+01:28:53,100 --> 01:28:58,660
+ASR rules，所以The Securities and Futures Approved Securities Registrar Rules。
+
+457
+01:29:10,760 --> 01:29:16,400
+And it sets out various definitions used, various terms used in these rules.
+
+458
+01:29:04,710 --> 01:29:10,410
+We'll start with clause two, I suppose. Clause two is the interpretations provision.
+
+459
+01:30:18,480 --> 01:30:24,780
+Issuer is defined in relation to any prescribed securities by reference to the U.S.M. rules.
+
+460
+01:29:34,550 --> 01:29:41,080
+The term capital is defined to include the share capital and retained earnings of the registrar.
+
+461
+01:29:56,630 --> 01:30:05,340
+External borrowings is defined to refer to the amount calculated in accordance with the formula set out in the definition.
+
+462
+01:29:41,580 --> 01:29:54,760
+The term corresponding exchange company is defined by reference to the stock market listing rules. Essentially, it refers to the exchange company on which the securities are listed or to be listed.
+
+463
+01:29:16,680 --> 01:29:31,590
+The first definition is available liquidity, and this essentially refers to the liquidity, the liquid, the available amount of assets that are readily available to a an approved share registrar.
+
+464
+01:32:07,310 --> 01:32:08,250
+嗯。
+
+465
+01:32:49,540 --> 01:32:51,660
+sorry， just give me a second， Mr. Chairman。
+
+466
+01:32:42,980 --> 01:32:46,080
+所以， senior employee。
+
+467
+01:31:53,890 --> 01:31:59,880
+Third-party money refers to money received by or on behalf of the registrar for a third person.
+
+468
+01:32:00,470 --> 01:32:06,640
+總Operating expenses refer to the operating expenses and financing costs.
+
+469
+01:30:41,730 --> 01:30:48,660
+minimum capital level refers to the amount mentioned in 83A, which again we will come to.
+
+470
+01:30:33,870 --> 01:30:40,930
+maximum gearing ratio refers to the percentage mentioned in rule 83C, which we will come to.
+
+471
+01:30:25,300 --> 01:30:33,190
+Issuer client is intended to refer to clients of an approved securities registrar that are issuers.
+
+472
+01:31:02,550 --> 01:31:11,030
+Securities holder refers to the person who is or was entered in the register of holders as holding the securities.
+
+473
+01:31:44,330 --> 01:31:53,340
+surplus liquidity is defined to mean an amount calculated in accordance with the formula set out in that definition.
+
+474
+01:31:22,600 --> 01:31:32,860
+Senior employee is defined by reference to Section One Hundred and One AAG Eight of the SFO. This again is introduced under the Two Thousand and Twenty One Amendment Ordinance.
+
+475
+01:31:33,290 --> 01:31:43,830
+服務設施 refers to electronic facilities used by the ASR in providing securities registrar services， and it includes the UNSRT system.
+
+476
+01:31:11,470 --> 01:31:22,060
+Securities Registrar takes the definition from the stock market listing rules. Essentially, it refers to the person who keeps the ROM, to who keeps the register of holders.
+
+477
+01:30:49,090 --> 01:31:02,170
+minimum liquidity level refers to the amount mentioned in Rule 83B, which we will come to. All of these definitions relate to financial resources requirements to be imposed on the ASR.
+
+478
+01:32:08,820 --> 01:32:23,020
+and in in these rules there is there are references to an approved securities registrar's business and operations and we clarify that this refers to their business and operations as an ASR.
+
+479
+01:32:24,610 --> 01:32:39,450
+嗯，講到呢度，我想提問咧，就喺定義入邊，因為有誒唔同地方會提及呢個高級誒僱員同埋高級人員，你可唔可以誒誒約略講下呢呢兩種類別嘅分別啊？嚇，唔該。
+
+480
+01:28:33,090 --> 01:28:53,100
+好，我諗，因為時間係啦，即係誒，差唔多。如果你有啲咩再跟進，可以誒消化咗，再再作出提問嚇。誒，我諗再繼續啦，可以係證監會時間有限，我哋繼續呢條文審議。So I think that takes us to the end of the U.S.M. rules. So we can perhaps then move to
+
+481
+01:32:52,310 --> 01:32:53,040
+可以。
+
+482
+01:36:24,000 --> 01:36:25,260
+however。
+
+483
+01:36:17,000 --> 01:36:18,280
+嗯。
+
+484
+01:34:02,560 --> 01:34:06,990
+adds two additional services, one is the service of
+
+485
+01:36:18,750 --> 01:36:23,610
+We don't have a specific requirement that the premises should be in Hong Kong.
+
+486
+01:34:46,490 --> 01:34:55,330
+Public offer is defined to mean an offer of securities to the public for purchase, or an invitation to the public to make offers to purchase those securities.
+
+487
+01:35:18,510 --> 01:35:29,880
+And where the premises are used for processing or storing information or data, they must be equipped for maintaining security, integrity and ready accessibility.
+
+488
+01:35:48,040 --> 01:36:00,700
+Clause six deals with management and governance. This requires that the ASR must have competent personnel, effective internal control procedures, effective contingency measures and business continuity arrangements.
+
+489
+01:36:01,060 --> 01:36:15,110
+Clause seven deals with insurance cover。我諗停一停，誒，江玉歡議員。誒，係主席，對唔住，我慢咗少少。我想請問喺第四嗰度咧，premises有冇指係一定要喺香港，定係唔需要一定喺香港嘅？
+
+490
+01:35:30,750 --> 01:35:47,300
+Clause five deals with service facilities, and the requirement there is that its service facilities must be equipped with adequate capacity, contingencies or facilities to meet contingency or emergencies, security arrangements and technical support.
+
+491
+01:33:20,390 --> 01:33:37,340
+都係高級，高級不過即係一個更高級噉樣咁嚟。I I think the the the thing is it depends on the particular ASI. In some cases, if it's a small operation, they might overlap. If it is not, they may not. So it it depends。明白。OK，可以繼續。好。
+
+492
+01:34:07,270 --> 01:34:24,890
+provided in connection with the public offer, it's where the share registrar makes available an electronic platform to accept applications and in an IPO. And the second service is where the share registrar provides corporate action related services.
+
+493
+01:34:28,550 --> 01:34:46,210
+Subclause three includes some definitions. Which co-production, it basically defines it to mean any action taken or to be taken by the issuer. So it would include things like dividend issues, rights offer, things like that.
+
+494
+01:33:00,380 --> 01:33:20,390
+所以Senior Employee refers to a person who is employed by the applicant and who performs supervisory or managerial functions. In contrast, Senior Management refers to the people who are actually managing the operations of the ASR. So the sort of the directorate board and the senior, the more senior persons, if you like.
+
+495
+01:33:42,550 --> 01:34:02,560
+We turn then to clause three, which is the specification of securities registrar services. So the term securities registrar services are the services that require an ASR approval if the person is going to provide it. Two of those services are already listed under the SFO, and so clause three adds.
+
+496
+01:34:58,500 --> 01:35:18,510
+Moving then to part two, which are the general requirements. So the requirements relate to the ASR's premises, service facilities, management and governance, and insurance coverage. Clause four deals with the premises and essentially requires that the premises must be suitable, adequately and properly equipped.
+
+497
+01:37:18,410 --> 01:37:19,150
+舉證。
+
+498
+01:36:45,620 --> 01:36:46,410
+嗯。
+
+499
+01:37:59,450 --> 01:38:01,370
+N.S.R.T係點樣定義嘅？
+
+500
+01:37:16,030 --> 01:37:18,080
+O.K.總誒簡惠敏議員。
+
+501
+01:38:02,390 --> 01:38:05,070
+啊，然後咧就係。
+
+502
+01:38:30,520 --> 01:38:33,640
+Thank you for that question. So
+
+503
+01:37:11,540 --> 01:37:15,110
+Yes, it's it's it's it's there. Thank you.
+
+504
+01:38:25,510 --> 01:38:29,960
+又唔係一定要佢用嗰個UNSLT system嚇，解釋一下唔該。
+
+505
+01:36:54,770 --> 01:37:01,430
+And if they're not there, then whoever is overseas must be able to be contacted during Hong Kong hours.
+
+506
+01:36:46,690 --> 01:36:54,490
+If something needs to be done, if something needs to be followed up, if something needs to be communicated to them, people in Hong Kong must be there.
+
+507
+01:37:01,710 --> 01:37:11,220
+所以那係我們採取的策略，並在ASR Code中擴展。OK，咁個ASR Code咧，想請問主席係咪已經係ready㗎啦？你哋？
+
+508
+01:38:33,920 --> 01:38:53,130
+The term UNSRT system is defined in Section 101AAB of the SFO, which is added under the 2021 Amendment Ordinance, and that definition actually refers specifically to the system for enabling title to be evidenced and transferred.
+
+509
+01:36:25,610 --> 01:36:45,620
+在ASR code， we do require certain things to be operated from Hong Kong。 The reason is that some of the share registrars they are rather global groups， so some of their premises might be located overseas。 But the concern from our perspective is that
+
+510
+01:37:19,430 --> 01:37:39,440
+我想睇一睇嗰個服務設施嗰度咧，因為而家我哋講緊嘅premises，跟住就係個服務設施第五條啦。服務設施嘅第五條咧喺個定義嗰度咧就有提到話係就住個a s l嚟講咧，就係嗰個誒包括u n s l t啦。
+
+511
+01:37:39,440 --> 01:37:59,450
+我呢度咧亦都想咧，即係話如果有啲嘅定義啊，用起上嚟方便我哋審議咧。如果係喺二一年嗰個條例通過咗嗰度已經用過嘅咧，可唔可以方便我哋？你下次帶即係喺個slide度嗱打翻佢出嚟，方便我哋睇。或者你而家講咧係喺邊度？喺二一年嗰條條例要。
+
+512
+01:41:36,580 --> 01:41:40,110
+唔係對，唔係太明。即係呢個問題，呢個問題係。
+
+513
+01:40:54,990 --> 01:40:59,330
+或 by a someone outside the group.
+
+514
+01:39:20,840 --> 01:39:25,520
+所以， hence the definition being broader than just UNSRT system.
+
+515
+01:39:41,200 --> 01:39:46,460
+platform for for the investor to access.
+
+516
+01:40:18,730 --> 01:40:24,540
+So the share registrars are in the process of developing their systems and building them.
+
+517
+01:41:21,330 --> 01:41:27,380
+誒呢個ASO嘅擁有，咁但係點解連使用都都排除埋咧？
+
+518
+01:39:34,490 --> 01:39:40,760
+嗰個係乜嘢系統？So when we talk about the USI facility, what we mean is the
+
+519
+01:39:26,890 --> 01:39:33,400
+誒，噉係咪即係你嗰個最開始嘅PPT介紹嘅時候，嗰嗰個USI facility啊？
+
+520
+01:39:13,420 --> 01:39:20,200
+be the UNSRT system, but that would also be a service facility that we want to have regulatory oversight on.
+
+521
+01:41:28,460 --> 01:41:35,270
+佢梗係要使用嗰個系統㗎，係咪可以不論該等設施是否由該機構擁有，就可以停咗佢咧？
+
+522
+01:40:24,820 --> 01:40:34,690
+The intention is for them to have their systems ready by the time of USM implementation, which is currently targeted for January 2026.
+
+523
+01:39:46,940 --> 01:39:59,350
+The share registrar's system in order to manage and view their holdings, so that would be part of the computer systems and facilities of the ASR.
+
+524
+01:40:04,240 --> 01:40:18,000
+咁即係主席嚇，即係點咧？即係而家呢個系統存在咗未咧？誒，介紹多少少關於呢一個系統，咁同埋點解會用嗰個字眼係不論係唔係佢擁有或者係佢使用嘅系統咧？
+
+525
+01:38:05,500 --> 01:38:25,510
+但係就唔一定係用佢㗎喎嚇，呢度係including即係包括呢個U N S L T嘅系統。咁亦都係不論咧呢一個嘅facility。sorry，我而家睇緊英文版嚇，係誒由嗰個register擁有或者係由佢使用點解啊？即係呢個surface facilities喺度。
+
+526
+01:38:53,410 --> 01:39:13,420
+所以，the definition as such does not encompass all the other functions of an ASR. So, an obvious one would be where the ASR provides electronic public offer related services. So, if they have an electronic platform to receive applications in an IPO, that would not.
+
+527
+01:40:34,970 --> 01:40:54,980
+As to your question about why the definition of service facilities includes facilities whether or not they are owned or used by the registrar, this is to allow for the possibility that the systems may, to some extent, be provided by a third party either within the group.
+
+528
+01:41:01,320 --> 01:41:21,330
+我對嗰個使用有啲覺得奇怪咯，即係你話不論該等設施是否由該機構擁有就話啫，係咪？即係可能係個集團或者係，因為其實即係好似今誒誒最初誒S F C代表所講咧，即係大嘅我哋都知道係嗰幾間啦。咁但係亦都可能係個嗰個系統未必係嗰個實際上。
+
+529
+01:42:00,550 --> 01:42:01,580
+會使用㗎嘛？
+
+530
+01:43:11,590 --> 01:43:12,660
+誒。
+
+531
+01:43:47,200 --> 01:43:48,650
+係江玉歡議員。
+
+532
+01:43:08,100 --> 01:43:11,300
+好唔該，O.K. 好，誒，證監會可以繼續。
+
+533
+01:43:16,120 --> 01:43:21,270
+第六點、第七點，啱啱講到第六、第七噉樣，係咪啊？
+
+534
+01:43:40,430 --> 01:43:46,100
+and the subclause two goes on to expand on this to some extent.
+
+535
+01:44:03,750 --> 01:44:10,120
+真敢會。Thank you for that question. There is no limitation that we have in mind for that. Okay.
+
+536
+01:42:50,760 --> 01:42:57,930
+使用即係如果你話唔係佢自己擁有嘅可以理解，但係唔係使用就似似乎好似。
+
+537
+01:42:21,990 --> 01:42:30,210
+要要誒，蕭小姐開開翻咪要幫。
+
+538
+01:42:13,120 --> 01:42:21,510
+先生，會誒史生係咪有？
+
+539
+01:42:58,210 --> 01:43:07,730
+諗唔到有咩好。好。呢個或者係啦，可以誒，我諗要注意呢個係呢一個呢一點啦嚇。
+
+540
+01:42:02,760 --> 01:42:12,840
+即係最起碼，最起碼會使用啦，係咯。即係佢唔唔係佢擁有，又可能係一個外判咗出去，但係使用就照照計，應該佢都會使用嚇。
+
+541
+01:43:49,220 --> 01:44:02,400
+請問下呢個二嘅A嗰度咧，話有關嘅保險係需要包埋以前嘅一啲員工。我想請問呢度有冇限制嗰啲員工係要離開咗公司幾耐嘅先？
+
+542
+01:43:21,740 --> 01:43:40,150
+所以Clause Seven deals with the insurance obligations of the ASR. So the requirement is that the ASR must ensure that it is covered by insurance that is reasonable, that is necessary to provide reasonable protection against risks associated with its business and operations.
+
+543
+01:41:40,540 --> 01:42:00,550
+即係佢定義乜嘢係維資嗰啲服務設施啊嘛。係係。咁個服務設施就係話包括嗰個U N S O T啊。嗯。噉你包括明，因為你仲有其他嘅系統，所以你用包括。咁但係點解要不論該系統是否由該機構去擁有或使用咧？即係佢一定會。
+
+544
+01:42:30,630 --> 01:42:50,640
+service facilities， whether they are used or owned by the shareholder, just allow for the possibility that the shareholder might subcontract out the operation the facilities that they they are using for to provide the services。但但係，就算外判出去咧，都你都喺度使用緊啊嘛，即係如果你話唔。
+
+545
+01:44:11,090 --> 01:44:11,910
+Thank you.
+
+546
+01:45:01,540 --> 01:45:02,600
+total equity。
+
+547
+01:44:12,310 --> 01:44:13,840
+好嘅，可以繼續。
+
+548
+01:45:03,220 --> 01:45:05,760
+subclause four.
+
+549
+01:44:38,120 --> 01:44:41,250
+Subclause three provides that.
+
+550
+01:44:30,430 --> 01:44:37,760
+Clause two provides that the Commission may, by notice in writing, specify financial resources requirements.
+
+551
+01:45:08,070 --> 01:45:15,910
+talks about the Commission's power to amend or revoke financial resources requirements imposed under this rule.
+
+552
+01:45:37,870 --> 01:45:49,980
+and the idea is that if these triggers are hit, then the the SFC can be can monitor their financial position more closely。簡偉敏議員。
+
+553
+01:44:14,400 --> 01:44:29,960
+Moving then to part three, which is the financial resources. So clause eight provides that the ASR must at all times maintain financial resources that comply with requirements specified under this rule or amended under this rule.
+
+554
+01:46:10,270 --> 01:46:25,920
+數嘅嘅嘅數目嘅期間嚇，咁呢個指明月份數點解唔可以喺呢度明確係同埋係咪由SFC去跟因應每一個ASO去定佢個liquidity嘅嘅，即係佢個流動性嘅要求啊？
+
+555
+01:46:46,410 --> 01:47:02,080
+一單個數目 of months may not apply across all share registrars, given their different size and scope of business. And so this gives us the flexibility to specify different amounts for different operations.
+
+556
+01:44:41,530 --> 01:45:01,540
+這些財務要求 imposed by the SFC may include capital requirements relating to the ASR's capital, relating to the ASR's available liquidity and requirements relating to its gearing ratio. So the gearing ratio is the ASR's external borrowing over.
+
+557
+01:45:17,860 --> 01:45:37,870
+Clause nine talks about notifications regarding financial resources. This provision is really intended as a requirement for the ASR to notify if their financial resources fall below certain levels, or certain financial related events occur in relation to their business.
+
+558
+01:45:50,260 --> 01:46:10,270
+主席，我想問三即係八個湖三個湖B嗰度咧，就講個liquidity ratio啊，即係個流動資金咧，因為呢個都影響嗰個ASO佢嗰個經營啊，同埋佢啲合規嘅一啲嘅指數嚇。呢度就提到咧，就話相等於該機構喺某指明月份數。
+
+559
+01:46:26,400 --> 01:46:46,410
+即係佢有幾多嘅能夠去total operating expenses，即係佢嘅營運開支乘以幾多個月啊？呢個幾多個月就唔知道業界有冇需求係想即係明確啲，定係因認同嘅ASA會定唔同嘅標準畀佢咧。係請教會。Yeah, thank you for that question. So the answer is yes. Um, the idea is that
+
+560
+01:47:02,860 --> 01:47:22,870
+不過我諗跟進翻簡議員講呢個，首先個營運成本係幾多？可能你對比於佢自己嗰間公司會比較一個相對嚟講固定，但係如果你話幾多個月份都比較有一個闊嘅誒，可能長可能短，咁嗰個個數字都可能幾唔一樣嘅。噉我我唔知會唔會？
+
+561
+01:48:51,530 --> 01:48:52,270
+顯著。
+
+562
+01:51:08,850 --> 01:51:09,620
+一想請問。
+
+563
+01:51:11,110 --> 01:51:12,140
+張家妹。
+
+564
+01:49:07,270 --> 01:49:08,690
+O.K.可以繼續。
+
+565
+01:47:42,880 --> 01:47:51,220
+嗰個流動性係要定喺幾多個月嘅opex嗰度係咪都喺嗰陣時會確切，定係都可以變嘅咧？呢個係唔㗎。
+
+566
+01:48:52,550 --> 01:49:05,130
+係，主席，所以同樣地，即係A嗰度對佢個資本嘅要求啦，或者係佢個gearing啊，即係嗰個槓桿比率咧，都係因register而定啦。That's correct. Okay. Yes.
+
+567
+01:50:33,810 --> 01:50:48,560
+Portable matters包括就真係可能佢有啲服務設施事故啊嚇，或者有啲營運事故嘅時候咧，哇！你係要求佢咧immediately, immediately, immediately after佢哋becoming aware。
+
+568
+01:47:22,870 --> 01:47:42,880
+有啲其實手質嗰度會再進一步講呢啲嘢咧，因為係好似我我聽到簡議員講個淨係嗰個嗰個確定性係啊係啊幾時先會通知佢咧？即個A.S.O係係佢攞即攞到呢個approval嘅時候就知道啊，因為叫話approved嘅嘛啊噉佢嗰個被你核準嘅時候就知道佢往後。
+
+569
+01:47:51,500 --> 01:48:11,510
+Yeah, thank you for that question. So in terms of when the share registrar will be informed, it will be informed at the time of its approval, and if there is a change, it will be informed when when we instigate a change. I should just add that the number of months, the the idea of the available liquidity.
+
+570
+01:48:11,510 --> 01:48:31,520
+Requirement a number of months is to look at the operation and take a view on how long would it take to wind down that business if it became necessary. So the idea is that we want to make sure that if for whatever reason the ASR needs to wind down its business, the winding down can be done in an
+
+571
+01:48:31,520 --> 01:48:51,530
+orderly manner and so we must make sure that there is enough funding in order to achieve that. So the the duration may differ for different share registrars depending on the size of their business, the scope of their business. There may also be share registrars who are only acting for themselves or only acting for one company. So the requirements would vary quite significantly.
+
+572
+01:49:13,770 --> 01:49:33,780
+所以，I think we've got to clause ten, right? So, so clause ten,誒，江玉峯演員，喂嚇，主席，因為我九嗰度有嘢問，對唔住，誒，想請問翻九咧，嗱，九嘅二咧，其實羅列咗一啲好重要嘅事件咧，其實呢個ASL係。
+
+573
+01:49:33,780 --> 01:49:53,790
+應該盡快通報嘅嗱，咁但係二嘅寫法就係話啊，佢就要盡快啦，同埋係any event先one business day after becoming aware。嗱，我想問啦，即係話佢要係察覺先得，咁如果我想問，如果佢佢扮佢自己唔察覺咧，嗱，譬如嗰啲好重要嘅喎，講緊。
+
+574
+01:49:53,790 --> 01:50:13,800
+個liquidity嘅噃，噉你點樣保障公眾咧？想請問，如果佢話佢自己唔察覺，嗱，第二樣嘢啦，即係佢應該察覺㗎嘛，佢可以佢實質佢唔察覺，但係佢應該可以察覺㗎喎，係咪？咁點解呢度淨係寫話佢係要becoming aware咧？咁嗱，另外咧，我想。
+
+575
+01:50:13,800 --> 01:50:33,810
+主席，我想問清楚啦。嗱，第九嗰度你講咗一連串就係話，當佢嗰個財務狀況、財政資源有問題嘅呢個先係好好核心嘅。嗱，你就要求佢盡快啦，嚇。In any event，一個business day after佢becoming aware。但係嗱，去到一間U十八嘅時候咧，講有一啲report。
+
+576
+01:50:48,840 --> 01:51:08,850
+嗱，我想請問一下，點解喺狗你就要求佢啊？佢知道總之佢知識啦嚇，會fill一個business day。反而喺當你報到reportable matter嘅時候咧，一啲營運事故咧，你就要佢immediately after becoming aware。其實呢一度你點樣去到拿捏有咩？點解會有噉嘅分別？
+
+577
+01:52:25,560 --> 01:52:26,900
+你 know.
+
+578
+01:53:22,200 --> 01:53:23,540
+嗯，I。
+
+579
+01:53:51,870 --> 01:53:54,210
+O.K.，搞埋誒，搞埋文言。
+
+580
+01:53:39,220 --> 01:53:42,300
+I mean, on what basis would we say that they ought to know?
+
+581
+01:52:27,200 --> 01:52:31,480
+They're becoming aware. Our understanding is that.
+
+582
+01:51:32,430 --> 01:51:37,470
+Immediately impossible, just by way of example, for investors to effect transfers.
+
+583
+01:53:42,590 --> 01:53:49,540
+So and the obligation here is on them. So once they are aware, the obligation is that they need to notify us.
+
+584
+01:51:57,450 --> 01:52:05,270
+In the context of the financial resources requirements, some of the levels here are sort of.
+
+585
+01:53:11,100 --> 01:53:19,460
+嘅話其實因為先呢一即係嗰啲management佢係應該要知嘅，所以becoming aware應該係包括埋they ought to know，right？
+
+586
+01:52:42,110 --> 01:52:50,810
+how the different lines of business are overseen and not regular overseen and managed, so we do expect.
+
+587
+01:52:32,210 --> 01:52:41,830
+Securities registrars should know what their financial position is at all times, and and because there are requirements in terms of you know.
+
+588
+01:53:25,920 --> 01:53:38,740
+We haven't chosen that language. We we we have relied on language that they are actually aware. I think if you start talking in terms of ought to know, we would be in a bit of a bind as to how to prove it.
+
+589
+01:51:37,750 --> 01:51:57,050
+所以，even while the share registrar or the securities registrar is working on a solution, we want to be in the loop. We want to know that look something's happened, so that we can monitor the situation and because investors may also approach us directly, and so we are in the loop as early as possible. So the need for immediacy is there.
+
+590
+01:51:12,420 --> 01:51:32,430
+Yes, thank you for that question. The reportable matters relate to matters concerning their service facilities or operations. So if a reportable matter arises, its impact on investors is immediate. So for example, it may be.
+
+591
+01:52:05,550 --> 01:52:25,560
+Not yet at the levels that we have dictated, so they are slightly above. So they are close to breaching, but have not yet breached the financial resources requirements. So I suppose you could think of it in terms of the immediacy is not that great, but we still want to be informed as soon as possible. So you were also asking about.
+
+592
+01:52:51,090 --> 01:53:11,100
+Senior employees or certain staff to be aware of these and therefore be able to inform us as quickly as possible. We do not envisage persons who are approved as ASRs to not be aware of what their financial situation is.好，主席啊，咁如果根據頭先誒解釋咧，即係。
+
+593
+01:56:07,010 --> 01:56:07,780
+嗯。
+
+594
+01:57:05,880 --> 01:57:06,880
+嗯。
+
+595
+01:56:46,350 --> 01:56:47,880
+所以。
+
+596
+01:56:19,050 --> 01:56:21,440
+We can dig out the relevant.
+
+597
+01:56:42,520 --> 01:56:45,610
+好，誒，繼續，鄭嘉穎。
+
+598
+01:56:08,060 --> 01:56:13,090
+這些水平係以參考我們在各自經紀人所具備的等級來設定的。
+
+599
+01:56:13,370 --> 01:56:18,470
+So we have drawn reference to the broker regulation in setting these out.
+
+600
+01:56:53,170 --> 01:57:05,440
+睇你第十有冇補充冇嘅話，可以再再繼續下一部分。So we move on to Rule ten, 啊Clause ten. So these are requirements regarding notification under Rule ten.
+
+601
+01:54:52,120 --> 01:55:06,700
+即係點樣平衡對嗰個誒公眾擺咗啲物喺佢嗰度，即係佢register，其實將來嗰個誒整體個責任都比較重大嘅，尤其係有人certificated嚇，即係無紙化之後噉。
+
+602
+01:54:34,780 --> 01:54:51,840
+嘅嚇，然後咧liquidity頭先我哋講下，譬如係一百蚊，噉佢咧就即係如果跌到咧係百二誒嘅話咧，低過百二啦，噉佢就要通知你啦噉樣。咁所以我自己覺得即係會皆得敗，即係主席你睇下，即係會唔會係optional係？
+
+603
+01:53:54,760 --> 01:54:14,770
+誒主席，誒主席，你你最在行啦嚇，即係關於證券證券行業啦嚇。誒，我呢度睇到嗰個嗰個誒相關嘅問題咧，同江議員提出都類似嘅，即係你呢度淨係用become aware咧，就係即係等於actual knowledge啦，即係佢一定要實際上自己知道啦。噉。
+
+604
+01:54:14,770 --> 01:54:34,780
+誒，我都明白，即係嗰度嗰啲嘅ratio咧，你講嗰啲嘅咩率咩率嚇，即係包括資本金或者係嗰個流動性啊、誒，共幹比率咧，你擺咗啲buffer落去嘅，即係佢唔係hit到已經係唔符合嗰個監管標準，因為譬如你有個capital又講一百一十個percent係佢最低嗰個資本。
+
+605
+01:55:06,980 --> 01:55:26,990
+點樣去平衡啊？因為你而家淨係actual knowledge啦，可能亦都冇一個參考嘅，係咪？即係你依一依一套規則有冇一個model案有嘅係嘛？即係如果你有嘅話咧，我一舉一舉你嗰個model係噉樣去管理嗰啲受規管嘅嘅機構咧，夠嘅啦。因為你係用我哋就依賴個buffer，因為有個buffer喺度，所以。
+
+606
+01:55:26,990 --> 01:55:47,000
+所以咧，佢實際上知道都足夠。我我想聽聽，即係考慮咗啲咩？我哋點樣平衡？同啱啱條問題有少少相近，不過睇下仲有冇啲咩補充，因為即係的確可能比較難證實。但係睇下睇下證交會啲咩？同埋F嗰度都係嘅，即係F咧就特別，我想問F嘅，因為你要連續三日啊嘛。咁點解要揀連續三日？
+
+607
+01:55:47,000 --> 01:56:07,010
+唔能夠去去支付佢嗰啲嘅欠款咧，先至會係需要通知咧。嗰三日係咪可以有啲即係比較有啲artificial咧？我兩日又還咗佢噉樣咁噉，係咪點解要連續三天係點樣嚟嘅？或者你揾引翻個source？好，唔該。Thank you, thank you, Mr. Chairman, for that question. So these
+
+608
+01:56:21,740 --> 01:56:41,750
+明白。我我諗住亦都係個風險啦，即係如果對嗰啲broker嘅暴露啦，同對嗰個register嚇，即係我哋要衡量一下係唔係即係可比啦。如果認為係可比嘅，我接受呢個呢個即係安排啦嚇。如果認為係對register個風險會大啲嘅時候，我覺得真係值得商榷嚇。唔該，主席。
+
+609
+01:57:59,680 --> 01:58:01,200
+and。
+
+610
+01:57:14,930 --> 01:57:16,590
+所以，當。
+
+611
+01:58:46,500 --> 01:58:48,310
+嗯。
+
+612
+01:57:34,570 --> 01:57:36,490
+must also be included.
+
+613
+01:57:17,100 --> 01:57:19,670
+sorry， I beg your pardon， I got a bit lost。
+
+614
+01:58:49,470 --> 01:58:52,990
+作為 penalty clause， if they don't。
+
+615
+01:57:08,260 --> 01:57:12,180
+所以，這 deals with requiring。
+
+616
+01:58:08,840 --> 01:58:14,860
+所以，Rule 10基本上係補充到Rule 9，The Rule 9 notification requirement。
+
+617
+01:58:01,700 --> 01:58:07,900
+They must also provide the Commission with such other additional information as we may reasonably require.
+
+618
+01:59:33,560 --> 01:59:41,230
+會 be open to the SFC to take regulatory action against the ASR， and the regulatory action includes， you know reprimands。
+
+619
+01:58:16,510 --> 01:58:26,210
+係誒何景康副主席。誒多謝主席。誒，I guess my question is that under rule nine and ten, so
+
+620
+01:57:23,840 --> 01:57:34,290
+Right, so when an approved securities registrar is required to notify the commission of a matter under Rule Nine, full details of the matter and the reasons for it.
+
+621
+01:57:39,290 --> 01:57:59,300
+And so sub clause two expands on the matters that need to be set out in the notification to the SFC. So it includes matters such as what they are doing to redress the issue and what they are doing to prevent, say for example, the capital from falling below the financial resources requirements.
+
+622
+01:58:26,490 --> 01:58:46,500
+Any securities company are required to when when it becomes aware that its financial situation it falls below a certain liquidity standard or you know gearing ratio showing up above fifty percent, so they have the obligation to notify by written notice the SFC. So are there any provision?
+
+623
+01:58:53,270 --> 01:59:13,280
+And if the SFC were made aware of those situation from other means or sources, such as investors or anything like that, or you know losses has already been incurred because of such financial situation, are there any penalties clauses that will be imposed upon these securities companies?
+
+624
+01:59:13,550 --> 01:59:33,560
+Yeah, thank you for that question. So the way this regime works is pretty much similar to the way our broker regime works as well. So there is a disciplinary regime under the SFO under Part Nine of the SFO, and so if there's any breach of any of the requirements here, it
+
+625
+01:59:47,660 --> 01:59:48,300
+stuff.
+
+626
+01:59:49,040 --> 01:59:49,850
+OK。
+
+627
+02:00:45,910 --> 02:00:48,610
+Turning then to clause twelve.
+
+628
+01:59:41,560 --> 01:59:47,370
+suspension of their approval, revocation of their approval, the usual.
+
+629
+01:59:51,750 --> 02:00:01,350
+Moving then to part four and the keeping of records. So clause 11 requires or sets out the obligations relating to record keeping.
+
+630
+02:00:01,630 --> 02:00:11,810
+Vis-à-vis the ASR, so key items include that they must have sufficient records. They must their records must be sufficient to explain and reflect their financial position.
+
+631
+02:00:48,960 --> 02:00:59,470
+或者我哋而家差唔多開到一半嘅時間，我哋可以誒休息五分鐘，咁大家即係可以誒係啦，休息一下五分鐘，翻返嚟，唔該。
+
+632
+02:00:30,750 --> 02:00:44,930
+Subclause two notes that the records must be retained for a period of not less than seven years. Subclause three notes that the ASR must adopt all reasonably necessary procedures to guard against falsification and to facilitate discovery.
+
+633
+02:00:12,090 --> 02:00:30,160
+demonstrate compliance with the ASR rules, account for all property and information received, enable all movements of property to be traced, enable all activities, transactions and communication instructions to be traced, and account for all entries in the register of holders.

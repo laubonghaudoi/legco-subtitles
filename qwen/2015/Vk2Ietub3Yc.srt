@@ -1,0 +1,2027 @@
+1
+00:00:15,220 --> 00:00:16,270
+邊個係請你啊？
+
+2
+00:00:19,770 --> 00:00:22,190
+誒！我哋而家請證人入嚟。
+
+3
+00:01:50,310 --> 00:02:04,240
+O.K.嗱，首先歡迎各位出席呢個調查港深港高速鐵路香港段建造工程延誤嘅背景同原委專責委員會嘅第六次公開聆訊。
+
+4
+00:02:05,010 --> 00:02:12,310
+今日向專責委員會作證嘅證人係香港鐵路有限公司行政總裁梁國權先生。
+
+5
+00:02:13,560 --> 00:02:32,400
+專責委員會已經同意梁生嘅要求，可以有陪同人士咧係出席呢個言訊嘅。咁梁生嘅陪同人士咧係廣鐵公司嘅外聘法律顧問金道律師事務所炳辰先生。
+
+6
+00:02:33,080 --> 00:02:37,670
+港鐵公司首席法律顧問包偉明先生。
+
+7
+00:02:37,980 --> 00:02:42,330
+港鐵公司總經理、公司事務黃美琪女士。
+
+8
+00:02:42,620 --> 00:02:47,330
+同埋港鐵公司經理特別職務吳家華先生。
+
+9
+00:02:48,200 --> 00:02:54,570
+我想請大家注意，就係上述所有陪同梁國權先生出席嘅人士咧。
+
+10
+00:02:54,920 --> 00:02:58,650
+均不可以對專責委員會發言。
+
+11
+00:03:00,270 --> 00:03:02,890
+我想提醒證人咧。
+
+12
+00:03:03,170 --> 00:03:14,400
+本專責委員會咧係冇獲得立法會授權，行使《立法會權力及特權條例》第三百八十二章第九括弧一條嘅權力。
+
+13
+00:03:15,130 --> 00:03:20,620
+所以證人咧係唔受第三百八十二章賦予證人嘅特權所保障。
+
+14
+00:03:21,370 --> 00:03:27,830
+喺詢問過程裏邊咧，根據第三百八十二章第十八條嘅規定咧。
+
+15
+00:03:28,140 --> 00:03:47,440
+對專責委員會提出喺言順主題上具關鍵性嘅問題，蓄意給予虛假嘅回答，或者向專責委員會提交虛假失實、捏造或者捏改嘅文件，以圖欺騙專責委員會，即屬犯罪。
+
+16
+00:03:47,960 --> 00:03:52,990
+但我相信證人係會真誠咁協助委員會嘅工作。
+
+17
+00:03:54,930 --> 00:04:10,690
+專責委員會已經制定本身嘅工作方式同埋程序，我想大家留意以下幾點。首先咧，係第三百八十二章所定嘅議員特權咧，只係適用於言訊嘅過程。
+
+18
+00:04:11,140 --> 00:04:23,070
+所有議員，包括非專責委員會委員嘅議員，都應該避免喺言論過程以外場合發表同言論有關嘅意見。
+
+19
+00:04:23,570 --> 00:04:34,950
+另外，我想借呢個機會提醒旁聽今日言訊嘅公眾人士同埋傳媒，喺言訊過程以外嘅場合披露言訊裏邊提供嘅證供。
+
+20
+00:04:35,230 --> 00:04:38,930
+係唔受第三百八十二章所保障。
+
+21
+00:04:39,210 --> 00:04:47,030
+所以如果有需要咧，各位人士同埋傳媒朋友咧，應該就佢哋嘅法律責任咧，徵詢法律意見。
+
+22
+00:04:47,980 --> 00:04:57,630
+喺稍後嘅程序裏邊，我會要求證人就佢曾經向專責委員會提交嘅書面陳述書同埋文件作出確認。
+
+23
+00:04:57,980 --> 00:05:02,560
+將陳述書同埋文件納入為專責委員會嘅證據。
+
+24
+00:05:02,960 --> 00:05:14,260
+另外，專責委員會已經決定，所有經專責委員會考慮並同意可以公開嘅文件咧，上載至立法會網頁公公眾查閲。
+
+25
+00:05:14,540 --> 00:05:18,130
+我而家係宣佈啊，言訊開始。
+
+26
+00:05:19,070 --> 00:05:23,430
+梁生，你曾經喺二零一五年六月二十九日。
+
+27
+00:05:23,710 --> 00:05:29,970
+向專責委員會秘書提供一份證人陳述書嘅英文版本。
+
+28
+00:05:30,770 --> 00:05:37,430
+並喺二零一五年七月七日提交該份陳述書嘅中文版本。
+
+29
+00:05:37,920 --> 00:05:52,560
+即係專責委員會文件第W九括弧C號，你而家係咪正式向專責委員會出示該份文件，即係嗰份誒證人陳述書作為證據？係，主席。
+
+30
+00:05:53,230 --> 00:06:04,150
+啊！為咗方便列席嘅公眾人士同埋傳媒跟進呢個專責委員會嘅程序，我哋會應佢哋要求，將閣下嘅陳述書向佢哋公開。
+
+31
+00:06:04,430 --> 00:06:08,370
+你對你嘅陳述書有冇即時嘅補充，梁先生？
+
+32
+00:06:08,650 --> 00:06:15,550
+啊！主席，各位議員，多謝大家畀機會我補充多啲資料。首先。
+
+33
+00:06:16,330 --> 00:06:20,130
+啊，唔係，唔好意思，我中文唔係咁好。
+
+34
+00:06:20,430 --> 00:06:23,840
+為咗可以準確表達我嘅意思。
+
+35
+00:06:24,130 --> 00:06:32,680
+嗱，同埋清楚回答大家嘅問題啊！請容許我用英文去講，係。
+
+36
+00:06:33,190 --> 00:06:38,220
+誒，梁生呢個係冇問題嘅，你可以選擇以。
+
+37
+00:06:38,690 --> 00:06:45,560
+中文、誒廣東話、普通話或者英文作答，我哋係有即時傳譯嘅。
+
+38
+00:06:45,840 --> 00:07:05,850
+但係就為因為呢個係一個公開嘅聆訊啦，噉我就因為會會係有好多可能會有公眾會有轉播啊諸如此類嘅，噉我嘅提問咧係會用以廣東話嚟作提問，係向你誒即係我哋嘅交流咧，我係會以保誒以。
+
+39
+00:07:05,850 --> 00:07:08,340
+廣東話嚟進行嘅。
+
+40
+00:07:08,620 --> 00:07:15,600
+噉你就可以選擇用啊普通話、廣東話同埋英語作答，好嘛？多謝主席。
+
+41
+00:07:16,790 --> 00:07:19,330
+honourable chairman and committee members.
+
+42
+00:07:19,780 --> 00:07:39,790
+Thank you for allowing me the opportunity to say a few words. My written statement submitted to the select committee covers the following areas relating to your investigation, namely, firstly, the corporation's role and responsibilities under the entrustment agreements signed with government.
+
+43
+00:07:39,790 --> 00:07:48,850
+第二，係管理系統和程序，設出在公司嘅項目整合管理系統，或PIMS。
+
+44
+00:07:49,130 --> 00:08:06,310
+which has successfully delivered a number of new rail projects in Hong Kong and beyond over the last twenty plus years. As you know, the corporation is required to follow our system under the entrustment agreements for the Express Rail Link project. And thirdly.
+
+45
+00:08:06,590 --> 00:08:15,130
+The extensive channels of communication with government throughout the express rail link construction and the monitoring mechanisms in place.
+
+46
+00:08:15,920 --> 00:08:20,380
+Before I take your questions, I would like to briefly touch on a few points.
+
+47
+00:08:21,340 --> 00:08:38,440
+first of all, I would like to apologise that MTR did not until April of last year provide the government, the Legislative Council and the public with an updated assessment of the completion date of the Express Rail Link project.
+
+48
+00:08:38,720 --> 00:08:39,970
+作為結果。
+
+49
+00:08:40,250 --> 00:08:47,500
+Our announcement of the delay in April 2014, understandably, caused public concern.
+
+50
+00:08:48,210 --> 00:08:55,290
+The question that is often asked is why didn't we provide an updated assessment at an earlier time?
+
+51
+00:08:55,980 --> 00:09:07,390
+在April of last year，我係服務作為公司的副總裁，主要負責繼續推動我們的業務在香港以外的發展。
+
+52
+00:09:09,500 --> 00:09:18,390
+但自從被任命為 Acting CEO 在八月上一年，和後來為 CEO 在三月今年。
+
+53
+00:09:18,670 --> 00:09:22,410
+我花費了很多時間，聚焦於這個重要的項目。
+
+54
+00:09:22,760 --> 00:09:27,160
+Having talked to our staff and outside experts in the construction industry.
+
+55
+00:09:27,440 --> 00:09:33,430
+As was visiting the different work sites, the answer to that question has become clearer to me.
+
+56
+00:09:33,870 --> 00:09:45,660
+although delays to particular contracts were well known and communicated, we were too optimistic on the overall ability to catch up with the original timetable.
+
+57
+00:09:47,210 --> 00:09:53,370
+as we all know, the express rail link is a large and immensely complex project.
+
+58
+00:09:53,660 --> 00:09:57,990
+它係世界首個地下高鐵項目。
+
+59
+00:09:58,380 --> 00:10:01,620
+在終端站，在西九龍。
+
+60
+00:10:01,900 --> 00:10:05,020
+在心，頭，係一個非常繁忙的都市區。
+
+61
+00:10:05,300 --> 00:10:10,820
+We're undertaking one of the largest and deepest excavations ever in Hong Kong.
+
+62
+00:10:11,260 --> 00:10:19,100
+要建一個四層地下結構，最低層被定位30米地下。
+
+63
+00:10:19,750 --> 00:10:33,680
+The 11 hectare West Kowloon site area, which, as mentioned in the government's independent expert panel report, is approximately the size of 15 football fields.
+
+64
+00:10:33,960 --> 00:10:41,520
+The main public area of the terminus incorporates a large atrium with a steel-framed station entrance building.
+
+65
+00:10:41,800 --> 00:10:51,120
+The total construction area of the station, all of which is underground, is around 380,000 square metres.
+
+66
+00:10:51,430 --> 00:10:57,470
+almost two thirds of the floor area of terminal one at Chablis Hawk Airport.
+
+67
+00:10:58,690 --> 00:11:11,280
+MTS role in the delivery of the Express Rail Link project is as project manager, to oversee the design, construction, and commissioning into service of the project.
+
+68
+00:11:11,560 --> 00:11:20,220
+Role and responsibility as project manager are embedded in so-called entrustment agreements with the government.
+
+69
+00:11:20,650 --> 00:11:40,660
+There are two entrustment agreements. The first relates predominantly to design and site investigation, whilst the second, the so-called EA2, entered into in January 2010, predominantly relates to our role to oversee the construction and commissioning of.
+
+70
+00:11:40,660 --> 00:11:47,230
+The project, including the procurement and oversight of contracts with third parties.
+
+71
+00:11:50,880 --> 00:12:10,890
+Under both entrustment agreements, which require MTR to use our project management systems, we are to carry out our services as project manager with reasonable skill and care, and are to use our best endeavours to bring the project forward, as well as to provide regular updates and.
+
+72
+00:12:10,890 --> 00:12:12,750
+Progress reports to government.
+
+73
+00:12:13,240 --> 00:12:25,020
+Under EA2，both the entrustment programme and the entrustment costs are estimates，which may be subject to modifications in accordance with the contract。
+
+74
+00:12:26,500 --> 00:12:43,500
+Before construction commenced, site investigation works were carried out as far as possible. In particular, the site investigation that was undertaken at the West Kowloon terminus not only complied with government guidelines but also exceeded industry norm.
+
+75
+00:12:44,090 --> 00:12:49,450
+whilst delays are common for complex construction projects such as the Express Rail Link.
+
+76
+00:12:49,730 --> 00:12:56,060
+Throughout the construction, we did everything we could to reduce the effects of any delay.
+
+77
+00:12:57,960 --> 00:13:14,350
+As highlighted by various independent experts who have looked into the express rail link delay, many issues have impacted the construction programme, including challenges which were identified but proven to be much more serious than anticipated.
+
+78
+00:13:15,440 --> 00:13:21,790
+such as unfavourable ground conditions and the acute labour shortage in the local construction industry.
+
+79
+00:13:22,400 --> 00:13:33,930
+In addition, other key contributors of delay include issues with our tunnel boring machines, the TBMs, and a fast-track front end and late site possessions.
+
+80
+00:13:34,410 --> 00:13:42,350
+to overcome these issues, we instructed the contractors to carry out a large number of delay recovery measures.
+
+81
+00:13:42,710 --> 00:13:52,480
+And with good results achieved by some of these remedial measures, we became too optimistic on the overall timetable to complete the project.
+
+82
+00:13:53,250 --> 00:14:01,410
+Eventually, continuing delays in several critical contracts meant that the original project completion date could not be achieved.
+
+83
+00:14:01,720 --> 00:14:07,630
+although the challenges and delays on individual contracts were well communicated to government.
+
+84
+00:14:08,030 --> 00:14:15,600
+過optimism led to a belief that the original overall project completion date could still be met.
+
+85
+00:14:18,390 --> 00:14:26,640
+從The Express Rail Link events of last year， and taking the recommendations of the independent board committee of
+
+86
+00:14:26,940 --> 00:14:37,170
+Our board of directors, we have over the past year introduced enhancements to strengthen our monitoring and reporting of the project, including the following.
+
+87
+00:14:37,880 --> 00:14:50,070
+首先，我們已成立資本works委員會在董事會層級，以改善監察新項目建設，並提供更多支援給項目團隊。
+
+88
+00:14:50,420 --> 00:14:57,410
+在 addition， to strengthen corporate governance, the MTR board has also established the risk committee.
+
+89
+00:14:57,830 --> 00:15:05,810
+We have implemented improved internal project reporting processes and mechanisms within the project team.
+
+90
+00:15:06,090 --> 00:15:10,200
+作為，到執行委員會、監察委員會。
+
+91
+00:15:10,480 --> 00:15:12,430
+The board and to government.
+
+92
+00:15:12,970 --> 00:15:17,640
+We have also enhanced external reporting to the Legislative Council.
+
+93
+00:15:18,360 --> 00:15:26,290
+We've established enhanced communication channels with government and also with senior management of key contractors.
+
+94
+00:15:27,020 --> 00:15:38,540
+We've reviewed the report by the independent expert panel appointed by government, and we will support government in any follow-up actions which they may require.
+
+95
+00:15:39,380 --> 00:15:48,420
+最近，經過廣泛和細緻的審查，並考慮到IBC專家的方法論。
+
+96
+00:15:48,700 --> 00:15:52,740
+一 revised programme and cost estimate has been submitted to government.
+
+97
+00:15:53,560 --> 00:16:07,180
+With the permission of government, we have reported the details of this review to the Legislative Transport Panel's subcommittee on matters relating to railways on 3 July 2015.
+
+98
+00:16:07,810 --> 00:16:11,500
+The project is now over 70% complete.
+
+99
+00:16:11,930 --> 00:16:23,850
+While there are still challenges in the remaining construction works, we will, as always, continue to use our best endeavours to deliver the project according to the revised timetable.
+
+100
+00:16:26,040 --> 00:16:37,170
+The corporation's project team is highly professional and experienced, and has a proven track record in the construction and commissioning of new railway projects.
+
+101
+00:16:37,610 --> 00:16:46,480
+The hard-working women and men in the team continue to do their utmost and put in tremendous efforts to overcome challenges.
+
+102
+00:16:47,020 --> 00:17:00,800
+We work promptly and responsibly with the project contractors in an effort to mitigate delays when they occur, looking at what is in the best interest of the project, both from the schedule and cost perspective.
+
+103
+00:17:03,820 --> 00:17:10,510
+先生，我感謝各位議員及公眾給予我們的建議。
+
+104
+00:17:10,790 --> 00:17:17,950
+我們會繼續與政府合作，以交付Express Rail Link在及時和成本效益的 manner。
+
+105
+00:17:18,230 --> 00:17:19,690
+多謝主席及各位議員。
+
+106
+00:17:20,250 --> 00:17:21,400
+係梁生。
+
+107
+00:17:21,680 --> 00:17:31,590
+誒，我相信誒，我哋呢個委員會咧都好明白呢個係一個好龐大同埋一個好複雜嘅工程基建工程嚟嘅。
+
+108
+00:17:31,940 --> 00:17:42,680
+噉你個你會唔會將你剛才誒誒嘅開場發言稿咧誒出示畀呢個委員會作為嘅證據一部分？啊，yes，I will，Chairman。
+
+109
+00:17:43,970 --> 00:17:44,710
+好。
+
+110
+00:17:44,990 --> 00:18:05,000
+嗱，梁生噉，港鐵公司咧亦都曾經向專責委員會秘書提交咗五份文件嘅，即係專責委員會文件第M T L一、M T L二、M T L三、M T L一括號C同埋M T L二括號C號嘅。你而家係咪正式向專責委員會出？
+
+111
+00:18:05,000 --> 00:18:08,000
+是呢啲文件做嘅證據。Yes, Chairman。
+
+112
+00:18:09,040 --> 00:18:24,590
+嗱，我想提醒各位委員咧，根據專責委員會嘅工作方式同程序第十五段咧，喺公開言訊裏邊，委員只係應該為確立同此次言訊有關嘅事實而提問。
+
+113
+00:18:25,230 --> 00:18:29,640
+委員唔應該喺公開言訊裏邊發表意見，或者係作出陳述。
+
+114
+00:18:29,920 --> 00:18:36,290
+我會決定某條問題或者某行證據係咪同專責委員會嘅職權範圍有關。
+
+115
+00:18:36,570 --> 00:18:49,300
+以及係咪屬於言訊範圍？我作為主席，亦都有酌情權決定某條問題係咪屬於跟進問題，同埋應否容許委員提出該條問題。
+
+116
+00:18:49,860 --> 00:18:57,900
+咁另外咧就係誒每位委員嘅時間咧嘅時限啊，包括嘅證人嘅回應咧，都係同以往一樣十分鐘。
+
+117
+00:18:58,890 --> 00:19:05,320
+就今日嘅言信咧，我想先問梁生誒，第一條問題。
+
+118
+00:19:05,600 --> 00:19:19,960
+梁生根據港鐵公司二零一四年年報同埋閣下嘅陳述書第三段同埋第四段咧，閣下喺二零零二年二月係加入港鐵公司作為佢嘅財務總監嘅。
+
+119
+00:19:20,550 --> 00:19:22,420
+噉就係誒。
+
+120
+00:19:22,700 --> 00:19:40,210
+喺二零零二年起咧，一直出任誒執行總監會成員。咁同埋喺二零八年五月咧，閣下嘅職銜咧更加係改為係呢個財務同業務拓展總監，同時亦都負責開拓港鐵公司喺中國內地同埋海外嘅業務。
+
+121
+00:19:40,500 --> 00:19:47,600
+喺二零一七一二年七月擔任副局行政總裁，同埋喺二零一四年八月起。
+
+122
+00:19:47,880 --> 00:19:56,370
+擔任處理行政總裁，同埋喺二零一五年三月十六日起獲委任為行政總裁同埋董事局成員。
+
+123
+00:19:57,030 --> 00:20:10,730
+噉你可唔可以向專責委員會簡單描述你作為港鐵高層同埋執行總監會嘅成員呢？你認為高鐵香港段建造工程為何出現疑誤？
+
+124
+00:20:11,030 --> 00:20:17,640
+嗱，我哋係睇過阿梁生，我同你講咧，就係我哋係好詳細咁睇過你嘅。
+
+125
+00:20:17,920 --> 00:20:37,930
+誒證人陳述書啦，同埋你剛才嘅誒開場白，噉就係誒你可以好簡潔噉樣，即係會。如果係可以嘅話，你可以好簡潔回答我呢個問題啦。唔該。嗯嗯嗯嗯。誒，Thank you, Chairman. As Chairman had mentioned, back in from May two, oh eight.
+
+126
+00:20:37,930 --> 00:20:45,250
+我被任命為MTR的財務及業務發展總監，負責公司財務管理。
+
+127
+00:20:45,530 --> 00:20:59,970
+and from July two thousand and twelve, I was then appointed as deputy chief executive officer with responsibility。劉生你唔需要重重複我問題內容，你真簡潔啲答答我問題。唔該。誒，蔡明治。
+
+128
+00:21:00,630 --> 00:21:20,640
+Reasons for the delay in the construction of the express rail link are, I think, well highlighted in the various reports of our independent board committee and their experts, as well as in the IEP report. These reasons were also highlighted in our.
+
+129
+00:21:20,640 --> 00:21:29,740
+Paper to the Legislative Council back in May of last year, as well as more recently, early July of this year.
+
+130
+00:21:30,020 --> 00:21:30,880
+In.
+
+131
+00:21:31,270 --> 00:21:51,280
+Summary: There are a number of factors that led to the delay. A number of these factors relate to the overall situation and circumstances affecting the whole construction industry. One of these factors, which relates to the whole construction industry, is the shortage
+
+132
+00:21:51,280 --> 00:22:05,720
+Shortage of labour, as highlighted in the IBC report. Overall, across our then five new rail projects, there is a shortage of roughly 20% in terms of labour.
+
+133
+00:22:06,000 --> 00:22:16,340
+一second factor that is highlighted in the IBC and various other reports is the difficult ground conditions, although.
+
+134
+00:22:16,620 --> 00:22:24,640
+There was significant site investigation done prior to the commencement of construction activities.
+
+135
+00:22:24,920 --> 00:22:25,780
+啊。
+
+136
+00:22:26,060 --> 00:22:46,070
+When one is working underground, there is always, unfortunately, the very very significant probability of the ground condition being much worse than originally envisaged. This happened with the express rail link, and it has also happened in.
+
+137
+00:22:46,070 --> 00:22:50,770
+一啲，
+
+138
+00:22:51,050 --> 00:23:03,060
+A third factor that was highlighted by our IBC expert is the relatively short front end preparation of the project.
+
+139
+00:23:03,340 --> 00:23:23,350
+A fourth factor that was highlighted by our IBC experts, as well as commented on by the IEP experts, is the very complicated utility diversions, particularly in the West Kowloon terminus site. As you know, there are.
+
+140
+00:23:23,350 --> 00:23:43,360
+of utilities under Jordan Road and in that area, in the construction of that West Kowloon terminus, the diversion of that utility needs to be done very prudently and carefully to ensure that there's no disruption to utility services.
+
+141
+00:23:43,360 --> 00:23:43,680
+係。
+
+142
+00:23:43,960 --> 00:23:44,860
+The.
+
+143
+00:23:45,730 --> 00:24:05,000
+lack of labour, the shortage of labour also was a contributing factor to a further cause, which is the low productivity rate that we saw across virtually all the contracts in the express rail link, the express rail link project.
+
+144
+00:24:06,460 --> 00:24:08,150
+係，我想誒。
+
+145
+00:24:08,860 --> 00:24:18,660
+跟進問一問就係嗱，我哋知道誒港鐵公司係委任咗六位誒誒獨立非執行董事係組組成一個調查小組嘅。
+
+146
+00:24:18,940 --> 00:24:24,430
+噉就佢哋亦都提供咗，我覺得係一份報告，但係佢分為兩個部分咁嚇。
+
+147
+00:24:24,760 --> 00:24:32,350
+噉就佢哋係有兩位誒獨立嘅專業人士係協助佢哋，關於我相信關於技術性嘅問題啦，係咪啊？
+
+148
+00:24:32,720 --> 00:24:42,220
+噉我想問一問呢兩位誒獨立專業人士提供嘅服務咧，係有償服務啊，定係無償嘅義務服務嚟啊？
+
+149
+00:24:47,800 --> 00:25:07,810
+主席，兩位專家及他們的助手。其實有三位專家，兩位專家及他們的助手，其中一位專家是被MTR付費的。然而，專家是由獨立的委員會選出的。
+
+150
+00:25:07,810 --> 00:25:11,200
+明白。
+
+151
+00:25:11,590 --> 00:25:15,070
+噉就誒，我想問問就係誒。
+
+152
+00:25:16,620 --> 00:25:36,630
+你都會同意，即係所有嘅公司嘅董事咧，係無論係非執董又好，執董又好啦，佢哋都係對公司有一個忠誠嘅責任（fiduciary duty）係嘛，同埋佢亦都係要以公司嘅最大利益而行動嘅，即係at。
+
+153
+00:25:36,630 --> 00:25:38,450
+在best interest of the company.
+
+154
+00:25:38,730 --> 00:25:43,560
+嗱，噉係誒，我諗你都係確認嘅，呢個佢有咁責任嘅，係咪啊？
+
+155
+00:25:45,250 --> 00:25:47,280
+I can confirm that, Chairman.
+
+156
+00:25:48,150 --> 00:26:04,310
+咁嗱，噉我想問一問就係嗰個證人陳述書咧，就提及係有兩份報告嘅，一份就係剛才我講嘅非執董嘅佢哋嘅調查小組嘅報告啦，另外一份咧就係由特首委任嘅專家小組嘅報告。
+
+157
+00:26:04,840 --> 00:26:21,110
+噉就係我哋都知道誒專家小組，即係特首委任專家小組裏邊咧，係有誒我哋嘅香港嘅特區香港特區嘅誒中心法院嘅誒夏靖文非常嘅法官，同埋兩位海外嘅專家。
+
+158
+00:26:21,430 --> 00:26:23,980
+噉我想，相對之下咧。
+
+159
+00:26:24,830 --> 00:26:31,680
+特首嘅專家小組報告咧，係比起貴公司嘅非執董報告咧。
+
+160
+00:26:31,960 --> 00:26:35,070
+係對貴公司同埋政府提出。
+
+161
+00:26:35,350 --> 00:26:40,290
+係一啲係更為尖鋭嘅批評啊！
+
+162
+00:26:40,570 --> 00:26:52,100
+噉就我見到你陳證人陳述書裏邊咧，就係誒有大幅度嘅引述呢個誒非執董報告，貴公司嘅非執董報告，但係對。
+
+163
+00:26:52,550 --> 00:27:01,990
+呢個誒特首專家小組報告嘅內容咧，就並冇任何嘅引述，只係略略提及嘅。我想你可唔可以解釋下原因啊？
+
+164
+00:27:07,180 --> 00:27:27,190
+Thank you, Chairman. In fact, the IEP report also has made reference in their report to the IBC IBC experts, and I believe that they have also noted that the recommendations from the IBC experts are very much in line with.
+
+165
+00:27:27,190 --> 00:27:32,050
+And in accordance with the IEP experts' recommendations as well.
+
+166
+00:27:32,330 --> 00:27:52,340
+Chairman, we have, as members know, cooperated fully with government and the IEP experts in their compilation and in their compilation of the IEP report. There are, we have given our views to government.
+
+167
+00:27:52,340 --> 00:28:00,360
+On the IEP report, there are areas where we take a different view from the IEP report.
+
+168
+00:28:02,520 --> 00:28:14,510
+就所以你就比較少提個你所講嘅I.E.P. report係咪噉嘅意思啊？就係你就非執董嘅報告，你完全接受，即係貴公司自己內部嘅報告，你完全接受嘅。
+
+169
+00:28:14,800 --> 00:28:16,600
+主席，我。
+
+170
+00:28:17,360 --> 00:28:30,600
+In the IEP report, there is a factual annexure from Price Waterhouse Coopers. I think most of the facts in that factual annexure we accept as being factually correct.
+
+171
+00:28:32,260 --> 00:28:42,360
+咁對於嗰個誒特首委任嘅非專家小組嗰個報告咧，內容嗰啲，我我知道佢哋嗰個誒。
+
+172
+00:28:42,770 --> 00:29:02,780
+個結論啊，嚇個conclusions，你可能會有唔同嘅地方，但係佢喺嗰個誒事實嗰個根據嘅方面咧，即係fact finding嗰度方面咧，你係冇異議㗎，即係佢係冇喺個事實確認嘅方面咧係冇冤枉到廣鐵公司嘅，係咪啊？我噉樣講啱唔啱？
+
+173
+00:29:02,990 --> 00:29:03,940
+啊。
+
+174
+00:29:04,740 --> 00:29:16,590
+Mr. Chairman, the the facts as stated in the factual annexure from Price Waterhouse Coopers, in my view, are factually correct.
+
+175
+00:29:16,870 --> 00:29:20,300
+There may be different interpretation of some of those facts.
+
+176
+00:29:21,210 --> 00:29:22,220
+明白。
+
+177
+00:29:23,050 --> 00:29:25,740
+誒，下一位係盧偉國議員。
+
+178
+00:29:27,240 --> 00:29:28,160
+多謝主席。
+
+179
+00:29:28,830 --> 00:29:29,800
+嗯。
+
+180
+00:29:30,310 --> 00:29:41,640
+我想主席，我想問咧，就因為誒香港段嘅獨立專家小組報告啊，七點四段咧就有建議咧，就話為。
+
+181
+00:29:42,150 --> 00:29:52,300
+工程項目咧嚟定基線參數嘅程序，應該包括咧進行呢個定量風險分析啊。關於工程計劃同埋成本優環。
+
+182
+00:29:53,240 --> 00:29:54,380
+噉我就。
+
+183
+00:29:54,840 --> 00:30:14,850
+就呢個誒建議咧，我想問咧，就係港鐵公司咧，其實有冇進行任何定量風險分析，以確定工程項目嘅各種嘅不理想嘅地質情況啊，或者其他嘅誒誒可預估或者不可。
+
+184
+00:30:14,850 --> 00:30:23,610
+預估嘅困難，咁然後咧，亦都要考慮咧呢啲可能嘅風險咧，點樣影響到工程預算啦、施工時間。
+
+185
+00:30:23,890 --> 00:30:29,720
+咁如果做個分析嘅話咧，可唔可以提供有關嘅詳情？
+
+186
+00:30:30,820 --> 00:30:50,830
+就亦誒喺技術上咧，或者都誒可以一啲例子，譬如話喺個西九總站個地底情況咧，咁誒挖掘誒嘅大量嘅誒誒岩石啊、土方啊，同埋咧亦都。
+
+187
+00:30:50,830 --> 00:31:10,840
+都要使用咧相當大量嘅運營土，咁亦都有大量嘅係誒用作係頂部結構嘅鋼材啊等等。噉啊喺呢啲方面咧，其實就港鐵公司咧，對對呢啲困難咧有冇誒向呢個政？
+
+188
+00:31:10,840 --> 00:31:15,740
+政府當局咧，誒，彙報嚇有關嘅困難同埋挑戰。
+
+189
+00:31:16,610 --> 00:31:17,640
+就。
+
+190
+00:31:18,090 --> 00:31:23,980
+另外第三個問題咧，就係誒。
+
+191
+00:31:24,520 --> 00:31:26,070
+呢一啲嘅。
+
+192
+00:31:26,350 --> 00:31:38,150
+地質嘅情況，正如頭先啊梁生咧回答主席嘅問題都提到啦，都係誒引起延誤嘅其中一個重要因素。
+
+193
+00:31:38,430 --> 00:31:50,450
+咁喺呢一方面咧，誒會唔會係反映到係工地勘測嘅工作咧，係做得係唔夠全面咧，唔夠仔細咧咁？
+
+194
+00:31:52,100 --> 00:31:54,630
+第四個問題咧。
+
+195
+00:31:54,910 --> 00:31:55,940
+係。
+
+196
+00:31:57,100 --> 00:32:04,220
+正如咧嘅誒梁生嘅陳述書第三十一段咧，就話高鐵項目原定嘅。
+
+197
+00:32:04,500 --> 00:32:16,680
+預計工期咧係大約係五年半，即係話咧係由合約開始嘅二零一零年一月廿六號，至到二零一五年嘅八月四號啊嘅預算移交日啊計算。
+
+198
+00:32:18,280 --> 00:32:21,440
+咁以呢一個嘅員工期。
+
+199
+00:32:21,720 --> 00:32:25,960
+是否亦都係反映到，正如咧係第二份獨立？
+
+200
+00:32:26,430 --> 00:32:35,690
+誒董事嘅委員會報告裏邊嘅附錄嘅第一點二六段所講咧，係施工進度安排咧，係。
+
+201
+00:32:35,970 --> 00:32:42,680
+過分進取咧噉，或者我誒先有呢幾個問題請阿梁生回答先嚇。梁生唔該。
+
+202
+00:32:47,080 --> 00:32:48,040
+嗯。
+
+203
+00:32:48,740 --> 00:32:52,550
+Thank you, honourable member, for the for those questions.
+
+204
+00:32:53,190 --> 00:33:13,200
+第一個問題，which relates to the IEP report and highlighted in paragraph 1.4, the IEP report regarding the so-called quantitative risk assessment. I firstly say that our project team and MTR in our projects works, we have detailed procedures in place. Detailed procedures.
+
+205
+00:33:13,200 --> 00:33:33,210
+措施 in place to identify risk relating to both the project programme, the so-called schedule, as well as to project costs. This is all under our so-called PIMS project management system, which, as members also know, is the system that under the entrustment agreement we have to use.
+
+206
+00:33:33,210 --> 00:33:45,970
+Procurement and contracts colleagues and their management and documentation, respectively, also includes significant, also includes risk assessment.
+
+207
+00:33:46,250 --> 00:34:06,260
+We we consider that these risk assessment risk mitigation measures are generally fit for purpose in managing these major projects such as the Express Rail Link, and in fact these risk mitigation processes have been used for a number of projects.
+
+208
+00:34:06,260 --> 00:34:07,580
+Previously.
+
+209
+00:34:07,890 --> 00:34:20,290
+We have in place a qualitative. We had in place and continue to use a qualitative risk assessment, which is part of our overall risk assessment process.
+
+210
+00:34:22,410 --> 00:34:23,510
+冇位過熱。
+
+211
+00:34:23,790 --> 00:34:25,980
+啊！特別味㗎～
+
+212
+00:34:26,380 --> 00:34:37,220
+呢個答應咗，係誒誒，或者請梁生繼續誒答我餘下幾個問題。頭先問咗幾個，佢啱答咗就係個風險評誒分析嗰部分嘅嚇。
+
+213
+00:34:37,620 --> 00:34:54,000
+Chairman, perhaps I can answer the honourable members' other questions as well. The second question is with regards to reporting to government. As members know, there is very extensive reporting to government. The
+
+214
+00:34:54,390 --> 00:35:10,320
+There's a and the processes and the meetings are well set out in the various documents which are in the public domain. The independent, the IEP report, government's IEP report as well as our IBC report, are.
+
+215
+00:35:10,600 --> 00:35:30,610
+The difficulties with ground conditions, the difficulties on individual contracts, the delays on individual contracts, is well documented. That all these are well reported to government in these various meetings, as both formal and ad hoc meetings, which have been taking place throughout.
+
+216
+00:35:30,610 --> 00:35:31,780
+The.
+
+217
+00:35:32,060 --> 00:35:38,910
+period from the start of construction or from the signing of the entrustment agreement for the express rail link.
+
+218
+00:35:39,380 --> 00:35:48,150
+Chairman, perhaps I can go to the honourable member's third question. The third question is with regards to site investigation.
+
+219
+00:35:48,430 --> 00:36:08,440
+And the adequacy of site investigation, chairman. As I have mentioned, we did extensive site investigation prior to the commencement of construction. The site investigations were done both at the West Kowloon terminus as well as to the extent possible. To the extent possible.
+
+220
+00:36:08,730 --> 00:36:28,740
+沿著隧道的對齊。我提到在西九龍終端，我們正在鑽孔，鑽孔進行地質調查，間距為14.4公尺。這間距符合相關政府指引，而且。
+
+221
+00:36:28,740 --> 00:36:48,750
+The spacing is much closer and therefore of a higher standard than the industry norm. However, as members are aware and highlighted in both the IEP and the IBC reports, due to vertical formation of the bedrock at the West Cowden terminal site, even with closely spaced
+
+222
+00:36:48,750 --> 00:36:56,770
+Space boreholes. It is still possible and likely that weak seams of rocks and subsurface boulders will be missed.
+
+223
+00:36:57,050 --> 00:37:17,060
+Also, variable rockhead in several locations resulted in excessive rock having to be removed to meet the requirements of the rock quality for the panels on which the West Highland Terminus diaphragm walls were built. I would further add, Chairman, that.
+
+224
+00:37:17,060 --> 00:37:24,400
+在西九龍車站地，因為地點的限制，有幾處。
+
+225
+00:37:24,680 --> 00:37:25,400
+and.
+
+226
+00:37:25,680 --> 00:37:41,650
+relatively sizeable areas in some cases where site investigation cannot be done. A good example of this is the area under Jordan Road, because of the very busy traffic on Jordan Road, there was.
+
+227
+00:37:42,130 --> 00:37:57,420
+very little possibility of closing the road for site investigation. Also at the also at the golf course, we did the old golf course. We did site investigation in the car parking areas.
+
+228
+00:37:57,750 --> 00:38:17,760
+In addition to the site investigations that were done at the West Kowloon terminus site, we also did quite extensive site investigation along the tunnel alignments. There's 20 odd kilometres of tunnel from West Kowloon to the border of San Juan. That site investigation.
+
+229
+00:38:17,760 --> 00:38:25,100
+use both drilling of holes along the alignment, as well as a relatively
+
+230
+00:38:26,010 --> 00:38:46,020
+一技術，那不是香港普遍使用。它是一個水平鑽孔，會是垂直。它是一個水平方法論，藉由使用水平鑽孔，我們測試岩石層，特別是在兩個山區。
+
+231
+00:38:46,020 --> 00:38:49,960
+所以， in terms of the work done on the tunnels, there were
+
+232
+00:38:50,360 --> 00:39:04,930
+400 boreholes drilled, and for the one kilometre of tunnels under the the hills, the mountains, we did this so-called uses unconventional approach of horizontal and directional.
+
+233
+00:39:05,360 --> 00:39:06,780
+財政調查。
+
+234
+00:39:07,500 --> 00:39:18,610
+So, chairman, that answers the third question. The fourth question was on the original schedule.
+
+235
+00:39:19,180 --> 00:39:35,130
+主席，我會 firstly say that there was a significant amount of work done back in 2009 and prior to that, looking at the schedule, the timetable to complete the project in 2015, in 2015.
+
+236
+00:39:35,410 --> 00:39:55,420
+There were many experts involved in looking at that timetable. The final conclusion was the timetable to complete in 2015 was tight, but it was a doable. It was an achievable timetable. Thank you, Chairman. 啊，主席容許我個議員有冇跟進？誒嗱。
+
+237
+00:39:55,420 --> 00:40:15,430
+有一個跟進問題，咪跟住咧，我會有一啲再誒新嘅問題。我覺得認為咧，對誒喺呢一方面取證係重要嘅。跟住問題咧，就係頭先啊，梁生咧就都講咗，其實港鐵公司咧喺呢個工程行裏邊咧係係一路咧係有持續噉樣用呢個定量風險分析。
+
+238
+00:40:15,430 --> 00:40:16,410
+嘅方法。
+
+239
+00:40:16,690 --> 00:40:36,700
+誒我就誒我頭先都提過啦，可唔可以提交呢一方面？而家啲係詳情。噉我相信，如果既然係不斷噉樣做嘅話咧，我要你提交曬所有定量風險分析嘅報告，呢個亦都唔係好可能。但係譬如話喺釐定誒最早釐定呢個五年半合約期嘅時間，當時在
+
+240
+00:40:36,700 --> 00:40:56,710
+嘅定量風險分析係如何？誒有冇因而咧係定定一啲咧係誒所謂預留一啲咧係嗯誒彈性噉，或者可以喺呢一方面咧提交一啲詳情畀我哋知識，可唔可可唔可以？誒新嘅問題咧就其實都係相關。
+
+241
+00:40:56,710 --> 00:40:58,560
+關嘅就係。
+
+242
+00:40:58,910 --> 00:41:18,920
+誒，因為頭先提到好多係前期嘅工作啊、誒評估啊等等咧，當然係牽涉到咧係誒項目計劃嘅即係第一部分嘅協議。噉啊，根據誒梁生嘅陳述書嘅四十同埋四十二段咧，誒亦都獨立專。
+
+243
+00:41:18,920 --> 00:41:35,540
+加喺第二份獨立董事委員會嘅報告嘅附錄三點一二同埋三點一三咧，就話相對性質同高鐵類近嘅工程咧，就項目計劃嘅前期工作咧，一般咧嘅比較一般嘅預期咧係短嘅。
+
+244
+00:41:35,820 --> 00:41:47,550
+噉啊，由行政會議通過政策支持到簽署第二份委託承協嘅過程咧，係借用咗二十一個月，就短於國際標準嘅平均三十七個月。
+
+245
+00:41:47,890 --> 00:41:59,580
+噉啊，所以我想問阿梁生就以呢個高鐵香港段呢個項目嘅規模咧，前期工作咧二十一個月咧係係是否係嚴重不足咧噉樣？
+
+246
+00:41:59,870 --> 00:42:11,730
+誒，因為呢個咧就亦都同頭先提到嘅誒誒誒前期一啲勘探啊，啊或者係分析啊係有關嚇，咁呢個時間係咪即係不足夠咧？咁？
+
+247
+00:42:12,430 --> 00:42:26,370
+另外咧個誒問題咧就係就係話咧誒你嘅陳述書咧細三廿二段咧都講到咧就考慮到高鐵咁誒複雜嘅工程咧有嚴風險。
+
+248
+00:42:26,650 --> 00:42:31,220
+咁所以咧，喺第二份啊委託業餘之下咧，但係咧就係。
+
+249
+00:42:31,940 --> 00:42:38,550
+並無施加，需喺二零一五年八月四日前完成高鐵項目嘅絕對義務。
+
+250
+00:42:39,760 --> 00:42:52,740
+咁第喺呢一份第二份嘅委託協議咧，係咪有講明咧？係港鐵公司喺假如唔唔能夠喺二零一五年八月四日或者之前咧完成供電項目咧，會有咩後果或者懲罰咧？噉。
+
+251
+00:42:53,370 --> 00:43:00,090
+誒，亦都是否意味住港鐵咧喺工程未開之前咧，已經預計有延誤？
+
+252
+00:43:00,520 --> 00:43:08,160
+係，因此咧，未能喺呢個二零一五年八月四號之前咧，完成呢個項目咧，會係呢個意料之中咧。
+
+253
+00:43:08,580 --> 00:43:12,770
+誒，主席係請阿梁生回答。阿梁生唔該。
+
+254
+00:43:14,520 --> 00:43:20,170
+Thank you, Chairman. Thank you, Honourable Member, for that those questions.
+
+255
+00:43:20,450 --> 00:43:26,230
+On the first question, can I supplement and to say that?
+
+256
+00:43:26,880 --> 00:43:34,480
+from on the schedule on the timetable, what MTR what we use in terms of our risk management.
+
+257
+00:43:34,800 --> 00:43:53,130
+before before last year before 20 up to 2014 would be a qualitative a qualitative not a quantitative risk assessment from a timetable perspective. We do use quantitative assessment in terms of cost. Just like to supplement that, Chairman.
+
+258
+00:43:53,410 --> 00:44:13,420
+the as I mentioned the we the PIN system which incorporates this qualitative risk assessment has been reviewed by a number of experts back in two oh nine I won't repeat what the experts have said the experts' comments which include comments of of saying that.
+
+259
+00:44:13,420 --> 00:44:20,440
+The PIMS is robust, is well documented in the IEP and the IPC reports.
+
+260
+00:44:21,310 --> 00:44:29,330
+所以，風險管理流程是嵌入在MTR流程中，那我們在2009年審核過。
+
+261
+00:44:31,390 --> 00:44:32,360
+啊！
+
+262
+00:44:33,260 --> 00:44:44,900
+Chairman, perhaps I can go to the member's second question, which once again talks about site investigation. I would say that I.
+
+263
+00:44:45,180 --> 00:45:03,060
+As highlighted just now, there were extensive site investigation done in that preliminary period. In fact, once again as highlighted, the site investigation was based on was meeting guidelines of the government, and in fact even at a
+
+264
+00:45:04,170 --> 00:45:24,180
+Even the holes are drilled closer, so at a higher standard than what is industry norm. Using the horizontal and directional site investigation for the tunnels is is something which is rather unique, and not many not many entities would.
+
+265
+00:45:24,180 --> 00:45:35,550
+use that, but we did use that for the purposes of our site investigation. So I would say that in terms of site investigation, there was a very significant amount of work done.
+
+266
+00:45:35,910 --> 00:45:45,300
+With regards to the member's third question, which is on our
+
+267
+00:45:46,840 --> 00:45:49,470
+project management， the
+
+268
+00:45:51,550 --> 00:45:54,400
+MTR， we take our responsibility.
+
+269
+00:45:54,740 --> 00:46:00,790
+作為project manager under the entrustment agreement，very very seriously， and the
+
+270
+00:46:01,460 --> 00:46:21,470
+responsibility， as well as the liability of the project manager， MTR， is well set out in the various public documents and in particular the IEP document with regards to our role and our responsibility. So on
+
+271
+00:46:21,470 --> 00:46:26,170
+主席，我沒有太多可加的，超出於IEP報告。
+
+272
+00:46:27,590 --> 00:46:47,600
+誒係主主席就誒兩誒好快跟進兩嘢。第一個咧就係誒，我都誒聽到頭先啊，梁生講咧就或者係早期咧，佢有啲誒誒未必係呢個誒定量嘅風險分析啊，就但係都係一啲風險分析嘅。
+
+273
+00:46:47,600 --> 00:47:07,610
+工作咁誒，所以我頭先問嘅就係話，對於誒呢啲風險分析係與呢個定定呢個施工嗰個誒完成嘅目標誒之間一啲關係咧，係咪可以提供呢個誒一個書面嘅誒嘅解釋？咁或者呢個都係仲係我要求咁不。
+
+274
+00:47:07,610 --> 00:47:27,620
+一個誒，另外一個跟進咧，就係誒，似乎就梁生就冇好直接噉樣答我咧，就係話根據第二份誒委託嘅協議咧，有冇定明港鐵公司假如唔能夠喺二零一五年八月四號或者之前完成高鐵項目咧，會有咩後果或者懲罰誒？呢一點係冇直接答我，我唔知道。
+
+275
+00:47:27,620 --> 00:47:47,630
+阿梁生係係咪可以有一個比較直接嘅答案？梁生可唔可以提供有關嘅書面陳述，同埋誒可唔可以直接答呢個誒即係個後果嘅問題？如果係八月四號之前二零一五年完成唔到嘅話，有啲咩後果？啊，請問啊，if I may啊。
+
+276
+00:47:47,630 --> 00:48:07,640
+I would just like to respond to that question. Under the entrustment agreement, as members are aware, both the schedule the 2015, the August 2015 schedule, as well as the estimated costs, these are estimates, and I stress the word estimate.
+
+277
+00:48:07,640 --> 00:48:08,040
+嗯。
+
+278
+00:48:08,320 --> 00:48:28,330
+There are provisions in the entrustment agreement, and these provisions are well highlighted in government's IEP experts' report in the factual annexure. That has that have provisions. The entrustment agreement has provisions to amend and adjust these estimates.
+
+279
+00:48:28,330 --> 00:48:37,150
+所以當entrustment agreement was entered into in 2010, it was on the basis of MTR being a project manager, with an estimated
+
+280
+00:48:37,430 --> 00:48:57,440
+有個義務要盡最大努力作為一個項目經理，根據一個預估的時間表和預估的費用來完成。有條款可以調整這個。係，我諗我哋清楚嘅答案，梁生。或者你可唔可以誒講講，你就會唔會提供嗰個陳述書咧？啊，各位國會議員要求第一步。
+
+281
+00:48:57,440 --> 00:49:00,540
+好，陳。
+
+282
+00:49:00,910 --> 00:49:14,380
+Can we go back and consult with my project colleagues on this？係或者你同我誒誒呢個委員會嘅秘書誒溝通一下好嗎？嗯嗯。OK，唔該。下下一位係誒謝偉全副主席。
+
+283
+00:49:14,810 --> 00:49:17,280
+係，多謝主席。就誒。
+
+284
+00:49:18,680 --> 00:49:36,960
+高鐵嗰個誒完工日期咧，其實就係誒原本定喺就係誒一五年八月啦。咁但係就根據過往即係資料顯示咧，其實呢個工程一開始咧，其實都出現咗啲誒疑誤㗎啦。
+
+285
+00:49:37,840 --> 00:49:48,080
+咁誒，根據呢個梁先生嗰陳述書咧，第一百二十二段I嗰度講咧，就係前行政總裁偉達成。
+
+286
+00:49:48,370 --> 00:49:49,360
+同埋。
+
+287
+00:49:49,640 --> 00:49:59,090
+前工程總監周大倉以外咧，其他執行委員會嘅成員咧，係喺二零一四年四月十二日。
+
+288
+00:49:59,370 --> 00:50:00,510
+先至獲。
+
+289
+00:50:00,790 --> 00:50:01,910
+誒，即係。
+
+290
+00:50:02,900 --> 00:50:06,020
+前工程總監告知咧。
+
+291
+00:50:06,340 --> 00:50:16,890
+就關於呢個高鐵延誤嘅喺之前咧，佢哋係唔知悉嗰個項目嘅工程時間表咧，就係會延誤到二零一七年嘅。
+
+292
+00:50:17,170 --> 00:50:19,710
+噉就似咧，我就想問問阿梁生。
+
+293
+00:50:19,990 --> 00:50:31,750
+誒，港鐵嘅董事局係咪同樣係喺四月十二號，即係去年咧，先係知識工程嘅疑誤咧？嚇！
+
+294
+00:50:32,090 --> 00:50:35,310
+噉就係，如果係咧？
+
+295
+00:50:36,020 --> 00:50:47,060
+係是否有人咧就延遲向董事局匯報，亦或係根據嗰陣時嘅機制嚟講咧，係其實董事局咧係誒，即係。
+
+296
+00:50:47,990 --> 00:50:52,120
+應該係唔可以知道嘅，或者唔會知道嘅。嚇，第一個問題。
+
+297
+00:50:53,020 --> 00:50:53,910
+梁生。
+
+298
+00:50:56,350 --> 00:50:57,870
+啊。
+
+299
+00:50:58,180 --> 00:51:01,630
+Thank you for that question. The
+
+300
+00:51:02,400 --> 00:51:19,470
+As well highlighted in the IBC and the IEP report, the first time the board of MTR, the board of MTR knew about the delay was in April 2014. April 2014, after after the announcement of the delay in the public domain.
+
+301
+00:51:22,990 --> 00:51:34,780
+誒，主席，噉我想跟轉啊，即係其實咧董事局其實就唔清晰，誒，另外呢個誒嗰個工程方面嘅嚴值度係一四年。
+
+302
+00:51:35,060 --> 00:51:36,740
+四月十二號。
+
+303
+00:51:37,900 --> 00:51:44,860
+咁但係呢個工程嚟講，之前嚟講咧，都出現唔多唔少咧，好多滯後根據文件表示。
+
+304
+00:51:45,140 --> 00:51:50,660
+咁呢樣噉嘅做法，我想問梁生咧，因為根據嗰個誒。
+
+305
+00:51:51,810 --> 00:51:59,040
+港鐵同埋政府簽訂嗰個委託合約咧，港鐵係需盡最大努力。
+
+306
+00:51:59,800 --> 00:52:15,260
+佢如期完成呢個工程，亦都係根據嗰個誒工程嗰個誒總嘅造價呢方面係盡最大努力。咁連董事局咁多年開咗工，然後突然間先知道一遲。
+
+307
+00:52:15,550 --> 00:52:18,450
+就會遲到二零一七年底。
+
+308
+00:52:18,770 --> 00:52:27,760
+噉我想問梁生，噉樣係咪以你即係睇法，港鐵係咪真係做做到盡最大努力？
+
+309
+00:52:28,040 --> 00:52:34,430
+嚇，去完成啲任務、啲目標，亦或係因為嗰個委託合同咧？
+
+310
+00:52:34,870 --> 00:52:36,030
+呢個。
+
+311
+00:52:36,720 --> 00:52:52,510
+港鐵係唔需要負上呢個，只要佢盡咗努力啊！第一就係冇盡最大努力，另外就係根本佢對於嗰個工程誤同埋超支係唔需要負上責任，所以董事局根本係。
+
+312
+00:52:54,450 --> 00:53:00,100
+冇或者冇呢個，即係誒決心去。
+
+313
+00:53:01,370 --> 00:53:02,630
+監控。
+
+314
+00:53:02,910 --> 00:53:11,230
+成個工程嘅進度，二係任由即係某一啲管理人佢自己自把自為咧，噉。
+
+315
+00:53:11,720 --> 00:53:12,900
+梁生。
+
+316
+00:53:16,130 --> 00:53:17,060
+啊！
+
+317
+00:53:18,310 --> 00:53:20,860
+Thank you, member, for that question.
+
+318
+00:53:23,160 --> 00:53:27,920
+我首先説，MTR，Throughout the Express Rail Link Project。
+
+319
+00:53:28,300 --> 00:53:48,310
+We have been using our absolute best endeavours. We have done everything we possibly can for the express rail link project and continue to do so. We have right now seven hundred and fifty, seven hundred and fifty very hard-working women and men who every day are working hard to deliver this project based on.
+
+320
+00:53:48,310 --> 00:54:08,320
+The revised schedule and in the most cost-effective manner. In fact, the professionalism and the expertise of the MTR team in in their approach to the Express Rail Link project was well highlighted by both the IEP in their report as well as the IBC. I think.
+
+321
+00:54:08,320 --> 00:54:14,740
+IPC experts complemented the high level professionalism and the.
+
+322
+00:54:15,020 --> 00:54:35,030
+高 level professionalism of our colleagues overseeing the XRL project, and the fact that they were not just working hard, but doing their utmost to overcome difficulties as those difficulties arise. In fact, the IEP expert, the government's own IEP experts, commented that the MTR
+
+323
+00:54:35,030 --> 00:54:43,410
+管理 of individual contracts was at least would and this is their word exemplary, it was exemplary, the.
+
+324
+00:54:44,490 --> 00:55:04,500
+The express rail link is a very complex, large complex project. The complexity, I think, we have highlighted highlighted a number of times throughout my my introductory remarks, as well as in our in our.
+
+325
+00:55:04,500 --> 00:55:06,670
+written statements， the。
+
+326
+00:55:06,950 --> 00:55:15,840
+Throughout that project, as I mentioned, the team were doing their utmost to catch up with delays. The individual delays of contracts.
+
+327
+00:55:16,120 --> 00:55:36,130
+need not mean an overall delay in the project. The team, the individual delays in particular contracts, was well communicated to all concern, including government, in the regular meetings with government. At all times, the project. 啊，梁生，我諗你可以直接啲答啊。
+
+328
+00:55:36,130 --> 00:55:56,140
+這這位全副主席嘅問題，佢個問題唔係話你哋team有冇盡到最大嘅責任。佢問問題係話你董事局個態度係咪因為有啲咁有佢成日所提嗰兩個原因咧，係冇去真係認真去監察到呢個工程嗰個嗰個進行嗰個進度嘅。
+
+329
+00:55:56,140 --> 00:56:16,150
+嗯，Thank you for that clarification, Chairman.係董事局係咪？I would stress that the board took their responsibility, their governance responsibility, extremely seriously. There are regular reporting from the project's director and the previous project's director to the board at board meeting.
+
+330
+00:56:16,150 --> 00:56:36,160
+Where updates of the progress of Express Rail Link were discussed. In addition, there were half-yearly updates by the then the former project's director on the progress of, amongst others, the Express Rail Link project. And in fact, there was well documented.
+
+331
+00:56:36,160 --> 00:56:46,890
+In the IPC report, questions and comments which were made by board members as they followed the progress of the express rail link.
+
+332
+00:56:47,300 --> 00:56:47,960
+誒。
+
+333
+00:56:48,240 --> 00:57:08,250
+主席噉啊，就我諗有一件事就係即係好清楚咧，就係其實港鐵董事局咧就要去到二零一四年四月十二號先知，至到呢個高鐵工程咧會延誤到二零一七年年底。咁另外，我都想跟進問一問咧，好簡單就係話咁根據嗰。
+
+334
+00:57:08,250 --> 00:57:28,260
+嗰個誒彙報機制咧，咁另外咧就有執行委員會嘅。咁執行委員會對於呢個二五咧，至二零一七年咧，係咪即係畀公眾咧早幾日或者兩三日先知道咧？佢哋都係誒對呢個二五到二零一七年咧，就係其實咧。
+
+335
+00:57:28,260 --> 00:57:31,850
+都係誒被蒙在鼓裏咧。
+
+336
+00:57:32,750 --> 00:57:33,720
+梁生。
+
+337
+00:57:36,220 --> 00:57:56,230
+with regards to the executive committee, as members are aware from the reports and my written statement, the executive committee is a committee predominantly of the executive directors plus one or two other members。主席，我想簡單啲咧，係咪真係即係畀公眾只係早兩三日先知道咧？就個高鐵。
+
+338
+00:57:56,230 --> 00:58:00,570
+工程咧就要延到二零一七年，啱唔啱？
+
+339
+00:58:00,850 --> 00:58:20,860
+also，aswell highlighted in the IBC report，the answer is yes。The executive committee，apart from the projects director，only knew about the delay back in April of 2014。Okay，唔該，梁生。至於我想跟進咧，就係舊先誒都誒喺阿梁生陳述書或者佢嗰個。
+
+340
+00:58:20,860 --> 00:58:27,820
+誒開場嘅發言咧，都提過咧，呢個工程咧，高鐵工程咧就係複雜嘅。
+
+341
+00:58:28,100 --> 00:58:38,360
+咁另外咧，就我都聽到有幾個重要嘅因素，即係令到咧有疑問嘅。噉啊，包括咧就係誒個地質。
+
+342
+00:58:38,640 --> 00:58:58,650
+誒，另外咧就係一啲誒地底嘅設施需要或者確定或者要移誒個移除。咁另外咧就係嗰個誒建造業工程裏邊嗰個即係勞工嘅短缺。咁最後咧亦都要提過咧，就有啲地盤咧即係嗰個交收。
+
+343
+00:58:58,650 --> 00:59:01,110
+嗰度咧就有所疑問嘅。
+
+344
+00:59:01,740 --> 00:59:21,750
+噉我想問下嗱，第一就呢啲問題咧，其實喺誒制定嗰個工程嗰個時間表或者造價咧，其實都知嘅，即係嗰個原則上係知，只不過嗰個細節可能係相對咧就係誒未夠足夠。聽頭先講，包括個地質方面咧。
+
+345
+00:59:21,750 --> 00:59:23,540
+比預計方面咧複雜。
+
+346
+00:59:24,110 --> 00:59:33,520
+噉我想問啦，因為呢個高鐵嘅工程咧，其實開始嘅時候咧都有唔少，即係某啲合同咧都有滯後嘅。
+
+347
+00:59:33,810 --> 00:59:53,820
+咁大家都知道咧，如果嗰四點咧，頭先我講咧，係會影響個工程嗰個員工，甚至造價。我想問港鐵咧，即係喺工程嗱之前簽訂嗰個委託合同咧，一開工之後咧，就呢四個問題咧，佢採取咗。
+
+348
+00:59:53,820 --> 01:00:11,840
+我乜嘢行動行動，或者做咗咩嘢，係令到呢四個問題咧對嗰工程影響可以減少，或者係一啲未知數可以更加清晰咧，包括嗰個誒，頭先講個地質。
+
+349
+01:00:12,690 --> 01:00:20,800
+從而使到港鐵咧，就係可以令大家或者係認同佢係盡最大努力。
+
+350
+01:00:21,080 --> 01:00:22,120
+去。
+
+351
+01:00:22,510 --> 01:00:32,250
+呢個符合嗰個委託行動啊，喺委託合同定定嗰個誒時間表同埋造價咧，唔該，主席。
+
+352
+01:00:32,530 --> 01:00:33,480
+梁生。
+
+353
+01:00:35,940 --> 01:00:55,950
+No, thank you for that question. The, as the honourable member rightly said, there it is a very complex project, and there were a lot of preliminary work done, including site investigation done. The honourable member mentioned the ground condition difficulties, the interface difficulties.
+
+354
+01:00:55,950 --> 01:01:15,960
+As amongst the difficulties causing the delay, I would firstly say that the team, in their diligent work to overcome these difficulties and challenges, a number of so-called delay recovery measures were instructed by the team to the contractors to try to overcome these delays when they occur. The successes of the
+
+355
+01:01:15,960 --> 01:01:35,970
+這些延遲復covery措施，有幾多？這些延遲復covery措施都已經被強調了。在我的書面陳述中，以及公眾資料中，我都認為，因為，正如我所説，因為特別是這些延遲復covery措施的早期成功，導致了。
+
+356
+01:01:35,970 --> 01:01:45,530
+The team and individuals in the team to become optimistic and perhaps overoptimistic on the ability to achieve the overall programme timetable.
+
+357
+01:01:47,200 --> 01:01:56,000
+主席，誒，我想問一問咧，即係當然咧，即係係，頭先梁生都講過，佢哋係有做呢啲嘢，可唔可以提供？
+
+358
+01:01:57,300 --> 01:01:58,340
+較為。
+
+359
+01:01:58,620 --> 01:02:06,030
+即係仔細嘅喺呢方面，港鐵做咗咩咧？譬如話，頭先講地質問題。
+
+360
+01:02:06,310 --> 01:02:08,200
+咁如果係。
+
+361
+01:02:08,690 --> 01:02:28,700
+最早工程嘅時候喺探討方面係遇到一啲問題，咁但係工程一路進展嘅時候咧，佢哋有冇就呢啲去作出補救咧，使到佢哋係更加清楚嗰個地質嘅問題，或者其他譬如話係關於嗰個誒地底嘅設施啊？
+
+362
+01:02:28,700 --> 01:02:37,100
+等等，我唔知誒阿梁生可唔可以就係喺呢方面可以提供畀委員會詳細。
+
+363
+01:02:37,380 --> 01:02:47,830
+一啲嘅港鐵採水嘅做法，或者有啲具體，即係直情係誒，即係喺呢方面咧係有執行到嘅。
+
+364
+01:02:48,210 --> 01:03:08,220
+唔該，主席梁生。Thank you, Chairman. In fact, there are a number of examples both in the paper which was submitted to the Legislative Council in May of last year, as well as in my written comments. I would supplement that for.
+
+365
+01:03:08,220 --> 01:03:10,110
+例如，一啲數量的這些措施。
+
+366
+01:03:10,600 --> 01:03:30,610
+作為一啲我們的延遲恢復措施，有啲所謂H piles，即係被埋入地底。不幸的是，呢啲H piles，主席，我諗即係如果係之前提供咗嗰啲就冇需要啦。即係如果係阿梁生佢覺得有再補充嘅，頭先我亦都問過啦，譬如地質其實噉。
+
+367
+01:03:30,610 --> 01:03:50,620
+重要，大家都知道呢個係好多誒，即係未知嘅因素。噉啊，最初就話局侷限於好多問題，可能採樣本方面咧出現問題。咁之後有冇做一啲去補救翻，使到即係大家都更加清晰、有信心，去根據嗰個委託函。
+
+368
+01:03:50,620 --> 01:04:10,630
+同完成嗰個目標咧，噉樣呢方面有冇做到咧？如果有，就可以提供一啲畀委員會或者係等我哋知悉。如果冇，亦都係即係或者之前已經係所有都提供咗啦，噉我哋都會清楚。唔該，主席，有啲有冇啲誒相關嘅文件係可以補充？
+
+369
+01:04:10,630 --> 01:04:17,830
+通嘅喺呢方面。啊，Chairman, Honourable Member, can I consult our projects team and come and revert to the Secretariat?
+
+370
+01:04:18,110 --> 01:04:26,960
+講緊係唔係話你啲咩報告？係講緊個地質嗰個研究同埋嗰啲係採取個咩措施啫？去保即係對個地質嘅。
+
+371
+01:04:27,980 --> 01:04:38,170
+即係個對個地質方面嘅，即係可能會引致嘅燃埋採取個咩措施？喺有關方面嘅呢一方面嘅文件啊。咁下一位係誒。
+
+372
+01:04:38,580 --> 01:04:45,840
+或者你同我同我哋嘅誒委員會嘅秘書聯絡啊，喺關呢一件事好嘛？唔該曬你。
+
+373
+01:04:46,140 --> 01:04:47,730
+下一位係胡志偉議員。
+
+374
+01:04:48,010 --> 01:04:54,900
+我主多謝主席。誒，我我想係短問短答嘅。第一個就係誒董事局。
+
+375
+01:04:55,350 --> 01:05:07,870
+嘅責任就係喺呢一個高鐵嘅事件咧，就似乎係去到即係好後期先至全面掌握嗰個現象。我想問下就係，即係如果唔係用委託協議嘅形式？
+
+376
+01:05:08,200 --> 01:05:28,210
+董事局，因為講講起做咗好多呢個係即係鐵鐵路嘅工程啦。咁喺其他嘅project上邊咧，佢哋係咪一路都係好似高高鐵嘅情景噉樣樣咧？一路都只係知道大概嗰個嘅係project會唔會delay，佢係唔會知道個成本會唔會over run嗰個問題咧？即係我意思簡單講就係。
+
+377
+01:05:28,280 --> 01:05:36,420
+誒喺高鐵嘅管理工作上邊，港鐵嘅董事局所得到嘅資訊。
+
+378
+01:05:36,760 --> 01:05:39,010
+係唔係同？
+
+379
+01:05:39,290 --> 01:05:43,520
+港鐵嘅其他正常嘅project咧，係一樣。
+
+380
+01:05:44,310 --> 01:05:47,050
+梁生，嗯，no，thank you for that question.
+
+381
+01:05:47,680 --> 01:05:52,480
+首先，我會説，MTR， treats the express rail link.
+
+382
+01:05:53,980 --> 01:05:58,200
+with the equal degree of diligence and oversight as any.
+
+383
+01:05:58,480 --> 01:06:18,490
+其他of MTR's projects，the reporting to the board，the reporting to the executive committee uses the same process and procedures。 of course，with the so-called service concession projects being the express rail link and the Shatin Central Link，there were also amendments to those procedures to take into account of the requirements of government。
+
+384
+01:06:18,490 --> 01:06:33,390
+但係， diligence、 the oversight、 the responsibility over the express rail link project is the same as all the other MTR projects. It was a very significant degree of oversight.
+
+385
+01:06:33,670 --> 01:06:39,850
+我我想澄清翻就係誒喺其喺呢一個嘅係entrustment agreement裏邊咧。
+
+386
+01:06:40,130 --> 01:07:00,140
+delay就成日都用，即係我哋叫延誤咧，就成日都係會出現嘅詞匯嚟嘅。咁但係成本即係超越原先預計成本，就似乎唔係董事局關心嘅題目。我想問下就係喺其他嘅係港鐵嘅係鐵路工程裏邊，董事局係唔係都？
+
+387
+01:07:00,140 --> 01:07:08,840
+都係用一同樣嘅態度去關心嗰個工程嘅係延誤同埋超支，係咪同等嘅比重？
+
+388
+01:07:09,290 --> 01:07:29,300
+How so? I can say that the board is given the same amount, same type of information on all projects, be they service concession projects under entrustment agreements, or be that projects using any other models. For instance, the South Island Line or Quainton Line extension, the information and the discussion would.
+
+389
+01:07:29,300 --> 01:07:31,130
+會係 at that same level.
+
+390
+01:07:31,410 --> 01:07:32,130
+Okay.
+
+391
+01:07:32,700 --> 01:07:41,570
+即係話董事局咧，佢做嘅工作喺高鐵上邊同喺其他嘅鐵路工程上邊咧，係完全一樣。
+
+392
+01:07:42,840 --> 01:07:43,760
+梁生。
+
+393
+01:07:44,050 --> 01:07:44,950
+啊。
+
+394
+01:07:46,710 --> 01:08:03,920
+從我嘅出席喺委員會會議， yes， 係同一個程度嘅 diligence， 同一個程度嘅reporting， 同一個程度嘅assessment。可唔可以提供相類似嘅係即係鐵路工程你哋嗰個匯報嘅資料同埋基礎，等我哋可以互相係對照？
+
+395
+01:08:05,860 --> 01:08:25,870
+即係類似嘅鐵路工程同埋高鐵個彙報嘅機，即係彙報嘅文件。邊邊一方面嘅資料？頭先我講就話喺董事局去得到頭先，因為阿梁生講啊嘛，董事局所得到嘅資訊咧係完全一樣嘅，無論喺高鐵嘅工程或者係港鐵自己嘅一啲係鐵路工程。我我我明白。
+
+396
+01:08:25,870 --> 01:08:35,230
+但係你唔係話要攞以前嗰啲工程嗰啲所有有關文件都攞曬上嚟？我想係做參考同比較咁解啫，唔使要你可以試下揀一條啦。
+
+397
+01:08:35,510 --> 01:08:44,160
+譬如揀一條呢一個係誒誒誒呢一個南港島線咯，用南港島線同高鐵做比較，港鐵董事局所得嘅資訊。
+
+398
+01:08:44,460 --> 01:08:46,930
+好，或者梁生，你答唔答啦？
+
+399
+01:08:48,320 --> 01:08:52,410
+嗯，陳。
+
+400
+01:08:53,710 --> 01:09:13,720
+係有關嘅，因為佢係因為我哋嗰個議委個。
+
+401
+01:09:13,720 --> 01:09:33,730
+相關事宜嗰度咧，係其實可以好闊嘅。佢而家係講個問題咧，就係話係咪有個同等嘅喺呢個工程嘅現誤同埋現誤引起嘅超支方面咧，有冇係即係有同其他嘅同等對待？佢想作出一個比較係咪？我諗你唔需要將啲文件交出嚟，即係。
+
+402
+01:09:33,730 --> 01:09:53,740
+我諗呢個問題，你正話都講過，你哋用一個PIMS嘅system誒去去做呢個內部嘅管理嘅係咪？噉你哋以以前你哋其他啲工程係咪都係用呢個所謂嘅PIMS嘅一個管理制度去監監察啲咁工程嘅？誒，Absolutely correct，Cham。
+
+403
+01:09:53,740 --> 01:10:13,750
+The other projects will use PIMs and the other MTR systems. As I mentioned, with the service concession agreement projects, the Express Rail Link and the Shatin Central Link, the entrustment agreements add further requirements in terms of reporting.
+
+404
+01:10:13,750 --> 01:10:33,760
+係護智委員，我覺得係即係。如果問攞其他工程嗰啲文件咧，就可能會係係有至超越咗我哋嘅範圍。但係我明白你嘅問題咧，你嘅問題本身就冇超越嘅。但係你攞索取嗰個其他工程嘅文件咧，就可能超越咗範圍。啊，主席，我我諗請你裁決啦，因為其實我問嘅問題，因為投資。
+
+405
+01:10:33,760 --> 01:10:50,100
+係梁先生咧，再三強調就係董事局所得個資訊咧，係喺高鐵事件同埋喺其他嘅工程項目上邊係完全一致嘅。噉我想係確認呢一點咁解啫。都希望透過一啲公即係喺會誒董事局嘅會議文件裏邊咧，係反映到呢一點。
+
+406
+01:10:50,970 --> 01:11:02,130
+嗰個你而家佢係答咗你，即係佢而家嗰個匯報啊，嗰啲程序嗰啲咧，你關於個內部監管係用嗰個P，佢所謂嘅PIMS。
+
+407
+01:11:02,410 --> 01:11:22,420
+嗰個噉嘅制度去去運作嘅，咁嗰個高鐵亦都係同一樣嘅。主席，我其實有個分別嘅，因為咧高鐵咧係entrustment agreement，entrustment agreement咧就根據合約咧就嗰個工程嘅超支咧，其實就誒，如果係需要additional cost咧，就政府去承擔嘅，要根據嗰個entrustment。
+
+408
+01:11:22,420 --> 01:11:40,410
+但係，如果係由港鐵自己嘅係即係擁有建造嘅係工程嘅話咧，嗰個超支咧就會係董事局要承擔嘅東西嚟嘅。咁但係頭先梁先生再三強調就係話佢所得到嘅資訊係完全一致嘅。我想係確認翻呢一點，即係換言之就話。
+
+409
+01:11:40,690 --> 01:11:59,800
+董事局係冇因為呢一個entrustment agreement裏邊，即係個委任協議書所講嘅係工程如果有超支嘅時候，係由政府係承擔呢一個概念咧，係令到佢哋係即係鬆散咗佢個管理責任啫。係嗱，我諗噉樣樣，梁生你可唔可以提供一份書面嘅補充？
+
+410
+01:12:00,080 --> 01:12:20,090
+就係將你以前你哋嗰啲關於監管呢個工程嗰方面咧，喺呢個高鐵呢個項目同埋其他你其他工程方面咧，即係你哋自己係即係唔係用呢個entrustment嘅方式做嘅嗰方面，你作一個比較，有啲咩同，有啲咩唔同？
+
+411
+01:12:20,090 --> 01:12:21,700
+提供一個書面嘅。
+
+412
+01:12:21,980 --> 01:12:23,590
+答覆畀我哋得唔得？
+
+413
+01:12:23,970 --> 01:12:24,880
+嗯。
+
+414
+01:12:25,270 --> 01:12:45,280
+Chairman, perhaps in answer to your to the honourable member's question, I will firstly say that, as we mentioned, the PIM system and the MTR other systems is a system which has been very successful in delivering rail projects in the past. It's a system that we use for all our projects. Have been using that for 20 plus years. We continue to.
+
+415
+01:12:45,280 --> 01:13:05,290
+use that for our existing projects, as Chairman Radley said. The SPIM system was further audited, reviewed by a number of third parties, both appointed by government and MTR prior to the entrustment agreement being entered into, and this during the course of the XRL project and continue.
+
+416
+01:13:05,290 --> 01:13:13,960
+on the spend system is audited by a number of parties。主席唔需要噉樣答。我我知啦，但係如果你話索取其他。
+
+417
+01:13:14,240 --> 01:13:34,250
+關於其他工程嘅董事局嗰個，我即係我係冇權裁決。你可以問佢攞，有亦都唔需要我裁決，佢可以唔唔提供。明白，即係呢個係，但係你如果你問我係咪即係關有冇有關嘅話咧，我覺得你嘅問題係有關嘅。但係你索取嗰啲文件咧，嗰啲文件本身本質咧就，我相。
+
+418
+01:13:34,250 --> 01:13:54,260
+就唔係好大關係啦嚇。O K嚇嚇，我我諗誒，起碼佢都一個書面正式嘅書面文件，講清楚佢喺個cost成本控制同埋嗰個係疑誤上邊咧，係完全一致嘅。其實你陳述書裏邊可以講出你哋PIMS嗰個係即係你哋運行嗰方面咧，每一個工程都有嘅。你追同一個。
+
+419
+01:13:54,260 --> 01:14:12,010
+從一個制度，從一個程式，但係都裏邊都可能喺嗰個適用嗰方面咧，運用嗰方面可能有啲唔同嘅。咁如果係有啲乜嘢係唔同嘅話，你或者點出嚟畀啊胡志偉議員知道，用以書面嘅形式去做出嚟，呢個你可唔可以做得到？
+
+420
+01:14:13,330 --> 01:14:14,370
+嗯。
+
+421
+01:14:14,770 --> 01:14:24,770
+Chairman, perhaps I could also highlight that the PIM system, the system we use overall, is the same system. However,
+
+422
+01:14:25,060 --> 01:14:45,070
+As members are aware, back in two hundred and nine, government had appointed a third party called Lloyd's Register, who have given some views on further oversight which government requires on the Express Rail Link and subsequently the Shatin Central Link project. What I was referring to is this even additional oversight which
+
+423
+01:14:45,070 --> 01:15:05,080
+是on top of what we would ourselves be doing for our own projects. This is in addition to the the systems and processes we use for our existing project. It's all the same PIMS system and processes.係主席，好唔緊要啦，我諗都係問。
+
+424
+01:15:05,080 --> 01:15:11,370
+唔到嘅啦。誒，第四十四段咧，就提到就係喺呢一個《海島協議書》裏邊。
+
+425
+01:15:11,650 --> 01:15:20,490
+所講嘅係誒完工日期，同埋嗰個嘅係工程嘅銀碼咧，都係一個estimate嚟嘅。
+
+426
+01:15:20,770 --> 01:15:29,050
+就唔係一個absolute嘅obligations，咁但係到八十九段咧個回覆就講誒嗰個。
+
+427
+01:15:29,380 --> 01:15:34,730
+委託協議書咧未被modified by agreement between the corporation and the government。
+
+428
+01:15:35,060 --> 01:15:46,700
+or adjusted by the corporation in the event of delay caused by one or more delaying events specified under誒即係話作誒second entrustment agreement嗱我我想搞清楚。
+
+429
+01:15:47,800 --> 01:15:50,340
+喺八十九段裏邊所講嘅。
+
+430
+01:15:50,730 --> 01:16:09,280
+即係嗰個entrustment agreement係可以modify嘅，但係就一得兩可能性嘅啫。一係agreed by嗰個corporation同埋個agreed同埋government，或者係按照委託協議書裏邊所確認嘅一啲可以delay嘅原因咧，係去delay。
+
+431
+01:16:09,560 --> 01:16:10,650
+係咪噉樣樣？
+
+432
+01:16:11,390 --> 01:16:12,370
+梁生。
+
+433
+01:16:12,660 --> 01:16:31,010
+Yes, to my knowledge and as highlighted, I think by the IEP report, the modification can be by either mutual consent or by modification by notification from MTR to government after certain events have occurred.
+
+434
+01:16:31,430 --> 01:16:36,990
+我我想確認翻就係，即係而家嘅所有嗰啲誒。
+
+435
+01:16:37,330 --> 01:16:41,310
+delay啦，簡單講delay或者係cost over run咧。
+
+436
+01:16:41,610 --> 01:16:48,530
+其實係得唔未有呢個政府同埋港鐵咧係有任何嘅agreement嘅。
+
+437
+01:16:49,320 --> 01:17:06,180
+No, thank you for that question. I think firstly I'd like to comment for to the honourable member and chairman that MTI's objective is the same as government. We aim to complete this project as quickly as possible and in the most cost-effective manner. Our objective is exactly the same.
+
+438
+01:17:06,460 --> 01:17:26,470
+secondly, we have only given our updated cost to complete and programme to complete the most recent updated estimate of the cost to complete and programme to complete to government at the end of June. That was only fifteen days ago, just over two weeks ago, as Mr.
+
+439
+01:17:26,470 --> 01:17:31,930
+Secretary Mr. and Mr. Secretary Cheng had said, government will.
+
+440
+01:17:32,210 --> 01:17:44,260
+be reviewing both our estimated latest estimate of cost to complete and programme to complete, and I'm sure they'll be coming back to us with further questions, which we will of course answer as quickly as possible.
+
+441
+01:17:44,540 --> 01:17:50,800
+主席，我淨係想確認翻就係係咪即係話而家所propose嘅係estimates。
+
+442
+01:17:51,730 --> 01:18:11,740
+誒仍然係未有任何嘅係政府嘅agreement或者LDO嘅同意喺呢啲嘅即係project delay嘅cost overrun裏邊所牽涉到嘅一啲工程嘅係即係延誤追補工程延誤嘅係措施裏邊所牽涉到嘅係工程成。
+
+443
+01:18:11,740 --> 01:18:31,750
+本個問題係嚇梁生有冇協議？Chairman, in accordance with the entrustment agreement, we have sent in the required notices to government at the end of June, on the 30th of June, as highlighted and as indicated. Government had said that they would need time to review those latest estimates.
+
+444
+01:18:31,750 --> 01:18:39,490
+佢再重複翻係冇噉嘅協議嘅，胡志偉議員。OK，OK，下一位係阿田北辰議員。
+
+445
+01:18:40,610 --> 01:19:00,620
+係今日今朝進入呢個會議室三嗰陣時，我係第一個舉手。我想請問主席咧，係咪想確立又或者開一個先例，係可以電話預約查詢？唔係唔係開個先例。如果你係話我哋你舉手嗰陣時咧，我哋個會議仲未開始嘅。你係九點誒，雖然你九。
+
+446
+01:19:00,620 --> 01:19:20,630
+點大概大五咁上下嚟？舉手呢入到嚟舉手，我見到你，但係嗰陣時我會議未開始嘅。咁如果你係計話未開始時間之前計嘅話咧，咁田北辰議員係肯定畀你先。O.K.你係想開一個先例係可以電話預約查詢，冇電話預約查詢。我嚟到呢個會，我頭先向你舉手嗰陣時，你問。
+
+447
+01:19:20,630 --> 01:19:40,640
+我做乜嘢？我係好清楚向主席李國華同埋秘書講話，我想排隊係去發言提問。嗱，我係清楚有同你講嘅。係啊，法國威議員，如果個會議未開始嗰陣時舉手嘅話咧，係應該係仲未到確認到，係會議開始咗之後你先舉手先計嘅。如果你又～
+
+448
+01:19:40,640 --> 01:20:00,650
+就話計，無論你係電話嚟又好，你舉手又好。如果你故意未開始之前咧，如果要計嘅話咧，咁應該計即係邊個approach個秘書先嘅話咧，就邊個行先。我知，但係主席頭先你向我去講嘅話，就係因為有議員事前已經打咗電話向秘書表示佢想。
+
+449
+01:20:00,650 --> 01:20:01,810
+想提問。
+
+450
+01:20:02,300 --> 01:20:05,060
+你作為一個理據，所以將我排喺第五。
+
+451
+01:20:06,160 --> 01:20:17,990
+嗱，因為係我係噉樣講，但係你之前嗰個誒，你舉手嗰陣時咧，範國威員係嗰陣時個會議係未開始，unofficial嘅，你嗰個舉手係。
+
+452
+01:20:18,270 --> 01:20:35,290
+唔係一個official嘅報名程序。我係坐定定，準時進入呢個會議室。你同秘書嚟到前邊嗰度坐低嗰陣時，我已經嘗試係舉手。發覺威爾，我亦都好清楚向主席表明咗我呢個想提問嘅意願。
+
+453
+01:20:36,440 --> 01:20:56,450
+法國威議員，你坐低嗰陣時，個會議開始咗未？我想問你一個問題，你答我先。但係主席，你頭先有開始嗰陣時，你頭先開始嗰陣時有冇叫我哋係去舉手？而家係去排隊。你只係講話喺事前嘅預會嗰度安排咗有四個嘅主文，就係李國華副主席、羅偉國議員同埋胡志偉。
+
+454
+01:20:56,450 --> 01:21:09,390
+議員，嗱，各位議員，我唔想同你爭辯。唔係，我唔係想同人爭辯，我想你係咪想立一個例子，有一個先例係噉樣做？如果係嘅話，係咪今日嘅會後，我就同秘書講，下一次我要第一個提問就可以提問。田北常議員。
+
+455
+01:21:10,390 --> 01:21:22,330
+冇權力決定點樣裁決，係你唔會介意我為咗勉強嘥大家時間，主動畀阿範國威議員問先啊嘛？範國威議員，你問先，你唔介意啊嘛？
+
+456
+01:21:23,190 --> 01:21:33,060
+我想只係想了解究竟個次序點，因為一一陣間有小優啊，我想隔離個會度。你係跟住係田北辰議員，跟住就輪到你。
+
+457
+01:21:33,950 --> 01:21:44,730
+唔該，主席。啊，我有成七八個問題，我想請阿梁國權先生咧，亦都係短問短答。有啲嘅問題咧，你答yes or no，係一或唔係噉就得㗎啦。嚇，噉就。
+
+458
+01:21:45,230 --> 01:22:05,240
+本來根據原有嘅計劃，應該喺三個禮拜之後咧，高鐵工程就應該完工。但係一再延唔超支，我認為港鐵嘅工程管理嘅不善咧，係絕對有關嘅。咁但係梁國權先生，你向我哋誒立法會提交嘅呢個陳述書咧，其實係嘗試想將港鐵嘅責任咧係推。
+
+459
+01:22:05,240 --> 01:22:25,250
+得一竿二一竿二正。陳術師第三十二段嗰度噉樣講，就話考慮到高鐵咁具挑戰性同埋極其複雜嘅工程咧，係必定有疑誤嘅風險，所以喺第二份嘅委託協議下邊咧，就冇施家需要喺二零一五年八月四號前完成高鐵項目。
+
+460
+01:22:25,250 --> 01:22:37,540
+嘅絕對責任呢四個字，我想問呢個係咪港鐵自己嘅理解，抑或係第二份嘅委託協議書寫得好清楚、白紙黑字嘅條文？
+
+461
+01:22:39,990 --> 01:22:40,890
+係啊！
+
+462
+01:22:43,330 --> 01:22:47,640
+係咪白紙黑字嘅條文嚟嘅？絕對、絕對義務。
+
+463
+01:22:48,790 --> 01:22:49,790
+no.
+
+464
+01:22:50,070 --> 01:23:10,080
+Thank you for that question. I think just respond to the honourable member. I think firstly, the as highlighted by both the IBC and in fact the IEP, the IEP commented that MTR's management of individual contracts was exemplary. The IBC also commented that the management
+
+465
+01:23:10,080 --> 01:23:30,090
+Of the express rail link was undertaken in a very professional manner. With regards to the entrustment agreement, I would once again highlight that. And as highlighted in our written statements, both the cost to complete as well as the programme are estimates. Our estimates in the entrustment agreement.
+
+466
+01:23:30,090 --> 01:23:50,100
+明白，即係冇冇白紙黑字噉樣寫啦。咁如果唔係噉樣寫嘅話，係咪代表咗港鐵係有責任按時完成工程咧，而唔係代表一再延誤咧？你唔應該用嗰個字眼話冇絕對義務咧，係去暗示明示噉樣咧，港鐵係冇呢個責任係去完。
+
+467
+01:23:50,100 --> 01:24:10,110
+工嘅喎，呢個係我批評嚟嘅。陳述書四十至到四十四段就話工程延期，中嘅原因係項目計劃緊縮前期嘅工作嗱。我就睇到有啲傳媒報道就係港鐵嘅前工程總監柏立恆喺二零零九年咧都曾經提出過工程嘅時間太趕急，估。
+
+468
+01:24:10,110 --> 01:24:22,010
+估算要喺二零一七年先至完工，而工程費用亦都係要高達八百億元。我想請問港鐵嘅工程團隊，當年係咪曾經確實有呢個估算？
+
+469
+01:24:22,290 --> 01:24:25,520
+係一或唔係有定冇，梁生。
+
+470
+01:24:29,990 --> 01:24:33,710
+I think in response to the honourable member.
+
+471
+01:24:34,030 --> 01:24:54,040
+MTR的responsibility as project manager， are well spelt out in the entrustment agreement. Very clearly spelt out in the entrustment agreement. And of course, we take the our obligations and under the entrustment.阿阿梁生，我我短問短答，我仲有其他問題。到底有定冇呢個估算嘅？係咪有存在過㗎？呢個估算係？
+
+472
+01:24:54,040 --> 01:24:58,170
+with regards to the estimated.
+
+473
+01:24:58,880 --> 01:25:07,830
+program to complete for 2015. Once again, as I have said before, this estimate was done based on.
+
+474
+01:25:08,110 --> 01:25:15,230
+Advice from external third parties, as well as a lot of processes and diligence, the.
+
+475
+01:25:15,510 --> 01:25:25,860
+Timetable to complete by August 2015. Initially, the estimated timetable, the estimated timetable was, as I've said before, tight but doable.
+
+476
+01:25:26,450 --> 01:25:46,460
+噉我想請問柏立恆先生喺高鐵工程開始之前就已經係突然離職工程總監。二零一零年二月就換咗做係周大倉先生。噉我想請問柏柏立恆先生係咪因為明知高鐵嘅工程係會必然出現呢個超支現，唔唔想成為代罪羔羊，係要辭職？
+
+477
+01:25:46,460 --> 01:25:46,960
+係。
+
+478
+01:25:50,690 --> 01:25:51,750
+啊！
+
+479
+01:25:52,340 --> 01:26:12,350
+Honourable member chairman, Mr Russell Black, who has, as you know, been with MTR many years. In fact, retired at that time, retired from MTR. Mr Russell Black has been instrumental in working with and with MTR in building many of our rail lines. Mr Russell Black retired.
+
+480
+01:26:12,350 --> 01:26:32,360
+我想請問陳述書九十八段就話，二零一零年一月至到二零一四年嘅四月期間，政府獨立顧問加科工程公司就工程項目做咗高達二百五十次嘅審核，而根據路政處處長劉家強先生喺今年六月九號提畀我哋專責委員會嘅補充資料咧，即係文件。
+
+481
+01:26:32,360 --> 01:26:52,370
+編編號G九嘅附件二，獨立顧問曾經檢視港鐵嘅地盤勘測同埋岩土報告，並喺二零一零年一月十二日係去信畀港鐵，就岩土報告咧就提出咗三個關鍵嘅意見啊（critical observation）。我想請問梁先生有可唔可以提供？
+
+482
+01:26:52,370 --> 01:27:03,440
+得到呢個意見去解釋獨立顧問當年提出三個嘅關鍵意見，具體指嘅係乜嘢咧？如果你而家提出唔到，可唔可以會後向我哋提交？
+
+483
+01:27:03,720 --> 01:27:04,620
+梁生。
+
+484
+01:27:05,510 --> 01:27:06,540
+啊。
+
+485
+01:27:07,460 --> 01:27:21,030
+主席，我必須説，我我不是一個建築專業人士，因此這些事務，與建築活動有關，我需要與我的同事們討論。
+
+486
+01:27:21,310 --> 01:27:41,320
+OK，好。根據前路政處處長韋志韋志成先生就同我哋委員會提交個補充資料，文件編號G十一，就話截至二零一零年六月，韋志成佢自己本身離任之前咧，港鐵係冇提醒政府喺移除西九龍總站基誒嗰個巖層之中。
+
+487
+01:27:41,320 --> 01:28:01,330
+嘅困難嘅，呢個係咪代表咗港鐵喺二零一零年一月二十六號簽署嘅第二份委託協議書嘅之前同之後，都唔認為工程有可能出現不利地質呢個嘅情況，而會導致延誤同埋超支，即係即使喺一月十二號收到獨立顧
+
+488
+01:28:01,330 --> 01:28:13,100
+顧問意見之後咧，港鐵仍然係冇提醒政府喺轉刮方面咧係有困難嘅。呢個係咪港鐵自己本身專業判斷失當？
+
+489
+01:28:13,640 --> 01:28:14,650
+梁生。
+
+490
+01:28:15,050 --> 01:28:35,060
+Chairman, I would highlight once again that there were regular reportings to government that highlighted all the issues with regards to particular contracts. These were well highlighted to government in the regular meetings which had taken place from the signing of the entrust.
+
+491
+01:28:35,060 --> 01:28:46,720
+Agreements, whatever issues, whatever delays were being encountered in individual contracts, should be well highlighted in the monthly reports, which I understand span over 200 pages.
+
+492
+01:28:47,150 --> 01:29:07,160
+O.K.文件五十九段講到工程前期工作緊縮嘅準備時間咧，就導致合約編號有三個八一零A、八一零B同埋八一一A三個涉及西九總站嘅合約咧，係做係需要做呢個設計修訂嘅。我想問三份嘅合約各自曾經係做過幾？
+
+493
+01:29:07,160 --> 01:29:14,320
+幾多次呢個嘅設計嘅修訂嘅咧？係如果今日達唔到，亦都可唔可以喺會後提供畀我哋咧？
+
+494
+01:29:15,230 --> 01:29:16,110
+梁生。
+
+495
+01:29:16,390 --> 01:29:33,090
+你 know, 委員，once again, as members are well aware, the express rail link and in particular the West Calder terminus is a very complicated and complex construction project. With all these complex construction projects, it is
+
+496
+01:29:33,370 --> 01:29:53,380
+not uncommon. In fact, it's quite common for contracts to be tendered when there is a stage of maturity reached in the development of the design, and that for the express rail link, including the contracts that the honourable member mentioned, would have been the case.但可唔可以喺會後提供畀我哋啊？係準確嘅數。
+
+497
+01:29:53,380 --> 01:29:56,030
+數字更改嘅次數係兩雙。
+
+498
+01:29:57,110 --> 01:30:17,120
+主席，我會 have to seek advice from my colleagues on this。如果主席唔 mind， revert back to the secretariat。OK，我誒第六個問題就係路政署早前提交文件編號G二嘅附件一嗰個咧，就係話成個西九龍總站嘅詳細設計係由二零零。
+
+499
+01:30:17,120 --> 01:30:37,130
+零九年五月中就開始㗎啦，一直去到二零一零年十二月底係去結束嘅。我想問梁先生，確認呢個嘅資料係咪準確嘅？如果呢個資料準確嘅話，即係用咗十九個半月嘅詳細設計，係比一般嘅地底建築工程係咪都係緊縮啊？
+
+500
+01:30:37,130 --> 01:30:43,300
+你如何係去判斷形容呢？十九個月嘅詳細設計設計嘅時間係咪緊縮啊？
+
+501
+01:30:43,580 --> 01:30:44,450
+梁生。
+
+502
+01:30:45,840 --> 01:31:05,850
+No, thank you, member, for that question. You know, I think firstly I just repeat again that in complicated projects like this, it is not uncommon for contracts to be tendered after the design has reached a certain stage of maturity. I do not personally have information with regards to that particular design for.
+
+503
+01:31:05,850 --> 01:31:07,840
+那、
+
+504
+01:31:08,170 --> 01:31:28,180
+最後一個技術問題就係西九龍總站每一個合約工程之間、招標同埋開展工程之間咧，其實係有先後之分嘅。八一八一一A完成招標嗰陣時咧，其實八一零A同埋八一零B都未開始招標。我想問港鐵喺西九總站每一個嘅工序嘅編排裏邊有冇涉及？
+
+505
+01:31:28,180 --> 01:31:39,870
+呢個設計同埋建造時間，因為同期係去進行，而導致到之前我關注嘅設計修改嘅問題咧，係會牽一發動全身啊。梁生。
+
+506
+01:31:41,840 --> 01:32:01,850
+Chairman, once again, we have we use our system, which is a tried and tested system, our PIM system. Our PIM system looks at and our project management system looks at each of the contracts as well as the interfaces between contracts. I believe the honourable members asking about the interfaces.
+
+507
+01:32:01,970 --> 01:32:14,120
+好唔該，我哋而家休會十分鐘，跟住我哋誒下一節誒就十分鐘，答三開始，唔該。

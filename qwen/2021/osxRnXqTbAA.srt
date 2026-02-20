@@ -1,0 +1,2223 @@
+1
+00:03:03,880 --> 00:03:07,240
+醫療專業人員嘅供求推算嘅數字嘅。
+
+2
+00:02:19,490 --> 00:02:22,860
+行法定註冊嘅醫療專業嘅人力規劃。
+
+3
+00:01:32,750 --> 00:01:39,190
+咁咧就誒，而家首先請誒誒陳局長誒先發言，好嘛？
+
+4
+00:00:51,830 --> 00:01:00,960
+括弧零六號文件，噉就畀委員參與，咁亦都歡迎咧，就係食物及衞生局局長陳肇始教授咧，就係誒。
+
+5
+00:00:20,010 --> 00:00:30,530
+誒，好，噉我哋而家咧就為咗有秩序同埋公平地安排議員發言咧，就請工作人員先清除議員已經按下嘅舉手標誌。
+
+6
+00:01:21,250 --> 00:01:32,470
+分部主任蔡莊俊蔡誒莊俊玲博士咧就係發言嘅，噉就政府當局會用PPT簡介嘅噉。
+
+7
+00:03:24,100 --> 00:03:39,010
+而家咧係現有嘅服務水平同埋模式底下咧，誒精神科護士、助產士、誒牙齒衞生員、誒藥劑師、中醫、職業治療師同埋脊醫咧嘅人手供應咧係充足嘅。
+
+8
+00:03:08,140 --> 00:03:23,820
+咁港大今次嘅推算結果咧，係顯示咧，醫生、牙醫、普通科護士、誒物理治療師、醫務化驗師、視光師同埋咧係放射師嘅人手咧，普遍咧係出現短缺。
+
+9
+00:03:39,830 --> 00:03:58,720
+喺醫生人手方面咧，我特別提一下啦，就係個短缺嘅情況。咁根據今次嘅推算結果咧，醫生人手短缺嘅情況咧係會持續。咁估計喺二零三零、二零四零年咧，分別咧係會短缺一千六百一十同埋咧係一千九百四十九名嘅醫生。
+
+10
+00:00:00,000 --> 00:00:20,010
+噉我哋而家咧已經有足夠嘅法定人數啦。噉我宣佈會議開始。咁咧，我哋今日衞生事務委員會咧係透過Zoom舉行呢個視像會議嘅。噉就請委員留意下，你哋即係都係誒知道你要開即係開會咧，就要開個視訊功能。咁等我哋睇到你個樣，噉就誒。
+
+11
+00:00:31,820 --> 00:00:51,830
+好啦，咁而家咧就請有意發言嘅議員咧，按下Zoom裏邊嘅舉手功能嚇，我會輪流邀請咧就議員發言嘅。秘書處咧已經係就呢項議程咧就誒預備咗一份最新嘅背景資料簡介，就立法會CBQ4682啊，黑啊，22021。
+
+12
+00:01:01,240 --> 00:01:21,250
+參與今日個會議啦，噉就亦都請佢咧就誒之前已經提交咗文件畀我哋㗎啦。咁咧就誒大家亦都可以參考。咁跟住我哋今日咧亦都邀請咗香港大學公共衞生學院衞生經濟政策同埋管理分部副教授啊副院長啊酷步教育嚇及。
+
+13
+00:01:39,470 --> 00:01:59,480
+好誒，主席各位委員早晨誒，今日咧我哋係想介紹一個誒醫療人力推出工作誒誒，not yet，Jan，I I will do an introduction and then I will introduce you to start，ok？誒，主席係我繼續噉，我哋今日咧就會介紹。
+
+14
+00:06:33,880 --> 00:06:34,560
+嗯。
+
+15
+00:06:29,610 --> 00:06:30,590
+thank you。
+
+16
+00:04:19,010 --> 00:04:20,130
+專科醫生啦。
+
+17
+00:06:31,470 --> 00:06:33,550
+我會 share 我 screen。
+
+18
+00:05:23,440 --> 00:05:27,300
+去舒緩醫管局嘅醫療人手短缺嘅情況。
+
+19
+00:06:24,640 --> 00:06:29,140
+And I think you are invited to start your presentation. Thank you.
+
+20
+00:06:19,270 --> 00:06:23,920
+唔同嘅語言頻道嘅，咁而家就請啊Doctor Janice啊Johnson。
+
+21
+00:04:57,220 --> 00:05:03,060
+誒，醫生回港執業，咁同時咧，醫管局亦都係盡力挽留現有嘅。
+
+22
+00:04:20,770 --> 00:04:29,560
+而估計喺二零三零年同埋二零四零年咧，醫生短缺咧係則分別咧係為八百名同埋五十一名。
+
+23
+00:04:30,500 --> 00:04:40,420
+以及咧係九百六十名同埋五十一名嘅，咁有關嘅數字咧已經係計算醫管局同埋衞生署每年吸納本地培。
+
+24
+00:05:27,620 --> 00:05:38,760
+咁至於未來路向咧，誒政府會就住港大嘅推算結果咧，係去進一步去誒調整整體嘅醫療人手供應嘅策略。
+
+25
+00:04:40,760 --> 00:04:56,930
+培訓嘅醫科畢業生在內㗎啦，因此咧，政府已經係準備喺本個立法年度咧，係提出醫生註冊修訂條例草案，以增加多一條途徑咧，去誒吸引合資格非本地港人。
+
+26
+00:01:59,480 --> 00:02:19,490
+一個誒醫療人力推算工作嘅一啲嘅結果嘅，同大家分享一下。咁政府咧喺二零一七年嘅六月咧，係公佈咗醫療人力規劃同埋專業發展嘅檢討誒策略檢討報告，即係話我哋係二零一七年嗰個報告啦，提出咗十項嘅建議，為十三個需要進
+
+27
+00:02:23,860 --> 00:02:43,870
+同埋咧，係佢個專業發展咧，係同埋規管咧，係奠定咗基礎嘅，係去確定咧，去確保咧，係有合資格嘅醫療專業人員去支援本港嘅醫療系統嘅健康同埋持續發展。喺上述建議中咧，其中一項咧，係政府應配合大學。
+
+28
+00:02:43,870 --> 00:03:03,880
+教育資助委員會，即係我哋嘅教資會咧嘅三年嘅誒規劃期，每三年進行一次誒醫療專業人力規劃同埋推算嘅工作。噉就此咧，政府已經係委託咗誒香港大學咧，係進行新一輪嘅人力推算，以誒更新咧。
+
+29
+00:03:59,000 --> 00:04:19,010
+醫生嘅人手短缺嘅情況咧，喺公營醫療系統咧係尤甚嘅。咁根據醫療人力推算，二零二零咧喺誒二零二零年嘅醫院管理局同埋衞生署，其實咧係分別咧係欠缺六百六十名同埋咧係四十九名嘅專科醫生。咁包括咧係準。
+
+30
+00:05:03,430 --> 00:05:23,440
+醫療專業人員，並誒吸引咧係退休嘅醫療人員，特別係醫生咧喺退休後咧係繼續喺公營界別服務，同埋咧係誒繼續透過有限度方式咧去聘請非本地培訓醫生咧係來港執業，誒咁噉樣咧係亦都係有助咧。
+
+31
+00:07:54,870 --> 00:07:55,990
+嗯。
+
+32
+00:06:41,250 --> 00:06:43,420
+我 realise that.
+
+33
+00:09:59,640 --> 00:10:02,240
+那係什麼？我們叫作基準案例。
+
+34
+00:07:03,820 --> 00:07:06,910
+The health manpower and planning projections.
+
+35
+00:08:16,440 --> 00:08:27,190
+to project for future, we draw the data from many different sources: the health manpower survey, the domestic health accounts.
+
+36
+00:07:07,190 --> 00:07:18,750
+這些係 undertake for thirteen profess the thirteen registered professionals in Hong Kong. So, as you can imagine, I have a number of slides.
+
+37
+00:08:41,870 --> 00:08:53,940
+When we collect all this data, we need to produce utilisation rates, and these are age-sex specific utilisation rates. Wherever we can do that, which is in most places.
+
+38
+00:08:54,220 --> 00:09:07,080
+And that's our our main aim is to be able to project age-sex specific utilisation rates, because as you know well, utilisation changes by age groups and is varies by gender.
+
+39
+00:08:27,710 --> 00:08:40,920
+household survey, utilisation data from the hospital authority and from the private hospitals, from SWD, from many, many, many different sources, we get data.
+
+40
+00:09:43,150 --> 00:09:58,410
+在其他 sectors， and we talk to the sectors about their workload coefficients and use their data, their information in order to convert these sets of projected volumes into full-time equivalent requirements.
+
+41
+00:09:07,360 --> 00:09:22,710
+We then introduce the Hong Kong demographic projection, the most recent projection by Census and Statistics, and once we've done that, we are able to project sets of utilisation volumes into the future.
+
+42
+00:07:19,030 --> 00:07:34,580
+And I have twenty minutes, so I'm going to go through the slides quite quickly. But I will try to brief you in the first couple of slides, so you would know what you're looking at as we go forward, because there is a quite a bit of continuity as we go forward.
+
+43
+00:05:39,250 --> 00:05:59,260
+並喺增加學額、善用現有人手、誒同埋咧係吸引海外人才方面咧係加強工作嘅。以下嘅時間咧，我會邀請香港大學公共衞生學院嘅莊津玲博士（Dr. Janice Johnston）去講解今次嘅醫療人力推算結果。
+
+44
+00:05:59,260 --> 00:06:19,270
+之後咧就會聆聽議員嘅意見嚇，同埋提問嘅。多謝各位。誒，Jan，I think you can start。主席，誒，我請阿張博士咧係開始好唔好？誒，我想提一提嘅各位議員咧，你喺嗰個誒，如果需要語言翻譯嘅話咧，喺Zoom程式嘅右下角咧就可以選擇。
+
+45
+00:06:43,810 --> 00:07:03,820
+I'm I'm not totally aware of the protocol of addressing your group, and I apologise for that. But I do want to say good morning to all of you and thank you for listening to me this morning about our projections. So this is the third time that we have run.
+
+46
+00:07:34,860 --> 00:07:54,870
+But to remind you, what we're doing here, we're trying to project two major things: how much demand there is and how what where and how much supply there is. So this first picture is an overall generic diagram for how we manage identifying demand.
+
+47
+00:07:56,430 --> 00:08:16,440
+要 sort of restate what I've said many times before. This is not a needs-based model, which is used other places in the world. This is a utilisation-based model. It's a historical data-driven model. So we are based the model on historical data. We use that historical data.
+
+48
+00:10:54,030 --> 00:10:54,660
+唔。
+
+49
+00:10:42,220 --> 00:10:42,990
+yes。
+
+50
+00:10:39,740 --> 00:10:41,280
+所以，噉。
+
+51
+00:12:19,930 --> 00:12:21,760
+Okay， so。
+
+52
+00:10:55,290 --> 00:10:57,210
+okay，所以。
+
+53
+00:10:50,330 --> 00:10:52,260
+有冇人 want to ask a question？
+
+54
+00:10:44,600 --> 00:10:47,430
+okay，okay，所以。
+
+55
+00:12:05,620 --> 00:12:09,340
+我們用信息從健康人力調查。
+
+56
+00:10:22,530 --> 00:10:26,320
+within the healthcare system or how things are going to change within health.
+
+57
+00:12:09,620 --> 00:12:16,960
+要work out the number of FTEs that are available within any one profession.
+
+58
+00:11:17,390 --> 00:11:25,690
+register professionals in Hong Kong and they are able to give us the pre-existing registrants, the number of pre-existing registrants, license renewal.
+
+59
+00:10:26,600 --> 00:10:38,720
+and then use policy options or externalities to modify the base case projection to have a more realistic projection for the future.
+
+60
+00:11:45,980 --> 00:12:05,010
+從那 stock，從那 stock， we then withdraw people that aren't necessarily working. They may be registered, they maintain their registration, but they're not working, so they're not available to do clinical work or or to engage within the healthcare system. And we end up with what we call these active registrants.
+
+61
+00:10:57,670 --> 00:11:16,720
+How to project supply? We use a Markov chain model rather than an AI model to project supply. We get the information from many different sources, but largely from the major sectors, the different councils that.
+
+62
+00:09:23,140 --> 00:09:43,150
+when we when we have done that we are able to convert these utilisation volumes into full time equivalent requirements and we do that based on workload coefficients which are are informed we are informed by work that's going on in the hospital authority and work that's going on other.
+
+63
+00:10:02,520 --> 00:10:22,530
+now the base case is just simply based on that historical data and although that is our underlying framework for the analysis, it does not completely reflect the future as we all know and we need to look at what the future plans are, what their expectations are for how things are going to change.
+
+64
+00:11:25,970 --> 00:11:45,980
+And what the non-local newly eligible registrants are, and they create the global pool. And from the education bureau, we are able to get information about who the anticipated graduates are or will be for the next four, five or six years, and that creates a common pool or.
+
+65
+00:13:13,820 --> 00:13:15,660
+for the demand projection.
+
+66
+00:14:24,810 --> 00:14:28,010
+所以你可以睇到喺。
+
+67
+00:12:23,510 --> 00:12:27,620
+這是基本方式，我們預測供應和需求。
+
+68
+00:14:04,770 --> 00:14:10,230
+你會有，在每個 profession，你會有二零一七、二零一三和二零一四一。
+
+69
+00:14:28,790 --> 00:14:35,810
+在二零一七， for doctors， the demand is primarily here.
+
+70
+00:13:06,240 --> 00:13:13,520
+and the green or what you might call cyan line here is the best g estimate.
+
+71
+00:14:36,320 --> 00:14:45,740
+在醫院、醫院，然後幾乎等量在私營部門，有啲需求係喺醫療署。
+
+72
+00:13:54,820 --> 00:14:04,490
+on the bottom, there are three sets of bar charts, and these bar charts are meaningful in size and volume.
+
+73
+00:13:42,810 --> 00:13:53,240
+所以，從你的點 of view，和從的廣點 of view of planning for manpower，你 really are very interested in the spread more than the specific line。
+
+74
+00:13:30,790 --> 00:13:42,330
+If you compute this algorithm, you know a million times, you will come with a demand projection that fits within this spread.
+
+75
+00:14:46,410 --> 00:14:59,410
+然後，作為去二零三零和二零四一，The orange bar shows the impact of the policy options and externalities that you see listed on the right hand side.
+
+76
+00:14:10,520 --> 00:14:24,510
+和色係 meaningful， and they're displayed up here. You have the hospital authority, Department of Health, the private sector， and then the the orange which indicates the impact of the policy options or externalities on demand.
+
+77
+00:13:15,940 --> 00:13:30,440
+and the this shaded area is called the credible interval, and we use a credible interval, not a confidence interval, because this is a projection and it's Bayesian statistics for calculating this. So this is.
+
+78
+00:12:49,690 --> 00:13:05,820
+Hong Kong expressed in thousands, and when we go to nurses, it'll be the number of nurse FDEs, etc., etc. And the x-axis is always year. Okay, the orange line is always the supply projection.
+
+79
+00:14:59,730 --> 00:15:16,840
+所以我 just 我會 go 一 forward 一 more， and then 我會 come back， 因為我 want 你 to 理解呢張 picture。所以呢個係 gap analysis， and 你哋要睇嘅喺 gap analysis，係呢個 gap in FTE in thousands。
+
+80
+00:12:29,680 --> 00:12:49,690
+所以，我話我之前，我講到這些，下兩個slide，我會先講一下我們在slide裡面講什麼。我講完醫生之後，所以上圖這裡是基本的供應需求缺口，你可以看到在Y軸上，你有醫生的FTE。
+
+81
+00:15:17,120 --> 00:15:17,900
+Okay.
+
+82
+00:16:50,430 --> 00:16:51,240
+okay。
+
+83
+00:17:12,050 --> 00:17:13,760
+Increasing over time.
+
+84
+00:15:25,120 --> 00:15:27,480
+The gap is a shortfall.
+
+85
+00:16:46,330 --> 00:16:49,650
+和影響，的自願健康保險方案。
+
+86
+00:16:40,910 --> 00:16:45,530
+The impact of the new private hospitals that are imminently coming online.
+
+87
+00:15:28,230 --> 00:15:34,830
+and if we are below zero or if you see a negative number coming down the side here, it is a surplus.
+
+88
+00:15:18,180 --> 00:15:24,840
+and there will be there is a a line a dividing line. So if we are above zero.
+
+89
+00:15:59,660 --> 00:16:06,630
+所以，紫色你讀 on the left，和黃色你讀 on the right。
+
+90
+00:16:33,150 --> 00:16:40,630
+所以， for the doctors， we have included the historical manpower shortage in the hospital authority and in the Department of Health.
+
+91
+00:15:35,560 --> 00:15:46,620
+所以，這是一個極度視覺的圖片， to 讓你 see whether the profession is in shortfall or surplus over the period of the projection horizon.
+
+92
+00:16:08,080 --> 00:16:19,190
+所以如果我 just go backwards just very quickly now，所以 for the doctors， this is I guess as we would all expect that there is a
+
+93
+00:15:46,950 --> 00:15:59,380
+所以你有啲gap in FTE here with the confidence or Bayesian interval, the credible interval， and then the yellow here is the gap interval ratio。
+
+94
+00:16:19,470 --> 00:16:32,830
+considerable difference between the supply of doctors over the projection horizon and the demand for doctors, and that is in that projection includes these policy options and externalities.
+
+95
+00:18:26,460 --> 00:18:27,340
+and.
+
+96
+00:20:25,100 --> 00:20:26,630
+在Projection Horizon。
+
+97
+00:18:23,150 --> 00:18:25,740
+或者供應 begins to exceed the demand.
+
+98
+00:17:34,190 --> 00:17:37,640
+It's a guess about what's going to happen in the future.
+
+99
+00:17:38,500 --> 00:17:42,160
+所以我會去到現在，到牙醫。
+
+100
+00:19:57,670 --> 00:20:02,810
+rather than with a wide credible interval, which gives you more variation.
+
+101
+00:18:47,700 --> 00:18:55,470
+二零一七和二零一三， between 二零一三和二零一四， one there is not a huge increase in overall demand.
+
+102
+00:18:55,750 --> 00:19:03,960
+右，the the pattern remains quite consistent， and the the height and the depth of the bars is quite consistent.
+
+103
+00:20:27,360 --> 00:20:37,280
+just a caveat，這些later projections all have to be taken with a certain grain of salt，因為佢哋係一 long way into the future。
+
+104
+00:19:24,730 --> 00:19:37,080
+所以呢，我講更多 about 呢，當 we get to the dental hygienist， but this policy option makes quite a difference to the dentists in this period of time.
+
+105
+00:16:52,040 --> 00:17:12,050
+所以，作為我解釋給你，你可見從條柱狀圖，什麼？也視覺地，影響這些不同政策選項和外部性是。如果我們去到下一個，它只是告訴你，只是我已經説過，醫生短缺，而且短缺是。
+
+106
+00:17:14,180 --> 00:17:34,190
+和，那，的可 credible 間隔，是，增加，過，時間，。那，
+
+107
+00:17:43,130 --> 00:18:03,140
+所以very same thing， and I won't spend time now describing what the graphs are about. You can see that the dentist projection is quite different from the doctors in that the difference between the supply and the demand over the period of the projection horizon is not like the doctors. You have a
+
+108
+00:18:03,140 --> 00:18:23,150
+period of time when the demand is greater than the supply, but by the time we get up to about 2037 or 2038 sort of thing, maybe nine, that we are now in a period of equilibrium until about 2045 when the demand begins to be
+
+109
+00:18:27,690 --> 00:18:47,700
+just to remind you the picture down below where is the demand coming from? Well, with dentists, as we all know, the demand primarily comes from the private sector, and that's what we're seeing here. But the other thing that is of importance to sort of note or helpful to see is that although the demand is increasing between two thousand and twenty.
+
+110
+00:19:04,720 --> 00:19:24,730
+所以，在這Projection for policy options and externalities，我們已包括服務 Enhancement in the Hospital Authority and the Department of Health，The Healthy Teeth Program，Elderly Dental Assistance Program，Outreach Dental Service for the Elderly and Service Substitution by Dental Hygienists。
+
+111
+00:19:37,660 --> 00:19:57,670
+I think the other thing that you might want to note is that the credible interval for dentists is not as wide as it is for the doctors, either. So you're more security about the demand projection. The best estimate is probably more closely tied to the what we're telling.
+
+112
+00:20:05,090 --> 00:20:25,100
+和The gap analysis tells us the same thing. In the picture, we start out early in the projection where we have a shortfall, and by the time we get to almost twenty forty or the late twenty thirty s, we're into either equilibrium for a period of time, and then into a surplus as we move later.
+
+113
+00:21:37,160 --> 00:21:38,440
+所以。
+
+114
+00:22:49,410 --> 00:22:50,760
+In.
+
+115
+00:20:39,030 --> 00:20:40,770
+所以，牙齒 hygieneist。
+
+116
+00:21:58,730 --> 00:22:00,820
+bars here at the bottom.
+
+117
+00:22:21,390 --> 00:22:24,370
+係服務取代，由牙科衞生師。
+
+118
+00:22:45,100 --> 00:22:49,130
+significantly moves itself towards a surplus.
+
+119
+00:22:32,200 --> 00:22:37,020
+although there is a
+
+120
+00:20:58,980 --> 00:21:04,820
+And we had also a supply-demand variation for dentists.
+
+121
+00:22:25,180 --> 00:22:31,260
+所以如果我們 move on to the gap analysis。
+
+122
+00:22:38,070 --> 00:22:44,820
+shortfall very early on in the projection， like just in these last year，二零二一，this。
+
+123
+00:21:15,060 --> 00:21:23,470
+為 for the dental hygienists, if you introduce this service substitution, you can bring the supply and demand.
+
+124
+00:21:05,100 --> 00:21:14,580
+所以，what we in consultation with FHB, we looked at this idea of service substitution by dental hygienists.
+
+125
+00:21:23,750 --> 00:21:36,840
+almost into equilibrium until we get to the late 2040s, and this is because there now becomes more dentists and that impacts what's happening to the dental hygienists. 好。
+
+126
+00:20:41,680 --> 00:20:58,700
+所以， one of the things about the dental hygienists that is important to note, and I haven't included the initial figure here. When we looked at this originally, there was a big gap between the supply and the demand for dental hygienists.
+
+127
+00:21:38,720 --> 00:21:58,730
+如果你 look at this sort of option of looking at service substitution and dental hygienists taking over some of the work that dentists are doing, you can change what's happening in terms of the utilisation of people for work within the health sector. Again, these.
+
+128
+00:22:01,380 --> 00:22:21,390
+係，係，係。
+
+129
+00:26:06,610 --> 00:26:08,890
+和自資 financing 服務。
+
+130
+00:22:51,110 --> 00:22:54,300
+the throughout the rest of their projection.
+
+131
+00:24:58,970 --> 00:25:02,610
+在Projection，那 shortfall is increasing.
+
+132
+00:26:09,690 --> 00:26:13,520
+what we have not included here because we would have no data.
+
+133
+00:24:18,210 --> 00:24:23,390
+政策options and externalities that have been included in this projection and
+
+134
+00:25:26,410 --> 00:25:34,540
+The previous projections where the surplus was much more pronounced. So, in the early years, the the
+
+135
+00:23:17,430 --> 00:23:27,930
+expect to see is that there is a significant difference between the supply and the demand for nurses across the projection horizon.
+
+136
+00:23:44,510 --> 00:23:57,920
+所以， let's just look at what we included. There's a much longer list for general nurses than there were for doctors or dentists. 好，所以，是歷史性的人手短缺，both for the HA and the Department of Health.
+
+137
+00:24:24,280 --> 00:24:38,070
+The impact of these being here, but the spread here would still be very large. You would even if you did not have these policy options and externalities, you would not have equilibrium in your supply and demand.
+
+138
+00:25:34,990 --> 00:25:50,130
+up to about twenty twenty five, we really are quite a bit in an equilibrium state even up till about twenty thirty, and then after twenty thirty, there is supply more supply than demand.
+
+139
+00:23:28,750 --> 00:23:44,080
+And again, we have mapped them out by where they're working and whether they're in the hospital, Department of Health, Elderly Care Rehabilitation Service, in the private sector, others, and then the impact of the policy options or externalities.
+
+140
+00:25:50,590 --> 00:26:06,330
+again， we have the bars that tell us where the psychiatric nurses are working， and we have the policy options and externalities。所以，the only two policy options and externalities included in this projection， and that's the student mental health support scheme。
+
+141
+00:22:57,420 --> 00:23:17,430
+所以護士，你會見到我有三護士要講，about三組護士，護士們working in general stream，working in medicine and surgery，那種類型的community nurses，psychiatric nurses and midwives。所以我們會先講general stream護士，and as you I'm sure expect and what
+
+142
+00:23:58,200 --> 00:24:18,210
+the nurses for the new private hospitals, the voluntary health insurance scheme, planned elderly service, planned rehabilitation service, school of nursing service enhancement, district health centres, self-financing NGOs and the elderly service enhancement. So there's a number of
+
+143
+00:24:38,960 --> 00:24:58,970
+所以如果我們move forward and look at the gap analysis，the nurses through across the projection horizon are in shortfall. and although for the earlier part of the projection there's you might say it's sort of declining or a little bit plateauing by the time we move to the later year.
+
+144
+00:27:10,980 --> 00:27:13,180
+所以，下一個係中醫師。
+
+145
+00:28:23,020 --> 00:28:25,590
+this probably needs to be allowed to happen.
+
+146
+00:28:09,310 --> 00:28:12,180
+all of these and other things.
+
+147
+00:26:13,800 --> 00:26:17,730
+但係，它係可能係某啲嘢，我哋需要喺未來要留意嘅。
+
+148
+00:28:12,460 --> 00:28:17,050
+The demand for midwives is going to remain relatively.
+
+149
+00:26:47,910 --> 00:26:52,720
+about how this might impact the model, so we can't do that as of yet.
+
+150
+00:28:17,470 --> 00:28:22,740
+constant, relatively stable over the period of the projection and the.
+
+151
+00:28:28,640 --> 00:28:34,550
+所以，again，the gap analysis just restates this.
+
+152
+00:27:48,580 --> 00:27:55,800
+The declining supply here predominantly comes from retirement of midwives.
+
+153
+00:26:18,440 --> 00:26:26,500
+given the outcome of COVID and what people worldwide are saying, are the hidden mental health issues that
+
+154
+00:27:25,770 --> 00:27:34,130
+many of these people with a many midwives or with a midwifery qualification are not working as midwives.
+
+155
+00:27:13,490 --> 00:27:25,120
+now， midwives， are， a， very， unusual， group， because， almost， all， midwives， in， Hong， Kong， are， registered， nurses， first， and， then， they， train， as， midwives.
+
+156
+00:27:56,550 --> 00:28:09,030
+所以，我諗，unless there is a big change in Hong Kong，either in the scope of practice for midwives， or there is a change in the birth rate， or
+
+157
+00:27:34,580 --> 00:27:47,780
+所以你 end up with this gap between the supply, the trained number of midwives and the demand, and that's why this is very odd here.
+
+158
+00:26:53,560 --> 00:27:10,310
+again，the gap analysis gives us this picture of shortfall and surplus，where we we have a short we have a shortfall of nurses in the early part of the projection，and then we proceed to a surplus in the later part of the projection。
+
+159
+00:25:06,400 --> 00:25:26,410
+所以 for the psychiatric nurses, this is slightly different than for the general nurses, and we've know we knew this the last three the other two times that we have done these projections that we have a surplus of psychiatric nurses in general. Although the picture is changing a little bit from.
+
+160
+00:26:27,900 --> 00:26:47,910
+From COVID is that there may be a significant change in the need for psychiatric nurses in the near to medium term to deal with the outcome of COVID. But we have no data at the moment to be able to introduce this into the model and to think.
+
+161
+00:28:56,930 --> 00:28:57,800
+嗯。
+
+162
+00:29:51,790 --> 00:29:54,210
+社區 practise， nature， a pharmacy。
+
+163
+00:30:58,550 --> 00:31:00,970
+所以職業治療師。
+
+164
+00:30:53,540 --> 00:30:56,010
+through across the projection.
+
+165
+00:29:38,140 --> 00:29:41,080
+similar to each other.
+
+166
+00:28:58,340 --> 00:29:01,340
+所以，如果我們 look at the pharmacists.
+
+167
+00:29:46,940 --> 00:29:51,510
+and that had to has to excuse me with the.
+
+168
+00:29:41,800 --> 00:29:46,640
+在 previous years， this is not what the pharmacist picture looked like.
+
+169
+00:30:45,900 --> 00:30:52,990
+And again, you can see that we have this great surplus of pharmacists.
+
+170
+00:28:47,270 --> 00:28:56,010
+The there are too many midwives and so there's a surplus. So the shortfall should not be written there. I got added in error overnight.
+
+171
+00:30:33,130 --> 00:30:44,580
+tourist parameter in the in the pharmacist model and it has changed the picture of the model quite dramatically over the years.
+
+172
+00:28:35,140 --> 00:28:46,730
+restates this picture and in fact the statement here is shortfall is wrong. This is you can see these are negative numbers here and
+
+173
+00:30:15,150 --> 00:30:32,250
+和那、那，是，
+
+174
+00:29:01,620 --> 00:29:18,850
+藥師是另一 sort of 問題的羣體， a bit。 I think nobody wants to see that we have surplus of 藥師， but that's exactly what the picture tells us in that we have a supply that exceeds the demand.
+
+175
+00:29:19,400 --> 00:29:37,860
+and we are not able to at the present time look at any sort of policy or externalities that impact the scope of practice for pharmacists and think about how this line, these lines might be adjusted so that they are more
+
+176
+00:32:58,040 --> 00:32:59,070
+嗯。
+
+177
+00:31:27,800 --> 00:31:28,850
+誒。
+
+178
+00:32:08,670 --> 00:32:10,130
+very。
+
+179
+00:31:24,300 --> 00:31:25,910
+所以。
+
+180
+00:31:21,260 --> 00:31:22,890
+到來到。
+
+181
+00:33:19,550 --> 00:33:22,430
+varies is.
+
+182
+00:33:42,720 --> 00:33:47,390
+by themselves and let's open the floor for them to ask questions.
+
+183
+00:32:30,820 --> 00:32:43,190
+I'm hearing you. Just a minute, please. Actually, already passed the time. How about two minutes for conclusion, and then we have to open the floor for for all the electrical member to questions.
+
+184
+00:32:43,560 --> 00:32:57,400
+Sure, I'm very sorry. I just know that there are so many professions here, and I think you all you have all the slides in front of you. Maybe if I go back to, might be easier if I go back this way.
+
+185
+00:31:29,260 --> 00:31:45,960
+I think people want me to hurry up. I'll try to go faster. I think I'm almost finished. Okay, so we have a gap in the supply and the demand for occupational therapists. We have included a number of policy options and externalities.
+
+186
+00:31:46,240 --> 00:32:04,980
+和， as you can see， we still have a surplus. If we go on to physiotherapists， physiotherapists is the opposite picture， where is the demand for physiotherapists exceeds the supply。 There very similar policy options and externalities。
+
+187
+00:29:55,140 --> 00:30:15,150
+所以，二零一一年，當我們開始做這些Projection，我們花了很多時間看社區社區實踐，看不同ASPs是位於何處，什麼是對ASPs的需求，什麼是來的遊客情況是什麼。
+
+188
+00:31:01,250 --> 00:31:21,260
+again, this is different from our this projection is different from the previous projections and this is mostly because there have been new programs implemented within the private sector and that has brought on more occupational therapists into the system than we had available.
+
+189
+00:32:10,810 --> 00:32:30,820
+There are many more policy options and or the policy options externalities are very similar. Dr. Johnson. Yes, I will. I know. As we have very limited time, I think our electrical member can read the PowerPoint by themselves with your current. I'm having a hard time.
+
+190
+00:36:04,880 --> 00:36:06,690
+嗱，唔該，局長回應。
+
+191
+00:34:12,450 --> 00:34:14,590
+誒，我多謝主席。
+
+192
+00:35:00,090 --> 00:35:03,340
+將來喺呢個問題上可以解決到百分之幾咧？
+
+193
+00:34:08,550 --> 00:34:12,170
+屬議員嘅，噉就誒，姚思榮議員唔該。
+
+194
+00:36:00,310 --> 00:36:04,600
+招聘個個情況有冇一啲諗法咧？噉樣嚇呢個問題。
+
+195
+00:35:03,620 --> 00:35:10,200
+如果解決都唔足夠嘅時候，政府有冇考慮嗰啲退休醫生嘅返聘安排嘅咧？噉樣？
+
+196
+00:35:30,490 --> 00:35:39,890
+決誒目前嘅問題，未來誒嗰個每個醫生面對每個病嘅人手嘅情況，會唔會進一步惡化咧？噉樣？
+
+197
+00:37:07,350 --> 00:37:18,820
+另外咧，除咗加學生之外咧，當然咧，醫管局都係要挽留人才嘅。噉佢哋喺挽留人才方面咧，政府都畀咗額外資源佢哋咧，去誒，即係誒做一啲嘅。
+
+198
+00:34:47,540 --> 00:34:59,730
+但係呢個問題就係誒公營醫誒醫生嗰度咧，而家引入咗啲誒準備引引入啲誒本港嘅居民嘅一啲合資格嘅醫生咧喺海外，咁誒。
+
+199
+00:34:34,920 --> 00:34:47,260
+人手方面咧，有冇每一年咧作出一個檢討？咁誒，個情況係點樣咧？同埋今次嘅調查之間嘅差異喺邊度咧？如果冇嘅話，點解會冇咧？噉樣？
+
+200
+00:32:59,540 --> 00:33:19,550
+所以，我 think， it's the very same picture， and it's really just， I would be just telling you the same thing across all the professions， and they， the variance only comes from the nature of the profession and the nature of their practice and their scope of practice。 so， how the the the demand and supply
+
+201
+00:33:22,710 --> 00:33:42,720
+完全 dependant on that their the nature of their practice their scope of practice and that that what is what explains the difference between these different projection scenarios by profession which is really the main point that you're trying to get across. Yeah, thank you very much. So I think I'm sorry.
+
+202
+00:33:48,540 --> 00:34:08,550
+好，噉我哋而家咧就誒可以開始問問題。咁因為時間有限啦，我諗係每人就誒誒先四分鐘連問連答。咁個講一講個名單畀大家聽先。誒其實誒睇下先，而家都係跟次序㗎啦。姚思榮議員、陳建波議員、潘少平議員、梁志祥議員、張宇人議員、葉劉
+
+203
+00:34:14,910 --> 00:34:34,920
+就有關嗰個調查咧，首先好多謝港大做得咁詳盡調查啦，等我哋市民去知道香港整個醫療人手方面存在嘅問題啦。咁但係因為呢個調查咧，只係誒三年一次啊，我唔知道誒第一個問題就係醫管局或者政府喺誒公營。
+
+204
+00:35:10,480 --> 00:35:30,490
+第三個問題就係有關呢啲誒誒公營醫院嘅醫生咧，即係誒咁短缺情況之下咧，誒肯定會出現咧每個醫生平均醫療嘅醫誒誒啲病人嘅人數咧會多嘅。咁目前呢個情況係咪一個不合理嘅情況？如果不合理嘅話，政府點樣解？
+
+205
+00:35:40,300 --> 00:36:00,310
+誒，仲有一個問題就有關護士嘅問題啦，都係嗰誒短缺情況都比誒醫生誒誒更加嚴重啦。咁而家好似我哋焦點去咗醫生嗰度，噉我唔知道對護士嗰個未來解決方案咧，政府有冇一啲嘅辦法，譬如喺嗰個學歷啊，或者喺境外嗰個。
+
+206
+00:38:19,130 --> 00:38:21,980
+嘅流感高峯期啊，噉佢哋都會有一啲。
+
+207
+00:40:12,100 --> 00:40:22,860
+練爪啊！咁所以咧，我哋亦都喺護士培訓方面咧，不斷咧係誒加大誒嗰個誒培訓學額嘅。除咗喺誒誒。
+
+208
+00:40:43,150 --> 00:40:55,280
+咁當然啦，護士都係要讀五年嘅，咁所以咧其實五年即係先會畢業。咁當然有一啲誒嘅誒登記護士咧，佢誒醫管局亦都會去資助佢哋咧，係。
+
+209
+00:39:38,220 --> 00:39:51,810
+要修改法例咧，係去誒另闢一條途徑咧，去引入非本地誒培訓嘅誒醫生嘅。咁至於護士方面咧，誒亦都係一樣啦。我哋醫管局咧，亦都係有。
+
+210
+00:39:02,280 --> 00:39:17,930
+佢哋嘅即係誒誒誒呢啲誒有限度註冊醫生嚟到咧，誒都有升職機會啊，等等咁去誒去做。咁呢個都有個成績嘅。其實誒過去誒做咗呢個工作咧，嗰個有限度註冊醫生嗰個數目咧，誒都係。
+
+211
+00:36:07,320 --> 00:36:27,330
+好啊！誒，多謝葉議員問題。第一咧，就誒醫管局對於佢嘅誒醫生同埋誒其他專業人員嗰個誒，即係專業醫療人員嘅即係人手短缺咧，其實咧佢哋係誒有檢討嘅，同埋咧佢哋係有都有佢哋嘅數字嘅，因為一方面咧佢哋誒。
+
+212
+00:36:27,330 --> 00:36:47,340
+知道咗佢哋嗰個短缺咧，另外一方面咧就係想辦法咧係去解決啦。咁當然誒都有短中長嘅一短中長嘅辦法嘅一路以嚟咧，除咗我哋話誒，即係而家係需要咧係誒修改法例去誒去有另外一條途徑去引入誒一啲非本地培訓醫生之外。
+
+213
+00:36:47,340 --> 00:37:07,350
+外咧，其實一路以嚟咧，其實當然一個比較長期，我哋都誒不斷咁加學生嘅，係由誒誒當時即係以前嘅二百幾加到咧，而家係五百幾，咁呢個咧都係翻咗一倍㗎啦，差唔多。喺下一個誒即係三年一個週期咧誒嘅情況咧，我哋都會繼續加嘅誒。另
+
+214
+00:37:19,100 --> 00:37:39,110
+誒，例如即係升級啊嘅一啲嘅誒位置啊嚇噉樣，咁當然誒，其實最終都係要誒多啲嘅即係醫生誒先至可以解決誒。例如好似佢哋嘅誒，姚議員問另外一個問題咧，就係話誒，每一個醫生其實佢有睇好多病人，咁所以其實長。
+
+215
+00:37:39,110 --> 00:37:59,120
+院如果誒冇一個足夠數字嘅醫生咧，誒其實咧呢個咧都係好難咧去解決。而家現時喺醫管局工作嘅醫生咧，佢嗰個工作量誒嗰個問題嘅咁誒，所以咧一路以嚟咧誒退休重聘咧，其實呢個咧亦都係誒政府亦都係提供咗。
+
+216
+00:37:59,120 --> 00:38:19,130
+個資源畀誒醫管局咧，一路咧係由誒誒幾年前咧，其實已經開始咗呢個退休重聘嗰個工作。咁每年咧，其實都有六七十個醫生咧係即係反聘嘅。咁呢個已經係一路做緊。噉我哋亦都係覺得呢個都會繼續做。當然佢哋係一啲短比較短期，例如好似以前有。
+
+217
+00:38:22,260 --> 00:38:42,270
+嘅叫做特別酬金，係喺現有嘅誒，即係同事去即係誒所謂加班啦噉，咁亦都有聘一啲誒嘅誒誒誒誒兼職嘅人士啦噉。咁喺我哋未有呢個誒海外即係誒另設呢個途徑誒去改法例之前咧。
+
+218
+00:38:42,270 --> 00:39:02,280
+當然，我哋有有限度註冊醫生嘅。噉我哋曾經咧都係有好多嘅工作咧去吸引誒呢啲有限度註冊醫生咧係翻嚟香港咧係執業。咁呢個誒一方面我哋增加資源畀醫管局咁做啦，另外一方面就佢哋都係好努力噉樣去去提供一啲嘅誘因，同埋提供誒一個誒。
+
+219
+00:39:18,210 --> 00:39:38,220
+誒多咗嘅，咁所以咧呢度咧誒，我哋一路呢一個工作咧係做緊。不過我哋發現咧，就係就算我哋做咗好多我剛才所講嘅唔同嘅即係措施咧，其實咧就都係仍然係短缺。我哋睇到個輪候時間仍然係喺某一啲專科咧係仍然係長嘅，咁所以咧我哋就係需要。
+
+220
+00:43:32,150 --> 00:43:32,610
+係。
+
+221
+00:45:09,450 --> 00:45:22,220
+少咗啦，其實佢都係會去國內咧，係去讀誒中醫，咁然之後翻嚟考翻試咧，都會成為一個註冊中醫嘅。咁所以喺個私營市場嗰度咧，嗰個人手咧係會誒。
+
+222
+00:44:13,640 --> 00:44:29,150
+相宜嘅價錢咧去睇中醫，而第三咧喺醫管局嘅誒中西醫協作咧，誒亦都係不斷咧係誒誒一路係即係已經係做咗咧係多年㗎啦，噉我哋不斷咧係去深化同埋咧去擴大。
+
+223
+00:42:15,990 --> 00:42:31,620
+誒多謝主席。誒睇翻呢個人力推算報告咧，其實誒文編就話咧，譬如我講，我想講中醫嘅嚇，因為中醫咧香港都係未係我諗用到，即係係最有效咁運用啦。因為我哋香港大部分都係重西醫又輕中。
+
+224
+00:46:02,550 --> 00:46:20,930
+誒另外咧就係助產士嗰度啦，助產士咧誒，因為誒所有嘅助產士其實誒喺香港嚟講咧，絕大部分咧其實都係註冊護士嘅，咁所以而家咧就當然咧誒醫管局都係有八間醫院有助產士，即係有誒誒即係生B B嘅一個。
+
+225
+00:41:55,690 --> 00:42:14,820
+誒，淨係誒一路做緊嘅，我哋咧亦都喺係好啊，好啊，好啊，好啊，主席係我，我想即係同李議員講就話，我哋都即係繼續咧，對於尤其是專科護士嗰個誒培訓啊，以致到係挽留佢哋咧，都係繼續誒一路做緊工作嘅。好啊，跟住陳建波議員。
+
+226
+00:39:52,090 --> 00:40:12,100
+誒去做佢嘅人力嗰個即係誒誒嗰個誒規劃，同埋咧係嗰個人手短缺嘅情況。誒啊，姚議員你講得啱啊，護士嘅短缺咧亦都係誒非常之嚴重嘅。咁誒喺誒每年咧，其實尤其是流感高峯期咧，其實咧呢個咧就係捉襟
+
+227
+00:40:23,140 --> 00:40:43,150
+誒教資會嗰個誒大學係有三間大學嘅，香港大學、中文大學同埋誒理工大學咧，去加學位之外咧，其實咧亦都係喺一啲自資院校嗰度咧係加學位嘅。咁而家咧，其實每一年咧，誒嗰個加到嗰個學位大概都有誒三千幾個嘅，噉。
+
+228
+00:40:55,560 --> 00:41:15,570
+誒做誒誒讀誒繼續去即係升學咧，係去讀呢個註冊護士。咁嗰度咧，亦都係另外一個人手。咁護士亦都一樣啦，除咗係誒加學生，我哋咧係退休重聘短期嘅，亦都係一樣係有一啲誒，即係特別酬金，同埋咧係誒，亦都有一個。
+
+229
+00:41:15,670 --> 00:41:35,680
+誒誒誒，即係誒嗰個誒兼職人手噉，亦都誒誒對於護士嘅流失同埋醫生嘅流失咧，其實咧，我哋一路咧都係檢視緊嗰個流失率嘅。咁誒，醫生而家個流失率咧，當然係誒有啲放緩嘅，但係咧，護士咧誒嗰個流失率咧。
+
+230
+00:41:35,680 --> 00:41:55,690
+就誒，即係仍然咧，係誒都係誒有繼續咧，誒係有流失嘅。咁所以咧，誒誒，我諗喺誒去點樣挽留人才咧，誒嗰度咧，尤其是點樣去誒挽留一啲誒資深嘅護士，同埋咧係專科培訓咗嘅護士咧，呢個係醫管局咧而家。
+
+231
+00:42:32,120 --> 00:42:52,130
+咁文展就話咧，中醫係誒供應充足啊。其實就係有過剩嘅，因為每年都嚇多咗千幾人啦噉樣。咁其實係咪？我想問一問讀長咧，會唔會有辦法咧？係會係即係睇下點樣成機咧？係推廣中醫，令到我哋可以即係培訓嘅人咧，都可以啊學。
+
+232
+00:42:52,130 --> 00:43:12,140
+佢哋學嘅嘢有可以利用啦，市民亦都受惠，因為睇到最近嗰啲新冠肺炎咧，亦都係有中醫治療嘅效果都好喺國內都好嘅。噉我相信好多疾病咧，其實中醫咧係能夠一個一個，即係能夠做一個保養誒保養啦，或者係做一啲誒預防病啦，都可以令到咧嗰個西醫嘅醫療系統係少啲壓力。
+
+233
+00:43:12,140 --> 00:43:32,150
+嘅，噉我想問一問啊，局長會唔會利用機會咧，係多啲利用中醫啊？呢個第一樣啦，第二樣咧就個助產時咧就明顯係多嘅，咁但係正如頭先專家都講啦，其實助產時都係註冊護士嘅，咁可唔可以誒每年即係多過千人係愛嚟用喺即係做翻普通護士嗰個崗位咧？嚇，兩個問。
+
+234
+00:43:33,620 --> 00:43:53,630
+好，誒多謝啊陳議員嘅問題。第一咧，誒政府其實一直咧都係好誒注重誒嗰個中醫嗰個發展嘅，尤其是現屆政府咧，我哋都誒特登喺食物及衞生局咧加咗一個誒一組人咧係去處理呢方面嘅一個即係規劃啊同埋誒發展嘅。噉啊，大家知道咧。
+
+235
+00:43:53,630 --> 00:44:13,640
+啦，我哋第一就有中醫院啦，誒咁呢個喺度規劃緊嘅。第二咧，亦都係有誒喺十八區嘅誒專科誒誒唔係專科對唔住啊，係誒即係中醫教研中心咧有十八間嘅，喺十八區咧亦都係加咗誒即係多一倍嘅籌啦，係令到多啲市民咧可以用一個即係。
+
+236
+00:47:12,080 --> 00:47:13,220
+多謝主席。
+
+237
+00:47:06,470 --> 00:47:08,680
+好，跟住潘卓平議員。
+
+238
+00:49:35,940 --> 00:49:39,400
+咁事實上，響培訓咧都需要五六年。
+
+239
+00:47:01,230 --> 00:47:05,670
+咁所以咧，誒喺喺呢方面咧，我哋亦都會一路咧係檢視住嗰個人力嘅。
+
+240
+00:49:30,300 --> 00:49:35,660
+咁呢個第一個咧，第二個咧就當然你就話我哋要透過培訓。
+
+241
+00:48:47,700 --> 00:48:57,250
+年嘅醫院發展計劃咧，你嚟緊響二零二八年咧，啟德醫院又好或者北區醫院又好，都多成幾千張病牀。
+
+242
+00:49:07,960 --> 00:49:18,060
+誒，你哋可能都會認同呢一份報告啦。咁點樣去應對而家嗰個人手嗰咁嚴重嘅不足？
+
+243
+00:48:57,530 --> 00:49:07,680
+所以講，我就主要想誒有幾個問題咧，都希望即係今日可以大家誒討論下。咁第一個咧，政府當然局長都講咧就。
+
+244
+00:47:24,590 --> 00:47:35,070
+好唔足夠，但係調翻轉，亦都有醫療人手咧會多咗。我都初步計過下啦，噉就誒，你醫生、護士嗰邊咧，如果以
+
+245
+00:47:13,580 --> 00:47:24,310
+就好多謝廣大做咗呢個推算啊！噉就其實睇完之後咧，其實真係令人擔心嘅，即係有一部分嘅醫療人手咧就。
+
+246
+00:49:18,340 --> 00:49:30,020
+尤其是咧，你嚟緊誒十年嗰個醫院發展計劃，增加嘅病牀同埋專科或者普通科個服務名額。
+
+247
+00:47:35,350 --> 00:47:47,390
+呢一堆噉嘅醫療人手咧，如果去到二零二四年咧，就增咗成八千七百幾人。調翻轉咧，咩中醫啊、助產士嗰邊咧，就多咗成四千九百幾人。
+
+248
+00:44:29,430 --> 00:44:49,440
+誒喺呢方面嗰個做法，咁所以咧喺呢度咧，其實誒誒正正政府咧係有咁多嘅即係中醫藥嘅發展，加埋嗰個五億嘅中醫藥發展基金咧，其實誒我哋對於誒即係中醫藥發展嘅未來咧，其實咧係誒都係覺得係會係好健康嘅，咁所以我哋。
+
+249
+00:44:49,440 --> 00:45:09,450
+即係隨住我哋誒誒提供更多服務，中醫嘅服務畀市民咧，我哋都會係對於中醫嗰個需求咧係會有響度嘅。但係咧誒當然咧，因為誒中醫咧好多大部分咧，佢其實都係喺私營市場啦。第二咧就係有好多嘅學生，雖然而家係。
+
+250
+00:45:22,530 --> 00:45:42,540
+係會都係誒多嘅嚇噉樣。咁當然咧，誒我哋一路都會檢視住而家嗰個，即係我哋隨住我哋中醫藥發展同埋咧係嗰人手嗰個整體情況嘅。誒第誒同埋咧誒就頭先陳議員所講咧，亦都大家都知道，我哋喺新冠誒肺炎嗰個嘅。
+
+251
+00:45:42,540 --> 00:46:02,550
+誒喺醫管局誒，佢例如好似喺亞博嗰度嗰啲誒社區治療中心咧，都加咗一個中醫嘅誒嘅一啲療程嘅。咁所以喺嗰度咧，我哋都會盡量，無論喺平時誒嘅症狀，或者咧係新冠肺炎嘅症狀咧，我哋都要盡力咧係誒多啲用中醫誒。
+
+252
+00:46:21,210 --> 00:46:41,220
+誒病房啦，誒婦產誒婦產科嘅病房，咁所以佢哋其實而家喺嗰度咧，佢哋嘅工工作咧都係繁重嘅啊，同埋咧亦都係誒不斷咧係對誒媽媽咧係亦都嗰個嘅誒護理咧係增加，例如好似係餵人奶啊，我哋又不斷去誒發展母乳母母乳喂。
+
+253
+00:46:41,220 --> 00:47:01,230
+噉佢哋都係誒誒由將醫醫管局嘅醫院咧做愛嬰醫院啊等等嘅工作咧，其實都係繁重嘅。咁所以而家現有嘅誒有一啲佢有誒呢個誒助產士嘅誒註冊嘅護士咧，其實已經係喺其他病房做緊嘢㗎啦。
+
+254
+00:47:47,670 --> 00:48:07,680
+即係換句説話，可能出現一個狀況咧，就係啊某一個即係唔短缺，點解？聽唔聽到啊？聽到啊？係啊，聽到聽到係。即係換句説話咧，就有人冇工做，就有人做有工啊冇人做噉就嗱。當然咧，呢個推算咧就講嗰個需求同埋工。
+
+255
+00:48:07,680 --> 00:48:27,690
+供應而推算出嚟，咁其實誒之前我哋以往喺事務委員會咧，大家好多同事最關心咧就係，即係一個先進地區同經濟發達嘅地區咧，佢個醫療人同嘅比例。咁換句説話咧，應該過去我哋一路關心咧就係醫生同護士。
+
+256
+00:48:27,690 --> 00:48:47,700
+嗰個同病人嗰個比例應該係幾多咧？噉樣咁同埋佢哋現有嘅工作量，同埋對病人嗰個輪候嗰個時間。咁如果睇而家嗰個人力需求咧，就尤其是誒政府準備做嗰個誒十。
+
+257
+00:50:27,470 --> 00:50:27,780
+係。
+
+258
+00:51:38,110 --> 00:51:38,630
+嘅。
+
+259
+00:52:38,940 --> 00:52:41,330
+事嚟講，當然咧，就係。
+
+260
+00:49:39,680 --> 00:49:47,150
+咁而且唔係個個人都話去培訓都有資格去做醫生，所以我又想了解下咧就。
+
+261
+00:50:28,480 --> 00:50:37,800
+好啊，局長唔該。好啊，誒多謝啊區議員嘅問題嘅。誒第一咧就我哋當然咧即係短缺，大家都好清楚意見啦。我哋就
+
+262
+00:49:47,450 --> 00:50:07,460
+你哋嗰個雖然增加名額，但係喺整個培訓計劃裏面，你哋嗰個條件同埋安排係會將會係點樣？咁至於咧，當然誒，你哋都有提咧，就會嚟緊咧，你哋都會細化嗰個人力規劃啦，對專科醫生誒進行。
+
+263
+00:50:07,460 --> 00:50:27,470
+行嗰個人力推算咧，同埋個註冊護士同埋登記護士嗰個技能組合咧，噉就希望即係兩者進行一啲準確啲嘅推算。咁呢一方面咧，係咪誒政府又係委託翻港大去進行？而會幾時會最快會有個結果咧？噉我先問住呢個問題。
+
+264
+00:50:38,080 --> 00:50:58,090
+係有嗰個喺個推算嘅模型咧，係人力短缺啦。咁但係就算喺現實咧，就誒我哋誒喺醫管局同埋衞生處咧，都睇到咧佢哋現有嗰個短缺嘅數字。我喺文件嗰度咧都係交代咗嘅。咁至於話嗰啲誒誒誒唔唔會短缺嗰啲咧，其實咧。
+
+265
+00:50:58,090 --> 00:51:18,100
+誒大致上咧，呢個一方面係一個推算啦，我哋會繼續去留意嘅。咁而呢個推算咧，亦都當然會係隨住一個服務發展咧而改變嘅。因為我哋點解要三年做一次咧？就係咧，因為其實誒，我哋都會有，例如有政策上啊，有服務上嘅增加啊噉。咁當有一
+
+266
+00:51:18,100 --> 00:51:38,110
+一啲噉嘅情況嘅時候咧，其實嗰個人力嗰個要求咧，其實亦都會隨之而改變嘅。咁嗰個其實嗰個誒，亦都唔係話誒完全咧係所謂嘅誒有有多咗人啊，而係咧嗰個短缺咧係誒誒，即係唔會呈現短缺咁解。當然，如果係喺一啲私營工作。
+
+267
+00:51:38,910 --> 00:51:58,920
+誒為主嘅一啲嘅專業咧，其實佢嗰個誒誒流動性咧就係會誒更加大啲嘅。咁誒呢個我哋都會一一路留留意住啦。當然我哋最最着重咧就係誒，好似潘議員所講咧，我哋喺公營嗰個人手，所以正正亦都係點解咧？我哋都係個。
+
+268
+00:51:58,920 --> 00:52:18,930
+覺得咧係刻不容緩，我哋要盡快。除咗我哋有唔同嘅誒策略、唔同嘅誒工作去增加誒醫誒醫療人手之外咧，其實我哋亦都要去喺誒好似醫生咁咧，都會誒要去去另設一個途徑咧，係誒非本地培訓嘅醫生咧係。
+
+269
+00:53:41,640 --> 00:53:42,160
+誒。
+
+270
+00:54:53,400 --> 00:54:56,000
+要開咪？
+
+271
+00:54:43,230 --> 00:54:46,470
+好啊，跟住下一位係梁志祥議員。
+
+272
+00:55:37,440 --> 00:55:45,550
+移居去澳洲啊，或者其他地方咁噉，佢哋點解要走咧？其實嗱，我都問咗佢哋一下嘅。
+
+273
+00:55:45,930 --> 00:55:57,050
+第一樣咧就係誒工作量好大啦，香港工作量真係大，領導佢哋咧即係覺得喺度繼續留喺度做咧，不如不如嘗試去澳洲啦噉樣。
+
+274
+00:56:50,710 --> 00:57:03,530
+醫療咧，因為內地嘅人嚟唔到咧，其實佢哋個壓力就細咗好多嘅。咁其實你供應嘅嘛，可以將佢轉大、轉多少少過去咯。噉你嗱，呢個當然係短期嘅措施啦，令到誒即係。
+
+275
+00:55:57,340 --> 00:56:10,410
+咁第二個當然啦，改變佢個生活環境啦，即係即係呢個係個人嘅需求啦。咁但係工作量係其中一個即係主因咯。我覺得阿阿阿局長，即係我我哋嘅工作係咪真係？
+
+276
+00:52:18,930 --> 00:52:38,940
+會誒翻嚟香港誒執業嘅，咁誒嗰個十年嘅建院計劃，當然咧，而家我哋都係誒如火如荼嘅，咁誒正正係我哋而家係對於而家嘅人手規劃咧，都係要誒令到我哋係建咗醫院或者係我哋而家加咗牀咧，係喺人係有人手，咁所以而家現
+
+277
+00:52:41,610 --> 00:53:01,620
+誒多管齊下啦，無論係退休重病啊，誒聘一啲嘅誒誒執業嘅醫生啊，以致到誒短期有時係一啲即係誒聘用酬金啊，同埋最主要咧就係挽留一啲誒佢會走嘅誒人才，咁呢個亦都係重要嘅。咁所以我哋喺誒升職啊，喺誒工作環，
+
+278
+00:53:01,620 --> 00:53:21,630
+環境啊、工作量啊、各方面咧，其實都係成套噉樣咧，係去加強誒，即係醫管局啦嚇誒，令到咧，我諗係誒更多誒，即係如果佢係誒可可以留低嘅，而喺公營服務嘅醫生咧，都可以繼續咧係留低嘅。咁誒，至於嗰個培訓咧，剛才當然咧，我哋。
+
+279
+00:53:21,630 --> 00:53:41,640
+係誒一路咧，係加學生噉，亦都唔係淨係加誒，即係醫生嘅學生嘅誒。一方面咧，就係誒佢畢咗業之後，我哋嗰個即係誒誒誒增加嗰個誒醫生畢業嗰個學額啦。但係咧喺專科培訓方面咧，我哋一路咧都係繼續咧同誒醫專咧誒。
+
+280
+00:53:42,510 --> 00:54:02,520
+去誒繼續係誒聯係嘅，咁所有誒醫生畢業咧，其實佢哋我哋而家咧都係會佢一定係揾到工啦，一定係可以喺我哋公營嘅系統嗰度咧係去有一個培訓嘅位嘅，啊，即係話咧其實佢唔係淨係話係即係誒喺醫管局服務，而係咧佢係接受。
+
+281
+00:54:02,520 --> 00:54:22,530
+就誒一個專科培訓咁呢度誒，我哋誒同誒醫管局同誒醫專咧一路每年咧都係噉樣去處理誒呢方面嘅工作嘅。咁誒最後咧誒，我諗誒阿潘議員咧都誒睇到啦，我哋喺誒醫生專科誒嗰個嘅誒人力需求。
+
+282
+00:54:22,530 --> 00:54:42,540
+同埋咧係誒接觸護士同埋登記護士嗰兩方面咧，我哋要再去細化咧去做呢個研究嘅，咁都係會請誒香港大學係會去誒繼續做呢個研究。咁而咧喺誒今年之內咧誒應該都已誒會做完，其實而家已經係開始緊㗎啦嚇。多謝主席。
+
+283
+00:54:57,420 --> 00:55:17,430
+未有聲，即係啱啱啱公路又開緊會咧，我哋要走好多層樓先至先至可以參加到會議。誒誒嗱誒，我就對今次呢一個嘅誒推算咧，就同一七年嘅比較，其實政府係做咗大量嘅功夫嘅，不過似乎咧就冇。
+
+284
+00:55:17,430 --> 00:55:37,440
+冇乜起色啊！特別咧，最誒即係醫生啊、護士呢兩個部分咧，更加顯得即係需要啊，更做多啲更多嘅功夫啦。咁嗱，我其實咧就誒都好多護士咧誒不時揾我嘅。咁其實佢哋係咩咧？係要即係。
+
+285
+00:58:29,850 --> 00:58:33,090
+我哋食物及衞生局咧，亦都係有一個嘅。
+
+286
+00:59:41,340 --> 00:59:45,410
+都向前㗎嘛，咁所以我哋又增加我哋嘅誒。
+
+287
+00:58:04,140 --> 00:58:08,280
+噉你哋仲有啲新嘅措施可以幫到手咧？
+
+288
+00:59:13,500 --> 00:59:21,050
+誒一般每一年嘅即係常規性嘅資源咧，以致到係財政誒預算案，其實過去有誒。
+
+289
+01:01:05,970 --> 01:01:15,680
+都係要去做多啲公司型嘅協助計劃，令到嗰個輪候時間啊，同埋個服務咧係可以提升嘅。護士方面咧。
+
+290
+00:56:10,690 --> 00:56:30,700
+誒人手造成啊，定係我哋誒特別公公營醫療嗰方面咧，係咪真係我哋仲有啲改革嘅一啲一啲需要咧？嗱，例如好似誒公私營合作，而家你哋係做緊嘅，噉我都我曾經去過一啲誒私家醫院，見到。
+
+291
+00:56:30,700 --> 00:56:50,710
+咧就係由你哋去推薦過去，噉啊佢由公營轉咗私營嗰邊醫誒，即係醫療啦，即係誒誒提供服務啦。咁呢個呢個都係限於咧某啲誒種類啦，即係唔係話全部都可以噉樣做啦。咁如果你話可以咁做嘅，其實而傢俬營嘅醫
+
+292
+00:57:04,110 --> 00:57:24,120
+嗰個服務咧係唔會因為噉樣而導致咧，即係即係嗰個壓力大咧，係短期啦。但係長遠當然係培訓醫生啊，同埋誒增加醫療人手啦。嗱誒，最近即係誒特首講話，即係將呢個醫療人手誒修改法例去增加誒海外醫生翻嚟，但係呢一個做。
+
+293
+00:57:24,120 --> 00:57:44,130
+做法咧只限於咧就係我哋誒香港人，誒即係自己香港嘅醫生先可以。如果噉樣咧，其實個數量咧我就唔知你哋點樣去估算啦。你個吸引力係咪好大啦？係咪因為你哋誒用呢個法例改之後咧，有好多醫生湧翻嚟啦？咁據據聞都係百零個噉。
+
+294
+00:57:44,130 --> 00:58:04,140
+咁噉，其實你對成個嗱，我我我哋而家千幾個差額喎，啊，即係三零年有一千六百幾個就係醫生都，噉你點樣即係杯水車薪，根本就係冇辦法解決到我哋而家醫療人手即係個短缺咯，啊，即係呢呢個會唔會一個？
+
+295
+00:58:09,840 --> 00:58:29,850
+誒，好誒誒，主席係多謝梁議員嘅問題嘅。第一咧，當然咧，誒誒誒，亦都啊，梁議員剛才所講咧，我哋其實多年來咧都瞭解呢個短缺，咁亦亦都係做咗大量嘅功夫，投咗大量嘅資源落去咧，係對於人手嗰度增加嘅。我哋亦都有一個喺誒。
+
+296
+00:58:33,370 --> 00:58:53,380
+誒，平台咧係同，例如醫生咁先算啦，係同誒，即係誒唔同嘅醫生，誒，即係尤其是主要嗰啲組織嘅醫生，誒，例如兩間醫學院啊、醫專啊、嚇醫學會啊、嚇誒或者係醫委會啊、誒醫管局同埋衞生署等等咧，我哋一齊咧，其實都會定期開會咧去。
+
+297
+00:58:53,380 --> 00:59:13,390
+去誒去討論咧，同埋咧去去諗一個方法咧，係去增加醫療人手嘅。咁當然咧，我哋對於例如優化之前咧，我哋優化有限度註冊咧，就係其中即係一項嘅工作啦。當然政府亦都會係誒，亦都係已經咧係增加資源，無論係誒。
+
+298
+00:59:21,330 --> 00:59:41,340
+幾年咧都係額外有啲撥款咧，係畀誒即係醫生、護士咧係去挽留佢哋嘅。咁當然誒，剛才梁議員你講就係話誒，我哋好似即係做極都未追到喎。咁事實上係係嘅，因為咧人口老化啦，我哋又增加誒，例如科技啦，我哋又增加，我哋一路。
+
+299
+00:59:45,830 --> 01:00:05,840
+誒，服務啦嚇，同埋咧，我哋誒，即係一路一路一路咧，我哋嘅服務咧都係提升嘅。咁所以呢度咧，亦都係誒嗰個需求啦嚇，亦都好大。咁所以咧，我哋誒，如果整體政策嚟講咧，當然咧，我哋係要加人手處理醫管局，但係如果睇翻整體咧，我哋一定要誒增。
+
+300
+01:00:05,840 --> 01:00:25,850
+加基層醫療健康係令到咧係入醫院嘅人咧係減少啦嚇，咁呢個係提升市民健康，同埋咧係私營嗰度咧亦都係重要啦。咁所以咧，我哋咧誒亦都誒係有較早前其實誒上屆政府都開始有一百億預留咗係做誒公私營合作嘅，咁所以。
+
+301
+01:00:25,850 --> 01:00:45,860
+所以咧就誒，其實誒醫管局一路都有推出一啲公司型合作計劃。噉我最近咧亦都要求佢哋咧係更加加強誒呢個公司型合作計劃，因為咧誒較早前其實佢哋就誒有做，但係嗰個進展咧係都係即係一般啦嚇。咁因為咧佢哋亦都擔心咧，如果係再
+
+302
+01:04:11,700 --> 01:04:12,670
+多謝主席。
+
+303
+01:04:18,970 --> 01:04:20,000
+我都。
+
+304
+01:04:13,170 --> 01:04:14,850
+跟住係張雨綺。
+
+305
+01:04:37,030 --> 01:04:38,870
+too conservative.
+
+306
+01:04:34,650 --> 01:04:36,750
+我 believe they are way.
+
+307
+01:04:31,820 --> 01:04:34,370
+我唔知點解你哋會得出呢啲數字。
+
+308
+01:04:39,420 --> 01:04:42,870
+我，我 go 簡單 arithmetic。
+
+309
+01:03:53,440 --> 01:04:01,600
+誒，其實呢個計劃咧都會係吸引嘅。當然我哋會睇住嘅，誒，會誒會繼續檢視，如果嗰個情況係。
+
+310
+01:04:01,880 --> 01:04:10,860
+誒誒，即係話嗰個吸引力咧係唔夠嘅話咧，咁當然我哋會再睇一睇咧，誒跟住咧應該點樣樣去誒處理啦嚇。
+
+311
+01:04:22,470 --> 01:04:31,510
+聽到啊，開到啊，聽到。Okay，thank you。Uh，first of all，I like to thank uh Dr. Johnson for her presentation。
+
+312
+01:02:16,140 --> 01:02:32,930
+係誒不斷咧，係會誒推出一啲即係對於專科護士佢哋嗰個發展嘅一啲嘅計劃嘅，咁呢個咧就正在進行中嘅。咁誒最後咧就係關於我哋嗰個誒修例嗰個工作啦。咁而家咧其實我哋都開始誒。
+
+313
+01:00:45,860 --> 01:01:05,870
+即係個私營市場咧，誒好蓬勃嘅時候咧，太多醫生走咧，又對於公營服務咧嗰個影響咧，又會誒即係更加即係有喺度啦。咁所以咧，佢哋亦都係好小心嘅。咁但係而家個情況誒有少少唔同，咁所以咧，我都請醫管局咧係盡力咧，係喺可以嘅情況底下咧。
+
+314
+01:01:15,960 --> 01:01:35,970
+誒，其實誒當然啦，呢個係誒嗰個人手誒短缺咧。誒係即係話點解係都會個工作量咁重咧？我諗都係誒係好多原因嘅。第一就係佢本身嘅人手係唔夠嘅。誒第二咧就誒隨住即係專科發展啦，同埋護士誒喺國際。
+
+315
+01:01:36,120 --> 01:01:56,130
+誒同埋佢哋嗰個學歷啊各方面咧，一路係發展咧，其實佢哋個角色咧係越嚟越重，同埋越嚟越即係多嘅工作咧係由護士咧係承擔起嚟嘅。誒，例如有醫管局都有好多護士診所啊，誒，亦都係做好多唔同嘅評估啊等等。咁所以隨住呢方面發展咧，其實需要。
+
+316
+01:01:56,130 --> 01:02:16,140
+更多人手同埋更多誒專科護士嘅人手嘅噉，所以咧，我哋亦都喺誒誒推行咗一個專科護士嘅志願認可計劃。咁呢度亦都係希望咧係可以更多即係專科護士咧，佢係可以誒留喺誒醫管局嗰度誒工作啦嚇，同埋咧醫管局亦都係。
+
+317
+01:02:33,300 --> 01:02:53,310
+建咗一啲醫誒醫療誒，即係專業嘅誒醫生專業嘅團體啦，同埋咧係誒病人組織啦等等噉樣樣噉就收集誒誒佢哋方面嘅意見啦。我哋誒就係暫時當然誒，好似阿林議員所講咧，就係都係誒係誒誒本地嘅誒誒即係。
+
+318
+01:02:53,310 --> 01:03:13,320
+誒香港人啦，所謂嚇誒就翻嚟嘅，咁誒我哋其實誒當然我哋誒而家係誒比較難估算咧，其實誒呢個計劃對於誒呢啲人嘅吸引係點樣樣，但係咧，因為我哋較早前誒我自己啦嚇，政務司司長啦，或前醫管局主席啦，我哋都去過英國誒。
+
+319
+01:03:13,320 --> 01:03:33,330
+同埋咧，我自己亦都係去過澳洲，係去誒，即係做做一啲嘅誒推廣嘅呢個講座。咁當時係為咗個有限度註冊註冊嘅醫生嘅，咁誒去誒亦都瞭解到咧，其實喺嗰度咧，尤其是比較年青一啲咧做緊嘅誒醫生咧，其實佢哋都係有好大嘅意。
+
+320
+01:03:33,330 --> 01:03:53,340
+咧係翻嚟誒服務嘅，咁而我哋係有有限度註冊醫生嗰度咧，開展咗嗰個工作咧，誒亦都睇到嗰個成效喺度嘅。而家都有喺醫管局都有幾十個，咁但係因為社會事件咧嗰度咧就係慢咗一啲，咁誒，所以我哋有理由相信咧，其實如果我哋而家推出另外一條路咧。
+
+321
+01:05:21,780 --> 01:05:22,780
+就。
+
+322
+01:05:53,340 --> 01:05:55,600
+一個醫生對九百人啊！
+
+323
+01:05:23,960 --> 01:05:26,490
+另外呢個數字冇反映㗎。
+
+324
+01:04:52,650 --> 01:04:55,210
+2.4醫生 per citizen。
+
+325
+01:04:55,490 --> 01:04:58,060
+啊， we are lacking thirty four.
+
+326
+01:04:49,230 --> 01:04:52,070
+誒，涉及。
+
+327
+01:05:34,810 --> 01:05:37,730
+咁其實，但係如果你再細分咧。
+
+328
+01:04:58,340 --> 01:05:01,490
+百多 plus， doctors。
+
+329
+01:05:38,610 --> 01:05:43,960
+喺醫管局嘅醫生咧，就係佔咗我哋整體嘅醫生四啊六個percent。
+
+330
+01:04:43,240 --> 01:04:48,950
+We have now 1.9 doctors per thousand.
+
+331
+01:06:03,970 --> 01:06:09,800
+咁但係我哋得即係四啊六個percent嘅醫生喺公立醫院，五啊幾喺私家醫院。
+
+332
+01:06:10,110 --> 01:06:17,270
+咁所以如果你照成壓咧，即係好多人驚嘅喎。如果我哋要用一點九個醫生。
+
+333
+01:05:56,320 --> 01:06:03,690
+因為七九成嘅人喺去即係公立醫院，咁大概七百萬人去公立醫院。
+
+334
+01:05:26,770 --> 01:05:34,210
+正話我講誒嘅數字咧，我哋而家一點九個醫生就一千人。
+
+335
+01:05:44,670 --> 01:05:52,830
+即係換句話咧，我哋而家醫管局咧，我嘅數字咧，講緊兩年前咧，好似一一八年啦，其實我哋。
+
+336
+01:05:01,770 --> 01:05:21,780
+所以，your projection going into 2030，我唔見得點樣你 arrive at that figure。我唔見得，我們有更多醫生，我見得我們有更多 shortage of doctors。 anyway， that's how I I think。嗱，局長，我想同你講講啊，好簡單嘅啫。
+
+337
+01:07:18,240 --> 01:07:19,500
+都請唔到。
+
+338
+01:07:01,990 --> 01:07:03,360
+係保守。
+
+339
+01:07:31,600 --> 01:07:34,470
+好奇怪咧！我見到啲護士咧。
+
+340
+01:07:23,680 --> 01:07:26,610
+噉啊，正話梁志祥問啲護士。
+
+341
+01:06:17,550 --> 01:06:20,590
+一千人，而家我哋得一個醫生。
+
+342
+01:07:19,810 --> 01:07:23,260
+咁真正去爭咧，可能仲爭得即係仲得人驚。
+
+343
+01:06:20,870 --> 01:06:24,350
+我哋其實爭緊六千幾個醫生喺公立醫院。
+
+344
+01:07:03,640 --> 01:07:07,550
+即係我係唔知道佢用乜嘢去計呢樣嘢。
+
+345
+01:07:27,020 --> 01:07:31,060
+因為我媽媽咧，十年前咧就出出入入醫院。
+
+346
+01:06:38,280 --> 01:06:42,720
+唔係一百三十三個小時，係一百三十三個禮拜。
+
+347
+01:06:50,620 --> 01:06:55,150
+即係睇翻而家今日我哋講嘅人。
+
+348
+01:06:33,130 --> 01:06:37,690
+嚇！去等睇個專科醫生唔係一百三十三日。
+
+349
+01:06:55,440 --> 01:07:01,710
+嗰個誒未來嘅人嘅睇法咧，即係我係得佢係嚴重。
+
+350
+01:06:43,120 --> 01:06:50,230
+咁呢個咧，其實個專科醫生喺唔同嘅專科層次啦，我相信都係有短缺嘅。
+
+351
+01:06:24,710 --> 01:06:32,850
+咁當然又唔同嘅專科，我亦都唔去講到最低人驚嗰啲局長，你都知嘅一百三十三個禮拜。
+
+352
+01:07:07,830 --> 01:07:17,960
+即係我有個時間聽到咧醫管局又話佢爭幾多人噉，咁其實佢唔係真係爭幾多人，而係佢有錢可以請多幾多人。
+
+353
+01:07:53,930 --> 01:07:55,080
+哇！好～
+
+354
+01:07:58,370 --> 01:07:59,770
+好有笑容。
+
+355
+01:08:11,800 --> 01:08:13,860
+嗰個壓力係大。
+
+356
+01:08:38,680 --> 01:08:41,200
+去搏你一餐，我都贏硬你嘅。
+
+357
+01:07:55,360 --> 01:07:58,090
+做嘢好好友好友善。
+
+358
+01:07:46,150 --> 01:07:49,180
+跟住我阿媽幾日後咧，去咗沙田醫院。
+
+359
+01:08:08,370 --> 01:08:11,520
+喺一個急症醫院，喺急症室。
+
+360
+01:08:27,830 --> 01:08:31,380
+加埋香港永久性居民的子女翻嚟。
+
+361
+01:08:19,790 --> 01:08:23,410
+即係你哋都要諗我，我成日都覺得淨係。
+
+362
+01:08:23,690 --> 01:08:27,550
+畀香港永久性居民嘅誒嘅翻嚟。
+
+363
+01:07:49,500 --> 01:07:53,650
+嗰度啲護士咧就唔知係咪人手又夠啲喎。
+
+364
+01:08:14,140 --> 01:08:19,510
+咁咧又真係人手不足，咁所以其實整體咧，局長，我覺得。
+
+365
+01:08:31,660 --> 01:08:38,400
+其實我哋都係講緊三比計三幾百個嘅啫，局長。我同你賭十餐八餐飯。
+
+366
+01:08:00,120 --> 01:08:07,930
+咁咧就誒誒完全係唔同嘅，咁所以即係即係我覺得護士嘅短缺都係有可能。
+
+367
+01:07:34,750 --> 01:07:45,800
+喺威爾斯嗰啲護士咧就真係好慘嘅，即係好似嗰晚早走啲啊！我我記得有一次係平安夜嘅早走啲，已經話好似中咗頭獎噉。
+
+368
+01:08:41,480 --> 01:08:56,250
+咁所以其實真係唔夠嘅對香港人嚟講，咁所以始終我真係覺得咧，應該係開放畀多多啲人啊！嗰個有得生嘅個仔，如果真係我係錯嘅，你食完我十餐飯，跟住就話誒，我而家。
+
+369
+01:09:52,380 --> 01:09:53,310
+係咪？
+
+370
+01:09:45,070 --> 01:09:46,020
+每年。
+
+371
+01:09:27,190 --> 01:09:29,390
+特別少，好似話廣東話。
+
+372
+01:09:39,020 --> 01:09:41,450
+做嘢，當時唔使考試。
+
+373
+01:09:41,730 --> 01:09:44,790
+每年有幾百個，應該二三百個。
+
+374
+01:11:16,140 --> 01:11:20,780
+佢哋嘅輪候時間咧，反應咧，亦都係有部分嘅專科。
+
+375
+01:09:22,190 --> 01:09:26,910
+即係有限度註冊嘅醫生，都要人識中文同英文。
+
+376
+01:09:46,300 --> 01:09:52,100
+但係佢哋都係唔識中文㗎，唔識廣東話㗎。點解而家我哋今時今日？
+
+377
+01:08:56,530 --> 01:09:03,580
+已經原來永久性居民翻嚟，我都有五千個醫生啊！我大把啊，咁都有剩啊，噉。
+
+378
+01:09:29,800 --> 01:09:38,730
+噉你諗下，你點請到外邊啲醫生翻嚟識講廣東話？我哋九零年到九七年，我哋畀英聯邦嘅醫生入嚟。
+
+379
+01:09:53,590 --> 01:10:04,460
+又要搞到噉樣樣，所以成日話係啊，我哋開放啊，有限度註冊啊，冇人偷啊噉。咁因為你個語言嗰方面係有困難啊，局長。
+
+380
+01:10:05,710 --> 01:10:17,440
+係局長係好啊，誒，多謝張議員多條嘅問題嘅，咁誒，即係誒，主席嗰個至於阿張議員話誒，點樣去？
+
+381
+01:10:17,780 --> 01:10:35,060
+計嗰度咧，如果一陣咧誒需要啊，Dr. Janice Johnson解一解咧，誒就可以嘅都。咁誒第二咧就而家誒，你好，哎呀，我都係多謝你啊。啊，哦，OK，好。我都唔會接納，因為啲數字根本差好遠。
+
+382
+01:09:03,860 --> 01:09:21,910
+咁咪咪山水喉咯，但係其實你成個工序去招聘其他國家嘅係有一個即係要要即係要快做，同埋我都想問多次咧，係咪我聽錯定事實係咧？即係醫管局而家請。
+
+383
+01:10:35,970 --> 01:10:55,980
+誒主席啊，咁另外咧就係而家咧，我哋又最新嘅即係瞭解到咧，嗰個就係兩個醫生咧，就係誒每一千人嘅啊。我哋而家香港個數字，當然咧呢個咧都係遠比誒我哋一啲即係比較發達嘅國家啦，例如好似即係英美誒、澳紐啊呢啲咧，其實咧誒。
+
+384
+01:10:56,130 --> 01:11:16,140
+誒，甚至乎新加坡咧，其實都係誒誒少嘅嚇，咁所以咧，我哋都係仍需誒努力嘅。咁誒，至於誒嗰個專科嗰個短缺咧，誒正正啊，張議員講得啱嘅，我哋其實其實唔同專科咧嗰個短缺咧個情況咧係唔同。如果我哋喺醫管局睇翻。
+
+385
+01:13:57,660 --> 01:14:00,130
+朱主席，我我兩樣嘢跟進啫。
+
+386
+01:14:20,490 --> 01:14:26,320
+個醫學院嘅嘅學生咧，係可以足夠有能力去做呢個嘅誒。
+
+387
+01:14:46,690 --> 01:14:53,500
+即係大家都知道，你畀唔起噉嘅錢，你亦都冇噉嘅錢嚟畀佢哋。好唔該，跟住係葉劉淑儀議員。
+
+388
+01:12:53,220 --> 01:13:02,210
+咁誒，至於張宇仁，你誒張議員你講話誒嗰個醫生誒即係短缺係誒係唔係誒？
+
+389
+01:14:58,200 --> 01:15:07,510
+啊，thank you，Madam Chairman。我 also wish to thank Dr Johnston for her research and for her presentation。 much appreciated。
+
+390
+01:12:41,100 --> 01:12:52,940
+誒需要醫管局咧係更加努力咧，去去提供誒一個即係晉升更加好嘅晉升階梯咧，係畀到護士，令到佢咧都會係留喺醫管局誒工作。
+
+391
+01:13:42,640 --> 01:13:57,170
+管局咧，佢哋都係誒，即係儘量都係有呢一方面嘅要求，但係都唔係每一個專科嘅，咁要考慮實際情況啦嚇。我諗呢個咧，我哋都會誒，即係繼續去誒處理嘅嚇。多謝主席。
+
+392
+01:11:21,060 --> 01:11:41,070
+誒，例如有啲即係做手術嗰啲啊，骨科啊，或者係誒誒其他嘅一啲嘅科目咧，都係誒誒誒需要嗰個輪候時間係長啲嘅，咁所以咧係係有唔同，所以點解咧我哋咧係正正要更加去探討同埋研究咧，究竟唔同專科嗰個短
+
+393
+01:11:41,070 --> 01:12:01,080
+短缺個整體嘅情況，以致到咧係希望咧係對於個專科學院咧，佢哋係能夠提供嘅誒培訓嗰個位咧，係對於每個專科咧嗰度咧，亦都係需要咧係誒即係增加嘅。對於某一啲嘅專科，如果係誒短缺嘅話，誒護士。
+
+394
+01:12:01,080 --> 01:12:21,090
+嘅短缺咧，誒，其實都係刻不容緩嘅。我哋都誒知道，醫管局咧，其實佢哋都有自己有誒計數嘅佢嗰個護士短缺，所以咧，我哋其實同醫生一樣啦。我哋嗰個嘅誒誒誒加學生啊，誒退休重聘啊，以致到係請。
+
+395
+01:12:21,090 --> 01:12:41,100
+誒兼職啊，同埋咧係挽留人才啊，呢啲嘅誒嘅工作咧係誒不斷咧都係一路係做緊嘅。當然咧，我哋挽留人才方面咧，我哋特別注重嘅，因為咧我哋理解到咧醫管局有好多可能係中層嘅護士咧，可能咧有時都畀人挖掘嘅，咁所以呢個咧亦都係誒。
+
+396
+01:13:02,620 --> 01:13:22,630
+誒醫管局喺個有限度註冊係需要佢哋去誒講誒誒廣東話同埋英文咧。咁咁而家現時咧係聘請有限度註冊醫生嘅時候咧，誒已經係有部分嘅專科，例如好似麻醉科啊、誒病理科同埋放射科咧，都冇要求咧，醫生係需要有。
+
+397
+01:13:22,630 --> 01:13:42,640
+有誒流利誒廣東話嘅，咁都希望大家理解嚇，因為咧，如果佢誒即係冇一個基本係能夠可以即係同病人溝通咧，咁呢個係對於喺誒佢誒做工作嘅時候咧，呢個咧都係誒會誒即係構成一個問題嘅，咁所以誒呢度我哋喺依。
+
+398
+01:14:00,480 --> 01:14:20,490
+係，其實咧，貴啦，因為過曬鍾，而家九分其中。唔係我我我我兩個跟進嘅啫，好快聚，好嘛？一咧，我希望局長咧同醫管局講啊，有陣時咧，你揾人做翻譯咧，分分鐘係快過我冇醫生，我要等幾個月嘅醫生。我覺得即係兩。
+
+399
+01:14:26,680 --> 01:14:46,690
+嘅翻譯嘅。第二樣嘢咧，第二樣嘢我真係好想講咧。你話增加資源畀醫管局，護士你可以揾醫生，而家佢揾一百萬一個月。你去喺私家醫生，你點樣去將你個公立醫院啲醫生加到做句唔好，出去做私家做私家醫生咧？根本係即係。
+
+400
+01:15:08,100 --> 01:15:28,110
+嗯，我fully support the import of medical professionals to meet our immediate shortfall， but I don't think that's the only solution. For example, in today's South China Morning Post， there is a letter to the editor by clearly a doctor who has worked in hospital auth。
+
+401
+01:16:54,680 --> 01:16:56,250
+what's your response?
+
+402
+01:17:25,760 --> 01:17:28,900
+can't hear you. I'm free.
+
+403
+01:18:56,100 --> 01:19:01,680
+very important, and I know of young doctor who got a scholarship from government.
+
+404
+01:17:16,700 --> 01:17:22,550
+how they rectify the situation. That's number one. Number two, we understand.
+
+405
+01:16:45,930 --> 01:16:54,060
+我call到佢哋，during my lobbying in the past few years，and I've heard all these complaints。 It's not just about money。
+
+406
+01:17:46,230 --> 01:17:55,790
+some not only are they re hiring, they are retire re hire and retire plan, but also they are trying to
+
+407
+01:17:29,180 --> 01:17:45,930
+sorry，something wrong with the connection，I can hear you now。Okay，okay，sorry，I'll I'll start all over again。No need，just continue，just continue。Okay，okay，so secondly，the hospital authority is actually working on。
+
+408
+01:16:08,130 --> 01:16:25,850
+the hospitals. I mean, there are people who say that the longer the waiting lines, the more resources you get, and you need to do sexy research projects to get more resources from headquarters. So I don't think we should just rely on throwing more money at the problem.
+
+409
+01:16:26,730 --> 01:16:45,650
+We need import of doctors to solve our im immediate problem. But I think, Ah Professor Chan, you must do something. Think about more long term solutions to shake up the management of hospital authority. Otherwise, young doctors and nurses will remain discontented.
+
+410
+01:15:28,110 --> 01:15:48,120
+who alleged that doctors leave hospital authority not just because of pay or workload, but because of flaws in management. You know there is too much favouritism in promotion. You know promotions are decided by hospitals. The Department of Human
+
+411
+01:15:48,120 --> 01:16:08,130
+Human resources at HA headquarters have no input, you know, and there's a sense of injustice among the young doctors. In fact, I have heard the same from frontline hospitals in Tun Moon and other parts of Hospital Authority. So I think you also need to improve the management of.
+
+412
+01:16:56,690 --> 01:17:16,700
+thank you, thank you, Mrs. Ip, for your comments and suggestion. First of all, we we have regular meetings with the hospital authority, and they have to report back how they use the resources as well as their manpower situation and
+
+413
+01:17:56,070 --> 01:18:16,080
+have these plans for promotion for the younger doctors. For example, we have created associate consultant positions and consultant positions, so that some of the doctors who are willing to work in the hospital authority can continue and not. Because we understand also, not all the doctors
+
+414
+01:18:16,080 --> 01:18:36,090
+Doctors would like to work in the private sector, but the important thing is for us to retain those doctors who are willing to work in the public sector, and yet they found the workload too heavy and perhaps the working environment is not as good.
+
+415
+01:18:36,090 --> 01:18:56,100
+哦，如果我could interrupt you，Madam Secretary，I think one measure you could do is to arrange for doctors in management position to have more management training and ethics training。 you know the the management resources and how to deal with ethical issues like gene slicing is very
+
+416
+01:19:01,960 --> 01:19:21,970
+the excellence scholarship, you to study in in overseas top tier university cannot return to HA to work because he lost his job. you know I think some of the doctors in HA like some of our AOs, they are contemptuous of people who do management training.
+
+417
+01:20:51,440 --> 01:20:52,270
+Line staff。
+
+418
+01:22:11,420 --> 01:22:12,490
+聽唔到。
+
+419
+01:21:22,660 --> 01:21:24,940
+跟住係邵家輝議員。
+
+420
+01:22:04,990 --> 01:22:09,560
+咁嗱，我我我我第一個問題咧，就係想問一問咧，即係阿阿局長咧，就係。
+
+421
+01:22:41,460 --> 01:22:46,670
+呢一份係咪第一份做嘅？如果之前其實你又冇做嗰啲嘅，有。
+
+422
+01:19:21,970 --> 01:19:30,060
+I think this mindset should be changed, and you ought to introduce more incentives, not just throw money at the problem.
+
+423
+01:22:32,860 --> 01:22:41,080
+誒嗰啲誒人咧去做基準噉樣嘅，我想問咧，阿局長啊，其實呢呢一份咧，其實喺之前嗰個啊啊。
+
+424
+01:21:13,160 --> 01:21:22,380
+are communicated not only to the hospital authority, senior people, but also to the Food and Health Bureau. Thank you. Thank you.
+
+425
+01:21:47,090 --> 01:22:04,710
+啊，掌握咧其實係會誒更加全面嘅，因為呢個報告咧就包括咗即係誒醫生啊、西醫啊、中醫啊嘅啲牙醫啊、啊護士啊、即係物理治療師啊、啲誒藥劑師啊等等，咁其實都係誒好全面，包埋一隻醫啊等等噉。
+
+426
+01:19:31,400 --> 01:19:51,410
+yes thank you Mr. Chief for your suggestion we will definitely look into the the management of the hospital authority and I personally actually meet with the frontline doctors union and also public doctors union the frontline doctors in listening to their
+
+427
+01:19:51,410 --> 01:20:11,420
+issues and comments and we we communicate actually closely with them to ratify you know all the different comments and situations in the hospital authority. so we will definitely work closely with the management and not only to provide resources to them but to make
+
+428
+01:20:11,420 --> 01:20:31,430
+Sure, what they are doing actually can can not only provide service, but also would improve the satisfaction of people who are working there. Thank you. If I could just make one last point, some years ago when I met with Tun Moon Fundline Hospital.
+
+429
+01:20:31,430 --> 01:20:51,440
+in internal medicine內科醫生啊，Mr Chan was there and then he can corroborate what I just said. These young frontline doctors were full of discontent about the top management. I think you should you and you know the HA top management should really listen a lot more to.
+
+430
+01:20:53,150 --> 01:21:13,160
+yes, Mrs Ip, we are we are we are doing that. Actually, not only listen to the frontline staff. In fact, I always meet with the medical students every year. But last year we have stopped because of the COVID nineteen. But we'll continue this work and ensure that people's comments.
+
+431
+01:21:27,080 --> 01:21:47,090
+啊，係唔該啲你就誒誒，多謝誒社會局啦，就去介紹即係誒幫手推廣呢個啊報告啦，就講呢個醫療人力嘅推算啦噉樣。咁誒佢如果啲市民睇到嘅話咧，噉我相信佢對於即係而家醫療嘅誒人才嗰方面嘅話咧，即係我哋欠幾多話咧，咁相信嗰個啊。
+
+432
+01:22:12,850 --> 01:22:32,860
+突然間冇咗聲，誒，謝遠志，誒，你自己刪咗個麥喎，你開翻個麥先先，睇翻到未啊？志，睇翻到係嘛？好嘅好。就喺二零一九年咧，即係你十二就其實上嚟介紹過啦，即係即係將會做呢一個啦。噉你而你去做呢一個咧，嗰個啊個啊啊日期，即係做呢個嘅誒基準咧，其實就二零一七年嘅誒。
+
+433
+01:22:46,950 --> 01:22:48,890
+我唔係解釋解釋呢啲嘢。
+
+434
+01:24:42,250 --> 01:24:53,280
+噉樣咧，誒分流到一啲人，誒我哋例如自願醫保啊，呢啲冚唪唥都係希望多啲人咧係去用私家嘅，噉我哋一一路咧都會係多管齊下咁去處理。
+
+435
+01:23:09,600 --> 01:23:21,870
+嘅誒醫療專業咧都有佢嘅短缺嘅，咁但係我哋明白咧，因為呢個係一個推算嘅誒一個模型啦，同埋咧佢誒用嘅一啲嘅數字啊嗰啲咧，其實咧都係。
+
+436
+01:25:54,050 --> 01:26:10,090
+多啲專業嘅人才出嚟，如果令到佢哋唔會錯對啲學生，以為好容易入到嗰科，就個個㧬曬入去裏邊讀，到最後尾出嚟原來其實係唔唔係咁需要嘅。另外，反而有啲需要嘅科目嘅話咧，即係需要嘅專才嘅話咧，其實係冇科目做。你點樣可以同啲大學可以配合到，盡快解決呢個問題咧？
+
+437
+01:22:49,590 --> 01:23:09,600
+誒，好啊，誒，多謝謝議員。誒，其實咧，我哋呢一個誒人力嘅即係推算嘅工作咧，其實院喺誒即係誒我哋誒上一屆甚至乎前一屆政府咧已經係開展啦。第一個發表嘅報告咧就係喺上一屆政府二零一七年，咁當時咧亦都係顯示咧係誒，我諗唔同。
+
+438
+01:23:22,210 --> 01:23:42,220
+誒只可以用計算當時嘅數字啦嚇，咁或者係以前嘅數字，咁所以咧變咗咧就誒，我哋係需要誒定時噉樣做咧，以致到咧佢可以更加近似而家嗰個現實嘅狀況。雖然咧係會有啲滯後嘅，咁誒，但係咧我哋都係盡力咧係去每三年。
+
+439
+01:23:42,220 --> 01:24:02,230
+做一次，咁所以呢個係第二份嘅報告，咁而呢個報告咧，當然咧係同我哋誒第一份嘅報告咧，如果係從一個誒醫生、護士嗰個短缺方面咧，其實咧係誒嗰個情況咧係更加多嘅。其實我哋睇到，因為咧嗰個需求咧係誒又更加大啦，同埋。
+
+440
+01:24:02,230 --> 01:24:22,240
+咧其實就係人口老化啦，同埋另外咧就係因為政府咧亦都係即係不斷噉樣係進展同埋發展我哋個服務㗎嘛，咁所以咧喺誒當我哋係增加誒服務啊、發展服務啊、有新嘅政策，呢個又需要更多嘅人手，所以咧嗰個整體嗰個誒短缺嘅情況咧，我哋一路咧係需要。
+
+441
+01:24:22,240 --> 01:24:42,250
+要去去睇翻，同埋咧係去處理嘅。啊，當然咧，我哋都有一啲政策咧，儘量希望係分流一啲誒病人咧去私家嗰度嘅，例如我哋嘅公私營合作計劃啦噉。咁但係嗰度咧，亦都係誒，因為嗰個進展咧誒唔係特別快，咁所以亦都唔係能夠完全好快。
+
+442
+01:24:53,800 --> 01:25:13,810
+唔該，啊，副長就誒嗱，其實喺嗰個報告咧，即係講緊嗰啲醫生嗰啲短缺短缺咧。如果去到二零三零年啊、二零三年啊、二零四零年話爭緊一千六百人、一千七百人、一千九百幾人。如果護士嗰條數咧更加即係令令人擔心嘅，即係去到二零三零年、二零三年、二零四零年嘅話就。
+
+443
+01:25:13,810 --> 01:25:33,820
+會爭三千六百人、四千三百人、五千人。咁其實如果條數咧，即係誒誒，你哋已已經預示啦。我你推出呢個報告出嚟，即係介紹咗畀我哋，我相信你都覺得佢哋即係應該話報告有啲根據啦。咁如果你都預示到，其實係爭咁多呢啲誒嘅誒專業人士咧，或者其實亦都喺後邊亦都見到有某啲專。
+
+444
+01:25:33,820 --> 01:25:53,830
+人士嘅話咧，即係好似中醫啊，中醫界別嗰啲可能個數啊多咗嘅，即係即係就誒調翻轉係唔需要咁多嘅朋友做中醫嘅。咁其實你哋喺誒開一啲即係誒學校開一啲一啲學生讀啲課程嘅時候咧，同啲各個個大學嘅話咧，其實你有冇同佢哋商討應該其實喺邊一啲學校？
+
+445
+01:26:10,720 --> 01:26:30,730
+誒，多謝邵議員，其實係有嘅。我哋同誒，例如係教育局咧，其實都係緊密聯繫。第一，誒，因為佢哋都有一個三年為一個週期嘅誒，嗰個學生嗰個人數嗰個調整嘅。咁所以咧，我哋誒喺過去嗰幾年咧，誒，尤其是係醫生咧，都不斷咧係加學生。第二咧。
+
+446
+01:26:30,730 --> 01:26:50,740
+一就係我哋同誒兩間大學嘅醫學院，同埋咧係誒理工大學，誒佢哋都有一個係培訓，即係護士同埋其他誒即係專職醫療職係嘅嘅一個學院咧，其實都係緊密聯絡嘅。誒正正都係因為噉樣，我哋係要喺誒一啲誒一啲專科。
+
+447
+01:29:09,710 --> 01:29:10,640
+係嘛，我。
+
+448
+01:29:11,480 --> 01:29:12,510
+誒。
+
+449
+01:29:05,900 --> 01:29:09,290
+聽到，係聽到，係。
+
+450
+01:29:56,990 --> 01:30:01,970
+咁同埋亦都唔係淨係限住港人啦，係咪？咁而家咧就。
+
+451
+01:29:12,790 --> 01:29:17,920
+我都係想問翻咧，長院醫生嘅短缺，全香港人都關注嘅。
+
+452
+01:30:22,690 --> 01:30:27,960
+私人醫生唔夠喎，OK？唔係私家醫生唔夠，其實係個性添啊。
+
+453
+01:30:48,250 --> 01:30:57,310
+諗唔通點解話過咗一段較長嘅時間，建議為期五年咧，佢就可以離開，出嚟出邊正式註冊就執業。
+
+454
+01:28:47,510 --> 01:29:02,450
+我話主席，我哋可以提供嘅。頭先阿江陳穗議員所講，唔該數。因為咧，我哋個會咧原本去到十點半嘅，噉就而家仲有議員排緊隊啦。噉我就誒，首先我宣佈劃咗線先，咁跟住我延長會二十五分鐘。啊，跟住係田北辰議員。
+
+455
+01:28:30,790 --> 01:28:47,210
+除咗呢個數之外嘅話咧，你最好畀埋個基數畀我哋，即係嗰啲醫生講係醫生啊嘛。嗰啲醫生其實總數有幾多，噉我哋先知道其實係嗰個比例係爭幾多咯，係嘛？如果你畀埋個總數我哋嗰個嗰個基礎咧，睇落可能好啲嘅，好嘛？我啊唔該曬主席，多謝大家。
+
+456
+01:29:18,230 --> 01:29:36,700
+噉啊，我都同好多唔同嘅誒，醫藥界啲人士傾過，即係唔同背景啦，似乎都有個共識咧。而家呢個有限度註冊嘅措施，其實係最有效，因為你係每幾年去誒，驗尿一次啦。
+
+457
+01:26:50,740 --> 01:27:10,750
+係有人手短缺嘅專科嗰度咧，去去加人手，咁所以我哋較早前咧都預留咗一啲嘅資源咧，係畀佢哋咧去去增加佢哋嘅教學設施。噉我哋都多次嚟誒籌委會嗰度咧，係多謝議員咧誒嘅支持嘅。咁所以我哋係同佢哋都係緊密聯繫，一方面咧就要誒我哋各。
+
+458
+01:27:10,750 --> 01:27:30,760
+覺得短缺嘅嘅科目咧嘅嘅誒，就需要係加學生啦。另外一方面咧，就係如果係有一啲可能係誒唔係咁短缺嘅，咁可能嗰個學生嘅人數咧係誒未必係加，甚至乎咧係有時可能我哋建議咧係會減嘅。咁所以誒呢度咧係誒有一個緊密嘅聯繫嘅。
+
+459
+01:27:30,760 --> 01:27:50,770
+我噉我誒即係希望想咧就係希望喺誒誒學我哋學校咧，即係啲大學嗰方面嘅話咧，個配對咧做啲安排嗰方面嘅話咧，即係誒誒局方啦，同埋啲大學校長啊，有關當局啲朋友咧，即係誒誒計好啲條數啦，計準啲條數啦，因為佢而家講緊畀你聽係講緊二零三零年、二零三年、二零。
+
+460
+01:27:50,770 --> 01:28:10,780
+四零，其實你足夠嘅時間咧，去配對嗰啲嘅啊課程嘅，係咪？咁嗱，第二樣咧就阿阿張裕仁議員一路都係即係講緊啦，希望可以放寬啲啊海外嘅醫生翻嚟啦。咁而即係香港市民亦都成日畀咗好清晰嘅訊息，講畀講畀你哋聽，其實係需要咩？都希望呢個即係加把勁啦，儘快即係點樣可以令到。
+
+461
+01:28:10,780 --> 01:28:30,790
+即係喺啊醫生一方面咧，可以支援到即係大家啦。最後咧就呢個報告咧，即係其實做得好好嘅。唯一咧，即係如果下一次你寫畀我哋啲文件嘅話咧，即係除咗你淨係講個數，二零三零年係攞爭一千六百人，二零三年係爭呢個啊誒三年係爭一千七百人，二零四零年爭一千九百四十九。
+
+462
+01:29:36,980 --> 01:29:56,990
+咁其實如果將來真係誒供過於求，噉你可以收緊呢個啦。如果供不應求，你咪放寬誒，即係即係呢個啦，係咪？咁所以有限度註冊去嚟睇將來我哋香港去有幾多醫生喺香港去執業八成咧，其實就一個幾好嘅措施。
+
+463
+01:33:04,610 --> 01:33:10,480
+嘅嚇，咁但誒最短咧係五年，噉佢就可以註冊。咁但係咧，我哋亦都。
+
+464
+01:30:57,590 --> 01:31:05,970
+因為我驚你一開咗呢個缺口咧，你控制唔到將來幾多人翻嚟，一翻嚟之後咧。
+
+465
+01:31:22,430 --> 01:31:32,290
+咁所以嗱，第一我就覺得有限度注射似乎可以解決而家嘅問題，即係或者長遠啦，因為你又可以緊，又可以松。
+
+466
+01:31:50,280 --> 01:32:03,260
+咁先至可以解決到我哋呢個誒問題，令到我哋嘅年青人都有興趣繼續喺廣大啊、中大啊、其他嘅誒大學學院啊，去去去重讀醫科啊嘛。
+
+467
+01:34:11,990 --> 01:34:26,990
+噉你咪留喺公營醫療，我咪支持咯。噉你話你頂做有多一個渠道吸引醫生嚟，除咗有限度註冊，全部留喺公營醫療機構，我絕對冇問題。你多幾多個方法，我都可以，咪留喺公營醫療機構咯。
+
+468
+01:31:06,730 --> 01:31:22,150
+慢慢慢慢個私人市場開始誒點講啊，供過於求。咁香港人本身就唔會去中大啊、港大啊，誒去讀醫科㗎啦，佢都冇保障，將來佢佢個下下半世係點㗎嘛？
+
+469
+01:31:32,610 --> 01:31:50,000
+咁但係如果你話畀誒港人嘅即係翻翻嚟誒即係我誒即係誒外地醫生咧係港人嘅翻翻嚟咧，我都冇異議。但係點解唔係一定係規定留喺呢個公營嘅醫療機構執業？
+
+470
+01:30:02,680 --> 01:30:22,690
+發覺咧，我哋嗱，而家政府就諗住將誒港人喺外國嘅執業啦，即係如果達到資歷嘅成啦，可以翻翻嚟香港執業。咁呢樣嘢我冇乜特別嘅反對，但係我哋我就覺得其實我哋最緊要係誒，即係對症下藥。我哋今日最大嘅問題唔係。
+
+471
+01:30:28,240 --> 01:30:48,250
+其實而家係公營醫療體係入邊唔夠醫生㗎嘛，咁所以你話如果一定要係放寬誒港人喺外國嘅醫生翻嚟香港咧，你話一路留喺公營醫療機構，即係等同有限度註冊嗰啲咧，我係舉腳支持嘅，但我諗。
+
+472
+01:32:04,580 --> 01:32:24,590
+係誒，好誒，多謝田議員嘅問題嘅誒。第一咧，有限度註冊醫生咧呢一個嘅制誒機誒制度咧，其實會即係並存嘅。咁呢個我哋係加多一條路啦。咁所以咧，係如果係想係誒用有限度註冊醫生嘅方法係即係回港執業咧，呢個繼續係可以嘅。
+
+473
+01:32:24,590 --> 01:32:44,600
+但係，我哋過去去誒，即係一路做有限度註冊醫生嗰個誒，都不斷盡量優化佢啦嚇。咁但係咧，我哋發覺個吸引力咧，其實就誒可能咧係需要再加大。咁所以點解咧？我哋誒就會係再誒開多一條嘅誒路徑嘅。噉我哋同意咧。
+
+474
+01:32:44,600 --> 01:33:04,610
+就係話對症下藥嘅，因為咧誒，我哋最主要咧都係誒關心咧係公營醫療系統人士嘅嚇，咁所以咧我哋咧就誒係如果而家現時嘅建議咧，就佢做五年啦，有專科醫生之後喎。如果佢係專科醫生之前咧，其實要做更長嘅時間，最長咧可能係十二年。
+
+475
+01:36:08,560 --> 01:36:09,090
+而家。
+
+476
+01:34:10,790 --> 01:34:11,710
+打佢做咩啫？
+
+477
+01:38:29,190 --> 01:38:30,180
+張月。
+
+478
+01:35:08,220 --> 01:35:09,290
+攞唔到註冊嘅。
+
+479
+01:38:26,860 --> 01:38:28,890
+誒，要開麥先得啊！
+
+480
+01:35:45,000 --> 01:35:48,070
+唔係噉，佢始終都係唔明，噉佢咪留喺公營醫療咯。
+
+481
+01:36:09,370 --> 01:36:13,650
+即係佢有，個個敬重嘅人都係有限度註冊，咁噉。
+
+482
+01:38:10,720 --> 01:38:23,220
+誒，我諗我哋而家爭個醫生個數量實在太多啦，即係誒兩邊加埋都唔夠，所以我哋要用唔同嘅方法去吸引人翻嚟。不過因為時間有限啦，我哋畀啊蔣麗雲議員嘅發問好嘛，蔣麗雲議員。
+
+483
+01:35:29,580 --> 01:35:44,720
+誒一啲佢喺工作上面誒誒滿意啊等等誒，我哋而家都講緊係可能係有一啲嘅誒評核啊嗰啲咁啦，咁然之後咧就佢係誒會可以係攞到一個註冊嘅，咁所以誒呢一個咧係就係嗰個分別咯。
+
+484
+01:36:13,930 --> 01:36:31,260
+即係相安無事咁噉，有有咩問題咧？咁多嘢誒，主席，我哋唔係話有限度註冊醫生係有問題，而係有限度註冊醫生咧，其實係唔能夠誒嗰個吸引力咧係唔夠啊。噉啊，梁卓偉醫生幾好啊，我好尊敬佢啊。
+
+485
+01:37:51,860 --> 01:38:09,930
+誒有hesitation，即係有考慮，所以就唔翻嚟。咁正正就係呢啲，一直以嚟數量都係唔夠咯。咁所以要吸引嘅能力咧。我哋用私人市場去引佢哋翻嚟，噉啊，將來香港本地人仲有邊個人去中大、港大讀醫咧？我好擔心呢樣嘢。噉佢哋咪又係同一個誘因。
+
+486
+01:33:10,760 --> 01:33:30,770
+誒唔會係話誒覺得咧係一註冊咗之後，其實佢就即刻會離開醫管局，即刻出去私家。其實呢個咧，而家我哋都睇唔到有完全有一個噉嘅情況嘅。誒而家誒，其實如果我哋睇翻醫管局佢嘅即係流失率，大概係即係誒即係五至六個percent啦。咁咁所以。
+
+487
+01:33:30,770 --> 01:33:50,780
+仍然係有好多人咧，都係留翻喺公營嗰度服務。咁當然咧，我哋醫管局咧都係需要咧，係誒去吸引嚇呢啲做咗五年又誒攞咗註冊嘅人士咧，繼續留喺醫管局嗰度工作。無論佢嘅晉升機會啊，誒佢嘅工作環境誒，如果得以更加誒改善啊，呢～
+
+488
+01:33:50,780 --> 01:34:10,790
+啲咧，其實都會誒盡量係留翻呢啲醫生咧，繼續喺誒公營嗰度工作嘅嚇。噉佢唔一定係要離開，我哋會繼續有位畀佢。我個問題唔係呢樣，我個問題係點解你唔係規定佢喺公營醫療工作啊？因為呢個先就今日最大嘅問題啊嘛。係。
+
+489
+01:34:28,200 --> 01:34:48,210
+誒係嘅，誒多謝誒田議員個呢個嘅問題嘅。咁最最大就係最主要就係嗰個吸引力咯。即係其實我哋都係要有一個平衡，有一個拿捏嘅。一方面我哋希望佢儘量係之後去吸引呢啲人翻嚟。哇，喂，咁咁將來點啊？
+
+490
+01:34:48,210 --> 01:35:08,220
+誒唔係啊誒，田議員唔係誒，其實唔係用一個私營市場去吸引佢哋翻嚟，而係咧係係誒，因為喺佢做而家如果係有限度註冊咧，其實佢係要喺醫管局嗰度，佢係如果醫管局畀個合約佢咧，佢係三年再即係renew一次噉樣樣啦。咁但係咧，佢係誒，如果佢唔考試咧，佢係攞。
+
+491
+01:35:09,570 --> 01:35:29,580
+而嗰個嗰個誒，即係full registration啊，嗰個嚇，就係佢係誒。如果佢係永遠都係有限度註冊，但係如果係喺而家我哋呢個新嘅一個路徑咧，誒開咗一條新嘅路咧，就係佢做咗。如果佢係專科醫生嘅話咧，佢係做五年。當然佢都要有誒，即係誒。
+
+492
+01:35:48,550 --> 01:36:08,560
+咪O K咯，點解要畀佢離開公營醫療機構啫？唔係我哋，我哋冇冇話畀定唔畀嘅。佢其實佢都唔一定會離開，我哋亦會繼續係有位。咁所以有限度註冊本身係冇問題㗎嘛。好似我聽講係咪話梁卓偉醫生都係屬於有限度註冊入嚟，就亂邀咗好多年。
+
+493
+01:36:31,820 --> 01:36:51,830
+佢又夠多啲，佢又翻嚟咁有好多，所以所以咧，我哋要誒係誒再去開一條新嘅路咧，係希望咧係吸引咧係更多嘅誒醫生翻嚟。誒，我哋咧亦都係誒食物及衞生局同醫管局咧，我哋都去咗，例如好似英國啊、澳洲啊噉樣咧，都做咗一啲。
+
+494
+01:41:05,680 --> 01:41:06,400
+係咪？
+
+495
+01:41:06,690 --> 01:41:07,760
+咁另外。
+
+496
+01:42:27,060 --> 01:42:29,030
+幫我哋追醫管局咧，唔該。
+
+497
+01:42:23,400 --> 01:42:26,780
+想你有嘅話，可唔可以畀一份我哋咧？冇嘅話，可唔可以？
+
+498
+01:39:32,240 --> 01:39:45,360
+人口服務，OK，咁咧就誒，你一定有一個指標㗎嘛，係咪？即係譬如話，哦，我應該有一千個啊，一千個議員。
+
+499
+01:41:08,090 --> 01:41:23,060
+啊，所以我我我唔知道，可唔可以問下廣大誒方面咧？可以可唔可以喺未來可以補充一下誒呢一個有關醫生裏邊嘅分類，各行業分類嗰個醫生短缺嗰個情況，人手嚇推算嘅情況。
+
+500
+01:36:51,830 --> 01:37:11,840
+即係推介嘅會啊，見咗好多喺嗰度嘅，即係誒，即係醫生啊、學生啊，誒，或者係甚至乎其他專業醫療誒職係咧都有見嘅，都瞭解咗咧喺外國讀緊書或者工作緊嘅人咧，其實佢哋嗰啲意見，咁所以咧我哋都集合呢啲。
+
+501
+01:37:11,840 --> 01:37:31,850
+意見加埋，而家我哋係需要再增加人手咧，就係誒會係有呢個六個。我問個問題咧，田長幾多啊？係誒，因為過曬鐘啦。不過我都我都可以即係誒答答兩個嘴啊。田北辰議員，我自己咧都見過好多一啲即係誒而家喺外國嘅一啲嘅誒香港嘅專業嘅專科醫生。
+
+502
+01:37:31,850 --> 01:37:51,860
+嚇，噉佢哋而家我哋有一個有限度註冊醫生，但係始終嚟香港個誒數量好有限。噉我都問佢哋點解唔翻嚟香港，噉佢哋就誒話翻嚟香港，佢哋當然都願意服務公共醫院一段時間。但係你話以後長期都係只可以係公共醫院，佢哋冇得選擇嘅話咧，噉佢哋就。
+
+503
+01:38:32,210 --> 01:38:52,220
+O.K.，Hello，係係，我都非常之詫異啊，田北神醫啊，議員點解突然間去問呢啲噉嘅問題？佢應該係企喺廣大市民嘅立場，知道而家睇醫生難。O.K.啊，有好多病啊，根本要排隊等等等幾年嘅。O.K.噉啊，當然啦，田北神。
+
+504
+01:38:52,220 --> 01:39:12,230
+唔使㗎啦，係咪嚇？佢隨時有錢去睇私家醫生，最好嘅醫生佢都有錢揾到添，係咪？我希望咧，即係有時咧，大家議員問問題啊，你一定要企喺廣大市民嘅立場，你先好問。好啦，阿阿局長啊，嗱，我咧就嗯，唯一對份報告咧，噉我有少少失望嘅，因為。
+
+505
+01:39:12,230 --> 01:39:32,240
+點解咧？就第一就係嗱，我哋做一份誒誒呢個報告咧，即係始終都係有個比例嘅，係咪？即係譬如話講緊係誒嗱，即係你究竟人口增加多少，我哋需要多少嘅誒醫護人員誒去為呢啲？
+
+506
+01:39:45,640 --> 01:40:05,650
+我哋應該有一千個議員啊，譬如話有一千個誒誒市民對兩個醫生嚇定三個醫生，始終應該係定立㗎嘛。我見到人哋好多鄰近地區都有㗎，係咪？點解我哋香港都唔肯定立呢一個指標咧？咁噉，我希望阿局長咧就真係可以諗一諗啦，係咪？因為你有咗呢一個。
+
+507
+01:40:05,650 --> 01:40:25,660
+個噉嘅誒誒人口對醫生嘅比例，未來咧我相信咧誒啲報告啊預測啊會更精準啊嚇。咁另外啊，第二樣嘢咧我又比較失望啲嘅就係，因為我哋而家目前眼前都冇講未來十年、十五年、二十年之後嘅事啦。我而家講緊眼前，香港最缺乏嘅係咩咧？
+
+508
+01:40:25,660 --> 01:40:45,670
+最缺乏嘅係專科醫生，但係我哋而家今次嚟講咧，醫生始終都係冇分類，你就一個大類醫生，醫生，OK？噉你要知道，即係醫生裏邊都有好多啊，嚇，眼科、心臟科、嚇，耳鼻喉、腸胃科，好多種㗎嘛，係咪？噉啊，究竟誒呢個佢哋嗰個誒而家？
+
+509
+01:40:45,670 --> 01:41:05,680
+嗰個情況如何咧？未來個短缺情況又如何咧？咁即係我覺得我好想就睇到呢一度啦，就好可惜份報告冇啦，係咪？因為事實上咧，你有咗嗰個嘅話，局長你可能同醫專傾嗰陣時咧，大家嗰個條數啊，誒都可以比較貼近啲嘅實際情況啊嘛。
+
+510
+01:41:23,370 --> 01:41:43,380
+咁另外最後一樣嘢咧，噉就係其實誒啊，我想追一阿阿局長，你幫我追一追。咁咧就誒，我記得咧大概係兩年前啦。O K，醫管局咧噉就我哋搞過一個公聽會，都唔止兩年啦，真係三年四年都有啦，搞個公聽會，當時醫管局係答應咧。
+
+511
+01:41:43,380 --> 01:42:03,390
+佢哋會係出一份報告，佢哋會改善嗰個誒全面睇下檢討改善呢一個誒呢個醫管局裏邊嘅一啲運作效率會可以更提高，或者係少啲醫生做管理人員，亦都可以話誒增加外聘一啲外邊嘅管理人員，唔使一定。
+
+512
+01:42:03,390 --> 01:42:23,400
+要醫生去做㗎，OK？噉你而家你見到，哇，成彭成彭做管理嘅都係做醫生，成日喺度開會，你開得會嚟，做得管理嚟，可唔可以醫病人咧？唔可以㗎嘛，你讀醫生係為咩嘅啫？係醫病㗎嘛，係咪？咁所以喺呢一個度咧，我就睇唔到啊，有啲咩詳細嘅檢討報告啦，OK？啊，咁假如局。
+
+513
+01:42:49,320 --> 01:42:53,810
+咁所以咧，我哋係要急起直追嚇。咁當然咧，每一道嘅地方咧。
+
+514
+01:45:12,200 --> 01:45:16,850
+因為我頭先已經畫咗線，亦都已經過曬鐘，所以咧，我唔可以有第二輪。
+
+515
+01:44:44,280 --> 01:44:51,860
+等等等，咁嗰啲其實已經係誒處理咗㗎啦。咁如果誒，蔣議員你你嘅意思係話呢一個嘅？
+
+516
+01:43:34,110 --> 01:43:43,970
+而家已經做緊嘅啦，咁誒應該會喺今年之內咧，係會有報告。噉啊到時咧係會更加誒精準噉樣樣咧，我哋可以同誒醫專。
+
+517
+01:42:29,310 --> 01:42:49,320
+誒，阿局長好啊。誒，主席誒，其實誒，醫生人口比例咧，其實誒，我哋都係了瞭解嘅。我剛才都答問題嗰時都講過，即係香港咧而家個情況咧，每一千人咧係兩個醫生啦。咁咁呢個咧係比，例如新加坡啊、澳洲、英國、美國呢啲咧，其實係為低嘅。
+
+518
+01:42:54,090 --> 01:43:14,100
+佢嗰個誒醫療體係咧，嗰個架構咧都會係有啲唔同嘅。誒例如某一啲嘅地方咧，佢會係誒做得誒更加好誒嘅基層醫療健康。咁所以咧，佢咧就係誒所能，所以誒即係需要嘅醫生啊，或者係需要唔同專科。
+
+519
+01:43:14,100 --> 01:43:34,110
+個醫生啊，或者係會有啲唔同嘅，噉我哋都會因應香港嗰個整體嘅情況。咁所以，張議員你講得啱嘅，我哋正正都係好關心咧，唔同嘅專科佢嗰個短缺情況係點咧。所以，我哋都請咗香港大學咧，係去做唔同誒專科醫生嗰個短缺嘅情況，就誒唔係話淨係醫生咁而。
+
+520
+01:43:44,250 --> 01:44:04,260
+去誒商討誒誒唔同專科嗰個誒，即係可以有嘅培訓嘅位置啊。誒同埋咧係誒更加精準噉樣咧，係可以去處理到唔同專科個輪候時間啊呢方面嗰個問題。咁呢個咧，我哋今年之內咧就會有呢個報告㗎啦。咁至於醫管局。
+
+521
+01:44:04,260 --> 01:44:24,270
+你剛才所講佢哋嗰個誒管理啊，同埋個效率啊等等方面咧，其實喺誒上一屆政府咧都做咗一個全面嘅醫管局嘅一個檢討誒一個檢討嘅噉，同埋咧亦都係出咗報告。咁出咗報告之後咧，其實有三年時間畀佢哋誒去。
+
+522
+01:44:24,270 --> 01:44:44,280
+去誒處理翻咧有百幾個誒嘅嘅建議，咁依啲建議咧就係都係要佢哋改善嘅，包括誒剛才啊蔣議員所講佢哋嗰個管理啊，佢哋唔同嘅聯網誒嘅即係一啲嘅情況啊，誒誒醫生晉升問題啊等等。
+
+523
+01:50:47,730 --> 01:50:52,550
+不斷都係喺個醫療嘅服務嗰度咧都有進展，咁加埋咧。
+
+524
+01:49:23,870 --> 01:49:29,880
+但係咧，如果你而家誒，我哋我哋公共醫院係代入一個惡性循環嘅，因為你人手不足。
+
+525
+01:48:16,880 --> 01:48:23,460
+而而政府所做嘅措施咧，其實我真係睇唔到點樣可以即係補到呢一個嘅gap。
+
+526
+01:50:10,180 --> 01:50:27,380
+咧又太多，但係你哋又唔停，咁咪繼續培訓咁多中醫，誒畢業嘅中醫咧又揾唔到嘢做，咁呢個亦都係一個誒變成一個社會問題。我覺得誒即係誒局方你哋都係要去處理呢啲問題咯。誒，因為時間有限啦，阿阿局長請簡短回應好嘛。
+
+527
+01:47:57,790 --> 01:48:16,600
+誒即係誒護士嘅誒培訓啊，咁於是乎咧，我哋會夠嘅啦，嚟緊就會夠嘅啦。今日唔夠，即係嚟緊就會夠嘅啦。咁噉，但係嗰陣時我哋已經講咧，其實係嚴重低估兼唔夠咁嗱。而家你睇翻咧嗰個護士個短缺同醫生嗰個短缺個數字咧，其實我覺得仍然都係嚴重低估嘅誒。
+
+528
+01:44:52,190 --> 01:45:12,200
+誒，報告嘅話咧，我哋喺較早前誒嘅誒一啲嘅事務委員會咧，都已經係出咗，噉我哋可以畀翻出嚟嘅呢一個醫管局交咗嘅一個，如果係嗰個嘅報告嘅話，誒，至於你講醫生係要，我要先延長個會議多十分鐘，咁同埋田北辰議員。
+
+529
+01:45:17,710 --> 01:45:37,720
+繼續誒誒，好啊！誒，主席係，我都仲有問題想問。係，主席係好快嘅嚇，咁咧就誒，至於誒醫生嗰度咧，話係佢哋喺誒即係誒誒高層嘅管理層嗰度係點解要用誒即係醫生咧？咁其實醫管局都多次解釋嘅，其實佢唔好似當時嘅數目嚇，而家誒。
+
+530
+01:45:37,720 --> 01:45:57,730
+最新嘅我我數字我未有啦，就係話有四喺誒嗰個誒head office，即係喺總部咧。其實誒唔係想象咁多嘅，佢有四廿幾個醫生嘅，好似係當時嗰個數目係噉。但係咧，如果係而家最新咧，我哋都要再瞭解，然之後可以誒報告翻畀阿長議員聽。好啊，阿阿局長唔緊要，個報告我。
+
+531
+01:45:57,730 --> 01:46:17,740
+再睇清楚下，嗱有一樣嘢咧，你話更精準噉樣去估計推算未來嘅醫生需求咧，我我我希望局長你緊記一個數字，究竟香港嘅市民係應該係誒一千比誒一千嘅市民誒對幾多個醫生嚇呢一樣嘢啊？嗱你要知道，而家六成誒五成半啦，你唔好當佢六成啦，五。
+
+532
+01:46:17,740 --> 01:46:37,750
+成半嘅醫生係在外啊practice嘅，私營嘅。OK，只有四成半，不到四成半嘅醫生咧，先喺公立醫院。但係問題，我哋九成嘅市民咧，係享用緊呢個公立醫院嘅入院服務嘅。OK，噉啊，仲有一條數嚇，嗱就係你要知道，我哋而家同
+
+533
+01:46:37,750 --> 01:46:57,760
+外國比咧，但係我我哋話講緊啊咩誒一千比二啊外國嘅一千比三，但係你要知道外國好多地區佢哋嗰個比較係呢一千比三講緊係差唔多全全基本上差唔多絕大部分係公立嘅嚇，譬如以新加坡為例，佢係絕大部分係。
+
+534
+01:46:57,760 --> 01:47:17,770
+係公立嘅，OK，咁所以咧噉樣如此類推之下咧，咁咧講緊可能真係喺公立醫院度服務緊嘅醫生，OK嚇就啊可誒誒誒對對翻市民個比例，可能一千對唔到一。長議員因為過唔該，明白明白。
+
+535
+01:47:17,770 --> 01:47:37,780
+講完唔該，好嘛？咁跟住啊啊，局長啊，我都想講一講我嘅意見啦。誒，第一咧就係咧，誒，我對呢一份誒即係報告咧，其實我都係誒唔滿意嘅，因為咧就之前咧，其實我哋不斷咧都喺立法會咧都有跟進關於誒醫生人手不足、護士人手不足，整醫即係整咗醫護。
+
+536
+01:47:37,780 --> 01:47:57,790
+界嘅人手不足嘅問題啦，其實每一次咧，政府上嚟做報告嘅時候咧，誒，我嘅反應咧，我都係話你哋嚴重低估嘅。噉就上一次即係一九年嘅時候，你哋做報告咧，我都係話嚴重低估。咁但係嗰陣時政府都係覺得啊，個誒即係數字都係準確嘅噉，同埋咧，就好似誒護士噉樣話加加多咗好多。
+
+537
+01:48:23,840 --> 01:48:43,850
+誒淨係講醫生啦，嗱而家你就話一千個市民就兩個醫生啦，咁咁當然同其他誒即係先進嘅城市地區比咧，其實都已經有好大嘅距離。誒加上咧，其實我哋而家都見得到咧，其實嗰個醫生流失率咧係繼續繼續誒出現緊，尤其喺公務醫院。咁所以我都希望咧，即係政府即係再誒。
+
+538
+01:48:43,850 --> 01:49:03,860
+嗯，即係誒認真啲去研究啦，同埋推出儘量可行嘅方法咧，去誒留住啲醫生啦，同埋吸引更加多嘅誒，即係境外嘅專科醫生啦，同埋合資格嘅醫生嚟嚟香港。就誒，我覺得你話一定要話香港居民咧，誒就即係香港永久居民咧，其實。
+
+539
+01:49:03,860 --> 01:49:23,870
+已經又再設多一個閘咧，我覺得仲仲難啊！即係誒，我就覺得，因為而家實在係好危急，所以希望咧即係儘量就放寬，但係當然一定係要合資格嘅專業醫生啦，係咪？噉就護士嗰度咧，亦都係好令人憂慮嘅。噉就誒，亦都誒，希望你諗方法點樣留住啲護士。
+
+540
+01:49:30,160 --> 01:49:50,170
+嚇噉你誒佢哋工作無論誒醫護都好咧，佢哋嘅工作嘅滿足感好低，好辛勞，好辛苦。於是乎咧，離開嘅意欲係好高嘅。加上私人市場咧又好吸引，咁所以咧就更加即係多人會走。噉你代入一個噉嘅惡性循環咧，你要誒去補足翻足夠嘅人。
+
+541
+01:49:50,170 --> 01:50:10,180
+就咧就更加艱難，噉就導致咧我哋即係誒市民咧嗰個輪候時間越嚟越長，誒誒可以得到嘅服務咧可能即係誒越嚟越收到更加多嘅投訴，因為誒等嘅時間長啦，咁同埋個誒服務質素亦都受到影響。咁所以呢一個咧其實對香港嚟講好嚴重問題。反而你話中醫。
+
+542
+01:53:22,110 --> 01:53:22,800
+嗯。
+
+543
+01:53:24,240 --> 01:53:25,270
+我想。
+
+544
+01:53:16,200 --> 01:53:21,310
+田馥甄演員好好好堅持，你話十秒就真係十秒啦。
+
+545
+01:53:57,220 --> 01:54:03,100
+問題好嘛？因為今日係啊，我哋溝通下啦。好，冇問題。我啲事都完依。我宣佈會議結束。好。
+
+546
+01:53:25,550 --> 01:53:36,890
+申報我要即係申冤啊！我絕對係唔係係企喺香港市民嗰邊嘅，所以我想做方法，想留啲內地醫生翻嚟，留喺公營醫療。
+
+547
+01:53:04,570 --> 01:53:15,920
+噉嘅時間真係誒過曬鐘啦，咁所以誠不誠意，我諗你要同啊局長喺另一個場合咧去繼續討論呢一個嘅誒問題。我哋都係已經經過曬鐘啦。
+
+548
+01:51:32,850 --> 01:51:44,250
+喺誒我哋醫管局，如果係住院服務方面咧，九成市民咧都係用誒醫管局嘅住院服務。但係咧誒，如果我哋睇翻誒基層醫療服務，即係話，
+
+549
+01:50:27,720 --> 01:50:47,730
+好啊！誒好誒好快啊，係多謝個貝凡議員誒嘅問題嘅。其實誒我諗喺即係人手誒即係不足嗰個即係整體個問題，無論係醫生以至到係即係護士咧。誒我諗誒我哋誒誒你都講得啱嘅，因為我哋嗰個即係人口老化同埋我哋不。
+
+550
+01:50:52,830 --> 01:51:12,840
+誒市民個需求咧，亦都係好大咧，所以如果我哋睇淨係睇翻醫管局嘅話咧，佢個輪候時間係長，同埋咧誒佢嘅服務雖然咧不斷有增長啊、有增加啊、有誒優化，咁但係咧呢個都係誒需要係更加誒多嘅人手咧去處理。噉我哋咧係着力喺我哋個嗰個。
+
+551
+01:51:12,840 --> 01:51:32,850
+即係人手嗰個增加嗰方面咧，係去誒一路做功夫嘅。咁誒另外咧，就係我都想講咧，就話誒其實政府咧亦都有喺成個誒嗰個醫療誒嗰個即係嗰個整體個分配嗰度咧，誒都會係做功夫嘅。一方面咧，如果你話我哋睇誒，剛才有幾位議員都講啦。
+
+552
+01:51:44,530 --> 01:52:04,540
+係未入醫院或者係家庭醫生嗰方面咧，其實有七成市民咧都係用私營嘅，只係咧係誒政府係提供咧係三三成嘅服務。咁所以喺住院同埋非住院服務嗰度咧，其實都有一個唔唔同嘅一個情況。咁所以我哋都覺得咧係應該要誒着力咧係加大我哋嘅。
+
+553
+01:52:04,540 --> 01:52:24,550
+基層醫療健康服務令到咧係多啲人咧，其實係有啲唔需要入醫院嘅，或者係唔需要睇專科嘅咧，其實佢嘅問題咧可以咧係喺出邊嗰度處理咗，以致到咧係令到醫管局嘅位置咧都係留翻畀一啲咧係需要真係專科誒睇專科同埋需要入院嘅人咧係去。
+
+554
+01:52:24,550 --> 01:52:44,560
+處理噉，所以呢一個工作咧，其實一路都已經係誒處理緊，所以誒地地區康健中心啊，點樣多啲同誒我哋嘅私營嘅家庭醫生誒合作啊，等等呢啲嘅工作咧，都會係誒一路咧係會推展嘅。咁當然加埋另外一方面咧，就係話希望分流一啲病人咧，誒翻返去去。
+
+555
+01:52:44,560 --> 01:53:04,570
+去翻私家嗰度，包括我哋嘅公司唔計劃啦，同埋我哋嘅誒自願醫保啦，同埋我哋即係有嘅醫健通，去令到兩者都可以即係互通一啲病歷咧，都係一啲嘅配套咧，係去令到我哋誒希望咧係分流一啲病人嘅。多謝主席。係啊，冇辦法，因為我哋咧而家都要準備開大會啦。
+
+556
+01:53:37,210 --> 01:53:57,220
+知唔知我想申冤啫？唔好畀佢哋放出私人市場。都聽到你申冤啦。OK，多謝。一個問題就係，即係我諗阿田北辰議員，你抽時間同一啲即係喺外國嘅，即係香港嘅醫生傾下咧，你就會了解點解佢哋即係唔願意翻嚟香港。咁或者阿局長亦都花時間同阿田北辰議員即係討論下呢個。

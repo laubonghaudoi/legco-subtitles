@@ -1,0 +1,1779 @@
+1
+00:01:29,680 --> 00:01:30,340
+係。
+
+2
+00:00:49,120 --> 00:00:50,040
+誒一。
+
+3
+00:01:28,440 --> 00:01:29,400
+做個簡簡。
+
+4
+00:00:24,920 --> 00:00:25,920
+議員。
+
+5
+00:00:00,180 --> 00:00:02,530
+仲係講嘢麻麻地啊！
+
+6
+00:00:15,330 --> 00:00:18,010
+咁咧就我哋咧第一次嘅會議。
+
+7
+00:00:46,020 --> 00:00:48,840
+啊！我哋我數五五聲啊！OK。
+
+8
+00:00:53,920 --> 00:00:56,960
+五好啊，陳議員，你上嚟主持嚇。
+
+9
+00:00:50,450 --> 00:00:53,640
+二、三、四。
+
+10
+00:00:34,450 --> 00:00:37,880
+阿陳建波議員和議，OK。阿陳振英議員。
+
+11
+00:01:11,340 --> 00:01:15,830
+好，嗯，同大家講下聽，大家覺得有冇需要選個副主席啦？
+
+12
+00:01:16,620 --> 00:01:22,300
+唔使啦，嗬，唔使噉，我哋就不如請政府嘅誒代表入嚟，好唔好啊？唔該。
+
+13
+00:00:18,370 --> 00:00:24,220
+噉我哋咧就係夠法庭人數，噉我哋先係選個主席，好嘛？好，阿郭榮鏗議員。
+
+14
+00:00:26,830 --> 00:00:32,740
+哦，陳振英啊，郭榮興議員提名陳振議員，OK？啊，有冇人異議？
+
+15
+00:00:38,160 --> 00:00:45,570
+啊！你接唔接受？誒，我接受啊，唔該。啊，接受。O.K.，好，有效提名。好，仲有冇其他提名？
+
+16
+00:00:02,950 --> 00:00:14,680
+噉啊，就誒，我哋呢個咧就金融處啊機構括弧機處置機制括弧吸收虧損能力銀行界規則。
+
+17
+00:03:09,760 --> 00:03:10,730
+呃。
+
+18
+00:01:34,260 --> 00:01:35,550
+唔好咁長啦。
+
+19
+00:01:40,920 --> 00:01:42,240
+講畀我聽。
+
+20
+00:01:31,780 --> 00:01:33,400
+我叫佢五分鐘好。
+
+21
+00:01:46,660 --> 00:01:48,350
+都搞咗好耐。
+
+22
+00:01:35,990 --> 00:01:40,230
+係啊，不如畀五分鐘佢講個框架算啦。
+
+23
+00:04:02,280 --> 00:04:08,140
+I'm now going to give a very brief overview of the Hong Kong resolution regime and the background to these rules.
+
+24
+00:03:01,620 --> 00:03:08,080
+Thank you. So I will just make a brief presentation on the background and substance of the rules.
+
+25
+00:01:57,270 --> 00:02:05,000
+嗯，歡迎誒今日財經事務及副務局誒首席助理秘書長阿張女士啦，誒金管局。
+
+26
+00:03:51,030 --> 00:04:00,020
+posing losses on investors. This allows the bank to continue to perform critical financial functions and protects depositors' funds.
+
+27
+00:02:45,300 --> 00:03:00,120
+就請啊金管局嘅同事簡介一下呢一個誒規則，因為都係誒金融誒管理當局誒根據呢個誒處置條例而制定嘅。咁而家請啊金管局嘅同事啊，Mr. Proben。
+
+28
+00:02:05,280 --> 00:02:25,290
+處置機制辦公室啊，Mr. Robert誒Probin同埋Miss Helen Chan，仲有我哋律政司嘅高級政府律師阿朱小姐。咁誒，我我想噉啊，因為其實嗰份paper咧就派咗畀大家嘅，我覺得就唔需要太長時間嘅簡介。可唔可以咧請政府當局咧簡單？
+
+29
+00:02:25,290 --> 00:02:45,300
+用五六分鐘咧，就將個框架講出嚟，因為好多都係技術性嘅嘢。噉，然後等我哋啲同事先就呢個整體成個條例嘅即係情況咧，可以發問下先，好冇？唔該曬，好誒，多謝張秘書長，誒，多謝各位議員。噉我誒，如果時間有限咧，我不如。
+
+30
+00:03:11,010 --> 00:03:31,020
+So just very briefly upfront, what is the purpose of these rules? These rules will promote financial stability and depositor protection in in Hong Kong. The failure of certain banks could pose risks to the Hong Kong financial system and therefore the wider economy, and potentially cut off depositors from.
+
+31
+00:03:31,020 --> 00:03:51,030
+Their money. These rules will require banks to issue a new type of debt to investors that could be written off or converted into equity if the bank runs into trouble. Removing debt from the bank's balance sheet is able to restore it to financial health by.
+
+32
+00:06:11,660 --> 00:06:13,200
+to a third party.
+
+33
+00:04:29,120 --> 00:04:30,820
+impllications.
+
+34
+00:04:40,670 --> 00:04:43,560
+and this led to the development of international standards.
+
+35
+00:06:14,350 --> 00:06:19,490
+Very briefly, then a policy rationale specifically for these rules.
+
+36
+00:06:39,270 --> 00:06:44,760
+However, certain types of liabilities are more suited to being bailed in than others.
+
+37
+00:06:45,040 --> 00:06:50,540
+For example, subordinated unsecured debt can, in particular, be bailed in more easily.
+
+38
+00:06:02,870 --> 00:06:11,380
+and also transfer stabilisation options, which allow for the resolution authority to transfer certain assets and liabilities of a failing bank.
+
+39
+00:04:44,480 --> 00:04:53,330
+The Financial Institutions Resolution Ordinance was enacted by the Legislative Council in Hong Kong in June two thousand and sixteen.
+
+40
+00:04:31,100 --> 00:04:40,390
+The Financial Stability Board of which Hong Kong is a member was mandated by G20 leaders to address this problem.
+
+41
+00:05:25,480 --> 00:05:35,450
+Authority that should an entity under its purview fail, would assume responsibility for managing the orderly failure in a way that protects financial stability.
+
+42
+00:04:53,610 --> 00:05:03,740
+And this establishes a regime for the resolution of financial institutions that is aligned with the international standards developed by the Financial Stability Board.
+
+43
+00:05:36,370 --> 00:05:46,970
+The Firo does this by providing the resolution authorities, which for banking sector entities, including authorised institutions, is the monetary authority.
+
+44
+00:06:51,460 --> 00:07:05,690
+所以，的purpose of these rules is to ensure that authorised institutions have sufficient stock of liabilities that can be readily bailed in, i.e., sufficient loss-absorbing capacity or lack.
+
+45
+00:05:47,250 --> 00:06:02,590
+It provides them with the power to apply stabilisation options, in particular the bail-in stabilisation option, which allows the resolution authority to write off or convert into equity certain liabilities on a bank's balance sheet.
+
+46
+00:06:19,780 --> 00:06:38,590
+The bail-in stabilisation option works by allowing the resolution authority, as I explained, write down or convert into equity certain liabilities of a bank, and in so doing, recapitalise the institution without recourse to public funds.
+
+47
+00:04:09,110 --> 00:04:29,120
+所以國際上的背景，對於發展解決標準國際上是全球金融危機，這見到系統性重要的金融機構失敗，和有要接受税收基金的救濟，為了避免嚴重的金融危機。
+
+48
+00:05:05,470 --> 00:05:25,480
+The legislation I just referred to, the FIRO, establishes a regime that covers the banking sector, the insurance sector, and also the securities and futures sector. And the ordinance, the FIRO, identifies the relevant authorities for each of those sectors as the resolution of
+
+49
+00:07:27,980 --> 00:07:31,240
+enjoyed by ordinary depositors.
+
+50
+00:08:38,630 --> 00:08:43,500
+where that entity is part of a wider banking group.
+
+51
+00:07:45,480 --> 00:07:50,880
+I'm now just going to move on to consider very briefly a few of the details in the rules.
+
+52
+00:07:53,010 --> 00:07:58,900
+所以，The rules will allow the monetary authority as resolution authority for authorised institutions.
+
+53
+00:08:10,270 --> 00:08:17,310
+Resolution entities under the rules are then required to meet minimum external lack requirements.
+
+54
+00:09:59,400 --> 00:10:06,770
+The other couple of points of detail it will be helpful to bring out here is that the timeline for implementation.
+
+55
+00:08:17,590 --> 00:08:25,950
+by issuing these loss-absorbing capacity debt instruments to entities outside the group of the relevant bank.
+
+56
+00:09:01,090 --> 00:09:11,310
+Under the rules, the external lack requirement to be met by a resolution entity is calibrated at twice the minimum regulatory capital requirements.
+
+57
+00:07:31,550 --> 00:07:41,970
+所以，facilitating the orderly resolution will protect those depositors and the broader provision of financial functions by banks to the wider economy.
+
+58
+00:07:59,210 --> 00:08:09,900
+要classify an AI or certain group companies of an authorised institution as a resolution entity under the under these rules.
+
+59
+00:08:26,940 --> 00:08:38,350
+The rules will also allow the monetary authority to classify a bank or certain group companies of the bank as a material subsidiary.
+
+60
+00:08:43,780 --> 00:08:56,950
+And should that happen, material subsidiaries would be required under the rules to issue these loss-absorbing capacity debt instruments internally within the banking group, thereby meeting an internal lack requirement.
+
+61
+00:09:44,180 --> 00:09:57,970
+There's also a minimum debt requirement under the rules to require a minimum proportion, one third, of an authorised institution's lack requirement, to be met with debt instruments rather than equity.
+
+62
+00:09:12,090 --> 00:09:27,180
+The internal lack requirements to be met by material subsidiaries is calibrated as if the material subsidiary were a resolution entity, but scaled at in between seventy five and one hundred percent.
+
+63
+00:09:28,330 --> 00:09:43,730
+這些校準是設喺在規則裡，但貨幣局喺規則下會有權力變動，去變動精確校準，喺必要時反映機構特定情況。
+
+64
+00:07:07,970 --> 00:07:27,980
+所以，having sufficient lack is a prerequisite then for an authorised institution to be able to be resolved, should it fail, in an orderly way that preserves financial stability and protects access to critical financial functions, including deposit taking, including the deposit taking facilities.
+
+65
+00:11:13,930 --> 00:11:14,600
+Thank you.
+
+66
+00:11:52,830 --> 00:11:53,940
+啊，都係主席。
+
+67
+00:12:03,660 --> 00:12:05,990
+但係諮詢之後咧。
+
+68
+00:10:07,060 --> 00:10:11,120
+as set out in the rules is 24 months after.
+
+69
+00:10:56,040 --> 00:11:00,940
+所以，under the rules, issuers will be limited to professional investors only.
+
+70
+00:10:11,460 --> 00:10:16,410
+A resolution entity or material subsidiary has been classified by the MA.
+
+71
+00:10:29,260 --> 00:10:35,930
+Then under the rules, any such entity would have to meet the lack requirement within three months.
+
+72
+00:12:21,940 --> 00:12:29,020
+咁嗱，依個處置條例其實咧，就嗰個意圖咧，就係為香港具
+
+73
+00:11:54,220 --> 00:12:03,380
+誒，我睇過份文件咧，就有好多問題咧，政府係需要回應嘅。嗱，首先你哋係做過一個諮詢。
+
+74
+00:11:01,220 --> 00:11:13,350
+And they must be in a minimum denomination of two million dollars in order to further limit their appeal to investors who may not properly understand or be able to bear bear the loss.
+
+75
+00:10:16,810 --> 00:10:28,980
+subject to where the rules promulgated by the Financial Stability Board specifies a shorter timeline for a global, systemically important bank.
+
+76
+00:12:06,320 --> 00:12:21,420
+嗰份文件咧，同諮詢之前咧係冇乜分別㗎嚇。咁所以啊，但我亦都聽到好多唔同啊金融界啊、銀行界，特別係銀行界嗰啲中小企，佢哋有好多意見咧，都未被採納㗎。
+
+77
+00:11:15,160 --> 00:11:32,520
+Okay, thanks, Robert, for your brief introduction. I'll now open the floor for our members to raise questions first. But before that, I I think I need to declare once again my role as the consultant of BOC Hong Kong, license bank here in Hong Kong.
+
+78
+00:12:29,300 --> 00:12:47,430
+依個系統重要性嘅金融機構建立一個啊儲置嘅機制，咁以預防或者緩減，因為佢哋唔可能再持續經營，而對香港金融體係嘅穩定所造成嘅風險。
+
+79
+00:10:37,090 --> 00:10:55,760
+And finally, because these lack debt instruments provided for in the rules, are designed to boost the loss-absorbing capacity of banks, they are therefore at risk of incurring loss should a bank fail, and are therefore unsuitable for investment by ordinary retail investors.
+
+80
+00:14:21,890 --> 00:14:22,590
+風險。
+
+81
+00:13:55,870 --> 00:14:01,600
+Against the greater risk they present to the operation of the financial system.
+
+82
+00:15:57,700 --> 00:16:03,470
+係其他即係諮詢嘅問題，我請啊金管局嘅同事嚟長同大家詳細解釋一下。
+
+83
+00:13:28,820 --> 00:13:35,580
+嗱，咁喺另一個角度去睇，嗱，依啲我係收到啊一啲中小企嘅意見嘅，佢哋就話。
+
+84
+00:16:06,790 --> 00:16:15,020
+Certainly, yes. So thank you for your question. So like on the the consultation process.
+
+85
+00:13:19,260 --> 00:13:28,540
+係點樣樣嘅咧？嚇，係唔係淨係單單針對銀行，抑或係嗰個涵蓋面咧？係伸展到所有嗰啲金融機構。
+
+86
+00:12:47,710 --> 00:12:58,580
+嗱，依度噉樣寫嘅咧，但係我睇翻份文件嘅咧，就香港所有嗰啲銀行差唔多都包括在內嘅，包括嗰啲細小銀行。
+
+87
+00:14:22,900 --> 00:14:37,380
+They are therefore not consider systematically important, nor would their failure pose risk to the stability and affecting working of financial system of Hong Kong. Also, you know all these measures.
+
+88
+00:11:32,820 --> 00:11:52,830
+誒，頭先有三位同事已經舉咗手嘅，第一位係林建峯議員啦，第二位係陶錦新議員，第三位係郭榮亨議員，第四位係梁繼昌議員，第五位係陳建波議員。噉，不如我哋我就唔限時間先嘅。噉啊，不如第一位啊，林建峯議員，你先提問先啦，唔該。
+
+89
+00:12:59,250 --> 00:13:19,260
+咁仲有喎，今次依個條例提到受涵括嘅金融機構咧，仲啊嗱，包括銀行嘅銀行界嘅實體啦，嗱保險界、誒證券同埋期貨界都係包括在內嘅。咁誒嗱，即係我都想問一問政府個原意。
+
+90
+00:13:35,860 --> 00:13:55,870
+The LAC regime is designed for large, systematically important banks. It was a basic tenet of the new Basel III regulations that large, systematically important banks with complex international operations need to bear higher levels of capital to protect.
+
+91
+00:14:01,880 --> 00:14:21,890
+The small banks individually have very small market share of less than two percent in Hong Kong banking market, whether market share in terms of total asset, loan or deposit, and none of them perform critically functions which, by virtue of their failure, would put the operation of Hong Kong banking system.
+
+92
+00:14:37,660 --> 00:14:57,670
+would also increase their operation costs. That would would not increase their competitiveness, but in in result hurt their competitiveness against the bigger banks. So, Chairman, so I would like the government or MA to answer my above questions. Okay.
+
+93
+00:14:57,670 --> 00:15:17,680
+唔該曬林議員啊，係啊，張秘書長，你你解答唔？我首先解一解呢個誒涵蓋面嗰個問題，然之後我交畀啊金管局嘅同事解解誒，即係關於佢哋諮詢銀行界嘅一啲情況啦。咁誒，首先嗰個金融機構處置條例係的確係適用於誒銀行誒證券業嘅。
+
+94
+00:15:17,680 --> 00:15:37,690
+嘅誒誒公司同埋呢個保險業嘅實體噉，但係喺呢一個誒《Lacrosse》而家我哋審議緊呢一個規例係誒金融管理專員就住銀行界而制定嘅。噉我哋都係認為，即係考慮到誒對香港整體嗰個經濟。
+
+95
+00:15:37,690 --> 00:15:57,700
+誒金融體係嗰個穩定嘅影響，同埋無論嗰個規模誒各樣嘢誒考慮埋一齊嘅話咧，就係銀行界係需要首先針對誒吸損吸收虧損能力，首先制定呢個規則嘅。咁所以而家我哋講緊嘅呢一個規則，只係適用於銀行界。咁至於銀行界。
+
+96
+00:16:15,300 --> 00:16:35,310
+There was an original consultation paper launched in January to which we responded, and then another consultation process in July to which we again responded. And over the course of the process, there were some amendments made to reflect consultation responses. To pick up though on the
+
+97
+00:16:44,560 --> 00:16:47,660
+The primary legislation, the FIRO.
+
+98
+00:17:23,520 --> 00:17:27,530
+only institutions incorporated in Hong Kong.
+
+99
+00:17:18,010 --> 00:17:22,880
+是 able to classify as a resolution entity or material subsidiary.
+
+100
+00:18:07,490 --> 00:18:13,310
+所以，what this means is that in the circumstances where there is a very small AI.
+
+101
+00:17:45,820 --> 00:17:52,390
+and in order to be put into legislation under the FIRO, there are a number of conditions that have to be met.
+
+102
+00:17:27,810 --> 00:17:34,580
+and in practice will only be able to classify as resolution entities or material subsidiaries.
+
+103
+00:16:35,310 --> 00:16:44,280
+特定的點的強調在於問題，關於這些規則適用於潛在的小型和中型銀行。
+
+104
+00:16:48,090 --> 00:16:57,680
+is expressly designed to cover expressly covers all authorised institutions within the the banking sector.
+
+105
+00:17:34,920 --> 00:17:45,420
+those entities that on failure would be anticipated to be put into resolution under the primary legislation and the FIR.
+
+106
+00:18:13,740 --> 00:18:26,420
+The failure of which would clearly not pose any risk to financial stability, and where the the failure of which would not threaten the continued performance of critical financial functions.
+
+107
+00:17:52,670 --> 00:18:06,990
+Including the condition that the failure of the entity in question would pose a risk to financial stability in Hong Kong, including to the continued performance of critical financial functions.
+
+108
+00:19:27,290 --> 00:19:43,430
+straightforward answer from the authorities. Okay, that means you think a deputation will be required for us to listen to the industry's opinion before we, you know, further deliberate the rules, right?
+
+109
+00:18:46,710 --> 00:19:05,700
+Monetary authority does have the power to impose lack requirements where they are needed. The intention is not to apply requirements unless an entity on failure would be considered likely to pose a risk to financial stability.
+
+110
+00:16:58,000 --> 00:17:18,010
+And so the LAC rules themselves, these rules, also potentially cover a wider range of authorised institutions that are likely to necessarily be subject to LAC requirements. So under the rules, the monetary authority.
+
+111
+00:21:03,860 --> 00:21:04,760
+哇！
+
+112
+00:20:40,880 --> 00:20:41,820
+啊！
+
+113
+00:19:43,710 --> 00:19:44,750
+啊！
+
+114
+00:19:54,050 --> 00:19:55,920
+Thank you.
+
+115
+00:20:51,480 --> 00:20:53,520
+Well, to say.
+
+116
+00:20:42,410 --> 00:20:44,620
+Well, I understand.
+
+117
+00:21:05,040 --> 00:21:08,800
+when when my colleague just.
+
+118
+00:20:59,790 --> 00:21:03,570
+may not be called on under this mechanism.
+
+119
+00:20:17,120 --> 00:20:21,620
+testing，testing，okay，sorry my my for my voice，right。
+
+120
+00:20:09,500 --> 00:20:14,690
+Let me turn to James. You you can raise your question now. Thanks.
+
+121
+00:20:53,870 --> 00:20:59,470
+not big enough to pose systemic risk to the financial system.
+
+122
+00:20:45,280 --> 00:20:51,200
+first from from the first question that certain banking entity.
+
+123
+00:20:21,900 --> 00:20:28,560
+我會留多個問題給我的同事， for 他們全日。
+
+124
+00:19:45,030 --> 00:19:53,640
+I I think is as I said is prudent, and I think it's necessary for us to hear the views from the concerned institutions.
+
+125
+00:20:29,130 --> 00:20:39,590
+And I just ask a more simple question. And on this first meeting, hopefully my voice will change better to the next meeting. Okay.
+
+126
+00:19:57,210 --> 00:20:09,220
+Jeffrey， do you have any follow up question on the answer by the HKMA representative Robert? It will take me a whole day. I think. Okay. So.
+
+127
+00:18:26,700 --> 00:18:46,710
+then that entity could not be put into resolution under the FIRO, and equally could not be classified as a resolution entity or material subsidiary by the monetary authority under these rules. So why the terms of the rules are cast fairly broadly to make sure the the
+
+128
+00:19:07,280 --> 00:19:27,290
+主席，我我我，想建議，since我收到many many comments from the banks and financial institutions，especially the smaller banks，you know，actually，I think maybe it's prudent for us to invite them to come here and we listen to them once more and to get。
+
+129
+00:22:07,020 --> 00:22:08,020
+啊！
+
+130
+00:21:54,050 --> 00:21:55,140
+Number two.
+
+131
+00:21:19,290 --> 00:21:21,040
+in in our mind.
+
+132
+00:21:58,020 --> 00:21:59,960
+如果，啲。
+
+133
+00:21:55,500 --> 00:21:57,530
+哇！Is it?
+
+134
+00:21:21,320 --> 00:21:23,400
+But I think.
+
+135
+00:22:18,490 --> 00:22:21,120
+或一commitment，或一guarantee。
+
+136
+00:22:15,120 --> 00:22:18,090
+啊！有，的 standby fund。
+
+137
+00:21:24,480 --> 00:21:28,210
+Of course, I I don't want to. I'm not have a.
+
+138
+00:21:33,500 --> 00:21:37,490
+But can we know roughly up till now?
+
+139
+00:21:28,760 --> 00:21:33,220
+specific view on on those smaller banks.
+
+140
+00:21:48,910 --> 00:21:53,430
+Well, may not be big enough to have systematic risk. That's number one.
+
+141
+00:22:08,410 --> 00:22:14,840
+You want the shareholder or the supporters, okay? The or the shareholders, basically.
+
+142
+00:22:00,240 --> 00:22:06,740
+啊，those are bigger bank， okay， which may impose a systematic risk to the financial system， okay。
+
+143
+00:21:09,080 --> 00:21:19,010
+Have a small talk during my colleague Jeffrey asking. Of course, we are thinking about there may be at least several.
+
+144
+00:21:37,770 --> 00:21:48,630
+how many of, well in in the current situation, okay, how many entities out of all the banks, we are talking about, which may not be
+
+145
+00:22:46,740 --> 00:22:47,990
+證據。
+
+146
+00:22:48,270 --> 00:22:49,580
+controlling shareholder。
+
+147
+00:23:10,770 --> 00:23:12,100
+我知。
+
+148
+00:22:55,230 --> 00:22:56,610
+at the current situation.
+
+149
+00:22:21,440 --> 00:22:22,930
+In case of need.
+
+150
+00:22:38,240 --> 00:22:39,770
+我問阿 monk。
+
+151
+00:22:33,660 --> 00:22:35,320
+哇！啊！
+
+152
+00:22:52,790 --> 00:22:54,500
+That was the amount.
+
+153
+00:22:50,460 --> 00:22:52,310
+Will I know now?
+
+154
+00:22:40,050 --> 00:22:42,440
+Let's say in this current situation.
+
+155
+00:22:56,890 --> 00:22:59,620
+Taking into account the my equity.
+
+156
+00:22:23,390 --> 00:22:26,290
+to issue those new debts.
+
+157
+00:22:42,870 --> 00:22:46,290
+When I'm the ultimate.
+
+158
+00:23:06,130 --> 00:23:10,210
+and the involvement of my bank in the system.
+
+159
+00:22:59,900 --> 00:23:05,320
+my the market cap of my bank, the debt.
+
+160
+00:22:26,570 --> 00:22:32,360
+which maybe, well, eventually converted into a loseable equity.
+
+161
+00:23:23,470 --> 00:23:24,450
+啊！
+
+162
+00:23:12,410 --> 00:23:13,450
+how much?
+
+163
+00:23:21,400 --> 00:23:23,190
+或under。
+
+164
+00:23:59,160 --> 00:24:01,890
+secondary、 subsidiary legislation。
+
+165
+00:23:14,130 --> 00:23:17,220
+I should have this kind of standby.
+
+166
+00:23:51,060 --> 00:23:54,250
+Okay，哇，is that all？
+
+167
+00:23:17,500 --> 00:23:20,720
+啊， debt to be issued once you trigger the mechanism.
+
+168
+00:24:45,220 --> 00:24:49,320
+and that are also incorporated in Hong Kong.
+
+169
+00:23:24,730 --> 00:23:28,840
+Well, what mechanism that I will know?
+
+170
+00:23:54,530 --> 00:23:58,880
+Are very certain under the principle mechanism, or under this?
+
+171
+00:24:39,420 --> 00:24:44,940
+to institutions that are potentially of importance to financial stability.
+
+172
+00:23:44,430 --> 00:23:50,660
+to have sufficient capital to inject into the bank on this new debt.
+
+173
+00:23:36,960 --> 00:23:43,890
+That means whenever you trigger this mechanism, I have to have the fund ready or within certain dates.
+
+174
+00:23:29,620 --> 00:23:36,680
+until I have time to prepare for my continual support of this bank.
+
+175
+00:24:25,320 --> 00:24:39,140
+authorised institutions, of which there are approximately a couple of hundred in Hong Kong. It is clear from the rules that they will only apply, even potentially.
+
+176
+00:24:05,310 --> 00:24:25,320
+Robert, please. Sure. Thank you for your questions. I will address them in turn. So, so the first question on kind of how many banks would be potentially covered by this piece of legislation. So, there are of the order of so the the FIRA, the primary legislation, covers all.
+
+177
+00:25:38,160 --> 00:25:40,630
+They do not know that they are included or not.
+
+178
+00:24:55,980 --> 00:25:00,860
+That reduces the number to 22 out of a couple of hundred or so.
+
+179
+00:28:11,750 --> 00:28:17,740
+The rules, as we saw in the brief presentation earlier.
+
+180
+00:24:49,600 --> 00:24:55,700
+And if we look then at the number of licensed banks that are incorporated in Hong Kong.
+
+181
+00:25:11,260 --> 00:25:17,410
+out of the one out of the twenty-two, or that they may not know whether they are included.
+
+182
+00:27:21,360 --> 00:27:31,080
+for pointing out that we published a code of practice on the 19th of October, the same day the rules were gazetted, published a draft for consultation.
+
+183
+00:25:01,190 --> 00:25:10,980
+And on the same date in which these rules were, oh sorry, one very small question, these twenty-two, they know that they are the
+
+184
+00:28:18,020 --> 00:28:29,260
+require that for a resolution entity, the starting point is that the lack requirement is two times its regulatory minimum capital requirement.
+
+185
+00:25:18,150 --> 00:25:38,160
+實， practicallly， well of course a chairman's bank is a consultant post to that bank. Of course, I'm very sure. But once what the banks that refer to are my colleague Jervy Lam. I don't know. Maybe they are not included, but they are worried that they because they.
+
+186
+00:25:41,300 --> 00:26:01,310
+James， I would like to clarify one point. This particular rules should be interpret or read in conjunction with a code of practice to be issued by Hong Kong MA. Under that separate code of practice, they have some concrete numbers that identify yourself whether you have you will be coached by.
+
+187
+00:26:01,310 --> 00:26:21,320
+by the LAC requirement, my understanding is that for you know general banking community in Hong Kong, only a few very small bank will be as as could be escaped from this requirement. Just like you know a three bank. My understanding is only three bank that could be.
+
+188
+00:26:21,320 --> 00:26:41,330
+excluded from this requirement and those free bank are this more in number. I I don't know whether you want me to name them or not. No, no, chairman. Well, please, because okay, no, no, please. Because the government said it's twenty two who may be affected. Okay, but you said only three. You're very sure that.
+
+189
+00:26:41,330 --> 00:27:01,340
+唔好，no no no。 well，我我我 want to answer directly from the government。 okay， sure。 but because maybe because the they they they will say， no not just the three， because the other eighteen， no sorry， because other hundred odd， okay， maybe potentially included。 of course maybe three， very safe， not included。
+
+190
+00:27:01,350 --> 00:27:21,360
+But because they said the twenty-two, so that means that that twenty-two and the other non-twenty-two will be the dividing line. If I could clarify, excuse the interruption. So the the twenty-two are those that are potentially on a reading of the LAC rules could be in scope. And thank you.
+
+191
+00:27:31,730 --> 00:27:51,740
+And according to the proposals set out in that consultation draft, of those 22, a number would not be covered. So on the proposal put out in the put out in the draft, around about around about 17 of the 22 would potentially be.
+
+192
+00:27:51,740 --> 00:28:11,750
+within scope, but just to emphasise the point that this is according to a proposal put out in a consultation draft of a code of practice issued on the nineteenth of October. Please continue with the other. Yeah, the second question: whether they know the amount? Whether they know exact amount they need to issue? Sure. So on that second question.
+
+193
+00:29:55,950 --> 00:29:59,570
+any earlier than the 1st of January 2020.
+
+194
+00:31:46,850 --> 00:31:50,830
+是發出的，是發出的。
+
+195
+00:31:20,640 --> 00:31:25,700
+the same or less. That's number one. Number two is
+
+196
+00:28:29,540 --> 00:28:35,260
+And that for a material subsidiary, so a part of a wider banking group.
+
+197
+00:29:17,030 --> 00:29:22,760
+And once lack requirements are set on an institution by institution basis.
+
+198
+00:28:35,540 --> 00:28:42,430
+The requirement will be two times reduced by the so-called internal lack scalar.
+
+199
+00:30:13,860 --> 00:30:22,150
+James，if you don't mind，I will let Dennis to raise his question first，and then we'll come back to you later，okay？Dennis，please。
+
+200
+00:29:23,320 --> 00:29:35,390
+That there will then be a further 24-month period for implementation. In the consultation conclusion that the HKMA published in July.
+
+201
+00:30:00,070 --> 00:30:12,910
+So, following then a 24-month implementation period as set out in the rules, no other banks could be required to start to meet lack requirements any earlier than the 1st of January 2022.
+
+202
+00:29:03,810 --> 00:29:16,730
+But just to clarify, there is in any case a timeline, which is designed to ensure that once resolution entities and material subsidiaries are formally classified.
+
+203
+00:30:43,150 --> 00:31:00,350
+LAC requirement is has a range of around 16 to 22% of the risked-weighted assets as the T LAC requirement that they have imposed. Now, how does that compare with the requirement that we have under the present rules, which is
+
+204
+00:28:43,350 --> 00:29:03,360
+So, on a combined reading of the lack rules and the consultation draft of the code of practice, it will be clear to AIs which ones are potentially in scope. On the reading of the code of practice, which obviously remains in draft form.
+
+205
+00:29:35,940 --> 00:29:55,950
+We set out a planning assumption that, excluding for one moment, global systemically important banks that will be required to meet lack requirements sooner under FSB proposals. So excluding those, the planning assumption is that no other banks would be formally classified.
+
+206
+00:30:23,140 --> 00:30:43,150
+Thank you, Chairman. Thank you. I've got three specific questions. Number one, I note that the Financial Stability Board in the UK has issued similar LAC requirements, and in the proposal of the SFB, if I remember correctly, the
+
+207
+00:31:00,630 --> 00:31:20,640
+The inner LAC scale of seventy-five percent to one hundred percent. How does that compare with the requirement adopted by the Financial Stability Board? Because I'm not a banker, so I don't know how the two figures relate with each other. Are we safer? Are we requiring our banks to do more or about?
+
+208
+00:34:50,170 --> 00:34:51,110
+meshes。
+
+209
+00:34:45,830 --> 00:34:49,400
+啊， discretion on the implementation.
+
+210
+00:34:40,950 --> 00:34:44,940
+flexible in the sense that Hong Kong MA can have you know.
+
+211
+00:33:44,400 --> 00:33:48,740
+what we've done under the LAC rules is
+
+212
+00:34:29,210 --> 00:34:33,770
+firm institution specific idiosyncrasies and risks.
+
+213
+00:34:34,750 --> 00:34:39,650
+So we're more flexible. In other words, yes, you could put you could put it that way. Yeah.
+
+214
+00:32:59,890 --> 00:33:04,930
+continue to provide sufficient credit to the market. So, three questions. Thank you, Chen. Thank you.
+
+215
+00:33:22,510 --> 00:33:28,760
+所以，的simple answer is that the proposed calibration is broadly the same.
+
+216
+00:32:27,650 --> 00:32:40,930
+similar in place. Number three is, I think, a similar question has been asked by my honourable friends: is whether we have done the impact assessment, in particular, once these rules are implemented.
+
+217
+00:33:29,120 --> 00:33:43,820
+But whereas under the FSB's rules, there is a sort of a one-size-fits-all approach of, as you say, 16%, then rising to 18% of RWAs for all Gsubs.
+
+218
+00:31:51,150 --> 00:32:07,360
+How do you ensure that they are legally enforceable? What extra measures would you require these AIs who are incorporated outside to satisfy you that the LAC that they've issued are of the same quality?
+
+219
+00:33:05,570 --> 00:33:22,230
+Okay, so thank you for your question. So taking them one at a time. So the first question asking about the extent to which the proposed calibration of lack requirements under these rules compare with those under the Financial Stability Board's proposals.
+
+220
+00:32:41,320 --> 00:32:59,610
+do we know what the impact assessment will be on the bank's ability to provide liquidity or credit to the market? How are they going to be? Is it going to be make life much more difficult for them, or whether they can afford to?
+
+221
+00:31:26,840 --> 00:31:46,850
+Paragraph 14 of the paper, you said that for authorised institutions that are incorporated outside Hong Kong, you would also allow them to issue the LAC equivalent instruments. So what extra safeguards have you put in place to ensure that if these instruments
+
+222
+00:32:07,640 --> 00:32:27,650
+And of the same legal certainty as those issued in Hong Kong. For example, in the UK, I think they require a specific legal advice confirming that that particular LAC instrument issued in that other jurisdiction complies with the laws of that jurisdiction. So we have something.
+
+223
+00:33:49,190 --> 00:34:09,200
+have a calibration that is driven off the existing capital requirements of a an institution, and what this does is better reflect the particular characteristics of an institution in setting the LAC requirement. So if a an institution is particularly safe, deemed particularly safe and has a low capital
+
+224
+00:34:09,200 --> 00:34:29,210
+Requirements, it will then have a lower overall LAC requirement. If it is deemed to need a higher capital requirements, it will accordingly need a higher LAC requirement. So the the numbers will broadly speaking be comparable to those proposed by the FSB, but they are do a better job of capturing.
+
+225
+00:35:59,830 --> 00:36:00,860
+到The issuing bank.
+
+226
+00:35:38,430 --> 00:35:39,540
+Hong Kong law.
+
+227
+00:36:01,140 --> 00:36:04,400
+所以，什麼是 meant by appropriate measures that
+
+228
+00:35:11,720 --> 00:35:17,590
+Where appropriate in the context of the firm's particular circumstances. Thank you.
+
+229
+00:37:36,550 --> 00:37:42,970
+That instrument would not count towards meeting the issuer's loss-absorbing capacity requirement.
+
+230
+00:36:04,810 --> 00:36:16,210
+你 know what would you be interpret how you're going to interpret that phrase or that requirement? So so in the circumstances where, for example, an instrument was issued under a a foreign law.
+
+231
+00:34:51,710 --> 00:35:11,720
+Yeah, so I guess flexible in both ways. Firstly, in that the calibration of lack requirements, the starting point of the calibration of lack requirements under the rules, will reflect an institution's original capital requirements. So there's more flexibility there. And then the MA will also have discretion to vary that.
+
+232
+00:35:18,420 --> 00:35:38,430
+So your second question about the issuance of lack debt instruments outside Hong Kong. So this is contemplated under the lack rules, specifically in schedules one and two. There is a requirement that either instruments need to be governed by.
+
+233
+00:35:39,820 --> 00:35:59,830
+或如果 not，，then appropriate reassurance needs to have been provided that if they are governed by the law of a different jurisdiction，then those instruments would still provide the same degree of loss-absorbing capacity，still provide the same amount of protection and the same amount of resource。
+
+234
+00:36:16,510 --> 00:36:36,520
+Then in those circumstances, we would be the monetary authority, the resolution authority. We would expect to see evidence of appropriate legal due diligence. For example, a legal opinion and evidence that, even though the instrument is governed by a foreign law, if need be, if that if that entity was to get into
+
+235
+00:36:36,520 --> 00:36:56,530
+Financial difficulties in Hong Kong, the resolution authority would still be able to access the resources represented by that instrument. But that presumes that that foreign jurisdiction also has a similar viral legislative framework in place. But what if it comes from a jurisdiction where there is no such
+
+236
+00:40:58,910 --> 00:41:00,530
+net positive benefit.
+
+237
+00:41:32,770 --> 00:41:35,340
+Robert， you mentioned that the。
+
+238
+00:41:28,610 --> 00:41:31,480
+啊，謝謝，Mr. Chairman。
+
+239
+00:41:35,690 --> 00:41:38,760
+tentative implementation date will be two o two two.
+
+240
+00:39:33,970 --> 00:39:37,340
+Thank you, chairman. Okay, third question, please, Robert.
+
+241
+00:41:21,350 --> 00:41:27,650
+Okay, Dennis, have you got your answer? No. Okay, now then it's Kenneth's turn.
+
+242
+00:39:23,300 --> 00:39:33,690
+more on the different place. how how how how is going to work if you know the two different jurisdiction have different implementation day?
+
+243
+00:41:39,040 --> 00:41:50,780
+Can you clarify whether this is a date whereby the institutions has to meet or is like a requirement, or you are just issuing the mandate and ask them to comply? That's first question first.
+
+244
+00:36:56,530 --> 00:37:16,540
+regulatory scheme in place similar to the one we have in Hong Kong, because you assume they also have a viral. So for example, does PRC have a viral? And if so, who is the relevant authority there? So you're right, there could be circumstances in which an authorised institution
+
+245
+00:37:16,540 --> 00:37:36,550
+institution issues lack instruments that are governed by the law of a foreign jurisdiction, and after having done appropriate legal due diligence, the conclusion is reached that actually we cannot safely rely on this instrument being able to absorb losses, and in those circumstances.
+
+246
+00:37:43,250 --> 00:38:03,260
+Yeah, so if their home juris the foreign jurisdiction doesn't have a fire similar scheme in place, then most likely you will not accept the that LAC instrument as meeting the safeguards. So that that could be the case, but it doesn't necessarily follow because it could be that actually the other jurisdiction.
+
+247
+00:38:03,260 --> 00:38:23,270
+doesn't have a resolution regime like the Firo in place, but there might be other aspects of the interaction between the laws of the two jurisdictions, which means that in any case we can still be confident that the powers of the resolution authority could still be used because these instruments are still going to be issued by.
+
+248
+00:38:23,270 --> 00:38:43,280
+legal entity that is incorporated in Hong Kong, so I think there could be circumstances in which even if there wasn't a FIRO equivalent, we could still get an appropriate level of legal comfort. I'm going to stop here, but this is my last point on this question too. Is I'm most interested in the PRC situation because we're so closely
+
+249
+00:38:43,280 --> 00:39:03,290
+Connected and there are so many PRC banks in Hong Kong, and if they have to issue LAC instruments based on PRC law, how would you look at these instruments and how would you regard them? You don't have to answer me now. You can save that for later date. But I would be very interested in how you assess PRC law govern LAC instruments, like.
+
+250
+00:39:03,290 --> 00:39:23,300
+especially, especially my understanding that PLC will implement the same, you know, in year two thousand twenty five, instead of two thousand twenty two here in Hong Kong. So I think you know, they need to explain to you.
+
+251
+00:39:38,550 --> 00:39:58,560
+sorry the impact assessment third question impacts assessment on the liquidity of banks once implemented yeah sure so we did do an impact assessment the HKMA did do an impact assessment on the proposals set out in the rules and this was included in full in the first consultation paper.
+
+252
+00:39:58,560 --> 00:40:18,570
+That we issued in January earlier this year, and that impact assessment was modelled on similar impact assessments that have been done in other jurisdictions, and indeed by international bodies that have put forward proposals around T-LAC and LAC and so forth in other jurisdictions.
+
+253
+00:40:18,740 --> 00:40:38,750
+And what that impact assessment does is essentially look at the potentially increased costs for banks of having to meet lack requirements, and the benefits to the financial system and the economy in Hong Kong of having improved financial stability.
+
+254
+00:40:38,900 --> 00:40:58,910
+And certainly for the, and while I, as is clear in the the impact assessment we publish, it is hard to to present it as an exact science. What the impact assessment does is establish a kind of a range of lack requirements that clearly deliver an overall.
+
+255
+00:41:00,810 --> 00:41:20,820
+And certainly, the the sorts of calibrations that are under consideration in the rules, in particular the two times capital requirements, is firmly within the range of requirements that, under the impact assessment, deliver a positive net benefit for the Hong Kong economy as a whole.
+
+256
+00:41:51,810 --> 00:42:11,820
+So on that, our planning assumption is that, as I say, excluding the global systemically important banks, so for the other AIs, they would not be classified formally classified any earlier than one Jan two thousand and twenty, and it would then be twenty four months after that that the lack requirements would.
+
+257
+00:43:56,880 --> 00:43:57,830
+okay。
+
+258
+00:42:20,990 --> 00:42:22,010
+Okay.
+
+259
+00:44:46,190 --> 00:44:48,220
+Okay。
+
+260
+00:43:00,360 --> 00:43:02,450
+會會會，那改變個formula。
+
+261
+00:42:15,850 --> 00:42:19,000
+Yeah, okay. My second question.
+
+262
+00:42:11,820 --> 00:42:15,570
+have to be met. So those are the two earliest dates.
+
+263
+00:44:10,580 --> 00:44:16,040
+assessment，或needs assessment，或或或decision criteria。
+
+264
+00:43:22,740 --> 00:43:29,440
+Both the internal external lack requirement will have to be met by the institution at the same time. Is that correct?
+
+265
+00:43:49,730 --> 00:43:56,470
+And it is likely that both of those have to be met at the same time, but each institution would only have one or the other.
+
+266
+00:44:36,380 --> 00:44:45,910
+Criteria set out in the rules as to which entities within a group could potentially be classified as a material subsidiary with reference to their size.
+
+267
+00:43:58,110 --> 00:44:10,300
+So, how do you determine how many entities within the group should be meeting either the internal or external requirement? Are you are you using the same kind of
+
+268
+00:42:22,290 --> 00:42:40,070
+You you are going to assess the significance and stability and the exposure of each individual authorised institutions when you you know required him to to issue lag. So the scenario would probably end up.
+
+269
+00:42:40,350 --> 00:43:00,360
+Having different, you know, quantum of lack in each of those institution. Am I correct in in assuming so? Right, is that correct? Yes. So, so the requirements will be calibrated by calibrated. Okay, but the calibration won't change the internal and an external formula with that.
+
+270
+00:43:02,730 --> 00:43:22,740
+So, would the calibration include any change in the basic formula at all? So, no change in the basic formula, but the MA would be able to vary the requirements if there were additional characteristics of an institution which merited a variation. Okay, and am I correct in also assuming that?
+
+271
+00:43:29,720 --> 00:43:49,730
+So, essentially, each institution will either be subject to an external lack requirement or an internal right. Okay. So you could have within one banking group, you could have one entity that is subject to an external lack requirement and a separate entity that is subject to an internal lack requirement.
+
+272
+00:44:16,370 --> 00:44:36,380
+So in terms of establishing which entities should be classified as a resolution entity, this goes back to the question we were discussing earlier about it is only those entities whose failure could pose a risk to financial stability. In terms then of identifying a material subsidiary, there are some specific
+
+273
+00:46:12,390 --> 00:46:13,350
+OK。
+
+274
+00:45:50,930 --> 00:45:52,100
+naive question.
+
+275
+00:45:30,520 --> 00:45:32,130
+在Balance Sheet of these
+
+276
+00:44:48,500 --> 00:44:52,530
+Just two more questions, Chairman. Sorry about this. It's okay.
+
+277
+00:47:36,240 --> 00:47:40,360
+It's more that they might have to issue a greater volume.
+
+278
+00:47:41,250 --> 00:47:46,370
+Kenneth，I think two concern. First concern is if
+
+279
+00:44:52,810 --> 00:45:00,450
+我 understand that these like instruments are basically unsecured debts or subordinated debts.
+
+280
+00:45:01,210 --> 00:45:10,230
+And one other characteristics of these instrument would be that upon certain event, these debts could be converted into equity.
+
+281
+00:46:29,600 --> 00:46:39,400
+They are well aware that the lack rule would be coming, right? This assumption should be correct, right? So the the fire rule has passed. Yes, the lack rule is coming, and
+
+282
+00:46:14,130 --> 00:46:29,320
+So this comes to my question: why are you know? In accordance with my honourable colleague Jeffrey, there are quite a number of institution which got concerned. Now, in the first place, I do think when the fire regime come into place.
+
+283
+00:46:58,780 --> 00:47:15,950
+Robert, maybe you you give your your answer first. I can supplement after your answer. Sure. So so while it is the case that instruments that are already count as capital towards meeting capital requirements will also count towards meeting lack requirements.
+
+284
+00:45:32,420 --> 00:45:50,650
+institution,s which already have met the lag requirement, which they do not need to do anything by by 2022 or two years after 2022, would there be any institutions that could have met already those requirements at at this present moment? I mean, I'm just asking a very
+
+285
+00:46:39,680 --> 00:46:58,020
+Some of these institutions would have had some sort of lack-like or lack instrument on their balance sheet. So why the question is, I may ask the chairman or or I mean, why are these smaller institutions so concerned about the lack rules? That's my question.
+
+286
+00:45:10,510 --> 00:45:30,520
+Is that the main characteristics of these lack instrument in a nutshell? Sure, they could be written off, just the investor doesn't get their money back, or converted into equity, so replaced with ordinary shares. Okay, fine. If that is the case, would there be any existing on balance sheet instrument substantiated?
+
+287
+00:45:52,380 --> 00:46:12,390
+no so the answer is that's absolutely right so under the LAC rules banks are already subject to capital requirements and the the essentially most of the capital that banks already have that counts towards capital requirements will also count towards LAC requirements
+
+288
+00:47:16,230 --> 00:47:36,240
+Because for resolution entities, for example, LAC requirements will be calibrated twice the amount of capital requirements. Okay. Some institutions, I'm sure, will be concerned that being subject to LAC means they have to issue more of these types of instruments. Right. Yeah. So I think the the the nature of the instruments is less of a
+
+289
+00:47:46,650 --> 00:47:47,950
+你 know， we've in a group。
+
+290
+00:49:17,070 --> 00:49:19,830
+One, one, one, final question. Now I would leave.
+
+291
+00:49:13,090 --> 00:49:16,750
+You you you you you want to issue something to the market?
+
+292
+00:50:30,230 --> 00:50:35,010
+啊啊！主席，我想問一問誒幾個問題啦。第一就係話。
+
+293
+00:50:24,940 --> 00:50:29,950
+Okay, now it's the turn of honourable KP Chan. KP, please.
+
+294
+00:50:35,300 --> 00:50:40,340
+誒係喎，我首先要誒，我我首先申報，我係東華銀行獨立非非執行董事嚇。
+
+295
+00:48:28,250 --> 00:48:35,310
+This is first thing. The second thing is that for lack paper or lack instrument for smaller bank.
+
+296
+00:49:20,270 --> 00:49:30,380
+The chance to my other colleagues. I understand that these lack instrument will only be sold to professional investors as defined in the the SFC rule. Is that correct? Okay.
+
+297
+00:49:30,830 --> 00:49:43,830
+And it seems to me that once you got these like instrument, there is no no liquidity in it because there's no market in it because people are just holding on to it and receiving interest and bearing the risk. Is that correct?
+
+298
+00:48:35,590 --> 00:48:52,800
+They have to you know use a very attractive interest rate so that the market practitioner could would consider to buy this kind of paper because specifically bank or insurance company could not buy this kind of lack paper.
+
+299
+00:47:48,230 --> 00:48:08,240
+You need to issue lag instrument to your parent company, but your parent company may not have the same requirement to issue lag at this moment. Say they may, you know, their parent company may require just to have a lag requirement three or four years from now.
+
+300
+00:48:08,240 --> 00:48:28,250
+呃，even you know a bit later than Hong Kong， so that means， you know that require that lag instrument that bought by their parent company will become a direct deduction from their capital base， instead of they can issue an external lag so as to pass through the risk to the market。
+
+301
+00:48:53,080 --> 00:49:13,090
+So the potential buyer will be quite limited. Say some hedge fund or some private banking customer that willing to you know accept higher risk. So that's the second concern from them that you you have limited buyer potential buyer to buy your lag instrument even though.
+
+302
+00:49:44,920 --> 00:50:04,930
+Robert, so I think there's there's nothing in the rules that would prevent a secondary market from developing in these instruments. It is of course the case that to the extent retail investors are not part of that market, it is perhaps smaller than it otherwise would be. But the alternative is to allow retail investors without.
+
+303
+00:50:04,930 --> 00:50:24,940
+access to these instruments and then run the risk of investors who some combination of do not properly understand the risks and perhaps are unable to bear the loss then being exposed to these instruments and I think that risk is not something that we would want to we want to run. Okay.
+
+304
+00:50:41,530 --> 00:51:01,540
+多謝提我啊！咁咧就係我想問咧，就係話誒，而家係咪即係當佢金管局當佢一個所謂歸類為處置實體咧，先至要開始喺兩年內做呢樣嘢？你係咪呢個樣嘢先？係咪一定係呢樣嘢咧？係咪係啦，即係平時唔使做定嘅係咪？好啦，咁但係咧嗱，我想問嘅問題就係話。
+
+305
+00:51:34,570 --> 00:51:36,380
+啊！問到兩個問題先，佢話。
+
+306
+00:55:04,240 --> 00:55:09,320
+你 know you know how big is the hamang? So I'm wondering, have we ever considered?
+
+307
+00:54:54,670 --> 00:55:03,960
+in the banking industry in Hong Kong, and now you add all these capital requirement which is so huge, as you just mentioned, is 15 to 18% of the asset.
+
+308
+00:52:45,350 --> 00:52:56,350
+平時已經要做定嘅話咧，你就會加大啦。即係我要搞清楚先。頭先你又講話係嘅，其實就唔係嘅。即係話平時要做定啊嘛，係咪？就唔係等到嗰時先做啊嘛。你要澄清呢一點好重要。
+
+309
+00:52:32,640 --> 00:52:45,070
+如果你咁講誒，即係話其實。
+
+310
+00:51:21,550 --> 00:51:33,990
+唔到點解人哋一個買到咁大規模嘅嘅票據咯？即係佢咁咁弱勢，一你就好高，可能你二十釐噉樣；一係咧你就根本又冇人買。咁有冇考慮個實際可行性有幾大咧？如果噉樣？
+
+311
+00:51:39,000 --> 00:51:52,340
+So your reasoning, of course, is absolutely right. That if you get to the stage where a bank is running into difficulty, trying to raise funding at that stage is likely to be very expensive, if not impossible.
+
+312
+00:52:57,860 --> 00:53:15,390
+其實我想補充少少咧，誒就係誒根據誒金融機構處置機制條例，誒金融誒處置當局咧係要針對每一個金融機構係誒喺行常嘅時候已經要做定一啲處置嘅規劃。
+
+313
+00:53:55,690 --> 00:54:14,370
+啊！其他啲現金咪點樣套已經有一套嗰個機制，即係類似係negotiation之前，即係去到之前你你點樣攞到資金啊？咁咁已經做到呢一套啦。喺呢套之外，你又再加套上去咧，我淨係擔心香港啲銀行唔知點樣經營咯，將來會係即係個問題就係話嗱，你第一你已經又話要。
+
+314
+00:51:01,540 --> 00:51:21,550
+話咧，如果係噉嘅話咧，如果呢間誒銀行已經進入一個處置程序咧，其實點會仲有人肯真金白銀走去誒，即係畀錢去買嗰啲debt咧噉樣噉啊？結果就係話咧，佢啲票據咧就要非常之貴啦，係咪？噉你有冇考慮噉樣做會令佢加速佢死亡咧？即係仲快清本啊！即係我真係諗。
+
+315
+00:51:52,620 --> 00:52:12,630
+So under the rules, the banks will be required. Those banks that are affected will be required to issue these lack debt instruments in advance. So this means that they'll be the instruments will be issued by financial institutions, banks in a kind of business.
+
+316
+00:52:12,630 --> 00:52:32,640
+usual scenario, so that should sometime in the future that bank run into trouble, the financial resources are already pre-positioned on its balance sheet. So thank you for raising it. This is a very a very important point: is that the the rules require the
+
+317
+00:57:24,190 --> 00:57:24,500
+係。
+
+318
+00:58:50,130 --> 00:58:52,710
+Okay, Robert， do you have any?
+
+319
+00:58:45,040 --> 00:58:49,540
+噉，所以我哋亦都會誒，即係個別處理呢啲情況。
+
+320
+00:55:29,660 --> 00:55:43,570
+imposing that kind of requirements. So I would really urge, first of all, we must have a hearing from the banks. As one of our colleague has already, we required we need to hear from from them.
+
+321
+00:53:15,670 --> 00:53:35,680
+咁所以每一個機構咧，都應該係喺未有問題之前，要誒有一套嘅策略係擺定喺度，隨時如果真係有問題嘅時候咧攞嚟用嘅。而其中一個誒呢一種嘅誒措施咧，就係誒內部誒從。
+
+322
+00:53:35,680 --> 00:53:55,690
+整嘅呢個程序，呢個措施係啦，即係我我想指出就係話咧，第一呢個咧就其實一定會加重現有銀行咧，即係一個新嘅requirement咧，新嘅要求啦，新嘅資本嘅要求啦，呢個當本根本就係係咪？咁但係其實你已經要求啲銀行做緊就係哇，如果你係最差嘅情況，你會點咧？譬如你總部又可能要賣啊。
+
+323
+00:54:14,650 --> 00:54:34,660
+virtual bank啊，虛擬銀行，你有預備發十幾二十個牌出嚟啦，咁咪已經競爭力會非常之強勁啦，已經到第一啦嚇。第二跟住你有好多儲值機，而家再整多呢一個，仲要係香港係全世界其中一個最先行呢個機制。你有冇諗過銀行將來仲有冇競爭性咧？你係咪喺度摧揾緊摧毀緊呢個成個行業咧？
+
+324
+00:54:34,660 --> 00:54:54,670
+即係你有冇諗下佢點樣再做生意咧？佢佢點同其他地區咧，特別係新加坡唔行字，淨係香港行。噉你諗下香港嗱，香港誒新加坡又唔行virtual bank啦，即係新加坡。Singapore has said that they would they wouldn't issue any virtual bank licence， but Hong Kong is going to issue ten to twenty licences， so there will fierce competition。
+
+325
+00:55:09,650 --> 00:55:29,660
+I mean, whether they can prevent cancer, survive at all? So why are we creating such a difficult situation for Hong Kong banks? Have you ever considered whether they can survive after you really do all this to them, and you are requiring so fast? You are actually the one of the first regime in in in the world to be to be.
+
+326
+00:55:44,140 --> 00:56:04,150
+Secondly, I'm really worried about those, no matter they're big, medium to small. They all have big problems. If you trying to impose this without, you know, considering what what are the financial impact to them, they could be a killer to the banks in Hong Kong. At least, at least those that invest in bank share would have.
+
+327
+00:56:04,150 --> 00:56:24,160
+Big problem because you will see the earning coming down very fast because you have to issue all these debts in advance. So it is crazy because when I post you my question, I was hoping that you will say that oh only when they get into trouble then you will ask them to issue this. But you are not. You are going to ask them.
+
+328
+00:56:24,160 --> 00:56:44,170
+When they have car ratio of nineteen percent in average, which is much much higher than the basic requirement, and you still doing this, and then what you are doing this actually increasing their car ratio to thirty percent, so it is totally crazy, isn't it? So so so please really think about, I I as you know what what we are doing in the insurance industry.
+
+329
+00:56:44,170 --> 00:57:04,180
+是，that under the laws in Hong Kong, the latest in insurance law, the insurance authorities not only required to regulate the insurance, they also need to promote the industry, so that the industry can survive. Otherwise, we don't need any regulator at all. You probably lose your job if all the banks are bankrupt.
+
+330
+00:57:04,180 --> 00:57:24,190
+所以我係想講，即係Peacefully，諗下，邊度係可行，邊度係實用，去 impose 係咁高 level of capital， in addition to呢咁高，咁多咁高 level of liquidity in the banks and also capital， 一切係咁高，所以Peacefully consider邊個 get 可以 survive。
+
+331
+00:57:25,000 --> 00:57:45,010
+阿張秘書長，我覺得啊啊陳議員嘅問題咧係比較宏觀嘅。我覺得誒before誒金管局嘅同事答之前咧，我都想即係誒財富局咧作為一個政策局咧，先講下你哋對阿陳議員頭先嗰啲問題嘅一個睇法，然後譬如金管局再嚟回應，唔知會唔會好啲咧？唔該。
+
+332
+01:03:30,700 --> 01:03:31,720
+Wait.
+
+333
+01:01:49,090 --> 01:01:51,560
+主席，你唔好介意，我再跟進啦。
+
+334
+01:00:22,490 --> 01:00:25,370
+Comparable to these lack rules.
+
+335
+01:01:26,410 --> 01:01:30,790
+supportive of having a a lack regime.
+
+336
+00:59:49,810 --> 01:00:02,000
+And as such, it is important that Hong Kong is able to provide both a robust regulatory environment for financial institutions, but also financial stability.
+
+337
+00:59:33,260 --> 00:59:49,430
+But they have been in train for quite a while. And just to make a couple of comments on the international context. So Hong Kong is obviously one of the most prominent global international financial centres.
+
+338
+01:01:31,070 --> 01:01:47,490
+Obviously, there were some some comments and differences of opinion about the implementation details, exactly the scope of calibration and scope of banks that should be caught and so on. But the principles we believe have widespread support.
+
+339
+01:02:31,860 --> 01:02:50,400
+個成本會好緊要啦，誒，所以咧嗱，而家將來啲銀行嚟到咧，佢講嚇，噉我諗即係佢哋又寫好多畀我哋啦嚇，即係我我我嗱，反而咧就係即係即係亦都唔係淨係誒邊間銀行，我諗好多人都會有好好強嘅意見。如果唔係，我哋都唔會坐曬喺度啦。
+
+340
+00:57:45,010 --> 00:58:05,020
+多謝主席，多謝陳議員嘅問題。誒噉，我哋當然都係誒好重視業界嘅聲音啦。咁如果誒議員認為係需要安排一個誒聽證會嘅話，噉我哋當然會誒樂意出席誒嚟聆聽業界嘅聲音。咁但係誒，正如誒即係頭先誒金管局嘅同事。
+
+341
+00:58:05,020 --> 00:58:25,030
+都有介紹，即係誒呢個雖然我哋理解對銀行業界係會誒有一啲影響，催毀性，但係誒對整體即係金融系統嗰個穩定性嘅誒嗰個正面嘅作用，我哋亦都不能忽視嘅。咁誒。
+
+342
+00:58:25,030 --> 00:58:45,040
+誒就正如啊誒金管局誒已都已經係做咗兩次嘅諮詢之中咧。其實整體嗰個意見亦都係唔係對整體嗰個誒規管嘅需要有誒太大嘅意見，而可能係有啲技術性嘅細節嗰度係有啲有啲有啲有啲意見。
+
+343
+00:58:53,240 --> 00:59:13,250
+Response to honourable KP Chan's queries. Sure. So thank you for the question. So I was going to talk about the the impact assessments, but that's already been covered off. Thank you. So I think one thing I would like to bring out though is that these are to some extent new requirements, but these have
+
+344
+00:59:13,250 --> 00:59:33,260
+Been very much in train and in contemplation since the primary legislation was enacted in 2016 and then came into force last year. So the the Firo specifically provides for the making by the Monetary Authority of these rules. So so obviously new today.
+
+345
+01:00:02,480 --> 01:00:22,490
+And so, if you look around at other international financial centres, both in the UK, in the US, in other jurisdictions that are host to the world's biggest banks, they are all either have already or in the process of bringing into force rules that are.
+
+346
+01:00:25,650 --> 01:00:45,660
+To ensure that when banks fail, they are able to do so safely, protecting financial stability and without putting at risk depositors' funds and the ability of the bank to continue to provide critical financial functions. So, on one level, it's fair to say that Hong Kong.
+
+347
+01:00:46,390 --> 01:01:06,400
+is moving forward with the with these rules with a limited number of other jurisdictions at the moment, but but those jurisdictions are exactly our peers in the sense that they host globally important international financial centres, and the view of the MA is that these.
+
+348
+01:01:06,400 --> 01:01:26,410
+這些規則將在實質上補充並提升香港作為國際金融中心的地位。正如我們在諮詢過程中所聽到的，業界回應主要是表示他們支持解決方案，並支持這些規則。
+
+349
+01:06:21,870 --> 01:06:22,390
+係。
+
+350
+01:07:37,370 --> 01:07:41,690
+誒range，我哋會係要畀咩錢？咁即係先至帶到對銀行影響。
+
+351
+01:07:41,970 --> 01:07:47,840
+啊，張秘書長同埋阿Robert，我想誒，即係頭先陳議員問嘅咧，就係話誒。
+
+352
+01:04:12,320 --> 01:04:26,110
+You and I live in Hong Kong, so we don't want to hurt Hong Kong at all. So why can't we at least be a little bit slower than Singapore? Can we do that? So that is basic my my my question and hopefully advice to you.
+
+353
+01:07:22,710 --> 01:07:37,090
+係好容易啫，其實而家佢息口係上升緊啦，金融風暴嚟緊啦，仲搞啲噉嘅嘢係咪啊？噉我就唔知會有啲乜後果咯，係嘛？即係佢哋係咪可以研究下係真係話？喂，起碼都揾人啲專家去計一計，或者即係揾啲精算師計一計，大概會啲咩？
+
+354
+01:05:06,410 --> 01:05:21,180
+And Australia are both taking forward proposals along these lines, reflecting the need for banks that fail to have adequate loss-absorbing capacity on their balance sheets to protect public funds.
+
+355
+01:01:51,840 --> 01:02:11,850
+即係我只係想講咧嗱，頭先啊，秘書長係咪啊，秘書長係啊係啊，阿張，助你秘書長咧，其實你咁講咧，我真係要大家要要小心咧，就係話第一嗰啲銀行咧對住你哋未必敢講真嘢，呢個第一啦嚇。第二咧就係話咧係誒更加重要咧，就係話佢未睇到啲詳細啊嘛，你。
+
+356
+01:02:11,850 --> 01:02:31,860
+而家啱出啲guideline咧，即係好簡單啫嘛。如果你話你要去provide誒一億噉樣，你同佢provide十億係兩樣嘢嚟㗎嘛。而家睇到guideline，你嗰個要求相當高，你十五到十八percent啊嘛。呢個係一個好好即係係一個好好大嘅數字，而且呢啲分咧會idle咗喺度咧，其實我都唔知佢點樣搞。即係呢個會代去嗰。
+
+357
+01:02:50,680 --> 01:03:10,690
+其實就係話你要小心咧，就係話喺喺啲細節先至更加要小心咯。即係因為如果你話嗰個比例咁高，同埋我唔明啦。噉你話啲可唔可以搭到我新加坡係會幾時行呢樣嘢？因為我哋要比較，我哋要揀係同我啲競爭對手啦，即係會幾時行咧噉樣，同埋佢個銀碼係咪相約咧噉樣？即係我絕對明白你政府梗係要啊。
+
+358
+01:03:10,690 --> 01:03:30,700
+I guess you really need to bring us up to the global standard. So we need to do that. There's no choice at all. But the problem is, how fast are we running? Are we going to run in ahead of everyone so that we are leading everyone, or we are trying to impose something so heavy that no one can sustainable? So why don't we?
+
+359
+01:03:32,300 --> 01:03:52,310
+For other big countries, global countries to go headfirst, and then we see what are their problem. Just like sovereignty two, you look at euro, they impose the sovereignty two, and there's so much problem that they can really can't do it any more. So they are now changing, and many places in Europe still not imposing sovereignty two. And then you see their other system.
+
+360
+01:03:52,310 --> 01:04:12,320
+like the risk-based capital which are much better than 7C2， so I I'm worried that that may be another copy another version of the 7C2 which has caused so much problem， so please， while I fully understand where you are coming from， but please really take my advice， it could be very dangerous or harmful to Hong Kong， we really
+
+361
+01:04:26,390 --> 01:04:46,400
+So, without wanting to comment on the specific future plans of the Monetary Authority of Singapore, what I would do is make the observation that what we're doing by bringing these rules forward now, and then setting out an implementation timeline, which, as described, will run several years into the future.
+
+362
+01:04:46,400 --> 01:05:06,410
+Does not by any means put us as a distant kind of outlier, front-running everyone else in the region, never mind around the world. So, for example, Japan is the host of some of the world's biggest banks and has rules in place doing this already. Singapore.
+
+363
+01:05:21,840 --> 01:05:41,850
+The biggest banks in China, in the mainland China, will also be subject to TLAC requirements in due course in the coming years, and it's likely that, notwithstanding that, under the Financial Stability Board's rules, the Chinese.
+
+364
+01:05:41,850 --> 01:06:01,860
+banks were given an additional number of years to comply. It's likely that in practice, when those rules come into force, in order to allow for an appropriate implementation timeline, that there may not be that big a difference in timing there either. So I don't want to give the impression that what we are doing is front running.
+
+365
+01:11:18,460 --> 01:11:19,320
+Thank you.
+
+366
+01:09:54,420 --> 01:09:57,420
+much higher than the U.S., so
+
+367
+01:11:13,620 --> 01:11:18,060
+at a much slower pace. Given that's the situation, thank you, Tim.
+
+368
+01:10:31,070 --> 01:10:39,800
+There there there is a legitimate concern that maybe the banks in Hong Kong won't be able to sell this to anyone who would buy it. It's my question, and I think it's worth
+
+369
+01:09:23,310 --> 01:09:34,080
+主席，誒，我覺得頭先誒同事講嗰啲問題，確實係政策上誒一啲誒實際嘅問題嚟嘅，誒。
+
+370
+01:09:57,930 --> 01:10:10,720
+you know speaking as an outsider, chairman, if I may, if there is a demand for China to raise one trillion dollars worth of TLAC assets or instruments.
+
+371
+01:10:40,080 --> 01:10:53,330
+worthwhile question one raised by my my honourable friends. So have you considered whether they can actually do it by two thousand and twenty? Two thousand and twenty-two. Two thousand and twenty-two. I think.
+
+372
+01:09:08,730 --> 01:09:22,470
+翻咧，誒，其實亞洲地區行呢個LAC requirement嗰度咧，大家嗰個速度係點樣樣？噉我諗呢度可以做到一個幾好嘅判斷咯，嗬。係啊，係啦，咁誒，下一個我諗輪翻到去Dennis先啦，Dennis，please。
+
+373
+01:06:01,860 --> 01:06:21,870
+wildly, other jurisdictions in Asia, never mind as I've already mentioned in UK, Europe, in the US. What we are trying to do is set out clearly, well in advance, proposals and these rules to ensure that the industry here in Hong Kong has an adequate transition period.
+
+374
+01:06:22,680 --> 01:06:42,690
+in order to adjust in order to meet these requirements, which will enhance financial stability in Hong Kong and protect the provision of critical financial services to the wider economy. 啊，Chairman，我想再我我有兩個建議嘅，我覺得咧就第一咧就我哋真係可以考慮下咧，譬如有啲香港都資本
+
+375
+01:06:42,690 --> 01:07:02,700
+充足比率即係car rental嗰啲係高嗰啲咧，你知而家我哋遠高於政府嘅要求啦。咁嗰啲係咪一部分可以攞嚟當呢一個噉嘅用途咧？噉樣呢個呢個第一個考慮啦。第二，我想政府真係認真去做一個研究咧，就係話，如果你真係要出呢啲咧，因為頭，請你都你都講得好清楚啦。如果你係誒大股東噉啊，可能好啲啦，但係。
+
+376
+01:07:02,700 --> 01:07:22,710
+如果啲人冇大股東嗰啲咧，噉佢點咧？佢喺市場有啲咁狹窄嘅investor去攞時，一定我想知道大概要啲咩rate先做做得到啊！即係因為你講緊唔係細數，可能講講好多億嘅，即係可唔可以有啲研究初步去估計下咧？係嘛？即係你計出嚟先底知㗎嘛。如果唔係咧，你而家叫人哋做咧，可能好即係個後果，可能即係你自己諗。
+
+377
+01:07:48,570 --> 01:08:08,580
+政府當局會唔會諗將一部分嘅卡可以用作轉化作為LAC嘅作用啦？咁呢個第一樣嘢啦。噉我唔，我覺得個paper係冇誒specifically address到呢個issues嘅。第二個咧就係話對於一啲冇誒一啲銀行或者金
+
+378
+01:08:08,580 --> 01:08:28,590
+金融機構咧，佢冇一個特別嘅單一大股東嗰啲咧，噉佢要對外去發呢啲票據啦。咁發票據嗰時咧，有冇研究過呢一類機構實際可能要面對嘅成本係點樣樣？有冇做過一啲研究啊？咁咧就畀翻一啲資料咧，等我哋啲誒委員可以。
+
+379
+01:08:28,590 --> 01:08:48,600
+知道噉，其實咧，翻翻去除咗呢兩個之外咧，我覺得頭先啊啊Robert你介紹嗰個咧，我覺得誒，如果可以嘅話咧，我希望政府當局都畀翻一個表，即係做個table嚟翻一個表咧，就係頭先講新加坡啦、日本啦，誒又或者鄰近呢啲亞洲嘅國家咧，究竟佢實行呢個LAC嘅。
+
+380
+01:08:48,720 --> 01:09:08,730
+步伐係點？因為頭先我知道Robert都有講，但係誒，in fact咧就係有啲而家其實仲喺度做緊consultation啦，誒，可能行得係比香港為慢嘅。咁實際可唔可以用一個表列嘅形式咧，將佢哋行嘅誒而家行到邊個步驟或者邊個邊個處境咧，等我哋可以畀啲委員咧去比較。
+
+381
+01:09:34,410 --> 01:09:54,420
+我 been reading the situation in China. That my understanding is, of the four major banks, there is a need to raise roughly one trillion dollars worth of TLAC product amongst the four banks. Just amongst the four banks, one trillion dollar, much higher than Europe.
+
+382
+01:10:11,060 --> 01:10:31,070
+how we gonna sell how how we gonna expect our banks in Hong Kong to sell their TLAC instruments to who who would buy it because when China is already eating up so much of the funds available on TLAC instruments one trillion I think there
+
+383
+01:15:06,560 --> 01:15:08,150
+funds from the lack instrument.
+
+384
+01:11:41,060 --> 01:11:43,350
+一月一號，二零二二。
+
+385
+01:13:33,040 --> 01:13:35,370
+Dennis，Okay，Kenneth。
+
+386
+01:14:20,850 --> 01:14:25,690
+second question would be。
+
+387
+01:12:16,700 --> 01:12:22,990
+is not in any case necessarily the same as the investor base for Chinese GSEs.
+
+388
+01:14:11,840 --> 01:14:20,240
+I don't know whether there will be any study on that because I think my honourable colleague, gone already, will be interested. Am I?
+
+389
+01:12:43,280 --> 01:12:52,270
+Any any glut of instruments coming to market, which the market would then struggle to absorb, and I think it's also important to make the point that.
+
+390
+01:12:03,640 --> 01:12:16,200
+can be extended by the monetary authority. So, while it may well be that actually the investor base for lack instruments issued by a Hong Kong bank
+
+391
+01:13:54,440 --> 01:14:11,560
+probably，我我我認為這instrument會 not be credit rated。我我我認為what what呃，你知，雅克斯，we need to compare would be triple A debts。and how how many basis point about你知，a normal triple A debt would these like be paying。that's that will be the cost of capital to to to the banks。
+
+392
+01:13:35,670 --> 01:13:54,160
+Talking about the the return on this lack instrument, I I don't know whether there would be any research or estimate or any business analysis. How many basis point will you think with these lack instrument to be paying in order to to become attractive? Because
+
+393
+01:13:12,560 --> 01:13:31,680
+機構會發行內部的
+
+394
+01:10:53,610 --> 01:11:13,620
+China, PRC is doing it much slower because I think they realise they have a huge problem of meeting that one trillion dollar gap, and so they want to wait and see what how these TLAC instruments will actually do before fully implementing their TLAC requirements. Do we need to do?
+
+395
+01:11:21,050 --> 01:11:41,060
+Just to make a couple of observations in relation to that. So, as already described, the putting to one side the global systemically important banks, for other banks that might be covered by LAC requirements, the earliest likely date by which requirements will need to be met is the first.
+
+396
+01:11:43,630 --> 01:12:03,640
+But a couple of points to make in relation to that is is that is 24 months after classification, and the date of classification for any particular entity would be determined by the monetary authority. And while the rules provide for a 24 month implementation period, that
+
+397
+01:12:23,270 --> 01:12:43,280
+If there are concerns about market capacity at the time at which Hong Kong banks are issuing these types of instruments, there is flexibility in the rules to allow for timing to be suitably arranged to avoid.
+
+398
+01:12:52,550 --> 01:13:12,560
+of the banks potentially in scope in Hong Kong, the clear majority are subsidiaries of overseas banking groups, and so they are more likely to be classified as material subsidiaries rather than resolution entities. Which means they would be they themselves the Hong Kong
+
+399
+01:14:26,540 --> 01:14:46,550
+Many of my colleagues have asked about once the LACs been issued and the banks got the funds into the balance sheet. Now it seems to me that these fund will be sitting idle because you can't make use of these fund to do lending.
+
+400
+01:14:46,550 --> 01:15:06,560
+係咪正確？或或係咪一個 requirement？what what what they going to do with this fund when when when they get into their vote？係咪 just sitting there on the balance sheet doing nothing？ or can they use the fund to do some sort of very safe landing？ and and what in fact？ I mean do they require to do when they receive these
+
+401
+01:15:59,170 --> 01:15:59,930
+評估。
+
+402
+01:17:18,940 --> 01:17:20,920
+OK，係嘛？OK。
+
+403
+01:16:20,220 --> 01:16:28,040
+assumption. So that's that's one sort of a significant data point we've used in doing in doing the modelling.
+
+404
+01:15:10,140 --> 01:15:18,680
+Thank you for those questions. So on your first question about the the cost of these instruments and sort of basis points, so
+
+405
+01:17:05,110 --> 01:17:18,430
+supervision and the bank's normal business, there is nothing to prevent a bank from taking the proceeds from lack debt issuance and using them to fund its normal productive portfolio of investments and lending activities.
+
+406
+01:16:28,960 --> 01:16:44,820
+I'm sorry. Second second question. Sorry, could you remind me if your second question is any regulation whereby you you are allowed or not allowed to use the fund raised from the leg instrument? Are they sitting in in the balance sheet idling away, or can you lend out a percentage of that?
+
+407
+01:15:19,150 --> 01:15:39,160
+There are a number of global banks that issue instruments, TLAC instruments already, but of course none based in Hong Kong. So when we did our impact assessment, what we assumed was that the cost of TLAC instruments issued by Hong Kong institutions would
+
+408
+01:15:39,160 --> 01:15:59,170
+會 be the same as some of the capital instruments that Hong Kong banks already do issue, so we have quite a good kind of data point there, which provides us with a guide as to how these lack instruments might be priced in due course. And in fact, we took quite a conservative approach in our impact.
+
+409
+01:16:00,210 --> 01:16:20,220
+Because we would expect these lack debt instruments to rank senior to any capital, and therefore be less risky, and so be a little bit cheaper. And so, when doing our assessment, by assuming they would be priced the same as some of these capital instruments, that was actually quite a conservative.
+
+410
+01:16:45,100 --> 01:17:05,110
+Fund you got or what? I mean, what can the bank do with the buffer here? Yeah, sure. Apologies. So there are no restrictions set out in the rules on how a bank could apply the funds that it raises through issuing lack debt. So in practice, subject to normal
+
+411
+01:21:18,750 --> 01:21:20,410
+咁誒而。
+
+412
+01:21:40,700 --> 01:21:44,010
+其他兩個界別咧，我哋暫時係仲未有具體計劃嘅。
+
+413
+01:20:01,640 --> 01:20:08,090
+佢令到呢個門檻係適應當時嘅市場環境咧，噉我呢個三個宏觀嘅問題想問下，唔該。
+
+414
+01:20:49,380 --> 01:21:00,550
+監管當局係就係嗰個處置當局噉，但係如果跨界別嘅時候咧，財政司司長就要喺嗰個誒，譬如話佢有一個誒。
+
+415
+01:22:40,420 --> 01:22:54,630
+開始咧就計兩年時間，可以畀佢做呢個準備。咁誒當然誒，因為呢一個報過程咧係逐間金融機構去做嘅，咁所以當然喺誒即係。
+
+416
+01:22:04,450 --> 01:22:20,130
+本身就係已經係機制上係有彈性嘅，因為幾時開始實施咧，就係誒喺誒處置機制下邊咧，今誒嗰個處置當局係本身應該係就住每一個金融機構作一個規劃。
+
+417
+01:21:00,940 --> 01:21:18,360
+金融集團有各種唔同嘅界別嘅實體的話咧，咁誒財政司司長就要就住嗰個金融集團指定一個主要嘅處置黨局嚇。咁呢樣嘢就係即係我哋已經就住誒部分嘅集團已經做咗。
+
+418
+01:17:21,560 --> 01:17:41,570
+啊！噉我作為主席就問三個好誒，即係點講啊？宏觀嘅問題啦。我希望啊副秘書長啊秘書長秘書長咧可以答下啦。第一個咧就係Firal咧，其實就apply to三種唔同嘅誒金融機構啦。噉就有誒證券嘅保險同埋銀行啦。咁而家咧，我想。
+
+419
+01:17:41,570 --> 01:18:01,580
+想問下，有三個唔同嘅regulator去管啦，有分別係保監會啦、誒證監會啦，同埋金管局。咁其實呢三個監管機構就誒點樣去誒即係實施呢個leg咧，有冇做過任何溝通同埋咧？就我我知道咧，好似金管局係行先嘅，咁但係喺
+
+420
+01:18:01,580 --> 01:18:21,590
+喺呢一個誒事件上邊咧，佢三個個誒協調係會點做嘅咧？咁呢個第一個問題。第二個問題咧就係誒，而家大家都知道中美貿易戰咧可能會繼續打落去啦。噉啊，緩和就緩和咗啲。咁即係話咧誒，明年或者明後明後年啊，或者跟住落嚟幾年咧。
+
+421
+01:18:21,590 --> 01:18:41,600
+可能香港銀行嘅經營環境都會受到中美貿易戰呢個噉嘅陰霾影響咧，會喺經營上邊有壓力嘅。咁而家咧，誒監管機構嚇又誒實施一啲國際標準擺落嚟，咁喺實施嘅過程會唔會考慮翻即係誒未來幾年銀行嘅經營壓力咧？
+
+422
+01:18:41,600 --> 01:19:01,610
+喺嗰個實施嘅時間度咧，可以畀一啲緩衝咧，譬如畀多啲緩衝啊。譬如我聽講有啲誒，同業都講啊，可唔可以畀多每一樣嘢畀多三個月、六個月或者九個月嘅緩衝期，讓佢哋可以唞唞氣，然後先至去即係實施呢樣嘢咧。咁呢個係誒第二。
+
+423
+01:19:01,610 --> 01:19:21,620
+個問題啦。第三個問題咧，我知道咧，同呢個LEG相關咧，就係誒金管局出嗰個Code of Practice啦。咁裏邊咧就講到咧，就係邊個誒大細嘅銀行需要去誒符合呢個LEG嘅規定咧，就係一千五百億總資產嘅。咁呢個。
+
+424
+01:19:21,620 --> 01:19:41,630
+個cover practice一定咗之後咧，噉我唔知道金管局會幾耐去重檢呢樣嘢，所以我我想問下當局咧，會唔會誒出咗呢樣嘢之後，都要求金管局咧定期去檢討下呢個cover practice裏邊一啲門檻即係數目，因為我哋每年有通脹啦。
+
+425
+01:19:41,630 --> 01:20:01,640
+噉你個門檻其實你如果廿年前set咗一個門檻，咁其實你每年通脹三個percent或者兩個percent咧，你個門檻都要定期去修改嘅喎。咁喺呢一方面咧，金管局有冇個承諾，或者起碼當局有冇承諾咧？就話呢個門檻定咗之後，而家你覺得合適啦，但係定期你都要去on and off都要去review下。
+
+426
+01:20:09,360 --> 01:20:29,370
+好多謝主席嗰三個問題，噉我逐一誒答一答。咁首先第一個咧就係誒，的確喺金融機構誒處置機制條例下邊咧，係有三個類別嘅金融機構都係受到誒監管嘅。咁分別就係銀行業啦、誒保險業啦，同。
+
+427
+01:20:29,370 --> 01:20:49,380
+同埋證券及期貨業嘅實體三種咁誒三個誒界別咧，就各自有自己嘅處置當局誒。咁喺誒一般情況之下，如果淨係處理自己界別裏邊嘅誒，即係處置機制的話咧，就係佢本身界別裏邊嗰個誒誒。
+
+428
+01:24:39,730 --> 01:24:41,920
+冇啊！誒咁今日。
+
+429
+01:24:35,160 --> 01:24:39,450
+春期應該係去到十二月三號先至完嘅。嗯，OK。好多謝主席。
+
+430
+01:24:08,490 --> 01:24:14,350
+作用呢個亦都係呢個處置機制其中一個最重要嘅即係目標。
+
+431
+01:24:42,260 --> 01:24:48,630
+誒，仲有冇委員提問？如果冇咧，我聽到委員嘅意見咧，就係問咗問題啦，有一啲誒。
+
+432
+01:26:28,960 --> 01:26:37,230
+各位委員，如果冇意見咧，咁今日就嘅會議就到呢度為止。噉啊，多謝大家參加。噉啊，下一次公聽會再見大家啦，唔該曬。
+
+433
+01:23:34,950 --> 01:23:48,130
+要誒符合requirement的話咧，係有兩年時間可以誒做到呢個要求。咁所以其實誒即係仲有一啲時間上嘅嘅嘅彈性嘅。
+
+434
+01:21:20,690 --> 01:21:40,700
+就住lock咧，我哋而家講緊嘅呢一個規則咧，係只係適用於銀行界嘅。噉就係因為我頭先都提過，就係考慮各項因素之後咧，我哋覺得係應該係首要誒做咗銀行界先，因為國際上亦都係誒即係誒FSB亦都係即係出咗出咗銀行界嗰個指引啦。咁而。
+
+435
+01:21:44,440 --> 01:22:04,450
+嚇，呢個係第一個問題。噉啊，第二個咧就係講緊誒，會唔會因應銀行嗰個經營環境未來一兩年可能會有一啲即係不確定嘅因素，所以誒喺實施嗰個時間表嗰度會有彈性。咁首先本身誒呢一個實施嘅時間表本
+
+436
+01:22:20,410 --> 01:22:40,420
+而根據嗰個規劃，如果認為係有內部重整嘅需要的的話，即係提早要做呢一個準備的話咧，噉佢就係可以將呢一個金融實體誒classify做一個即係需要誒有lock requirement嘅一個一個機構啦。咁而由嗰陣時開。
+
+437
+01:22:54,930 --> 01:23:14,940
+金管局嘅角度，佢都係有自己嘅即係所謂嘅優先次序。咁當然係以對本地嗰個誒銀行體係、金誒金融體係嗰個風險誒嚟嚟講，邊啲係即係要首先做嗰啲做咗先啦。即係金管局會承諾咧，由大到
+
+438
+01:23:14,940 --> 01:23:34,950
+細嘅都會排，即係prioritise嗰個噉嘅做間做即係做嘅先後次序係啦。佢先後次序都係本身係根據重要性同埋對整體嗰個體係嗰個影響嚟做嘅。而當佢一旦誒將呢一個誒即係誒金融機構定為係需要。
+
+439
+01:23:48,480 --> 01:24:08,490
+誒此其一啦，此其二就係即係正正係因為銀行界可能遲啲會面對一啲動盪或者風波，咁所以即係可能我哋覺得整體上係咪應該都係提早做定一啲準備功夫，等佢哋真係遇到問題嘅時候，誒等呢個處置機制發揮。
+
+440
+01:24:15,150 --> 01:24:35,160
+咁第三咧就係誒講緊誒金管局就住Lack Requirement出嘅誒實業守則。噉我理解呢一個實業守則咧，其實嗰個誒諮詢期仲未完嘅。咁所以如果業界係對住呢個實業守則嘅一啲細節仲有意見嘅話咧，就歡迎佢哋向金管局提出。咁呢個諮
+
+441
+01:24:48,910 --> 01:25:08,920
+文件咧係要補充嘅，譬如頭先我講嘅三類文件啦，誒列出翻亞洲國家一啲實施LAG嘅情況係點樣樣。第二咧就係話誒會唔會研究將卡轉化為LAG嗰嗰度咧係有啲誒研究出嚟嘅結果有報告啦，可以畀大家參考。
+
+442
+01:25:08,920 --> 01:25:28,930
+仲有一個咧，就係話嗰啲如果有銀行，佢冇一個單一大股東嘅時候咧，其實有冇做過一啲研究咧？對佢哋發行啲叻嘅票據咧，佢個成本啊，或者係可行性咧，係做過一啲類似嘅即係研究啦。咁究竟係咪可行？因為個法例本身如果係。
+
+443
+01:25:28,930 --> 01:25:48,940
+係生效咗之後咧，就變成一個法例。咁喺執行嗰陣時咧，可能就唔係監管機構，即係會會考慮咁多。但係對商業機構或者銀行嚟講咧，佢考慮更多咧就係嗰個執行究竟係有冇可能？咁呢度誒，我諗呢個相關當局咧會補充翻啲文件畀我哋啲委員啦。咁另外。
+
+444
+01:25:48,940 --> 01:26:08,950
+大家頭先咧就好似係都希望有一個公聽會嚟到聽聽銀行嘅意見。咁呢個我聽到係一個誒大家都都要求嘅嘢。咁所以啊啊石委員係咪你都同意有公聽會呢樣嘢啊？主席，你講不我都同意。係OK，多謝你啊。咁所以咧，我哋會誒揾一個時。
+
+445
+01:26:08,950 --> 01:26:28,960
+間咧，我哋就開個公聽會，聽聽銀行業界嘅一啲意見啦。噉我諗等誒公聽會完咗，我哋蒐集到啲意見之後咧，咁今日因為我哋就唔唔適宜做一個逐條審議嘅啦。噉我諗就等公聽會之後咧，誒聽曬所有意見，亦都回應曬大家嘅問題咧，我哋先至進入去逐條審議嘅階段，好唔好啊？

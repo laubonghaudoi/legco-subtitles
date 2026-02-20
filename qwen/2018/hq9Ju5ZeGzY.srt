@@ -1,0 +1,523 @@
+1
+00:02:57,320 --> 00:02:58,380
+校正。
+
+2
+00:01:20,040 --> 00:01:23,090
+問題嘅誒答案好嘛，Robert唔該。
+
+3
+00:01:46,060 --> 00:01:51,960
+Markets, and because we've already covered that one, if there are no objections, I'll move on to the second question.
+
+4
+00:02:58,840 --> 00:03:04,890
+particularly on the question of whether banks that do not have a single major shareholder would also
+
+5
+00:02:39,840 --> 00:02:46,400
+In determining the four percent, as previously discussed, this was obtained.
+
+6
+00:02:01,560 --> 00:02:09,820
+and particularly those without any single major shareholders, and details of studies conducted by the HKMA.
+
+7
+00:01:52,760 --> 00:02:01,280
+The second question asked for the estimated interest rates of lack instruments to be issued by local AIs.
+
+8
+00:02:30,220 --> 00:02:38,750
+subsequently published in the HKMA's half-yearly monetary and financial stability report in March this year.
+
+9
+00:03:05,410 --> 00:03:15,080
+have to pay a similar interest rate on such on their instruments. It is acknowledged that they may in practice have a marginally higher rate.
+
+10
+00:02:46,680 --> 00:02:56,690
+Out of returns to a survey that the HKMA issued to all locally incorporated licensed bank, which led to this four percent.
+
+11
+00:00:00,000 --> 00:00:20,010
+復個會議啦，噉就誒，其實咧，除咗頭先誒，我哋委員要求誒當局希望佢補充書面嘅之外咧，其實有兩份誒文件咧，佢係補充咗嘅一份咧，就係我哋上一次第一次會議咧就誒講到嘅一啲問題噉。
+
+12
+00:00:20,010 --> 00:00:40,020
+其實政府當局咧係做咗一個回應嘅。咁有部分咧，其實係頭先啊啊MisterAmon Wright啦、MisterRobert Popeian咧，都喺佢嘅回答內容裏邊cover咗。不過咧，喺冇有有一部分仍然係未cover嘅。噉我希望咧，可以喺呢度咧請啊啊Mister Wright講一講上次誒。
+
+13
+00:00:40,020 --> 00:01:00,030
+當局嘅回應噉，第二樣嘢咧就係我哋法律顧問咧，其實係嗰陣時係有一啲問題咧，係提出咗，希望政府當局回應嘅。噉我亦都希望咧喺呢度咧，你哋有機會咧就回應咗。咁誒，等我哋所有啲委員咧，就能夠有個即係full picture啦，或者所有嘅回應，咁包埋你哋未。
+
+14
+00:01:00,030 --> 00:01:20,040
+內嘅書面回應咧，就一次過可以考慮。咁喺下邊開會之前咧，我哋就可以誒誒有一個比較清楚嘅大家嘅睇法啦，好嘛？咁誒或者先係邊位啊？Robert，Robert，請你就誒回應咗即係金管局上次對我哋呢個委員會嘅一啲問。
+
+15
+00:01:26,050 --> 00:01:46,060
+Sure, thank you. So I'll go briefly through the questions that were raised last time in turn. The first question requested a comparison on the implementation progress of the resolution regime and the corresponding LAC rules of Hong Kong with other major international financial
+
+16
+00:02:10,210 --> 00:02:30,220
+We've already briefly touched on this as well. In a previous response, we explained that the interest rate we used was conservatively set at four, and this is set out in the final part of the consultation paper that we issued on the seventeenth of January, and a summary was.
+
+17
+00:03:22,660 --> 00:03:23,380
+嗯。
+
+18
+00:04:31,090 --> 00:04:32,270
+This means that.
+
+19
+00:04:04,080 --> 00:04:07,310
+which would potentially be in scope for issuing lack.
+
+20
+00:05:28,990 --> 00:05:32,410
+And do not have overseas parents.
+
+21
+00:04:08,250 --> 00:04:12,970
+Would in fact be required to do that by refinancing.
+
+22
+00:03:58,930 --> 00:04:03,800
+the the substantial first point is that most AIs
+
+23
+00:03:15,360 --> 00:03:22,090
+But because of the conservatism in our approach, we think that 4% remains a reasonable figure.
+
+24
+00:03:35,420 --> 00:03:44,820
+We were asked for our assessment on the demand for lack instruments to be issued by local AIs, and thus the cost impact on those AIs.
+
+25
+00:03:25,680 --> 00:03:35,140
+The next question we were asked to address was given the expected substantial amount of loss-absorbing capacity products to be issued by major banks in the mainland.
+
+26
+00:04:32,650 --> 00:04:42,130
+when these instruments when these entities issue lack instruments they will be expected to issue instruments internally within their groups up to their parents.
+
+27
+00:05:17,360 --> 00:05:28,690
+However, we do acknowledge that there will be a few locally incorporated licensed banks, potentially covered by the LAC rules, who would be required to issue instruments.
+
+28
+00:03:45,890 --> 00:03:58,030
+I'd like to start off by referring members to the final section of the consultation paper we issued earlier this year, which specifically addressed these points. And just to bring out some of the key points.
+
+29
+00:04:42,570 --> 00:04:57,290
+As and when their parents then issue loss-absorbing capacity instruments, those will be issued into global markets, which will likely be already familiar with the names and products issued by those groups.
+
+30
+00:04:13,250 --> 00:04:30,700
+internal funding that is already in place within their relevant banking groups, and this is because the majority of entities potentially in scope of the LAC requirements are subsidiaries in Hong Kong of banking groups that are headquartered in other jurisdictions.
+
+31
+00:04:57,740 --> 00:05:15,990
+And it is well known that there is already a deep global market for these types of instruments, because many of the world's biggest banks have already, for a number of years, been issuing such instruments into those markets, including in some cases to finance their Hong Kong operations.
+
+32
+00:05:32,820 --> 00:05:52,830
+Our view remains that we do not see any particular issue around market capacity for such instruments for a number of reasons. I've listed half a dozen here. I'll just go through them very quickly. So one is that all relevant entities will already be issuing into the debt markets to some extent.
+
+33
+00:06:46,490 --> 00:06:49,810
+The date of the issuance of their own instrument.
+
+34
+00:09:09,190 --> 00:09:13,430
+to contribute towards the meeting of lack requirements.
+
+35
+00:08:24,210 --> 00:08:28,630
+And then by granting more time for lack requirements to be met.
+
+36
+00:07:10,690 --> 00:07:15,770
+And so we would not expect there to be necessarily direct competition.
+
+37
+00:06:19,050 --> 00:06:25,730
+In relation to the potential issuance of loss-absorbing capacity instruments by mainland banks.
+
+38
+00:07:56,260 --> 00:08:03,740
+So, notwithstanding the above, it's not possible to predict how market conditions will develop over time.
+
+39
+00:07:16,230 --> 00:07:24,920
+amongst investors, for investors, between lack issued by local entities is Hong Kong and Chinese jesus.
+
+40
+00:06:08,790 --> 00:06:17,890
+which would be expected to be cheaper, their names and their investor base would nonetheless be something they would be able to leverage in doing so.
+
+41
+00:07:45,810 --> 00:07:55,980
+Totally open to them to seek investors in other markets, and finally, just to emphasise the point that there is already a developed global investor base for these types of investments.
+
+42
+00:05:52,830 --> 00:06:08,510
+Through the issuance of debt capital instruments, and while lack instruments are not necessarily the same, it would be open to such entities to issue more capital instruments if, understandably, they chose to issue non-capital lack debt.
+
+43
+00:08:30,050 --> 00:08:48,140
+Finally, in the points coming out of the last meeting, the HKMA was asked to consider some members' suggestions of allowing an AI to use part of its assets for meeting the capital adequacy ratio to fulfil the minimum external lack requirement.
+
+44
+00:06:51,210 --> 00:07:09,950
+In addition, we would not necessarily expect the investor base for Chinese GSEs to be the same as for locally incorporated AIS. In particular, Chinese GSEs typically currently issue bank debt to a domestic investor base.
+
+45
+00:06:26,480 --> 00:06:46,490
+The lead time provided for in the LAC rules of twenty four months, subject to the further the further latitude which my colleague has already discussed in terms of pushing back timeline, would provide entities issuing entities in Hong Kong with increased ability to optimise.
+
+46
+00:07:25,800 --> 00:07:45,810
+It's also helpful to to point out that there is no requirement in the rules or in the code of practice that any lack issues, any lack instruments be denominated in Hong Kong dollars, governed by Hong Kong law or issued in Hong Kong. So as a result, where locally incorporated AIS think that it will be optimal to do so, it will be.
+
+47
+00:08:04,200 --> 00:08:24,210
+And this is where the fact that the MA is able to provide more time, if necessary, to allow AI's adequate potential to access markets, comes in useful. And as we've previously discussed, the MA can do this both by deferring the classification of an entity.
+
+48
+00:08:49,180 --> 00:09:09,190
+The key point to make here is that the rules do allow for exactly this. The main constituent parts of an external loss-absorbing capacity and internal loss-absorbing capacity are expected to be capital, and the rules specifically allow for most capital.
+
+49
+00:12:31,130 --> 00:12:31,520
+啊！
+
+50
+00:12:32,770 --> 00:12:36,510
+咁誒，除咗阿陳建波議員嗰個。
+
+51
+00:11:44,830 --> 00:11:50,830
+面交代好多謝啊，主席頭先嘅提啦，即係好多問題，佢有書面交代啦，好希望佢咧交代翻。
+
+52
+00:12:37,000 --> 00:12:45,670
+問題即係對政即係金管局或者政府當局嘅回應個問題之外，對求先嘅回應，大家仲有冇咩睇法？
+
+53
+00:09:25,930 --> 00:09:36,160
+And that is because those buffers are not hard requirements, and they're designed to be able to be used by AIs without them going into resolution.
+
+54
+00:09:13,730 --> 00:09:25,510
+The the one exception is that it is not expected that where capital counts towards lack requirements, it would also be able to count towards regulatory capital buffers.
+
+55
+00:12:49,170 --> 00:13:01,570
+如果冇咧，噉我由法律顧問去將我哋即係誒法律事務部嘅問題咧，係誒同政府當局咧，亦都即係誒過一過好嘛？麻煩你法律顧問。
+
+56
+00:10:17,620 --> 00:10:30,090
+似頭先嗰啲銀行界咁講，起碼五或者更更加高係嘛？噉佢會唔會誒仲係維持四？如果仲係維持四，佢可唔可以解釋埋點解係嘛？好啊，監管局嘅同事。
+
+57
+00:11:11,100 --> 00:11:23,950
+Yes, it is quite likely that banks may have to pay more in order to issue their own funding, but in that environment, typically we expect banks to have more opportunities to raise revenues and increase profits.
+
+58
+00:09:37,600 --> 00:09:57,610
+所以，那係一個總結，係一些問題喺前次嘅小組會議。我哋會繼續討論。我哋會
+
+59
+00:09:57,610 --> 00:10:17,620
+我想問一條問題先啦，因為佢頭先有講咧，金管局估計嗰個非資本叻嗰個係債務票嘅平値成為四個percent啦。佢而家仲係堅持四個percent啦，但係我諗希望佢重新即係考慮到誒香港而家個經濟情況啦、世界息口上升啦，佢會唔會重新估計究竟係五個percent啦，定好？
+
+60
+00:10:31,080 --> 00:10:51,090
+Just to clarify, the four is not a number that is set or calibrated by the HKMA. This was our estimate in the cost benefit analysis we did of the rate that in practice AIS would have to pay to the market in order to issue lack instruments. Of course, going forward.
+
+61
+00:10:51,090 --> 00:11:11,100
+Over time, as the macroeconomic environment continues to evolve, it might be that AIs have to pay higher or lower interest rates in order to raise funding. I think the one point I would make is that, generally speaking, in a macroeconomic environment which sees higher interest rates, that sort of environment.
+
+62
+00:11:24,820 --> 00:11:44,830
+阿阿主席，另外誒嗱，總之即係佢都明白誒，其實佢都係二零一七年嘅數嚟嘅。咁即係其實佢即係啲銀行指數講得好清楚啦。噉我相信就點都唔會係低過四個percent嘅，一定係高過甚至更高。咁頭先有啲人同我講話，可能係七百個percent啲，不過我唔知邊個真啊。咁另我想去，如果去問啲。
+
+63
+00:11:51,110 --> 00:12:11,120
+世界各地嗰啲誒金融誒誒監管者，佢點樣界定處置機誒處置嘅實體啊？因為似乎咧美國、日本、英國咧都係淨係做注説或者啲説嘅啫。噉我想起碼佢真係要話用書面解釋，究竟世界上有冇人係誒以以外嘅都要做咯嚇？即係呢個呢個好呢個好重要，因為一路都冇講。
+
+64
+00:13:02,970 --> 00:13:04,270
+係。
+
+65
+00:13:52,580 --> 00:13:54,150
+咁咧就誒。
+
+66
+00:13:24,970 --> 00:13:26,920
+咁譬如咧喺誒？
+
+67
+00:13:54,430 --> 00:13:57,870
+我喺誒寫畀你哋嘅信入面咧，就問到啦，點解咧係誒？
+
+68
+00:14:17,270 --> 00:14:20,780
+咁咧就誒，我睇到誒。
+
+69
+00:13:10,850 --> 00:13:14,740
+誒regulation嘅啲法嘅問題啦，噉我誒。
+
+70
+00:13:04,930 --> 00:13:10,570
+啊！我睇到咧係誒政府琴日都答翻我哋一啲誒誒有關呢條誒。
+
+71
+00:14:39,450 --> 00:14:45,580
+咁但係另外，我都要睇翻從嗰個誒法律嘅角度去睇咧，就係誒。
+
+72
+00:14:32,490 --> 00:14:39,170
+嚇，it's not decision that is reviewable by the LRT噉樣嘅，咁呢個一點啦嚇。
+
+73
+00:13:15,200 --> 00:13:24,580
+或者我唔會再誒每一條逐條去講，咁但係只不過咧係誒睇完答案之後咧，我睇翻講翻啲我自己嘅啲誒concern嘅。
+
+74
+00:14:21,530 --> 00:14:32,210
+政府嘅回覆咧就話咧係誒第一點啦，就係因為咧係誒立法會喺誒審議fellow嘅時候咧，就接受咗咧就話咧呢個decision咧係誒。
+
+75
+00:13:41,050 --> 00:13:52,290
+by一個written notice咧serve on呢個誒classifiable entity咧identify一個咧係resolution strategy as一個prefer嘅resolution去cover嗰個誒entity噉樣。
+
+76
+00:15:04,960 --> 00:15:18,000
+咁誒，即係如果佢呢個受影響嘅entity冇機會去誒make一個written representation，咁會唔會誒即係有啲procedurally嘅fairness嘅問題咧？噉樣？
+
+77
+00:13:27,350 --> 00:13:40,770
+喺政府嘅回覆入邊第七點啦，佢講到咧就係話咧係誒關於喺regulation第三條入邊咧就話咧係誒呢個誒regulation authority咧就可以咧係誒。
+
+78
+00:14:45,960 --> 00:15:04,570
+我哋考慮呢個係咪一個誒due process嘅問題啊？係嘛？咁當因為呢個決定都係一個幾重要嘅決定啦，係咪？因為你真係嗯identify咗一個strategy嘅嘅話咧，噉佢就要去去apply by呢個rules入邊嗰啲regulation啦，噉樣。
+
+79
+00:13:58,150 --> 00:14:16,990
+會唔會話考慮咧係誒喺封信入邊提供一啲誒誒解釋誒咩ground你去誒點樣去去identify某一個strategy咧噉樣，同埋咧有冇機會畀嗰個誒受影響嘅entity去make一個written嘅representations噉樣咧？
+
+80
+00:12:11,120 --> 00:12:31,130
+度啊！但係似乎咧，就世界各地都係淨係處理誒，即係好似美國咁大啊、日本啊、英國都係淨係做支持。咁點解香港政府要做一個？雖然佢有講係其中一個考慮點啫嚇，咁但係其實都甚至我簽都係考考慮點啫。但係你落咗去就就係考慮啲嘅因素啦，係咪？噉我希望佢書面有解釋啊。好啊，好。
+
+81
+00:15:18,330 --> 00:15:19,540
+嗯。
+
+82
+00:15:35,660 --> 00:15:38,180
+咁但係誒，正正就係。
+
+83
+00:16:33,090 --> 00:16:36,430
+誒講翻佢嘅一啲誒誒。
+
+84
+00:16:47,110 --> 00:16:51,330
+嗱，呢啊呢呢呢部分咧就係誒，我comment就係噉樣嚇。
+
+85
+00:15:56,100 --> 00:16:00,440
+係咪？咁但係，如果你諗翻比較起JL。
+
+86
+00:15:38,610 --> 00:15:44,570
+誒冇一啲當喺個resolution regime入邊冇一啲review嘅誒。
+
+87
+00:16:36,770 --> 00:16:46,810
+誒意見啊，OK，或者咧係誒，即係你你哋可以誒畀翻啲詳細嘅ground去解釋啊，噉樣嚇，咁咧就係係啦。
+
+88
+00:15:44,850 --> 00:15:55,700
+誒procedure嘅時候咧，變咗佢變咗呢個受影響嘅entity，如果佢有啲乜嘢誒誒意義嘅時候咧，佢唯一嘅途徑咧就係走去JL。
+
+89
+00:16:19,650 --> 00:16:32,750
+係啦，所以會唔會因為即係剛才我提到個兩呢幾點咧，就會考慮翻其實嗯提供翻一啲誒procedure啦，令到誒一個受影響個實體咧，佢有機會誒去嗯。
+
+90
+00:16:51,610 --> 00:17:05,420
+其實法律顧問呢個comment咧，有啲似啊，陶錦親議員咧，係即係頭先發表嘅意見都係有類似嘅。噉我想睇下你哋個誒理解係點樣樣咯？唔該。
+
+91
+00:15:20,690 --> 00:15:35,380
+另外一點咧就係話咧，誒，你哋考慮即係你個回覆入邊都提到啦，嚇，因為要考慮到一個誒speed同埋呢個flexibility嘅問題，OK，咁咧就係誒should not be subject to一啲誒judicial action噉樣。
+
+92
+00:16:00,760 --> 00:16:19,190
+誒，如果真係要join嘅話，噉佢會令到成個process嘅時間係更加長咗咧，係咪？咁同你個speed嗰同個speed嗰個原意係好似係誒反而達唔到啦，同埋係即係增加咗個cost啦，同埋亦都係增加咗uncertainty啦噉樣。咁其實嗯，咁所以咧嗯。
+
+93
+00:17:09,850 --> 00:17:29,860
+Thank you for your question. I think the key point to make here is that the power that the resolution authority has to devise resolution strategies is not set out in the LAC rules. So it would not follow that the LAC rules should provide, for example, an opportunity for an AI.
+
+94
+00:17:29,860 --> 00:17:49,870
+I to make representations or to be able to appeal to the Resolvability Review Tribunal in respect of a resolution strategy devised by the resolution authority. It's Section 13 of the FIRO where that power of the resolution authority is actually set out. And because the FIRO
+
+95
+00:17:49,870 --> 00:18:09,880
+itself does not provide for a representation opportunity or an opportunity to appeal to the resolvability review tribunal. It doesn't seem consistent to try now and put that into the LAC rules. So that's kind of the the technical kind of legal response. But I guess we'd also
+
+96
+00:21:05,200 --> 00:21:05,790
+真係好過啦～
+
+97
+00:20:53,000 --> 00:20:54,110
+下個禮拜一。
+
+98
+00:20:54,710 --> 00:20:55,840
+佢趕唔切㗎嘛。
+
+99
+00:20:13,990 --> 00:20:15,340
+再要跟進嘅。
+
+100
+00:19:56,580 --> 00:19:59,430
+哦，答先幾日嘅。Okay。
+
+101
+00:20:59,950 --> 00:21:02,880
+因為已經完展咗，係啊係啊，誒，我哋一定。
+
+102
+00:20:56,310 --> 00:20:59,640
+其實我哋都好問㗎，因為個時間表咧。
+
+103
+00:18:29,890 --> 00:18:33,630
+We have published a code of practice chapter.
+
+104
+00:19:47,150 --> 00:19:53,760
+Legal position is is well established and consistent with international norms, but we really benefit the dialogue that we have with firms and welcome their views.
+
+105
+00:18:33,940 --> 00:18:45,990
+which allows us to require AIs to submit information to the HKMA, and when they do that, they have an opportunity to, for example, make proposals around an appropriate strategy.
+
+106
+00:20:01,020 --> 00:20:13,460
+咁法律顧問呢邊就冇其他嘅follow questions啦。咁睇下誒委員嗰度仲有冇咩嘢就法律顧問問嘅嘢，政府當局嘅回應有冇咩嘢誒？
+
+107
+00:20:36,380 --> 00:20:52,250
+世界金融機構咧界定處置實體嗰度咧，亦都畀翻一個即係回應佢啦，書面回應佢。噉啊，我希望你哋即係盡快畀啦，因為我哋可以決定到下一次，因為而家我哋決定唔到下一次嘅會議日期嘅。
+
+108
+00:18:09,880 --> 00:18:29,890
+also like to offer reassurance that in developing that in that in doing resolution planning for an AI and in developing a resolution strategy, there will, as a matter of practice, be opportunities for AIs to interact and to feed into that process. So, for example.
+
+109
+00:18:47,040 --> 00:19:07,050
+Just to add briefly to that, our experience to date, where we have requested what we call a resolution strategy information requirement, the code of practice chapter that Mr Probyn mentioned, is that AIs have indeed taken the opportunity to always express their preference for a preferred resolution strategy.
+
+110
+00:19:07,130 --> 00:19:27,140
+And the MA has taken that into account when considering preferred resolution strategy decisions. So that's a very important place where we explicitly invite firms to express their views on the preferred strategy, and that's kind of how we work in practice, case by case. The resolution planning process is iterative.
+
+111
+00:19:27,140 --> 00:19:47,150
+It's a dialogue with firms. We are working very closely together, but I don't think that should change the very important point that FIRO sets out, which is very consistent with the international FSB key attributes, which makes clear this is a judgement by the authorities. The resolution plan is the authorities' plan rather than the firms' plan. So I think the
+
+112
+00:20:16,370 --> 00:20:36,380
+如果冇咧，就今日會議上討論嘅嘢咧，我都覺得已經討論咗啦。咁而家誒剩翻嘅咧，就話政府當局咧就今日誒，我哋所有委員提出嘅問題咧，要求有個書面回應。嗱，記住，除咗第一部分之外咧，頭先阿陳建波議員都想即係你哋對。
+
+113
+00:21:09,300 --> 00:21:10,490
+因為計翻個時間。
+
+114
+00:21:57,690 --> 00:21:58,930
+噉。
+
+115
+00:21:55,790 --> 00:21:57,200
+係啊！你哋都係。
+
+116
+00:21:07,180 --> 00:21:08,920
+下個禮拜五要報過來嘅。
+
+117
+00:21:16,460 --> 00:21:18,470
+你都係講緊二同三嘅啫。
+
+118
+00:22:00,480 --> 00:22:02,600
+內會可唔可以再再延展啊？
+
+119
+00:23:27,270 --> 00:23:30,610
+冇得延展啊！冇得再延展㗎啦，已經延展咗嘅。
+
+120
+00:21:11,140 --> 00:21:15,960
+噉你可以做一個口頭嘅咯，但係咁所以就算係唔下個禮拜一開嘅話。
+
+121
+00:21:19,790 --> 00:21:25,860
+啊！我想問，因為我哋要報告內匯咧，就要下個禮拜五。
+
+122
+00:22:23,060 --> 00:22:35,970
+我哋會畀曬畀所有委員嘅。而家我就諗緊咧，政府當局需要幾多時間去畀到嗰個即係書面答覆咧？你哋估計？我哋當然會盡快，即係我哋都。但係今日星期五啦喎。
+
+123
+00:23:13,650 --> 00:23:26,990
+好咁誒，其他委員有冇咩意見？我諗我哋收到要再傾咯，因為係啊係啊係啊，答得好差，噉你冇理由開會㗎嘛？係啦，咁所以你如果有需要咪留會再延展咯，可以噉。好啊，唔係延展一次。唔係唔係延展啊。
+
+124
+00:21:26,410 --> 00:21:39,960
+啊，各位委員啊，我哋報告內會咧就根據誒秘書講咧，就要下個禮拜五，咁所以咧我哋就要喺下個禮拜咧就要開會㗎啦。
+
+125
+00:21:40,240 --> 00:21:55,500
+噉啊，下個禮拜二上晝咧，其實就有呢個叻嘅税務嘅委員會嘅，係啦。噉我唔知係咪同一批工作人員？係我係，即係你哋唔可以分身處理兩部分嘢嘅。官員都係。
+
+126
+00:22:56,260 --> 00:23:13,040
+務小組噉，我見呢度嗰啲委員咧有部分係公務小組啦，又唔係全部噉，同埋都留翻啲時間畀你哋去誒回應啦。噉我哋爭取就星期三上晝嗰個時間，好嘛？應該係八點半啦。係啦，八點半嗰個時段啦，好冇？
+
+127
+00:24:10,910 --> 00:24:15,450
+我哋再誒誒討論呢個事好冇？唔該曬各位，多謝。
+
+128
+00:22:03,050 --> 00:22:23,060
+延展咗啦！延展咗一次啦。我上個禮拜大會已經將呢個會議嘅誒審議日期咧延展到十二月十二號啊。阿張華峯議員，主席啊，我想咧，即係如果政府先邊回應畀阿陶錦新同埋阿波哥嗰啲文件，可唔可以誒一齊畀一份我咧？哦，會會。
+
+129
+00:22:36,250 --> 00:22:56,260
+係啊！我哋同事可能已經做緊嘢都唔定。好close Monday，誒禮拜三星期一誒放工嘅時候好唔好啊？因為嗰日公務啊嘛，公務畀到一份，噉我哋喺定另外一間房咯。好嗱，我哋爭取誒禮拜三上晝啦，因為禮拜三上晝有公。
+
+130
+00:23:30,890 --> 00:23:50,900
+對我理解就誒，因為已經延展咗，所以頭先我哋講嗰個立法時間表已經係最後一個時間表。當然我明啊，陳議員嗰個關注嘅，噉我哋儘量喺禮拜三開會。如果真係有需要，誒，我哋都點都會喺內會星期五嗰個會咧就報告咗先。咁當然即係可能。
+
+131
+00:23:50,900 --> 00:24:10,910
+可能報告咗都要再開會，即係最壞嘅情況都可以係噉樣嘅嚇。即係內會係報告，即係可以報告話我哋仲喺度審議中嘅嚇。好咁誒，澄清咗個情況啦。噉我哋如果今日冇其他嘢咧，今日會議就結束。噉我哋爭取下個禮拜。

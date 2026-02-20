@@ -1,0 +1,2179 @@
+1
+00:00:25,650 --> 00:00:26,870
+篇幅咧。
+
+2
+00:00:00,000 --> 00:00:01,260
+嘅官員。
+
+3
+00:01:28,580 --> 00:01:29,940
+唔該曬你啊！
+
+4
+00:00:50,840 --> 00:00:52,720
+誒，雖然間係。
+
+5
+00:00:06,230 --> 00:00:08,570
+誒，各位同事，我哋。
+
+6
+00:01:25,400 --> 00:01:27,870
+好啊！啊，金律金律師。
+
+7
+00:00:22,660 --> 00:00:25,310
+整個條例草案嘅。
+
+8
+00:00:12,110 --> 00:00:14,820
+誒，審議到第一百條。
+
+9
+00:00:09,000 --> 00:00:11,830
+昨天嗰個會議咧，就。
+
+10
+00:00:47,160 --> 00:00:50,560
+咧就係喺我哋審議個條例裏邊咧。
+
+11
+00:00:02,040 --> 00:00:05,950
+啊，同埋監管機構嘅代表啦。
+
+12
+00:00:15,100 --> 00:00:22,290
+咁咧就今朝我哋就由一百零一條開始，好嘛？噉就誒嗱，因為誒。
+
+13
+00:01:13,280 --> 00:01:23,520
+誒誒，足夠嘅時間裏邊咧，去完成呢一條條例嘅草案，好唔好啊？噉我哋而家咧就開始一百零一條嚇。
+
+14
+00:00:27,150 --> 00:00:47,160
+涉及嘅嗰個範疇咧都相當多，噉啊，考慮到咧，我哋整體嗰個審議嘅時間亦都係比較緊張嘅。咁當然，我我亦都唔唔想咧，即係話出現好似昨天亦都有同事所提嘅，我哋會唔會走得太快咧，或者係點樣咧？咁當然，我亦都希望咧。
+
+15
+00:00:53,000 --> 00:01:13,010
+誒時間上係要求比較緊張啲，但係都希望咧，我哋誒能夠咧係可以做到咧係誒慎密噉樣啦，係誒疏而不漏啊，所有嘅嗰啲條文咧，我哋都要好仔細噉樣去誒捉及嚇，希望咧能夠喺。
+
+16
+00:01:30,220 --> 00:01:50,230
+Thank you, Chairman. Division three of Part six deals with the role of the independent valuer once appointed, including the eventual determination of the actual treatment and the hypothetical liquidation treatment of pre-resolution shareholders and creditors in order to determine whether.
+
+17
+00:03:56,820 --> 00:03:57,970
+moment.
+
+18
+00:04:44,440 --> 00:04:45,700
+好，嗯。
+
+19
+00:04:38,240 --> 00:04:39,730
+And then, if we could.
+
+20
+00:02:41,580 --> 00:02:43,380
+決議案被發起。
+
+21
+00:04:40,020 --> 00:04:42,660
+我我哋喺度停停先啦嚇，我最緊要。
+
+22
+00:02:16,190 --> 00:02:21,290
+resolution shareholder or creditor is eligible for nicoll compensation.
+
+23
+00:01:50,230 --> 00:01:55,850
+Any nicwal, no creditor worse off than liquidation compensation is due.
+
+24
+00:03:10,750 --> 00:03:18,650
+和一個評估他們實際的治療在決議，和如果有一個差異之間的兩個，差異的量。
+
+25
+00:02:43,740 --> 00:02:53,920
+Clause 103 then sets out what the independent valuer must do and the presumptions to be applied in a in a nicoll valuation.
+
+26
+00:04:22,160 --> 00:04:36,100
+他必須 disregard 任何公共財政支援提供給該實體，其他則在常規業務中，他必須 disregard 任何未來可能的公共財政支援，其他則在常規業務中。
+
+27
+00:02:54,270 --> 00:03:10,470
+所以，Clause 103(1) requires the independent valuer to assess both the hypothetical treatment that a pre-resolution shareholder and pre-resolution creditor would have received if a winding up had commenced immediately before the initiation of resolution.
+
+28
+00:03:18,930 --> 00:03:35,490
+和這評估，按第103條第2款，必須符合估值假設和原則，並適用可推翻的預設，這是在第103條第3款中建立的。
+
+29
+00:01:56,180 --> 00:02:16,190
+所以Clause 101 prescribes the role of the independent valuer, which is to make a valuation in relation to an affected entity. An affected entity is defined in Clause 2 as the within-scope FI, the holding company or the affiliated operational entity in respect of which the Part 5 instrument is made, and to decide whether any pre-requisite
+
+30
+00:02:21,570 --> 00:02:41,580
+Clause 102 then enshrines the Nickwal principle by specifying the eligibility for Nickwal of a pre-resolution shareholder or creditor whose treatment in resolution is assessed by the independent valuer to be less favourable than would have been the case had the affected entity been wound up immediately before its.
+
+31
+00:03:36,810 --> 00:03:56,820
+Now the valuation assumptions and principles referred to in 103(2)(a) are defined in clause 94, which in turn refers to Schedule 7 and regulations to be made under clause 105. So if we could just turn to Schedule 7 for a moment.
+
+32
+00:04:02,100 --> 00:04:22,110
+這設出四個 fundamental 假設和原則，必須由一個獨立估價人應用於評估假設的解散處理對前解決的股東和債權人。這些是：獨立估價人必須忽略穩定化選項的影響；他必須遵循解散債權人階層。
+
+33
+00:05:00,860 --> 00:05:02,040
+Now, um.
+
+34
+00:04:47,130 --> 00:04:48,530
+因嗯。
+
+35
+00:05:25,170 --> 00:05:27,300
+the the idea of include
+
+36
+00:05:09,200 --> 00:05:11,340
+In other words.
+
+37
+00:05:02,320 --> 00:05:05,130
+what is the purpose of putting this?
+
+38
+00:04:53,360 --> 00:04:56,520
+to subsection three。
+
+39
+00:05:05,540 --> 00:05:08,920
+可 rebuttable presumption in this subsection.
+
+40
+00:04:49,460 --> 00:04:53,060
+section one three啊one oh three subsection。
+
+41
+00:04:56,900 --> 00:05:00,570
+The concept of a rebuttable presumption is raised here.
+
+42
+00:05:47,720 --> 00:05:53,000
+those contracts either get transferred to a new financially sound acquirer.
+
+43
+00:05:18,940 --> 00:05:24,660
+then who can rebut the presumption and what is the legal consequence of a successful rebuttal?
+
+44
+00:05:11,850 --> 00:05:18,470
+It seems to imply that this presumption is liable to be rebutted if there is good reason.
+
+45
+00:06:13,290 --> 00:06:27,820
+stronger counterparty, the acquirer, or it's it stays with the FI, but the FI has been made financially stronger because of the effect of the bail-in, which he he wasn't party to, so he he wasn't cut down in the in the bail-in, he wasn't written down in the bail-in.
+
+46
+00:05:27,710 --> 00:05:47,720
+sorry, chairman. sorry, the the the idea of including the the rebuttable presumption is is to deal with a a specific case where there are parties to a contract with the the financial institution, and they those part
+
+47
+00:08:39,930 --> 00:08:41,560
+所以，所以，looking at it.
+
+48
+00:07:03,960 --> 00:07:06,940
+可以。所以，所以， in other words.
+
+49
+00:07:22,230 --> 00:07:26,510
+say to the tribunal to rebut certain presumption.
+
+50
+00:09:06,270 --> 00:09:11,270
+to challenge is it the pre-resolution creditor or any?
+
+51
+00:07:07,220 --> 00:07:12,370
+Any party whose interest would be affected.
+
+52
+00:09:23,650 --> 00:09:28,990
+啊，會就係subject matters of the building programme。
+
+53
+00:09:00,430 --> 00:09:05,990
+Actually, my my question to be more specifically put is, who has the locus?
+
+54
+00:07:12,650 --> 00:07:21,950
+by the proposed transactions in the bail-in process can apply.
+
+55
+00:09:11,860 --> 00:09:22,920
+specifically speaking， is it is the pre-resolution creditor or any party who has an interest in certain contract？
+
+56
+00:07:46,780 --> 00:07:58,830
+It's very yes. Sorry, sorry, can't see. Sorry, it's it's a it's a very specific provision, and it just relates to circumstances where.
+
+57
+00:06:48,640 --> 00:07:02,910
+Some particular circumstance in his particular case, then he could seek to rebut that presumption. And if he could rebut that presumption, then he would come into the the nicoll calculation and could be eligible for compensation.
+
+58
+00:09:29,770 --> 00:09:46,390
+The intention was it should be the pre-resolution creditor that that that so so the normal the normal presumption is that they are okay as a result of resolution that they're not adversely affected. But if they could show that they were, then they could.
+
+59
+00:08:42,030 --> 00:09:00,150
+from a relative from a high level you'd say that that that entity should be okay as a result of resolution so we put in a rebuttable presumption just in case there's some circumstance that we we have not foreseen that we would then allow them to seek to rebut the presumption if they can to the satisfaction of the independent valuer.
+
+60
+00:07:27,120 --> 00:07:46,170
+to to you know to to to challenge certain valuation on the basis that that certain transactions should not be carried out should not be carry carry out because the it is not working to the overall benefit.
+
+61
+00:05:53,280 --> 00:06:13,290
+或， they remain with the financial institution and there's a bail-in of the financial institution, but it doesn't affect those contracts. So you could, prima facie, argue that the the counterparty to those contracts is actually in a better position as a result of the resolution because either his contract is continued with a financially
+
+62
+00:06:28,630 --> 00:06:48,640
+所以，所以，的idea是，如果那那是個presumption， 那他係OK作為結果的解決。他沒有受損作為結果的解決， 因為他無論是與一個財務上更強的對方， 或是與同一個FI， 這財務上更強。但係，如果他能夠顯示， 有某種情況。
+
+63
+00:07:59,760 --> 00:08:19,770
+the the the contract that that creates the the creditor relationship that particular contract is transferred to a financially stronger acquirer, or it remains with the existing financial institution where there has been a bail-in, but that contract has not been part of.
+
+64
+00:08:19,770 --> 00:08:39,780
+I see. And in those circumstances, we would argue that that person should be okay as a result of resolution because they find themselves either with the same counterparty, but it's been made stronger because others have been written down, or it's been transferred to a financially stronger counterparty.
+
+65
+00:10:46,510 --> 00:10:47,210
+誒。
+
+66
+00:09:51,990 --> 00:09:52,810
+嗯。
+
+67
+00:10:34,660 --> 00:10:36,700
+有，所以有被轉移。
+
+68
+00:10:40,000 --> 00:10:42,920
+好啊！如果冇其他問題，我哋就繼續啦。
+
+69
+00:09:58,210 --> 00:10:01,510
+then there's no purpose of proceeding with the valuation.
+
+70
+00:09:53,600 --> 00:09:57,930
+清楚。So so, in other words, if the presumption is rebutted.
+
+71
+00:09:46,670 --> 00:09:51,610
+seek to rebut the presumption to the independent valuer.
+
+72
+00:10:58,870 --> 00:11:04,290
+所以，那會然後讓我們到條文一百零四。
+
+73
+00:11:43,040 --> 00:11:53,130
+在他的信函中，於1月4日，我們將，如我們所討論的，推動CSA，以釐清，這只可以在修正不影響估值決定時發生。
+
+74
+00:10:47,700 --> 00:10:58,500
+所以，我諗，可能主席，那解釋了條文103和104，喺應答議員問題嘅過程中。
+
+75
+00:10:22,280 --> 00:10:34,180
+That as regards them, for some reason, they are significantly worse off than they would have been in a liquidation, even though they haven't been made part of the bail-in, or even though they haven't been transferred.
+
+76
+00:11:04,570 --> 00:11:22,680
+And this requires an independent valuer to make a decision that a pre-resolution shareholder or creditor is treated less favourably on resolution as compared to a hypothetical winding up, that they are then entitled to compensation of an amount equal to that difference in treatment.
+
+77
+00:10:02,270 --> 00:10:22,280
+no the valuation will be happening anyway for all other credits yeah I mean for that particular transaction and if they manage to rebut the presumption then they would bring themselves into to being included for for the Nick Wall compensation because they're showing that in this very specific case which we can't anticipate but there is a very specific
+
+78
+00:13:51,200 --> 00:13:51,840
+係，主席。
+
+79
+00:13:50,030 --> 00:13:50,920
+啊，法官。
+
+80
+00:13:30,400 --> 00:13:31,620
+啊！
+
+81
+00:14:32,220 --> 00:14:33,450
+negative rating。
+
+82
+00:12:34,300 --> 00:12:36,900
+作為，以及 incidental matters。
+
+83
+00:14:28,960 --> 00:14:31,940
+一般嘅regulation啊，嗰啲噉嘅都係。
+
+84
+00:14:06,970 --> 00:14:10,430
+噉啊，成立小組之後就可以去審議嚇。
+
+85
+00:14:34,300 --> 00:14:38,420
+好啊！如果冇冇其他問題嘅話，我哋就繼續啦。啊，一零。
+
+86
+00:13:44,730 --> 00:13:49,730
+正面審議啊嘛，詳細啲可以，即係我想睇下議員點做嘅。
+
+87
+00:14:01,410 --> 00:14:06,690
+就係個只係投票啲唔同，時間會短啲啊嘛，因為我哋可以延展二十八日。
+
+88
+00:13:52,120 --> 00:14:01,080
+我記憶嘅以往嚟講咧，誒呢一類嘅法例都多數係negative effecting，多數咧嗰啲咩嘅？嚇，都唔係好大分別分別嘅啫，都係可以有小組。
+
+89
+00:13:32,950 --> 00:13:44,450
+我我想問下法律顧問咧，呢啲regulation係係通常係negative嘅positive嘅。我哋即係我哋係因為你，如果你疫情係用負例，我哋係咪用一個？
+
+90
+00:13:14,960 --> 00:13:28,210
+係何俊仁議員。I suppose that the regulations are have to be legis to be legislated by subsidiary legislation, right? Yes, they will. Subject to positive or negative betting? Negative betting. Negative betting.
+
+91
+00:12:57,950 --> 00:13:12,580
+Application for appeal has been made, then it would be when the the decision is either confirmed by the RCT, or it's substituted or varied by the RCT, or if for any reason the application for appeal is withdrawn, then at the time of the the withdrawal.
+
+92
+00:14:10,710 --> 00:14:28,680
+噉啊，誒，我相信呢一類嘅regulation咧，都都係比較簡單啲嘅，同埋有針對性嘅。簡單就唔一定簡單，不過問題就係，如果以往以往都係都係negative嘅，噉啊算算啦，我啊，因為我都幾驚，有陣時可能會嚟到啲幾幾多嘢嘅嚇。冇錯，係係。
+
+93
+00:11:22,960 --> 00:11:42,970
+And under clause one hundred and four three, an independent valuer may at any time before a decision under one hundred and four two takes effect correct a clerical mistake or an error arising from an accidental slip or omission in the valuation decision. And here, Chairman, in light of the point raised by the legal adviser.
+
+94
+00:11:54,280 --> 00:12:14,290
+Clause 105 provides a regulation-making power for the Secretary for Financial Services and the Treasury to make regulations applicable to the valuation process. These regulations would be subsidiary legislation. They will be subject to negative vetting by the Legislative Council. And clause 105(2) sets out a non-exhaustive list of the matters
+
+95
+00:12:14,290 --> 00:12:34,300
+matters that the regulations might cover, including some further assumptions and principles to be applied by the independent valuer in the Nickwal valuation, in addition to those which we just discussed in Schedule 7, prescribing a process for conducting the valuation, including a claims process and a process for making payment and recovery of payment where.
+
+96
+00:12:37,940 --> 00:12:57,950
+And then clause 106 specifies the time when a valuer's decision takes effect, and this would either be on the expiry of the period for appeal to the Resolution Compensation Tribunal, which is basically three months, but we'll discuss shortly, where no application for appeal has been made, or if an application
+
+97
+00:17:46,970 --> 00:17:47,710
+好。
+
+98
+00:17:41,020 --> 00:17:42,170
+同事有冇問題啊？
+
+99
+00:16:42,440 --> 00:16:43,610
+由RCT。
+
+100
+00:14:39,460 --> 00:14:41,680
+所以，那帶領我們到。
+
+101
+00:16:44,030 --> 00:16:47,320
+It's important to note that.
+
+102
+00:15:18,330 --> 00:15:24,330
+聽聞，有個獨立的賠償法庭，為審查價值決定，並釐清審查的依據。
+
+103
+00:14:42,010 --> 00:14:48,720
+Sorry, that takes us to Division Four, which is the review of the compensation decision.
+
+104
+00:14:49,000 --> 00:14:58,040
+所以，The Bill provides a dedicated appeal channel to the Resolution Compensation Tribunal in respect of the the Nick Wall compensation decisions.
+
+105
+00:17:07,610 --> 00:17:18,130
+或The RCT is satisfied that the valuer's decision was otherwise fundamentally flawed, and that's provided for in clause 108, subsection 6.
+
+106
+00:16:04,680 --> 00:16:21,460
+And any relevant records or documents that he considers to be relevant, clause 108(3) establishes that all parties to the proceedings must be given a reasonable opportunity of being heard, and 108(4) sets the standard of proof at the RCT as that applicable to civil proceedings.
+
+107
+00:17:18,620 --> 00:17:36,610
+And if the RCT varies or substitutes a decision, then that decision must be one that the the original independent valuer could have made, and it and it will be binding on all those affected by the original decision. And that is provided for in section, sorry, in clause 108, subsection seven.
+
+108
+00:15:24,610 --> 00:15:42,770
+And if there's good cause, the RCT can grant an extension to that three-month period, and that's provided for in clause 107, subsection 4, and clause 107, subsection 5 provides that the application for review of the valuer's decision acts as a stay on the decision actually taking effect.
+
+109
+00:14:58,320 --> 00:15:18,330
+And as we discussed yesterday, also for the removal of the independent valuer, and Clause 1071 and 1072 provide that an aggrieved pre-resolution shareholder or creditor or the resolution authority can at any time during the three-month period following the valuer's decision apply to the resolution comp.
+
+110
+00:15:44,670 --> 00:16:04,680
+Clause 108 establishes the procedures for the RCT in determining an application for appeal. So 108(1) provides for publication and notification of an application for appeal, and upon notification by the RCT, the independent valuer must send to the RCT a copy of his decision.
+
+111
+00:16:22,430 --> 00:16:42,440
+Under clause 1085, the RCT can confirm, vary or set aside the valuer's decision, can substitute another decision that the RCT considers appropriate, or it can remit the matter back to the valuer with any direction that it considers appropriate, which could include making a new decision in respect of any matters specified.
+
+112
+00:16:47,600 --> 00:17:07,610
+The RCT can, however, only vary or set aside a decision of an independent valuer if either the RCT is satisfied that that decision could not have been made by an independent valuer who had reasonably and competently applied the valuation assumptions and principles and the rebuttable presumption under clause 103.
+
+113
+00:18:40,720 --> 00:18:41,420
+對。
+
+114
+00:17:57,460 --> 00:17:58,320
+嗯。
+
+115
+00:18:31,790 --> 00:18:32,680
+噉。
+
+116
+00:18:20,110 --> 00:18:21,210
+係，Such a。
+
+117
+00:18:13,030 --> 00:18:14,360
+and。
+
+118
+00:18:09,530 --> 00:18:10,880
+In such a tool.
+
+119
+00:17:54,070 --> 00:17:55,760
+Section six A。
+
+120
+00:17:51,910 --> 00:17:53,790
+I don't quite understand.
+
+121
+00:17:49,350 --> 00:17:51,630
+好，何俊英。
+
+122
+00:17:59,060 --> 00:18:02,150
+The LTC may vary or set aside decision.
+
+123
+00:18:15,000 --> 00:18:18,470
+會reasonably and competently apply the various presumptions。
+
+124
+00:18:25,480 --> 00:18:31,050
+I don't understand why do why do we have to put in orders? Simply says that the valuation is.
+
+125
+00:18:33,170 --> 00:18:39,630
+It's not. They have good reason to satisfy that this is not a fair valuation or.
+
+126
+00:18:02,710 --> 00:18:09,250
+if satisfied that the decision could not have been made by a person who satisfies the criteria specified.
+
+127
+00:21:05,520 --> 00:21:06,150
+好。
+
+128
+00:21:10,700 --> 00:21:11,590
+啊！進入。
+
+129
+00:21:13,280 --> 00:21:14,890
+第七步係咪？
+
+130
+00:21:07,660 --> 00:21:09,460
+如果冇問題咧，我哋就。
+
+131
+00:21:00,540 --> 00:21:02,910
+Yeah. Okay. It's it's difficult to prove actually.
+
+132
+00:20:01,880 --> 00:20:08,490
+The value, and that is the intention, isn't it? It seems that it's quite difficult to to set us to to to prove.
+
+133
+00:20:47,780 --> 00:20:56,340
+Reasonable way you could have come to that decision, then then you can overrule. That is the intention here.
+
+134
+00:20:08,770 --> 00:20:27,490
+That that section 6A is is satisfied. You would need to prove that the value had been unreasonable in some respect, or did not apply the principles, the assumptions or the presumption, or was in some way not completely independent, didn't have the relevant expertise or experience.
+
+135
+00:19:22,500 --> 00:19:41,590
+would have done this from coming from one valuer and a different valuer having a different liquidation model. the the idea was to to to approach it almost in in a sense of no reasonable valuer could have could have come up with that approach. so as long as the valuer is independent and
+
+136
+00:18:42,480 --> 00:19:02,490
+Thank you, thank you, Chairman. One of the legs that the valuer has to produce is a hypothetical liquidation valuation. So the valuer has to come up with his view of what would have happened on a liquidation if that liquidation had commenced.
+
+137
+00:19:02,490 --> 00:19:22,500
+At the time resolution was initiated, and it's possible we we considered that if you put five valuers in a room, they might all come up with a different liquidation model because it's a hypothetical situation. So to avoid a sort of clash between, you know, I would have sold this part of the business first, and then I would have done this, and I.
+
+138
+00:19:41,870 --> 00:20:01,880
+He's applied the principles and he's and he's done so reasonably and competently and he's come up with a reasonable hypothetical liquidation valuation. Then that should not be overturned. I see. So the threshold is rather high. It is not easy for for one to overturn the the the valuation.
+
+139
+00:20:27,770 --> 00:20:47,780
+Okay, so it's not just a matter of you know you disagree or think that is is is not you know you think that that maybe a fairer or a better valuation. That is not the point. So intend is intentionally put quite a high threshold here. So unless there's good reason or in the sense that it knows.
+
+140
+00:25:45,150 --> 00:25:46,080
+誒。
+
+141
+00:25:54,730 --> 00:25:55,660
+啊，有。
+
+142
+00:25:37,840 --> 00:25:38,850
+叫做。
+
+143
+00:25:46,750 --> 00:25:48,750
+法律顧問，你可唔可以？
+
+144
+00:25:31,410 --> 00:25:33,470
+去審裁處一般嚟計。
+
+145
+00:25:49,770 --> 00:25:51,970
+提供到個意見。
+
+146
+00:25:34,560 --> 00:25:37,440
+喺我哋嘅司法體制下面，有冇一啲係？
+
+147
+00:25:39,250 --> 00:25:42,700
+審財處係需要閉門領閉門領信嘅。
+
+148
+00:24:42,230 --> 00:24:53,050
+都係講佢哋私下佢哋誒商業嘅嗰啲秘密嘅嘢，所以咧，我哋呢啲所呢個嘢正常嚟講咧，係除係都係嗰個係誒閉門進行係。
+
+149
+00:25:13,350 --> 00:25:28,770
+就話：如果係喺第六嗰度講咧，就話如果個申請人同意嘅話咧，咁嗰個審裁處係可以喺呢個條件之下咧，係將嗰啲資料係用筆記名方式咧係去誒誒發放出嚟嘅。好啊，啊，善長嘉議。
+
+150
+00:23:39,070 --> 00:23:57,070
+係正常嘅嗰個香港審裁處嘅個做法。咁誒喺後邊嗰度咧，又講到喺誒一一二三嗰度咧，亦都講到即係話，如果有人係即係唔遵守呢度嗰個嘅要求咧，噉佢呢一個罪行嚟嘅。噉佢就會即係有解釋到嗰個罪行同埋佢嗰個嘅後果。
+
+151
+00:21:18,410 --> 00:21:38,420
+主席，第七部分係誒講關於審裁處嘅。係咁審裁處，我哋喺呢一個誒草案裏邊咧，係有兩個審裁處喺第一分部咧，就有嗰個處置可行性嘅復檢審裁處。誒呢個就我哋係之前喺第一部分傾嗰陣時候咧有提過嘅。咁另外嗰個審裁處咧。
+
+152
+00:21:38,420 --> 00:21:58,430
+咧就係都好相似，但係只有佢嗰個嘅職權唔同嘅咧，就係頭先啱啱講到關於嗰個係誒處置補償嘅審裁處，一個係可行性嘅誒，即係處置可行性嘅復檢，一個就係補償。咁誒，所以我講嘅時候，我都會誒先講呢個誒第一個分部嗰度啦。
+
+153
+00:21:58,430 --> 00:22:18,440
+咁其實就好多咧，同後邊係好相似嘅。咁喺誒，我哋而家睇緊係C二四二六八二頁嗰度啦。噉就誒嗰個第一分部嗰度，首先講到審裁處就講係呢一個處置可行性復檢啦。咁另外就講到話佢哋嗰個誒復呢個審裁處佢嗰個設立嘅時候。
+
+154
+00:22:18,440 --> 00:22:38,450
+咧就都係一個主席同埋誒兩個嘅成員，噉就誒我哋咧喺第八嗰度嗰個嘅審議嗰誒審裁處嗰個附表八咧，就講到關於佢哋嗰個啲嘅誒嗰啲程序嗰啲嘅。咁喺琴日啊何議員咧亦都有問過關於即係話法律代表嗰啲咧，咁喺第。
+
+155
+00:22:38,450 --> 00:22:58,460
+八嗰度有講，噉我哋遲啲可以再去嗰度講。好啊，啊，咁一一一嗰度咧就講到呢個誒，佢個即係管轄權啦。咁主要就講到話係係誒，主要係兩方面嘅。一方面咧就係關於係佢哋喺嗰個處置可行性嗰度咧，要係除去或者挪開一啲嘅障礙嗰陣時候，噉佢哋。
+
+156
+00:22:58,460 --> 00:23:18,470
+如果係有誒有意義，噉佢可以嚟呢度。另外一個咧就關於吸收虧損能力嗰方面。咁當然誒嗰度，因為嗰個主事當當局咧，亦都可以係即係其實金管局咧係可以會有嗰個嘅呢一方面嘅指示。咁如果佢係有意見嘅，咁亦都喺呢度係呢個誒審裁處就會去睇。
+
+157
+00:23:19,060 --> 00:23:39,070
+咁喺一一二嗰度咧，就講到呢個審裁處權力㗎。呢個就同嗰啲好多審裁處香港，我哋即係法例裏邊咧都好相似嘅。噉就講到佢係係攞係點樣去攞證供啊，同埋佢係點樣用咩方法係去通知啊，同埋可以召喚證人啊、監視等等。咁呢啲係嗰個都係喺一個比較。
+
+158
+00:24:02,210 --> 00:24:22,220
+咁一一三嗰度咧就解釋到咧呢個審裁處嗱，呢一個審裁處同嗰個誒後邊嗰個誒賠償個審裁處咧嗰個即係補償個審裁處分主要分別就係呢一個咧佢係閉門進行嘅。咁點解閉門進行咧？因為咧呢一啲嘅係多數係一個機構咧，一個金融機構，當佢係個。
+
+159
+00:24:22,220 --> 00:24:42,230
+嗰個處置機制當局同佢喺度誒要傾研究佢哋嗰個嘅處置可行性嘅時候咧，呢啲客户都係係佢哋公司業務啊，同埋係嗰個未有嗰個叫做啊啊未有啊crisis啊，即係未有嗰個誒危險危急情況嗰啲噉樣，咁所以呢啲客。
+
+160
+00:24:53,340 --> 00:25:13,350
+誒，除除咗佢係呢度講到話，即係佢哋嗰個誒資料啊，冚唪都係要保密，即係除非有啲特別嘅情況，即係下底有講到噉就誒。如果佢將呢呢啲資料係係誒誒亂發放嘅話咧，亦都係一個罪行。咁喺第五嗰度有講到噉，但係佢呢度講到就。
+
+161
+00:26:53,090 --> 00:26:53,860
+即係點解？
+
+162
+00:26:50,240 --> 00:26:52,280
+處置可行性喎。
+
+163
+00:26:09,930 --> 00:26:11,990
+咁但係基本原則都係公開聆訊。
+
+164
+00:27:25,650 --> 00:27:28,210
+誒，嗰個賠償嗰個嗰個咩啊？
+
+165
+00:28:10,320 --> 00:28:14,350
+誒審裁處，另外一個就係處置補償嘅審裁處。
+
+166
+00:26:13,180 --> 00:26:17,310
+自然，係咯，佢門上閉嘅喎。
+
+167
+00:28:00,380 --> 00:28:09,730
+點解會擠到咁厚嘅？喺呢度嗰個審裁處正話副長都講咗啦，即係兩個部分嘅，一個就係可行性嘅復檢誒。
+
+168
+00:27:48,500 --> 00:27:58,530
+即係關乎處置權力嗰度，即係籌備處置嘅，係喺二五零四頁嘅嗰個部分嗰度㗎。
+
+169
+00:26:54,750 --> 00:27:05,280
+係畀我炒啊！可以，似乎呢個係好早期嘅，係咪啊？誒，非常早期嘅，呢個係就係喺危機之前嘅主席。所以其實咧，嗰個次序咧。
+
+170
+00:26:37,930 --> 00:26:49,960
+嘅時候，誒佢哋需唔需要分拆，同埋佢哋內部嘅佢哋嗰個商業嘅運作嘅架構啊？咁呢啲其實係一個非常商業性敏感嘅資料嚟嘅。你啲舊，你你而家呢個叫做？
+
+171
+00:25:55,940 --> 00:26:09,230
+係多謝主席。咁通常審裁處嚟講咧，一般審裁嘅聆訊都係公開嘅。咁牽涉嗰啲商業敏感資料或者個人資料嗰陣時咧，咁通常審裁處有彈性咧，係即係只是係閉門聆訊嘅。
+
+172
+00:26:17,920 --> 00:26:37,930
+誒主席，因為佢哋呢一度咧，因為佢係將一個銀行金融機構佢哋嘅業務計劃同埋佢哋嘅內部嘅佢哋嗰啲嘅誒誒，譬如即係佢哋，因為我哋講緊係佢哋嗰個處置可能性咧，係都係睇到佢哋嗰個嘅業務同埋佢哋嘅業務誒，如果有危機嘅。
+
+173
+00:27:05,640 --> 00:27:25,650
+即係我就覺得有啲亂咯。其實應該就係你有處置嘅決定嘅時候咧，第一步應該先去經呢度，然後先至再，然後先講到係誒誒股價，然後先去到個股價嘅心理，即係中間中嚟仲有仲有第二啲步驟啦。所以佢佢啲次序，所以有陣時候我都聽到有啲亂亂地咧，就係你正話同嗰個。
+
+174
+00:32:22,300 --> 00:32:23,880
+誒除誒。
+
+175
+00:30:34,340 --> 00:30:36,890
+即係法例係當佢生效嗰陣時候咧。
+
+176
+00:30:30,380 --> 00:30:34,000
+或者呢個法例啊？誒誒誒，即係。
+
+177
+00:29:34,670 --> 00:29:39,980
+係誒獨立性嘅，去去去復檢呢一個頭先嗰啲噉嘅指示。
+
+178
+00:29:44,320 --> 00:29:50,070
+好一路審議嘅時候咧，即係各方畀佢哋嘅印象就話呢啲嘢咧，就係第一。
+
+179
+00:32:15,350 --> 00:32:22,020
+即係話十四二，我翻個轉頭啦嚇，就只能夠處理係十四二個會議，就係嗰個。
+
+180
+00:29:50,350 --> 00:29:58,520
+就係好少見嘅，但係一個好好重大嘅決定嘅一個，如果要處要處理個金融機構嘅話，亦都講得好急。
+
+181
+00:29:59,570 --> 00:30:09,990
+影響個市場嘅穩定噉樣。咁但係，如果你中間又可以有呢個噉嘅機制咧嚇，我當然唔係反對呢個機制。我想了解咧，如果你你要急於要處理一個金融機構，
+
+182
+00:31:57,210 --> 00:32:14,700
+即係話咧，唔係話誒誒，聽日有危機發生，今日去傾嘅，而係係可能嗱。如果危機可能係幾年後發生，我哋希望即係儘量嘅希望少啦。而危機發生係講幾年後嘅事，我希望啊。咁而喺呢幾年裏邊嗰時候咧，就會咧，係會做呢啲噉嘅嚇。
+
+183
+00:27:28,490 --> 00:27:48,500
+啊啊！呢個呢個commission review tribunal又係嗰個就係詞好多嘅個證據。呢個係好早記嘅呢個，即係其實第一步，第一步即係你對嗰個處置機制嘅重要決定挑戰嘅時候，就已經做啦呢樣嘢。誒係啊，阿主席啱㗎。我哋呢一度講嘅咧係關於係第三部分嘅，即係part three。
+
+184
+00:28:14,630 --> 00:28:34,640
+咁所以呢個即係因為佢佢係想集中埋一齊講審裁處。O K。咁所以咧就係誒擺咗。你可唔可以解畀我聽咧？呢個審裁處邊個去啟動？即係邊個？即係邊一個係？即係而家有兩個控辯雙方啦，訴訟雙方啦。邊個訴邊個？邊個中邊個？誒。
+
+185
+00:28:34,640 --> 00:28:54,650
+誒，副局長誒，一般情況啊，主席誒誒，一般情況咧，嗰個訴訟方應該就個金融機構嗱，因為點解咧？我哋頭先誒，我哋見到一一一嗰度咧誒A同埋B嗰度咧，有講到嘅咩情況佢可以嚟訴訟？佢訴訟就係話當個處置機制當局根據第三分部啊，即係。
+
+186
+00:28:54,650 --> 00:29:14,660
+頭先講話第三即係part three第三分部嗰度，當佢哋係有一啲指示係關於話佢哋要誒挪開一啲嘅障礙，即係remove removal of impediments。即係當佢喺個架構度或者各方面度，佢有指示畀佢，或者佢有一啲叫做吸收虧損能力，即係個loss absorption。
+
+187
+00:29:14,660 --> 00:29:34,670
+capacity嘅嗰個噉嘅要求嗰陣時候咧，即係頭先第三分部裏邊嗰個要求嗰陣時候咧，變咗咧，佢哋可能會覺得誒呢個要求唔合理或者指示咧，佢哋認為唔可以接受，噉佢哋就可以嚟到呢一個嘅審裁處度咧，就要求呢個審裁處作一個誒一個係。
+
+188
+00:30:10,370 --> 00:30:30,380
+但係跟住咧，有人話：喂，你你唔應該咁處置噉樣。噉你都搞，大家揾律師打打噉，咪變咗唔使做咁仔。即係如果你個緊急性點處理，我想知道。阿阿主席，我因為我澄清少少咧，呢一個程序咧係喺誒今日做，即係今日者，即係講喺冇危機嗰陣時候，當呢個法例執行。
+
+189
+00:34:29,530 --> 00:34:30,210
+嗯。
+
+190
+00:32:41,630 --> 00:32:42,330
+好。
+
+191
+00:34:23,580 --> 00:34:24,450
+係。
+
+192
+00:32:44,110 --> 00:32:45,330
+噉，我哋繼續啦。
+
+193
+00:34:00,810 --> 00:34:02,100
+我前日發言。
+
+194
+00:34:21,440 --> 00:34:22,910
+係啊，任何人。
+
+195
+00:32:24,290 --> 00:32:26,030
+排除障礙。
+
+196
+00:33:45,850 --> 00:33:47,830
+身份啊，等等咧，係。
+
+197
+00:34:30,570 --> 00:34:36,260
+即係被處置機構，佢向外披露唔得啦。但係官員或者係，
+
+198
+00:34:02,800 --> 00:34:08,530
+嗰度咧，呢個a person啊嘛。嗱，因為你你二嗰度咧就誒，即係五嘅。
+
+199
+00:34:09,390 --> 00:34:21,100
+誒二六九一嗰度五嗰度咧就話，如果任何人嘅呢度寫係應該要任何人嘅，咁包括政府官員或者誒處置機構嘅人員㗎啦喎，係嘛？
+
+200
+00:33:48,110 --> 00:34:00,440
+誒，主席嘅問題。誒，你你你繼續講講完，我就會請佢哋。啊，咁即係就係話喺呢個情況之下咧，佢哋係可以將嗰個嘅靈信嘅嗰個其中一啲嘅決定啊，嗰啲係可以將佢係公開。
+
+201
+00:32:26,440 --> 00:32:40,680
+同埋十九三十九三就係誒吸收虧損能力，吸收虧損能力，我覺得喺平時運作嘅時候已經做緊嘅啦，已經係嘅，主席個監管機構係，咁所以就唔係話有事嘅時候先，唔係危機嘅時候。O K，明白。
+
+202
+00:32:46,370 --> 00:33:05,000
+誒，主席，我哋頭先講到話誒誒，一一四嗰度咧，一三就講，一三就講咗，講咗就係話嗰個係誒閉門進行。主席可唔可以唔好一劈咁講，逐個close？唔係，而家都係逐個講，不過就唔係逐隻字去讀畀大家聽啫。我知，嗯，好嘛。
+
+203
+00:30:37,170 --> 00:30:57,180
+處置機制當局咧就會同佢屬下嘅，其實佢哋而家都有做緊嘅，但係佢哋做緊就係用嗰個誒監管嗰個機構個角度嚟睇，即係譬如另外啲地方嚟講咧。如果我喺香港嚟講，當我哋呢個條例進行誒，即係經已入生效之後咧，監誒處置機制當局，我哋有三個喺度啦，佢哋就會喺。
+
+204
+00:30:57,180 --> 00:31:17,190
+係即刻，而家咧就會當然有先後次序啦，比較上複雜啲、重要啲嘅先做先。佢就會同佢哋咧就去做一個處置可能性嘅研究，即係會去睇下佢哋話呢個咁龐大機構當要處置嗰陣時候，誒佢哋個架構會唔會好多嘅內部嘅誒，即係叫做。
+
+205
+00:31:17,190 --> 00:31:37,200
+做啊interconnectness啊，即係嗰啲誒誒，因為要要靠唔同嘅部分，佢哋提供嗰啲誒重要嘅幾關鍵性嘅金融服務等等嗰啲噉嘅時候咧，佢哋就同埋已經睇下佢個資本嗰個誒足夠啊。頭所以頭先就講到關於嗰個叫做係誒吸收虧損能力嗰類嗰啲咧。
+
+206
+00:31:37,200 --> 00:31:57,210
+就變咗嗰個處置機動局咧，佢哋會同佢哋屬下嘅，即係佢哋核下嘅嗰三大類嘅，即係銀行機構誒銀行咧，即係即係誒A.I.啦，同埋另外係嗰個保險公司，同埋另外嗰啲非金融非銀行機構，佢哋會傾呢啲。而呢啲咧就唔係緊急，而嘅意思。
+
+207
+00:33:05,830 --> 00:33:25,840
+好誒一一三六，頭先我我哋有提到咧，就係話呢個閉門進行，同埋我哋都講到喺後邊嗰度咧，就講到閉門進行嗰個時候，如果有人係違法嗰時候一一三五嗰度咧，就講到話呢一個罪行。咁同埋咧，亦都講到話喺佢哋有同第六嗰度咧，即係誒分一一三六。
+
+208
+00:33:25,840 --> 00:33:45,850
+嗰度咧就話，當嗰個粉財處見到係有佢哋嗰個誒申請人嘅同意，同埋嗰個處事機就當同意咧，佢哋可以將其中嗰啲誒將佢哋嗰個嘅誒決定啊，係可以公佈嘅。但係當然佢就呢個講咧，就話佢冇將嘅人名嗰啲各方面，即係人名即係申請人嘅。
+
+209
+00:35:07,340 --> 00:35:08,020
+唔得啊！
+
+210
+00:34:58,110 --> 00:34:58,890
+並未説明。
+
+211
+00:34:50,490 --> 00:34:51,350
+我睇住。
+
+212
+00:34:46,280 --> 00:34:47,320
+啊，副將。
+
+213
+00:35:05,600 --> 00:35:06,770
+所以。
+
+214
+00:35:09,130 --> 00:35:10,590
+officials.
+
+215
+00:35:35,720 --> 00:35:37,270
+我有打牌，好。
+
+216
+00:35:47,730 --> 00:35:49,290
+我睇住兩邊， right.
+
+217
+00:34:55,930 --> 00:34:57,740
+特別係什麼？
+
+218
+00:35:33,630 --> 00:35:35,440
+係咪啊？
+
+219
+00:34:48,010 --> 00:34:50,000
+誒，應該係嘅。
+
+220
+00:35:45,270 --> 00:35:47,270
+即係參與者係應該係。
+
+221
+00:34:41,720 --> 00:34:45,590
+披露咗出去咧，佢都係違法㗎啦，刑事㗎啦，係嘛？
+
+222
+00:34:36,540 --> 00:34:41,070
+閉門嘅聆訊參與者，任何一方嚇，佢。
+
+223
+00:38:08,970 --> 00:38:10,160
+係包括。
+
+224
+00:37:38,350 --> 00:37:39,780
+就係。
+
+225
+00:36:53,830 --> 00:36:55,360
+你再講多次。
+
+226
+00:35:54,220 --> 00:35:56,110
+即係個處直幾隻當局嗰邊啊？
+
+227
+00:38:14,000 --> 00:38:15,940
+誒被處置嘅機構啦。
+
+228
+00:38:10,440 --> 00:38:13,720
+嗰個主審法官啦，兩個成員啦。
+
+229
+00:36:41,500 --> 00:36:44,830
+但佢話：佢不包括個處置機制當局喺呢度。
+
+230
+00:35:49,640 --> 00:35:53,900
+啊，應該係誒，即係官員同埋嗰個參與者嚇。
+
+231
+00:36:31,270 --> 00:36:36,290
+即係包括誒主席啊、普通成員啊、參與人啊、申請人等等嘅。
+
+232
+00:35:37,550 --> 00:35:43,030
+啊，副局長，係嗰個誒嗰個participant，我記得佢有佢有define嘅頭先。
+
+233
+00:35:24,680 --> 00:35:31,900
+任何人就應該係屬於呢個，即係第二條。佢講嘅第二條裏邊啊嘛，就係嗰個言訊嘅參與者啊嘛。
+
+234
+00:37:14,150 --> 00:37:21,470
+係啊，所以對唔住啊，主席。嗱，再講多次。嗱，我五嗰度咧，係呢度寫就係。
+
+235
+00:37:59,830 --> 00:38:08,340
+即使咧喺嗰個tribunal裏邊咧，參與者即係我嘅即係有份去嗰個會誒嗰個誒審裁處嘅人咧。
+
+236
+00:37:40,710 --> 00:37:49,720
+a participant啊嘛，係OK噉，即是咧呢個咧，我我因為嗱，五哥就a person，二哥就a participant。
+
+237
+00:36:21,150 --> 00:36:30,270
+唔包括拍個拍在邊度啫？誒誒，個拍啲視頻其實係有跌翻㗎，就喺二六二六九下、二六九二嗰度有講，我記得係。
+
+238
+00:37:50,000 --> 00:37:59,550
+咁個分別就係，如果你睇翻第誒你嗰個嗰個definition啊，participant嘅definition咧，就唔包括resolution authority嗰啲成員嘅。
+
+239
+00:36:57,060 --> 00:37:10,440
+咁即是個法官唔可以向外披露，嗰個兩個tribunal嘅成員唔可以向外披露，跟住政府咧唔好話政府啦，個regional authority咧噏咗就冇後果嘅喎。
+
+240
+00:37:22,460 --> 00:37:37,370
+A person who, without reasonable excuse, contrives a fiend。咁呢度A person咧就就佢呢個就講係誒誒誒誒subsection二commit an offence啊嘛係咁呢度咧二嗰度咧。
+
+241
+00:40:23,750 --> 00:40:24,830
+冇意。
+
+242
+00:40:25,310 --> 00:40:26,740
+披露咗。
+
+243
+00:38:28,960 --> 00:38:30,870
+五嗰個A person啊！
+
+244
+00:40:33,350 --> 00:40:35,310
+咁究竟你會係用？
+
+245
+00:38:25,240 --> 00:38:27,240
+咁個五嗰度包唔包咧？
+
+246
+00:38:21,100 --> 00:38:23,970
+但係就唔包金融處置機構嘅。
+
+247
+00:40:28,830 --> 00:40:31,880
+啲審裁處裏邊嘅內容，OK。
+
+248
+00:38:17,230 --> 00:38:20,780
+證人啊，等等啦，律師啊，噉樣樣，全部都包。
+
+249
+00:38:36,020 --> 00:38:40,870
+啊，主席，我哋其實我哋我哋可以誒睇誒。
+
+250
+00:40:18,110 --> 00:40:23,430
+好方好方間咁問你，如果有一個官員無意。
+
+251
+00:40:01,230 --> 00:40:07,220
+寫嘅就係話喺呢個情況之下咧，佢哋受一些限制以外咧，佢哋係唔包括。
+
+252
+00:40:08,990 --> 00:40:17,040
+即係，珠子嘅當局係不受噉，實質上嗰個分別喺個，即係喺個，噉我我我好用好膩密好。
+
+253
+00:38:41,190 --> 00:39:01,200
+五五嗰度，頭先五嗰度嗰個person咧係指緊，即係任何人係係係受受嗰個誒第二款嘅嘅限制嘅。第二款限制就講個participant。咁頭先我哋大家好似誒，即係有睇到咧，就話二六九二嗰度咧就講。
+
+254
+00:39:01,200 --> 00:39:21,210
+講到話咧，喺嗰個誒咩情咩人係包啦？噉佢嗰佢嗰度中佢嗰度寫咧就話，佢係唔影響第一車一條㗎。咁第一車一條之下咧，即係佢話喺唔影響一車一條之原則之下咧，係唔包括此隻此隻幾隻當局。而呢個一車一條咧，我哋喺誒二百二千二。
+
+255
+00:39:21,210 --> 00:39:41,220
+七九零嗰個頁數度咧，見到咧，嗰度係指緊係誒公事保密，即係official secrecy，即係話咧喺呢一度嚟講咧，呢一度咧包括埋嗰個嘅誒，主席幾日當局同埋各佢哋入去嘅所有人等咧，佢都係受呢一個嘅誒嘅保密規定嘅。
+
+256
+00:39:41,220 --> 00:40:01,230
+咁所以咧，佢哋嗰個保密規定經已喺嗰個誒處置機器當局咧，同埋佢嘅誒委任嘅叫做個人等咧，包括嗰啲嘅授權人士啊、第十條實體啊、估值師、調查員等等咧，佢哋都係受一七一個嗰個嘅限制。噉就呢一度。
+
+257
+00:41:18,940 --> 00:41:19,530
+嗯。
+
+258
+00:41:20,690 --> 00:41:21,290
+我覺得係。
+
+259
+00:40:42,570 --> 00:40:43,430
+冇爭。
+
+260
+00:41:53,110 --> 00:41:54,250
+大佬講錯啦。
+
+261
+00:41:03,440 --> 00:41:04,900
+係嘛係。
+
+262
+00:41:13,550 --> 00:41:15,240
+嗰個panel有冇唔同㗎？
+
+263
+00:41:57,490 --> 00:41:59,780
+我聽我都冇聽到佢講到，你講。
+
+264
+00:40:44,540 --> 00:40:46,840
+應應該係一七一嘅主席。
+
+265
+00:42:00,060 --> 00:42:02,860
+啱啱講咗嘅，之前講咗，不過嚇。
+
+266
+00:41:30,380 --> 00:41:34,790
+咁嗰度就係講一百萬，同埋兩年，同埋嗰個level six。
+
+267
+00:40:35,590 --> 00:40:40,810
+一一三五去告啊，定係用一七一去用一七去告？
+
+268
+00:40:47,490 --> 00:40:52,730
+咁即時話一三五咧，唔係，sorry，一一誒。
+
+269
+00:41:44,850 --> 00:41:51,410
+好，冇其他問題，我哋繼續。係，誒多謝主席，我哋誒跟住就去到A S四。
+
+270
+00:41:35,070 --> 00:41:41,840
+咁呢一度咧就係都係一樣嘅。O K，啊，即係五嗰度係一樣嘅。O K，好。
+
+271
+00:41:23,190 --> 00:41:30,100
+誒，佢嗰個喺嗰個一一七一個penalty就喺二七九八嗰度啊！
+
+272
+00:40:53,570 --> 00:41:02,650
+應該用一七，咁即係你嗰個一一三嘅五，你哋係唔打算用喺個resolution quality，或者係冇權用喺resolution quality。
+
+273
+00:45:16,590 --> 00:45:18,300
+應該參考一樣嚇。
+
+274
+00:45:14,040 --> 00:45:16,100
+我相信就係啦，係嘛？好。
+
+275
+00:42:10,580 --> 00:42:12,650
+好，我哋繼續啦嚇，二一四。
+
+276
+00:44:27,820 --> 00:44:30,200
+好，如果冇問題，我哋一六啊。
+
+277
+00:42:55,350 --> 00:42:59,920
+佢呢度寫咗就係話咧，佢哋嗰個誒。
+
+278
+00:43:40,220 --> 00:43:44,940
+喺跟個刑事罪行條例裏邊，或者係嗰個作一個普通法裏邊。
+
+279
+00:44:50,630 --> 00:44:56,870
+呢啲畀佢嗰陣時候咧，就可以係用一個誒民事訴訟噉樣去追追收嘅呢個。
+
+280
+00:45:04,580 --> 00:45:13,700
+嗰個啊，學耀，即係呢個畀誒仲費嘅原則都係同一般法庭嘅一樣㗎啦，應該，使唔使講清楚？都係。
+
+281
+00:45:19,720 --> 00:45:28,900
+咁A一七嗰度咧，啊主席就係話誒嗰個審裁處嘅裁定係係應該要有個通知，係畀嗰啲嘅有關人士噉樣。
+
+282
+00:43:45,220 --> 00:43:55,620
+佢哋都係，如果佢哋作假證供嘅話咧，一樣都係可以啊啊訴訟嘅，即係可以有刑事，因為呢個罪行而係被啊被告嘅。
+
+283
+00:44:02,130 --> 00:44:19,470
+O.K. O.K.誒一一五主席誒主席嗰一一五嗰度即係講到係關於係藐視罪，咁呢個就講到話個審裁處咧，同一個原眾法庭一樣有個權力可以係誒誒判處誒誒藐視罪嘅。
+
+284
+00:42:15,330 --> 00:42:35,340
+誒，我哋E.S.四係咪主席啊？係啊，E.S.四嗰度咧就講到關於係誒喺咩情況咧係講到有導致入罪，即係叫incriminating evidence。咁呢個導致入罪嘅證據嗰度咧，呢度呢一度講咧就係話喺呢一度條款講清楚就話係當一個人佢唔可以誒，即係。
+
+285
+00:42:35,340 --> 00:42:55,350
+有關人士咧就係，所以喺第一一一四一嗰度講到係，即係當佢要係誒提供證據啊、回答問題啊，或者係物呢個情況之下咧，佢唔可以話因為我係導致入罪噉，所以咧我就唔提供呢個資料。咁呢度就誒唔容許呢件事情噉樣發生嘅，噉就。
+
+286
+00:43:00,200 --> 00:43:20,210
+誒有個保障者咧，就係話咧，就係第十誒第四款嗰度講咧，就係話誒喺呢一個情況之下咧，當佢提供咗一啲資料係叫做有又係有呢個噉樣樣嘅盜紙入罪嘅情況嘅時候咧，呢一啲資料咧就不會用作於喺嗰個刑事法律程序中間。嗯，咁呢個。
+
+287
+00:43:20,210 --> 00:43:40,220
+個就係一個誒，即係嗰個保障。噉就佢呢度下低就講到咧，但但係下低嗰度咧就有話到咧，就係話如果佢係因為係法誒，但係呢樣嘢唔係話表示，即即法庭即仲可以去告佢嘅咧，就係關佢係作假證供呢個罪啊，係係關。
+
+288
+00:44:30,620 --> 00:44:50,630
+誒誒，主席多謝。呢一六就關於仲費方面咧，呢個亦都個標準咧，就係話即係誒嗰個審裁處咧可以係有佢個酌情權咧，就係係提誒畀嗰個即係有關方面啊、關涉方等等咧，佢哋有啲係誒cost即係啲款項係可以畀佢哋噉就而呢。
+
+289
+00:46:27,800 --> 00:46:28,410
+嗯。
+
+290
+00:46:20,370 --> 00:46:21,050
+嗯。
+
+291
+00:46:29,720 --> 00:46:30,500
+都。
+
+292
+00:47:26,410 --> 00:47:27,430
+嗰啲issues。
+
+293
+00:46:45,680 --> 00:46:46,900
+講埋啲意義。
+
+294
+00:48:03,010 --> 00:48:05,690
+法律嘅上訴就法律嘅論點咯。
+
+295
+00:47:20,840 --> 00:47:26,130
+糾纏一齊一一起嗰啲都係得嘅，係咪？應該係咪？即係mix law and facts嗰啲。
+
+296
+00:46:13,270 --> 00:46:19,160
+誒款項啊，誒即係嗰個叫做payment money tribunal咁等等嚇。
+
+297
+00:47:41,880 --> 00:47:49,570
+如果mixed嘅咧，即係即係咗一兩啲油得唔得啊？如果嗰個就係正常嘅上數啦，即係一般嘅上數。如果兩樣都得嘅嗰啲係。
+
+298
+00:45:32,160 --> 00:45:41,370
+咁一一八咧就就其實都係同嗰度有關係嘅，就講到話呢個誒審裁處嘅命令咧嘅格式同證明係點樣證明到呢個命令係出咗嘅。
+
+299
+00:47:11,100 --> 00:47:20,560
+呢呢度問問法律顧問，係咪都係咁寫法㗎？咪一般都係即係誒，譬如有啲我哋叫做即係法律同事實，嗯。
+
+300
+00:47:51,340 --> 00:48:02,730
+咁即係得唔得啊？即係我我唔係好明嘅。即係如果你嗰啲嘢，如果係純粹係上訴，一般嘅上訴就係無論法律觀點或者係事實裁斷都可以上訴。噉佢而家嘅寫法就只係限於即係。
+
+301
+00:47:28,310 --> 00:47:41,600
+法律顧問係有啲嘅寫法，即係嗰個誒復檢嘅範圍只限於法律嘅觀點問題咯。嗯，咁所以呢個寫法就係唔即係事實嘅裁斷咧，就唔會由上訴庭去作出即係嗰個復檢嘅。
+
+302
+00:46:30,850 --> 00:46:44,350
+誒，一二零嗰度咧就講到話，即係除咗係佢誒係根據一二二之外，佢哋誒就係冇再誒可以再上上訴嘅途徑。咁或者我先講埋一二。
+
+303
+00:46:47,180 --> 00:47:05,190
+一二二嗰度咧，主要就講到話嗰關涉方咧係喺係嗰個有一個嘅誒上訴法庭嘅法官許可之下咧，佢可以係就法律論點嘅咧，即係point of question of law咧，佢可以去上訴法庭提出上訴嘅，即係呢個係一個上訴嘅途徑。
+
+304
+00:45:53,260 --> 00:46:13,270
+一一九啊，誒主席一一九咧就係講到話，即係誒其中嗰啲一個誒一方，即係關涉方咧係可以去審裁處度申請咧，就要求嗰個國字執行佢哋個裁定或者命令。咁誒第誒二嗰度咧又講到其中一啲可能嘅誒嘅嘅條件咧，包括係繳存。
+
+305
+00:49:32,240 --> 00:49:33,440
+嘅裁定嚇。
+
+306
+00:49:16,780 --> 00:49:18,090
+點講咧，即係。
+
+307
+00:50:10,860 --> 00:50:12,190
+你睇睇一二零。
+
+308
+00:49:34,040 --> 00:49:35,920
+佢佢佢呢度咧就係。
+
+309
+00:48:21,990 --> 00:48:24,580
+我想問問下誒局長嚇。
+
+310
+00:48:12,580 --> 00:48:15,180
+事實嘅裁定都有好大爭論。
+
+311
+00:49:29,120 --> 00:49:31,860
+即係會有啲法律觀點，可能有啲事實嘅。
+
+312
+00:48:08,100 --> 00:48:11,850
+唔OK啊！即係如果有有啲事實嘅。
+
+313
+00:48:16,330 --> 00:48:20,610
+都唔打誒，係啊！即係個政策係唔應該上訴嘅。
+
+314
+00:49:10,840 --> 00:49:16,470
+不過呢啲好好少有咩純法嘅觀點㗎，係嘛？即係你都係成個法例喺。
+
+315
+00:49:19,690 --> 00:49:28,840
+即係係混啊混咗好多嘅嘅事實嗰度咯，相對。不過anyway，即係如果一般都係噉樣嘅寫法咧，到時我諗啲律師有辦法拗嘅啫，即係呢啲都。
+
+316
+00:48:45,330 --> 00:48:56,500
+充唔充足啊？嗰啲呢啲地方度，咁所以正常嚟講，佢哋嗰啲嘅即係叫事實者咧，就係應該就唔係話噉啊，可以去。
+
+317
+00:48:56,900 --> 00:49:08,490
+即係叫做question and fact咁去去去即係辯論啊！主要就係應該話睇個審裁處喺睇呢啲嘢嗰陣時，又喺法律論點度有冇犯錯？
+
+318
+00:49:56,350 --> 00:50:08,500
+不服嘅話咧，佢係可以透過嗰度嚟到處理嘅。噉佢審裁處咧，自己會即係如果係有有理由嘅話咧，佢佢會重新即係改置咗嗰個命令啊，同埋裁定。
+
+319
+00:48:25,320 --> 00:48:45,330
+副局長，誒，因為佢呢一啲嘅誒事實者咧，其實因為呢一個係講緊佢嗰個處置可能性咧，佢係講緊佢哋嗰啲誒嗰個誒金融機構嘅佢哋嗰個嘅架構，佢哋嘅嗰個嘅運作，誒同埋佢哋嗰個嘅誒喺特別係資本，誒即係喺誒財務。
+
+320
+00:49:36,340 --> 00:49:56,350
+最主要就係噉樣嘅，佢係如果就住呢個審裁處嘅裁決同埋命令咧，佢有一個自己去誒複核嘅一個機制嘅，就喺我哋一一九嗰條，即係如果係誒申請誒就住佢嗰個裁決同埋命令咧，即係覺得誒誒仲有啲問題。
+
+321
+00:50:13,630 --> 00:50:14,190
+好少。
+
+322
+00:50:50,780 --> 00:50:51,380
+係。
+
+323
+00:50:34,270 --> 00:50:35,360
+啊！
+
+324
+00:50:35,820 --> 00:50:37,860
+袁仲庭申請司法覆核嘅嘞。
+
+325
+00:50:55,480 --> 00:50:58,600
+咁噉，一二零同一二有咩分別啊？我唔係好明。
+
+326
+00:52:15,600 --> 00:52:18,820
+嗰誒，呢點係可能，翻到一二二。
+
+327
+00:50:38,940 --> 00:50:44,340
+完咗可以誒？司法覆核我哋幾時都可以啊！我哋嚇嗯嗯。
+
+328
+00:50:21,680 --> 00:50:27,630
+係法律顧問，係。係多謝主席。咁喺上述呢一點上邊，就有一個想澄清嘅。
+
+329
+00:50:27,910 --> 00:50:33,930
+如果個審裁處最終決定佢唔去上訴庭處理法律觀點，佢可唔可以去？
+
+330
+00:52:26,620 --> 00:52:32,700
+就係誒law society嘅，即係關關於關於係藝術嘅事啊！哈哈。
+
+331
+00:52:19,100 --> 00:52:26,000
+誒五嗰度括五五嗰度，我依家唔好記得。我諗我諗誒兩邊嘅法律顧問都可以睇睇，有個案例。
+
+332
+00:51:15,190 --> 00:51:23,280
+其實一二零有冇必要寫落去咧？你知道其實你知唔知係有啲情況之下咧，譬如你立法會選舉條例咧？
+
+333
+00:51:24,510 --> 00:51:38,140
+就話去咗咩做上訴，去咗咩做裁決，嗰個就終極啦噉樣。後來人哋打呢個point啊，都畀人哋void咗，誒畀人畀法院裁定呢一個嘅係無效嘅。你知唔知個上訴權嗰度咧？
+
+334
+00:51:59,590 --> 00:52:14,500
+就呢一點係咪終極啊？都走去挑戰，一路挑戰到去終審法院。終審法院話呢一個法例無效，你冇理由寫到個法例咧係。我希望我冇記記憶錯啦，就係話噉樣寫係唔得嘅。後來政府都改例嘅要。
+
+335
+00:50:59,460 --> 00:51:14,640
+誒一二零就個寫法就係話誒，除咗一二之外咧，佢係冇上訴嘅嘅權，而一二二咧就解釋喺咩情況之下咧，佢係可以上訴同埋可以上訴係邊一方面。
+
+336
+00:51:39,580 --> 00:51:59,590
+誒，我我唔係好想講下，即係幾年前咧，阿李柱明打過呢個官司㗎啦。喺立法會喺好似選舉條例裏邊咧，就講明咧，即係如果你選舉程程咧，咁咧就誒，好似係誒呢一個高院誒，即係高院就裁裁定係誒終極啦噉樣樣。咁後來咧。
+
+337
+00:53:38,700 --> 00:53:40,190
+啊，好嘛，啊。
+
+338
+00:54:23,510 --> 00:54:25,030
+係定出一啲規則。
+
+339
+00:53:31,300 --> 00:53:32,840
+有關於嗰個個案。
+
+340
+00:53:22,750 --> 00:53:24,310
+嗱，我我哋誒。
+
+341
+00:52:55,550 --> 00:52:59,230
+雖然係寫咗話個誒止於上訴庭。
+
+342
+00:53:08,830 --> 00:53:12,680
+同埋你睇埋頭先，我講嗰個個案啦，即係。
+
+343
+00:52:33,190 --> 00:52:37,970
+噉就係誒，關於呢啲呢啲誒上訴嘅。
+
+344
+00:53:33,120 --> 00:53:38,420
+同埋誒嗰個性質，同埋我哋而家講緊嘅呢一個係咪性質係相同？
+
+345
+00:53:24,590 --> 00:53:31,020
+或者法律顧問都幫幫手啦嚇，睇翻阿馴龍嘉議員所講嘅嗰個選舉條例裏邊。
+
+346
+00:52:38,290 --> 00:52:45,990
+即係誒嘅權利嘅問題嚇，咁嗰個案咧就係誒寫明最終去到上訴庭。
+
+347
+00:52:59,950 --> 00:53:07,810
+噉我睇睇，然後就然後確確保咧，一二二裏邊唔會有啲嘢係違反咗嗰個終審庭嘅決定。
+
+348
+00:54:29,900 --> 00:54:37,790
+咁亦都係講到關，即係佢其實呢個係好標準嘅，即係定嗰啲關於誒嗰個誒程序等嘅嘅。
+
+349
+00:53:13,260 --> 00:53:21,200
+好多時，你話去到某個位係終極判決咧，係唔得嘅。去係啊！
+
+350
+00:52:46,360 --> 00:52:55,030
+但係，但係當然有啲嘢唔又唔係完全係係得嘅，即係我諗睇睇翻就係嗰個我就足之終審庭話佢有權聽上訴。
+
+351
+00:53:43,490 --> 00:54:03,500
+好，噉我哋繼續。誒，主席，頭先我哋去到講一二零一二二，我翻翻去講一二一咧，就主要就講到話誒首席即係中審法院嘅首席法官咧，佢哋係可以係定一啲例誒，關於規則係講關於係誒將嗰啲誒有啲係唔同嘅關涉方可以。
+
+352
+00:54:03,500 --> 00:54:23,510
+係因為共同利益等等情況之下咧，係將嗰啲嘅誒嘅審審裁處嘅啲嘅情誒嘅case係將佢係誒將佢係一齊一並處理嘅。噉就亦都講到話嗰個誒，即係終審法官可以關於嗰個訴訴訟費啊、訴訟費嘅評定等咧。
+
+353
+00:57:09,130 --> 00:57:09,770
+嗯。
+
+354
+00:57:10,200 --> 00:57:10,900
+好。
+
+355
+00:54:44,630 --> 00:54:45,380
+主席。
+
+356
+00:56:39,540 --> 00:56:40,450
+梁生。
+
+357
+00:55:29,870 --> 00:55:30,990
+冇咧就。
+
+358
+00:55:26,770 --> 00:55:28,070
+好，有冇問題？
+
+359
+00:54:39,840 --> 00:54:41,280
+嘅嘅指定啊！
+
+360
+00:56:34,100 --> 00:56:36,880
+誒邊個回答咧？
+
+361
+00:56:11,370 --> 00:56:15,570
+好法律顧問。係。好，sorry。法律顧問。嗯，多謝主席。
+
+362
+00:56:15,850 --> 00:56:22,760
+噉就一二三括弧三嗰度咧，就係上訴庭可以即係再作出適當嘅重廢啊！
+
+363
+00:56:23,040 --> 00:56:31,150
+嘅命令，咁呢個命令係咪包括可以改咗原先審裁處所已經落嘅仲費嘅命令咧？
+
+364
+00:55:04,200 --> 00:55:13,510
+主席，一二零嗰度就係話根據一二二就可以又話誒有上訴，但係一二二以外咧就冇上訴權啦。係。
+
+365
+00:55:51,590 --> 00:56:00,910
+再去重新再裁定等等，噉就誒呢個係佢亦都係有可以係有關於訴訟費嗰方面嘅，即係呢個係。
+
+366
+00:56:51,580 --> 00:57:07,430
+應該只可以就上訴呢個呢個。主席，呢個似乎我睇一二一三第三款講嗰個誒cost嗰個重費係講緊上訴程序入邊嗰個重費嚟嘅，似乎就唔係第一千第一十號裁決嗰個嗰個決定。
+
+367
+00:54:45,660 --> 00:55:02,370
+係，選員。其實我都睇，都我都唔係太明嘅都。嗱，即係誒一二一嗰度誒誒誒阿誒大法官可以有啲乜嘢定立啲規則都O K。但係一二零咧，你就話唔可以；一二二你就話可以。咁兩個夾埋一齊，即係唔可以定可以啊？
+
+368
+00:55:31,580 --> 00:55:51,590
+一二三，誒主席，一二三度就係講關於頭先上訴法庭咧，跟住咧二二嗰度咧，佢當佢嗰個誒誒去財政上訴嗰陣時候咧，佢哋可以有嘅權力係就係可以誒駁，可以判上訴得直啊、駁回啊、推翻啊、修改啊，或者係誒要翻嗰個審裁處。
+
+369
+00:58:05,830 --> 00:58:06,550
+嗯。
+
+370
+00:58:07,190 --> 00:58:08,760
+同事冇問題咩？
+
+371
+00:59:45,830 --> 00:59:47,880
+咁嗰個誒？
+
+372
+00:58:43,270 --> 00:58:45,380
+舉手就可以繼續㗎啦。
+
+373
+00:57:26,960 --> 00:57:29,390
+即係一般嘅情況係噉樣。嗯，係啊。
+
+374
+00:57:15,730 --> 00:57:18,180
+係判個上訴得直，咁其實。
+
+375
+00:57:11,180 --> 00:57:14,820
+誒法律顧問，咁主席嘅跟進就係如果個上訴庭。
+
+376
+00:57:32,370 --> 00:57:39,050
+佢應該就喺前面嗰度，即係如果佢係上訴得直嘅話，就一定係就住原。
+
+377
+00:57:19,100 --> 00:57:26,530
+按一般情況嚟講，下級法庭咧，其實嗰個如果推翻嘅話，嗰個仲費都係有空間要改，即係改變嘅。
+
+378
+00:59:48,370 --> 00:59:56,010
+一二八嗰度咧，就講到佢嗰個審裁權力同頭先都係好相似嘅。誒，佢主要分別就係一二八一D嗰度喎。
+
+379
+00:57:52,010 --> 00:58:00,990
+唔係好清楚嗰個誒法嗰個民事法律程序嗰個情嗰個情情況，不過聽你嘅原則係啱。不過我諗我哋誒睇一睇再翻嚟覆你哋。好好。
+
+380
+00:57:39,340 --> 00:57:51,730
+嚴重嗰個嗰個決定咧，係作出一個決定嘅會。誒或者噉樣嘅原則係正確嘅，不過我諗我要誒諗一諗，翻去誒作一個誒再考慮下呢個呢個。我唔我唔。
+
+381
+00:58:09,250 --> 00:58:25,910
+冇問題，我哋繼續咧，一二四一二四就係講到話，即係誒上訴庭頭先嗰個嗰個噉嘅裁決咧，佢除非佢有誒第啲嘅誒指示嘅話咧，呢個係唔會各自執行嗰審裁處嘅嗰個裁，即係嗰個裁定嘅。
+
+382
+00:58:45,660 --> 00:59:05,670
+即係我我哋唔舉手可以繼續，即係冇冇問題。啊，我知道，係好。如果係咯，我哋繼續咧。但係同時即係話隨時誒，即係我我哋會有問題嘅話就可以出聲，好嘛？係誒第二誒第二分部嗰度咧，其實佢嗰度嘅所有嘅呢啲講法咧，同頭先嗰度咧都好相似，係有兩道特。
+
+383
+00:59:05,670 --> 00:59:25,680
+別係唔同，我想睇一提嘅啫。誒嗱，當然佢嗰個誒一二七嗰度，佢個管轄權係唔同啦。因為管轄權佢係講到係誒，因為呢一度係講緊嗰個處置補償啦，係嘛處置補償佢一二七佢嗰個管轄權嗰度咧，佢就係有講到佢個管轄權就係關於嗰個誒獨立估值師嘅位。
+
+384
+00:59:25,680 --> 00:59:45,690
+委任呢個即係我哋琴日有討論過嗰個啦。另外就係講到關於佢嗰個誒股值師，佢作出嘅股值決定係一個就委任，一個就佢作個決定。咁同誒同埋有佢有任何呢一方面嘅糾紛咧，噉佢都要係可以去誒處理嘅。咁呢個就係佢嗰個管轄權。
+
+385
+01:01:35,880 --> 01:01:37,110
+好啊，可以。
+
+386
+01:01:52,530 --> 01:01:54,230
+誒所作出決定。
+
+387
+01:00:27,930 --> 01:00:29,980
+其餘個條款同頭先都係一樣嘅。
+
+388
+01:01:41,640 --> 01:01:43,710
+誒一二七B。
+
+389
+01:01:12,550 --> 01:01:15,380
+公開信、零信咧，就係嗰個標準嚟嘅。
+
+390
+01:01:38,220 --> 01:01:41,360
+緊要啦，嗰個jurisdiction啊，嗰個審密權嗰度咧。
+
+391
+01:02:02,890 --> 01:02:06,240
+就係就係講佢嗰個誒。
+
+392
+01:02:08,400 --> 01:02:13,150
+一零四係嘛？一零四就係二六七一嗰個，就話就係話咧誒。
+
+393
+01:01:54,940 --> 01:02:00,180
+好啦，咁咧就係誒一零四就係講咗一紮嘢啦，我睇到。
+
+394
+01:00:46,440 --> 01:00:52,250
+即係誒，佢個佢二三嗰度有，即係一二九二三嗰度都有提到。
+
+395
+01:01:44,650 --> 01:01:51,490
+啊，就係誒申請複核任何獨立估值，根據一零四。
+
+396
+01:00:16,300 --> 01:00:25,810
+業嘅有啲專家嚟咧，可以提供一啲嘅專家嘅嘅意見，等佢可以見到佢個估值咧，從一個專業嘅角度嚟講，係咪適合？
+
+397
+01:00:31,970 --> 01:00:44,980
+咁一二九嗰度嘅主席分別嘅地方就頭先就係話咧，呢一個嘅誒聆訊咧就係公開進行嘅啦，因為呢個咧係一個關乎即係補償啊，又會影響唔同嘅人啊，咁所以呢個就公開進行。
+
+398
+01:01:17,530 --> 01:01:35,390
+咁一三零關於盜竊入罪嗰個都係同頭先一樣嘅。咁另外一三一關於藐視罪都係，一三二關於重費，一三三係關於誒嗰個通知誒，關於嗰個審裁處命令嘅通知。咁一三四都係一樣嘅，仲頭先。
+
+399
+00:59:56,290 --> 01:00:16,300
+就係呢個呢度咧，就係因為佢哋係因為呢一度係講緊嗰個補償嗰方面嘅嘅誒嘅嘅估值啊等等，所以呢度咧特別係有有個條款咧D嗰度咧，就佢可以傳召一啲專家證人啊。跟住我哋琴日提到咧，譬如話可能佢係唔同嘅專業嘅，可能係物業嘅，可能係唔同行業。
+
+400
+01:00:52,530 --> 01:01:12,540
+即係如果有需要嘅時候，嗰個審裁處咧，或者係當有一誒方係申請話有某一部分咧，因為敏感嘅問題或點樣嘅時候咧，需要係誒閉門聆訊嘅時候咧，咁嗰個審裁處可以誒考慮呢樣嘢作出個裁定。咁有需要嘅時候，佢就會有一部分可以係誒閉門聆訊，但係如果唔係嘅話咧。
+
+401
+01:04:01,740 --> 01:04:02,150
+係啦。
+
+402
+01:03:40,500 --> 01:03:41,170
+佢。
+
+403
+01:02:21,650 --> 01:02:22,600
+八咧。
+
+404
+01:02:28,010 --> 01:02:28,960
+得六啊！
+
+405
+01:02:32,830 --> 01:02:34,030
+係誒。
+
+406
+01:02:23,620 --> 01:02:26,580
+一零八，我正係問嗰條第六嗰條。
+
+407
+01:02:29,440 --> 01:02:32,400
+就係話咧，佢咩情況之下咧就可以。
+
+408
+01:03:18,920 --> 01:03:22,570
+從而咧，限制咗個judicial，即係嗰個審密權。
+
+409
+01:03:34,740 --> 01:03:38,570
+一零八六A咧就幾高嘅個門檻。
+
+410
+01:02:49,360 --> 01:02:54,670
+即喺噉嘅情況之下，先就可以改變或者撤銷嘅決定。
+
+411
+01:02:15,660 --> 01:02:21,090
+獨立顧職師嘅決定係啦，顧職師個決定好啦，噉我再睇睇一零。
+
+412
+01:03:09,510 --> 01:03:16,240
+我係有啲擔心，一零八嗰度會唔會限制咗一零四嘅權力？
+
+413
+01:03:24,690 --> 01:03:34,390
+即係咩情況即係去推翻，所以我正話啲有啲有啲誒，我正話問啊問啊miss cam嘅時候咧，我都係問緊嗰個門檻咧，因為一六。
+
+414
+01:02:55,850 --> 01:03:09,150
+我區翻個決定，好啊，副局長。誒，我我唔係，我想可唔可以澄清下？你話誒係講限制嗰個審裁處，審裁處係冇錯冇錯。係咪一零？係咪？因為你你呢個咁寫法咧？
+
+415
+01:02:35,210 --> 01:02:49,080
+改變嘅決定一六八誒，即係即係一零八括弧六，即係話二六七九嗰度。我想話問下呢條一零八括弧六嗰度咧，係咪限制咗佢個審核權嘅？
+
+416
+01:03:41,730 --> 01:04:01,740
+主席，我我哋瞭解一零八六嗰度咧，頭先有解到咧，就係話咧，誒，即係話，即係如果用佢俗語咁講咧，即係一個正常嘅獨立估值師，根據正常嘅做法，根據嗰啲嘅原則等等，佢如果佢做咗一個嘅誒決定，係誒係誒。
+
+417
+01:04:02,430 --> 01:04:03,530
+係。
+
+418
+01:06:39,290 --> 01:06:40,870
+好，我哋繼續啦。
+
+419
+01:06:03,960 --> 01:06:05,850
+嗯。
+
+420
+01:07:10,410 --> 01:07:12,660
+嘅誒嘅裁定或者命令。
+
+421
+01:06:06,520 --> 01:06:08,960
+即係喺嗰個。
+
+422
+01:06:10,800 --> 01:06:15,130
+即係審裁處嘅決定嘅時候咧，佢係要主要考慮呢樣嘢啦。
+
+423
+01:06:33,230 --> 01:06:37,650
+但係佢都即係有個機制畀佢可以做得到，如果佢出現問題嘅話。
+
+424
+01:07:01,980 --> 01:07:10,130
+裁定嘅命令咧，就係話可以係將佢登記咗之後咧，喺原狀當做即係一個原狀法庭嘅一個嘅。
+
+425
+01:06:16,000 --> 01:06:32,210
+即係即係換句嚟講，即係嗰個委任嗰個嗰個誒測嗰個估值師係非常重要。誒，即係基本上嗰你係好難推翻佢，除非佢好離譜。噉我真係想了解，即係其實嗰個嗰個權力係非常之有限。係喺喺呢方面嚟講。係。
+
+426
+01:04:03,900 --> 01:04:23,910
+即係叫叫叫一個正常決定啊！係噉嘅時候咧，或者唔係話根本上錯誤嘅啊，即係唔係離譜嘅。唔係離譜嘅你就唔可以推翻佢。一個正常離譜就你就唔可以推翻佢。嗯，噉嘅時候咧，即係話呢一個，你唔可以推翻佢嘅時候咧，即係即係你第啲人咧就係你再嗌第啲股值師上去話。
+
+427
+01:04:23,910 --> 01:04:43,920
+喂，我覺得我嗰個公即係可能會好啲、公平啲，係係應該冇意思喎，應該唔得嘅喎。你個門檻就係要推翻原本嗰個估值師，你要話佢好離譜，你先再推翻佢。即係係咪？我想了解係咪咁做法？即係唔係話幾個估值師去拎幾個價，然後個審核處就話邊個係最好、最最公道？
+
+428
+01:04:43,920 --> 01:05:03,930
+唔係咁做法嘅。係，頭先我哋解釋咗就係，即係唔係話呢個好啲，而係話佢因為因為呢一類估值咧係一個誒假設性嘅估值嚟嘅。咁所以假設性估值咧，你做個方法或者處置嘅方法咧，係會有可以有唔同嘅可能性嘅。噉就唔係話。
+
+429
+01:05:03,930 --> 01:05:23,940
+誒話誒某一個特定情況誒咁做係好啲，或者唔好啲誒，一個更加好啲，而而係話佢本身做嗰樣嘢，根據個估值原則，即係根據嗰個同埋誒有嗰啲規例，佢做個估值係咪一個合乎常理嘅做法？
+
+430
+01:05:23,940 --> 01:05:43,950
+如果佢合乎常理做法嘅話咧，佢一零八六嗰度頭先啊，簡單時都解到咧，就係話呢個時候咧變咗就唔係話我fair啲或者我靚啲嘅valuation，所以咧就用我嗰個就唔係用估值師嗰個。咁所以一呢個咧就其實就只就係講到咧就係話嗰個估值師本身佢一零四嗰度嗰個。
+
+431
+01:05:43,950 --> 01:06:03,960
+嘅決定咧，咩時候係可以話叫做係離譜？乜嘢就叫唔離譜？咁所以一零八六嗰度咧就講或者叫做離譜嗰個情況，就就變咗。如果離譜嘅情況咧，嗰個呢個審裁處咧就可以去復檢佢。咁而一零四呢個決定咧，喺嗰個頭先講到話喺啊。
+
+432
+01:06:41,970 --> 01:07:01,980
+誒主席，頭先我哋應該係喺誒一百三十二、一百三十三嗰度啊。咁啱啱講咗一一三四啊。噉我一三五嗰度咧，就呢一度咧就講到誒有呢個咧一三五咧就係前頭嗰度係冇誒冇嘅，即係喺嗰個另外一個審裁處冇。呢個登記審裁處嘅。
+
+433
+01:07:19,000 --> 01:07:19,620
+好。
+
+434
+01:09:28,220 --> 01:09:29,000
+誒。
+
+435
+01:09:40,950 --> 01:09:42,220
+同事有冇問題？
+
+436
+01:09:49,720 --> 01:09:51,200
+好，冇問題就。
+
+437
+01:09:44,200 --> 01:09:48,190
+諗緊啲嘢，我哋而家講緊係附表八嚇。
+
+438
+01:08:04,120 --> 01:08:11,260
+誒主席，我哋誒係第後邊嗰度咧，誒我想提一提附表八同九啊。
+
+439
+01:08:23,200 --> 01:08:31,900
+補償個審裁處嘅嗰啲運作嗰啲嘅，咁呢度咧就誒主要係講到誒嗰個。
+
+440
+01:09:29,280 --> 01:09:38,780
+行政長官可以去誒撤撤誒，即係撤除個委任，咁另外再要去咗，當然再委任個另外一個主席啦。
+
+441
+01:09:05,720 --> 01:09:15,930
+咁但係佢哋講到呢啲誒呢啲咧，佢就係本身嚟講就唔可以公職人員，亦都唔可以係同處置機制有關當局等係有有有關連嘅。
+
+442
+01:09:16,770 --> 01:09:27,920
+噉佢嗰個誒主席任期咧就五年，噉就佢亦都可以係誒辭職啦。咁辭職嗰陣時候亦都要係有個一個程序。咁如果係有辭職嗰陣時候咧，噉就誒。
+
+443
+01:08:11,540 --> 01:08:22,920
+因為附表八同九咧，就係關於呢一個第七部嗰度咧，關於嗰個誒處置可能性復檢審裁處。附表九咧，就係嗰個誒。
+
+444
+01:07:47,860 --> 01:07:59,450
+呢個同頭先前頭一二零一二二一樣，係我哋明白。你睇睇嗰個個判例，我哋會同法律顧問誒聯係，瞭解一下嗰個係咪適合啊？即係點樣情況啊？
+
+445
+01:07:34,510 --> 01:07:46,360
+主席，我都係即係重新啦，就一三七嗰度咧，上唔上數嗰度，你參考下啦，嚇。誒，我哋我哋會莫乃光過我，莫乃光嚇。抽數嘅，我我我哋check一check啦。
+
+446
+01:07:20,880 --> 01:07:33,670
+誒主席一三六嗰度咧，就亦都係講到話，即係如果佢呢個其實一三六、一三七、一三八、一三九咧，係一樣嘅，咁所以即係都係一四零、一四一都全部一樣嘅。
+
+447
+01:08:52,220 --> 01:09:05,310
+原眾法庭嘅前任法官等等，咁亦都係講到話，如果有個人有資格係誒係誒被任命為係嗰個高院法官嘅話咧，咁亦都係可以有資格嘅。
+
+448
+01:08:32,210 --> 01:08:52,220
+主席係點樣委任嘅？咁呢啲我哋都係參考香港，我哋而家嗰啲好多審裁處嘅嘅做法。噉就係啊，由行政長官係係根據首席法官嘅建議咧，噉佢就會係委任個主席。咁個主席嗰個資格，我呢度寫咗啦。噉就講到主要係要前任嘅上訴法庭嘅法官或者係原訴。
+
+449
+01:12:23,250 --> 01:12:23,970
+我就。
+
+450
+01:11:18,250 --> 01:11:19,020
+好。
+
+451
+01:12:18,480 --> 01:12:19,370
+好，張。
+
+452
+01:12:21,010 --> 01:12:22,120
+嗯。
+
+453
+01:11:15,760 --> 01:11:17,970
+所以呢個就唔係常設㗎。
+
+454
+01:10:11,570 --> 01:10:14,900
+同埋，即係要明瞭呢一個嘅處置機制嗰個。
+
+455
+01:12:29,700 --> 01:12:33,170
+我我我畀我條契弟，唔該主席啊。
+
+456
+01:12:12,010 --> 01:12:16,180
+乜嘢嘅啊手則底下會處理到咧？
+
+457
+01:13:06,090 --> 01:13:13,050
+誒主席，我我哋喺呢一度嚟講就係冇嗰關於各方面嘅條文，咁但係我哋當嗰個誒。
+
+458
+01:11:37,920 --> 01:11:51,720
+我除咗做事冇什麼。好，法律顧問。真係做事冇什麼。係多謝主席。噉我哋見到誒附表啊，或者喺主體條文度咧，都冇處理到誒。我幾歲啊？喺聆訊開展之前咧，誒有關。
+
+459
+01:11:19,300 --> 01:11:35,770
+咁第五段就講到話，即係佢哋誒呢啲誒成員，即係嗰個審台團，即係嗰個叫做主席或者普通成員咧，都係可以會有嗰個嘅適量嘅嘅叫做誒服務嘅酬金。
+
+460
+01:09:51,560 --> 01:10:11,570
+係第三段嗰度咧，就講到關於嗰個審台權嘅，因為我哋話有另外兩個嘅成員嘅。咁呢度咧就講到話有兩個成員咧，就係佢哋係要啊喺第一三，即係喺第三段嘅誒第二嗰度講咧，就話佢要係有嗰個有相關專長啊、金融服務界嘅經驗。
+
+461
+01:10:15,730 --> 01:10:35,740
+係，我想問一問咧，因為其實而家做即係審裁處啲成員嗰啲即係人選都唔係咁多畀得揀，因為因為好多時講啲紀律委員會等等，你呢個審裁處其實係一個常設機構，唔係話有即係有有金有有啲金融機構出事先有，依個話係到時你先整個審裁處出，因為點樣樣其實佢個運作係嚇主席。
+
+462
+01:10:35,740 --> 01:10:55,750
+好啊！誒，主席，我哋呢一個咧就係會會嗰個，我哋喺第三段嗰度咧就會有一個叫做審財團咧，變咗就有一紮名係個適當人選，好似誒符合咗呢度二A嗰度咁講嘅咧，適當人選又係又係冇嗰啲嘅利益衝突等等嗰啲咧，噉佢哋咧就會有一個噉樣樣嘅。
+
+463
+01:10:55,750 --> 01:11:15,760
+誒panel叫審裁團，而個審裁團咧就喺第四後邊第四嗰度咧，就會講到當有事發生嗰陣時候咧，即即有需要嘅時候咧，噉就會係由財政司司長咧喺個審裁團裏邊咧，就係會有揀要揾揀兩個識出嚟係作作為嗰個嘅成員，噉就誒。
+
+464
+01:11:52,000 --> 01:12:12,010
+主席啊，或者係普通委員咧，佢嗰個嘅誒利益嘅衝突啊，或者係你登記嘅問題，因為凌訊開始咗嗰陣時，佢嗰個金融機構又可能佢有存款啦，或者有股票啦，或者有保險嘅保單啦，咁呢啲可能都係需要喺凌訊之前進行公開嘅。咁嗰呢方面嘅條文會喺誒。
+
+465
+01:14:10,420 --> 01:14:11,260
+富咗。
+
+466
+01:14:34,030 --> 01:14:34,900
+嗯嗯。
+
+467
+01:14:38,530 --> 01:14:39,600
+嗯。
+
+468
+01:14:35,340 --> 01:14:37,070
+好，同事有冇問題啊？
+
+469
+01:13:14,370 --> 01:13:16,710
+誒首席法官，當佢見。
+
+470
+01:13:48,770 --> 01:13:51,980
+喺嗰個誒呢個例裏邊。
+
+471
+01:13:55,960 --> 01:14:00,290
+好，法律顧問有冇問題？係多謝主席。咁將來會唔會有？
+
+472
+01:14:12,580 --> 01:14:17,890
+我相信嗰啲行政措施嗰啲，我哋佢哋係誒，我哋遲啲喺嗰個誒。
+
+473
+01:13:21,740 --> 01:13:28,340
+佢佢哋佢哋係會要係新，即係佢哋呢一度係話，佢哋係需要誒。
+
+474
+01:14:00,610 --> 01:14:09,600
+即審裁處成立嗰陣，會唔會佢自己有內部手則啊，或者一啲類似core practice嗰啲，會詳細列明點樣情況底下需要申報？
+
+475
+01:14:42,840 --> 01:14:55,260
+第二個問題我哋繼續啦。係，誒，頭先我哋係講緊第八條，誒，嗰個第八條嗰個，誒，即係第附表八嗰度啦。係，噉就係誒，頭先講到係。
+
+476
+01:14:18,780 --> 01:14:33,070
+關於嗰個嗰啲詳細嗰啲條文運作嗰陣時候咧，噉佢哋會會寫寫出嚟嚇。嗯，好啊，應該有個有個行事嘅誒規則啊嚇，即係嗰啲即係嗰啲嚇行政嗰啲安排啦，等等嚇。
+
+477
+01:13:28,760 --> 01:13:48,770
+因為喺嗰個行作為一個行政措施嚟講咧，即係一個一個executive嘅即係一個administrative arrangement嚟講咧，佢哋係需要個佢哋主席，仲需要咧係喺嗰個誒個審裁處誒運作之前咧，係需要申報佢哋有冇利益衝突㗎。咁呢個就個行政措施就唔係喺。
+
+478
+01:14:59,590 --> 01:15:19,600
+另另外就係話係嗰個第六嗰度啊，即係附表八第六，即係二九八零頁嗰度咧。關於處理職位，即係話咧，呢個亦都係即係慣常做法，即係話如果如果萬一個主席係因為病或者等等係唔能夠履行佢嗰個責職務嗰時候咧，個首席法官咧就可以係。
+
+479
+01:15:19,840 --> 01:15:39,850
+啊委任一個適當人選咧去啊處理嗰啲嘅嘅誒審裁處嘅工作，同埋繼續去做。噉就而假若係有一個嗰啲嘅審裁團，即係如果係嗰個一個成員啊，一個審裁團嘅成員係本身係誒有因為有問題缺席或者唔能夠再出席嘅話咧，噉啊從
+
+480
+01:15:39,850 --> 01:15:59,860
+財政司司長，因為佢係委任另外兩個成員嘅，咁變咗佢就亦都可以委任一個替代嘅成員，就係去繼續嗰工作。噉佢就講話正常嚟講咧，佢哋如果佢哋大家雙方同意嘅話咧，噉佢哋委任咗之後咧，可以繼續嗰個審財處嘅運作。但係如果有係誒唔同意嘅話咧，變咗個誒嗰個。
+
+481
+01:18:21,590 --> 01:18:22,530
+啊！
+
+482
+01:19:17,540 --> 01:19:18,790
+好第十條。
+
+483
+01:18:42,820 --> 01:18:47,100
+一個主席同埋即係另外兩個成員一齊嗰陣時候，去作出彙報㗎。
+
+484
+01:19:58,910 --> 01:20:04,130
+嗰個誒單一誒主席喺度嗰陣時候咧，係處置呢一類噉嘅問題。
+
+485
+01:16:19,870 --> 01:16:28,380
+需要係誒大多數嘅同意先至可以誒喺嗰啲喺嗰個叫做係問題上高咧，係作出決定。
+
+486
+01:17:07,570 --> 01:17:19,520
+就話即係如果係一個誒誒，佢哋要揾律師，即係要揾嗰個叫大律師或者律師去代替佢行使呢個噉樣嘅誒陳詞權嘅時候咧，係要咁做。
+
+487
+01:18:04,320 --> 01:18:20,890
+就當佢哋嗰啲嘅誒各方面嘅意見同埋佢哋同意嘅時候，佢哋可以係做呢啲。咁同埋就佢哋嗰個第三嗰度咧，就講到話喺呢個噉樣嘅初步會議裏邊嘅時候咧，個主席可以係啊。
+
+488
+01:16:28,660 --> 01:16:46,200
+係咪喺第七段嗰度咧？最後講到噉，另外一道咧，第誒第第七段第四嗰度咧，就係何議員琴日提到關於話嗰個法律代表嘅問題啊，即係話有冇律師啊代表咧？噉就喺呢個第二四九啊二九八四頁嗰度咧。
+
+489
+01:19:19,370 --> 01:19:38,620
+第第十頁就係講第十段咧，就講到咧，就係話喺某啲情況之下咧，主席可以作為係一個單一成員嘅，即係變咗另外兩兩位成員就唔一定喺就唔喺度嘅。咁呢個情況就係話，即係佢哋喺嗰個審裁處正式即係聆訊開始之前咧，可能佢哋係會有一啲嘅誒。
+
+490
+01:18:49,940 --> 01:19:09,210
+好冇問題。咁第九嗰度咧，就係亦都係個標準嘅誒嘅嘅嘅程序咧，就係話喺佢哋雙方同意嗰陣時候咧，係主席可以係作出一個同意令個consent orders。咁呢個就係即係等佢哋可以係啊對某呢啲事情可以係作出指示。
+
+491
+01:15:59,860 --> 01:16:19,870
+嘅叫個聆訊咧，就由頭再開始過啦。呢個就係正常嗰個嘅標準嘅做法。嗯，噉啊，第七嗰度咧就講到關於個審裁處嗰度嗰啲嘅程序問題，即係幾時係可以召開會議，同埋召開會議嘅佢應該點樣係要兩個人都喺度，同埋主席係要係主持聆訊。噉就亦都講到話係需。
+
+492
+01:16:47,560 --> 01:17:07,570
+二九八三尾同二九八四頭嗰度，二九八二尾，二九八四頭嗰度咧，就講到話即係除咗嗰個誒有關方嘅關涉方係可以個人本人出席之外咧，親自出席陳詞嗰陣時候咧，亦都可以係有嘅佢哋嘅代表。咁喺第D嗰度咧，即係四D度咧，就講到。
+
+493
+01:17:24,300 --> 01:17:44,310
+好，同事冇問題，我哋繼續係第八嗰度就講到呢個，亦都係好標準嘅，就係講到話，如果係有需要嗰時候，可以有個初步會議。就呢個初步會議嗰陣時候咧，就係佢哋係只係由嗰個主席去誒出席嘅。咁主席就會主持呢個初步會議嗰陣時候咧，就講到係誒講到係關於誒嗰個。
+
+494
+01:17:44,310 --> 01:18:04,320
+程序進行嘅嗰啲安排啊，同埋有一啲嘅係誒誒，即係點樣可以令到程程序更加可以誒公平、迅速、合乎經濟原則等進行。咁呢個就係由主席主持嘅。咁主席可以就呢一方面咧，就係誒提出有啲嘅嘅指示，就考慮到。
+
+495
+01:18:22,810 --> 01:18:42,820
+畀畀一啲嘅指示啊，咁同埋呢啲指示咧就係可以係確保佢哋話可以，頭先話為到要可以進行得快啲各方面咁等等。咁誒，但係呢一度亦都講清楚咧，就係呢個初步會議之後咧，嗰個主席咧係需要向翻嗰個審裁處嘅作出個彙報，即係向。
+
+496
+01:19:38,900 --> 01:19:58,910
+誒事情咧需要決定，就喺第三嗰度講到話，關於譬如話喺嗰個誒延長嗰個提出，即係申請延長提出複核申請嘅時限啊呢一個方面，同埋另外咧一九嗰度咧，關於國智審裁處嘅裁定或者命令嘅咁呢啲咧就可以係喺。
+
+497
+01:21:59,520 --> 01:22:00,070
+好。
+
+498
+01:22:05,050 --> 01:22:05,670
+唔係。
+
+499
+01:21:42,200 --> 01:21:42,960
+我。
+
+500
+01:20:09,820 --> 01:20:12,190
+同埋，我再睇翻前邊誒。
+
+501
+01:22:02,080 --> 01:22:04,770
+就係metro， it's not standing station。
+
+502
+01:20:05,860 --> 01:20:08,820
+可以，我我因為睇你咁寫法咧。
+
+503
+01:21:22,270 --> 01:21:26,100
+係就似代表一個賽表壺，然後嗰個賽表壺又有一個主席。
+
+504
+01:20:12,520 --> 01:20:24,890
+第二條嗰度appointment chairperson咧，似乎就係你係得一個chairperson嘅咋，咪得一個主席嘅啫嘛。係啊，得一個啫。咁誒，如果係有冇可能同一時間會有兩個財經佬？
+
+505
+01:21:26,590 --> 01:21:41,910
+如果第二個債票同第二個車票，係咪應該咁做法咧？就唔係好似而家個常置嘅債票度，然後個常置嘅主席呢個噉嘅寫法，好似一啲舊以前係咁寫嘅，但係我覺得唔係好唔係好適合咯。依家，啊副局長，我我我想同我同事傾傾。
+
+506
+01:20:44,160 --> 01:21:01,980
+即係好似而家我哋喺《備證券期貨條例》之下嗰啲誒誒M M T噉樣咧，噉你都會係有有唔同嘅主席嘅成員、主席成員去處理。其其實呢度可唔可以嗱？你依個你依個寫法咧，就係一位一位就五年。
+
+507
+01:20:25,170 --> 01:20:43,610
+都唔出奇嘅。誒，如果有有噉嘅情況係會有，即係譬如有，如果係竟然有，即係如果係有兩個，譬如話多過一個金融嘅機構係要處置，而佢哋都係對呢個嘅處置可行性誒要復檢，噉就會有兩個啦。
+
+508
+01:21:02,260 --> 01:21:22,270
+其實咧就可能五年裏邊都冇嘢做嘅，係啊！但係有可能咧同一時間有兩個，甚至可能三個。嗯。噉你個你嗰個主席啊頂唔得順，咁其實就係唔應該一個主席嘅其實。所以你噉嘅寫法咧，就好似畀人覺得好似常設有個tribunal有個常設嘅主席。其實個做法唔應該咧，每一次你有問題。
+
+509
+01:22:05,950 --> 01:22:25,960
+啊！主席，誒，頭先我哋都有提示咧，即係我都再澄清過咧。其實呢一個唔係一個常設㗎，呢一個因為佢佢我哋呢個誒係參考我哋即係而家香港即係唔同嘅條例之下嘅有啲噉樣樣審裁處。噉佢哋嗰個誒，所以我哋頭先我哋已經提到咧，就係呢個係一個。
+
+510
+01:22:25,960 --> 01:22:45,970
+誒有需要，即係譬如有危機或者有處置嘅情嘅嘅案件或者個件嘅時候咧，就會誒由由特首就會委任一個主席，就話五年，就亦都可以再延長。而財政司司長就可以委任兩個成員，嗰個成員亦都係五年任期可以成，但係呢啲唔。
+
+511
+01:23:29,240 --> 01:23:29,790
+啊！呢個事。
+
+512
+01:23:30,320 --> 01:23:31,420
+一個主席。
+
+513
+01:26:02,600 --> 01:26:04,040
+正奇嗰排嗰啲。
+
+514
+01:26:34,480 --> 01:26:36,560
+冇冇其他特別嘅嘢啦，係咪？
+
+515
+01:23:26,040 --> 01:23:28,390
+咁所以係噉嘅意思嘅。
+
+516
+01:25:36,570 --> 01:25:41,860
+唔低嘅，所以你寫清楚啲喺喺喺喺個條例度嚇，唔該。好。
+
+517
+01:25:10,210 --> 01:25:16,280
+因為係有一個主席同埋九個副主席，所以佢開呢個誒聆訊嘅panel嘅時候咧。
+
+518
+01:26:24,430 --> 01:26:33,770
+咧其實同個附表八係誒誒一樣嘅，即係佢嗰個跟翻嗰個附表八個程序，所以我就唔建議我哋再逐條再講翻一次。
+
+519
+01:24:32,760 --> 01:24:49,810
+嗱，我就希望呢啲人唔會拗咧。不過即係你寫得清楚啲好啲咯。即係同一時間係可以有幾個主席嘅，每一個主席係負責一個台標度嘅，噉啊清楚啲咯。我覺得。好啊。誒，我哋我哋我哋翻嚟，你翻嚟睇睇啦。即係想你運作順啲咁解嚇。係啊。好啊。梁繼昌議員係咪有有咩問題？
+
+520
+01:23:32,380 --> 01:23:51,520
+即係你你個寫法啊，好似得一個主席噉就，就係然後就有一個審裁處，即即係有個印象咧。即係即係嗱，我見到有第二啲嘅，譬如好似好似呢個誒税務誒上訴嗰個委員會咧，佢就係誒一個主席，然後佢有一紮panel叫deputy chairman。
+
+521
+01:22:45,970 --> 01:23:05,980
+唔係standing，即係唔係一個常設嘅審裁處。所以，如果係有一個，譬如話有一個保咁講，譬如保險公司有事嘅咁嗰個誒，呢根據呢個程序咧，而而佢係投投關於呢一個叫做誒可行性復檢，佢有投訴嘅話咧，噉我就會設一個噉樣樣嘅情況。二
+
+522
+01:23:05,980 --> 01:23:25,990
+如果有竟然同時因為金融危機等等咧，有另外一個金融機構又係有咁情況咧，咁主誒嗰個主席啊，同埋嗰個成員委任咧，又會有委任另外一個嘅誒第二個審裁處，即係特另外一個嘅處置可能性審裁復檢審裁處去處理嘅。
+
+523
+01:23:52,120 --> 01:24:12,130
+咁由嗰啲Deputy Chairman咧就可以係係即係嗰啲副主席咧就可以等於主席噉樣。如果每開一個review咧，佢就有個panel，然後就人哋個Deputy Chairman就等於主席噉樣去去去到。咁所以同一時間可以好多個一齊進行。係，所以我哋咧頭先喺嗰個成員嗰度，我寫得清楚啲嘅個成員咧。
+
+524
+01:24:12,130 --> 01:24:32,140
+就係啊，係有個審財團，而喺個成審財團裏邊有一紮名係適合嘅。唔係我我我知你講緊成員，但係我想問下你嗰度指緊係咪可以同一時間有幾個主席先係係咪可以啊？係唔可以得嘅，即係個單數雙數嗰度係係可以喺個需要嗰陣時候，我就會就會可以有多過一個啦。
+
+525
+01:24:50,200 --> 01:25:10,210
+啊！我我我都係即係差唔多同阿何俊仁議員講嘅嘢，因為其實你睇到好多個嗰個即係樽頸位咧，尤其是最近我哋審緊嗰個誒醫務委員會個嗰個即係上訴機制咧嚇嗰個，同埋其實阿何俊仁議員講嗰個税務上訴委員，我自己坐咗喺度九年嘅，已經嗰個係運作好暢順。
+
+526
+01:25:16,560 --> 01:25:36,570
+只需要嗰個主席就喺個主席或者九個副主席入邊揀，咁其他我哋有幾十個委員，噉就加多兩個委員，噉就會成咗一個panel。噉你諗一諗啦，當然我我覺得可能即係話你你你可能要開三四個panel嘅機會率咧係低嘅，但係我諗兩個兩個panel嗰個機會都都唔。
+
+527
+01:25:42,590 --> 01:26:02,600
+誒好，我哋研究下。你翻去再睇睇啊，係因為其實呢一個寫法咧，同我哋我哋見特別係證券期貨條例咧，都係誒用噉嘅寫法，而佢哋亦都係會有幾個嘅嘅誒主席㗎，即係幾個法官㗎。咁所以我哋再研究下睇有冇辦法改善啊，就嗰啲咯嚇。我哋翻去睇睇。
+
+528
+01:26:04,420 --> 01:26:24,430
+好，我哋繼續噉。主席，啊，頭先講到誒第十一條嗰度咧，就講到即係話誒，即係佢哋呢一個審裁處咧，就會同嗰個原眾法庭一樣，有同樣嘅特權同豁免。噉就呢個就係正嘅標準嘅。咁第附表九咧，就誒其實嗰個做法咧寫法。
+
+529
+01:26:47,020 --> 01:26:47,670
+好。
+
+530
+01:27:05,030 --> 01:27:05,720
+呀。
+
+531
+01:27:25,870 --> 01:27:26,770
+啊。
+
+532
+01:26:47,950 --> 01:26:49,140
+同事有冇問題啊？
+
+533
+01:28:01,290 --> 01:28:03,440
+啊，噉就誒。
+
+534
+01:28:03,960 --> 01:28:06,140
+誒十點九嚇。
+
+535
+01:26:55,250 --> 01:26:57,880
+嗱，如果冇問題咧，我哋翻翻轉頭啦，嚇。
+
+536
+01:27:51,690 --> 01:27:54,980
+呢條法例嘅嗱，我哋下次嘅會議咧。
+
+537
+01:27:00,800 --> 01:27:04,250
+下一步嘅第八步係C二七二六嗰度。
+
+538
+01:27:55,290 --> 01:27:59,320
+下次會議咧係啊五月三號。
+
+539
+01:27:27,330 --> 01:27:31,400
+其實第八刀可以好快嘅，可以好快啊！啊？
+
+540
+01:28:07,130 --> 01:28:11,230
+五月三號上晝十點九，同埋另外一次咧。
+
+541
+01:26:38,790 --> 01:26:44,810
+報表九同報表八係冇其他特別嘢。誒，冇其他啊，對唔住，係啊，主席冇其他特別嘢嘅嚇。
+
+542
+01:27:06,960 --> 01:27:24,980
+退購報酬嗱，不如咁啦，好唔好啊？誒，我哋而家咧就誒十二點十七分，雖然間我哋分秒必爭啦嚇，時間都，但係我哋好唔好喺呢度停嚇？噉就下一次會議咧，我哋再繼續，好唔好啊？
+
+543
+01:27:31,680 --> 01:27:51,690
+呢個係對我嚟對我嚟講係最重要一部分。唔緊要，我可以同你哋傾到十二點九，等主席話事。主席話散我就散。主席話，嗱咁咧，我哋下一次繼續啦，好唔好？啊，好，下一次繼續啦。因為誒，我哋誒都我都預咗相當多嘅時間嚟到誒深。
+
+544
+01:28:11,510 --> 01:28:31,520
+另外一次咧係五月九號嘅上晝十點講嚇，噉我會誒希望每即係每個月裏邊咧最少有兩次嘅會啦嚇，咁希望可以誒咩啦，同埋咧就誒，因為我哋而家跳嚟跳去啊，咁所以可能同事未必睇到咧，到底我哋剩翻幾多，噉我下一次咧我。
+
+545
+01:28:31,520 --> 01:28:40,650
+我哋就會誒，我會請秘書咧同我哋執一執，睇下我哋仲有幾多嘢要做，好嘛？多謝主席，唔該曬，冇其他嘢，我宣佈散會。

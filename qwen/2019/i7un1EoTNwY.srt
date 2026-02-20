@@ -1,0 +1,3215 @@
+1
+00:06:44,660 --> 00:06:45,540
+Thank you.
+
+2
+00:13:26,540 --> 00:13:27,420
+Okay.
+
+3
+00:01:24,250 --> 00:01:25,220
+會議室。
+
+4
+00:06:49,580 --> 00:06:50,550
+嗯。
+
+5
+00:06:50,960 --> 00:06:52,230
+我會，我會。
+
+6
+00:18:04,920 --> 00:18:06,370
+and you have to.
+
+7
+00:18:18,490 --> 00:18:19,990
+and the second thing.
+
+8
+00:02:50,800 --> 00:02:52,570
+香港大學嘅。
+
+9
+00:09:47,710 --> 00:09:49,490
+projection unit。
+
+10
+00:12:42,470 --> 00:12:44,300
+Throughout the projections.
+
+11
+00:06:53,750 --> 00:06:55,700
+所以。
+
+12
+00:13:34,820 --> 00:13:36,790
+所以，我哋出嚟咗個 pool。
+
+13
+00:14:55,480 --> 00:14:57,450
+and that may be.
+
+14
+00:17:38,440 --> 00:17:40,470
+Okay, not separated.
+
+15
+00:02:23,660 --> 00:02:25,780
+係李國麟啊，議員。
+
+16
+00:05:35,830 --> 00:05:37,950
+希望可以喺呢兩方面咧。
+
+17
+00:14:32,850 --> 00:14:35,020
+And that gives us our baseline.
+
+18
+00:02:32,920 --> 00:02:35,150
+係醫療人力規劃。
+
+19
+00:13:17,340 --> 00:13:19,580
+And that gives us the total pool.
+
+20
+00:09:50,350 --> 00:09:52,610
+和The Core Projection Unit。
+
+21
+00:01:57,410 --> 00:01:59,750
+地區康健站。
+
+22
+00:05:38,300 --> 00:05:40,720
+做一啲推算嘅嘗試嘅。
+
+23
+00:06:46,530 --> 00:06:48,970
+Thank you for having me here today.
+
+24
+00:10:14,880 --> 00:10:17,870
+There's also a very important assumption here.
+
+25
+00:02:46,980 --> 00:02:50,040
+噉啊，就呢個議題咧，就係誒。
+
+26
+00:01:50,020 --> 00:01:53,190
+第二咧就係發展基層。
+
+27
+00:10:18,160 --> 00:10:21,590
+and that is a historical assumption that.
+
+28
+00:12:16,680 --> 00:12:20,150
+and that is a post-talk adjustment.
+
+29
+00:01:53,470 --> 00:01:57,070
+醫療健康護理服務同設立。
+
+30
+00:00:20,010 --> 00:00:23,710
+二月十二日發出畀大家嘅疫情之內嘅。
+
+31
+00:01:36,440 --> 00:01:40,160
+一月十號星期五上晝十點四十五分舉行。
+
+32
+00:11:39,660 --> 00:11:43,620
+That are needed for that volume for that utilisation volume.
+
+33
+00:01:45,270 --> 00:01:49,280
+第一咧就係加強精神健康服務。
+
+34
+00:10:21,870 --> 00:10:25,910
+previous use or previous utilisation.
+
+35
+00:06:39,330 --> 00:06:43,460
+Yeah, please, Dr Johnston, please. Yeah, Dr Johnston.
+
+36
+00:10:30,810 --> 00:10:35,050
+That's a core assumption that is made in this model.
+
+37
+00:10:26,190 --> 00:10:30,530
+will inform future use or future utilisation.
+
+38
+00:18:06,730 --> 00:18:11,230
+Be, well in English you would say take it with a grain of salt.
+
+39
+00:01:40,440 --> 00:01:44,990
+噉啊！而家政府當局咧就建議我哋可以討論兩個議題。
+
+40
+00:06:34,430 --> 00:06:38,990
+噉啊，同我哋介紹有關啊呢個推算情況。
+
+41
+00:12:45,320 --> 00:12:49,900
+所以，as with the demand， we have a generic model that we use for supply.
+
+42
+00:16:35,750 --> 00:16:40,350
+There is no other access to information about what's happening within the private sector.
+
+43
+00:05:14,940 --> 00:05:19,650
+咁稍後咧，我就交時間畀廣大嘅團隊作一個誒介紹。
+
+44
+00:12:36,920 --> 00:12:41,860
+And this generic model, we apply to all of the professions.
+
+45
+00:06:09,480 --> 00:06:14,450
+先生，Would you like to give a brief presentation to our members on the methodology, please? Thank you.
+
+46
+00:18:49,950 --> 00:18:54,990
+所以我們係嘗試向你，睇，實際嘅Projection for doctors。
+
+47
+00:19:16,890 --> 00:19:22,000
+and the same is true for the dentists, and the same is true for the nurses.
+
+48
+00:02:27,490 --> 00:02:32,640
+係下一個議程，OK好，嗱跟住落嚟咧，我哋以前第三。
+
+49
+00:01:18,780 --> 00:01:23,970
+噉我哋邀請啊，食物及衞生局副局長徐德義先生進入。
+
+50
+00:07:43,290 --> 00:07:48,780
+medical laboratory technologists, optometrists, radiographers and chiropractors.
+
+51
+00:09:17,600 --> 00:09:23,180
+和 domestic health accounts， among many other sources of information。
+
+52
+00:13:20,270 --> 00:13:26,260
+但你 know as well as I do that some of us are past retirement age and we are still working.
+
+53
+00:18:33,530 --> 00:18:39,810
+Reality fits within the band, and that's called a credible interval.
+
+54
+00:18:11,510 --> 00:18:17,830
+Okay, be cautious about how you interpret it. The further you get into the projection horizon, you need to be cautious.
+
+55
+00:02:15,420 --> 00:02:21,890
+好睇，大家有冇誒意見補充？假如冇嘅話咧，噉我哋會進入下一個議程啦。
+
+56
+00:02:36,690 --> 00:02:43,160
+噉我哋請秘書處同事係邀請政府啊政府當局同埋香港大學嘅代表進入會議室。
+
+57
+00:08:01,760 --> 00:08:08,340
+important health professional groups are not included because they are not part of the statutory registration system.
+
+58
+00:09:40,670 --> 00:09:47,430
+now this is quite important because utilisation volume is the core.
+
+59
+00:13:27,700 --> 00:13:34,540
+And some of us, when we're younger, take time off because we maybe had children. Speaking for myself.
+
+60
+00:06:27,240 --> 00:06:34,100
+誒教育及分部主任莊俊玲博士，Dr. Janice Mary Johnston。
+
+61
+00:12:20,640 --> 00:12:27,530
+所以我們從基礎案開始，然後我們聽從我們的同事們從辦公室和從其他利益團體。
+
+62
+00:01:02,350 --> 00:01:09,290
+啊！積極報名參加，噉啊就啊留意秘書處發畀大家稍後嘅文件。
+
+63
+00:07:23,390 --> 00:07:30,460
+That means we are not projecting for a large number of other professional groups.
+
+64
+00:14:05,190 --> 00:14:12,270
+在 profession， have they been deregistered， which is a euphemism for being punished because they have acted inappropriately。
+
+65
+00:00:24,070 --> 00:00:31,340
+咁咧，另外咧，我哋啊，衞生事務委員會同工商事務委員會下下咧嘅美容業。
+
+66
+00:18:41,540 --> 00:18:48,930
+所以如果你 run 這 projection 一萬次，你會 get 線 that all vary and they fit within that band.
+
+67
+00:15:28,500 --> 00:15:35,920
+或perhaps future concerns that the population or Legco or whoever are the important stakeholders may have.
+
+68
+00:16:10,760 --> 00:16:18,340
+We can understand the mix of staff and what the demands are in certain mix of staff, and use that to adjust the model.
+
+69
+00:13:37,180 --> 00:13:44,840
+There may be many other reasons that people come out of that pool of that pool, even though they maintain their registration status.
+
+70
+00:10:06,150 --> 00:10:14,040
+If we don't know what that core utilisation volume is, we can't make that estimated requirement for workers.
+
+71
+00:05:41,100 --> 00:05:49,040
+咁廣大咧就現在正係整合咁各個專業嘅服務使用率數據，去進行推算。
+
+72
+00:01:09,790 --> 00:01:18,150
+好，噉啊，跟住落嚟咧，噉我哋啊進入議程嘅啊第二下次會議嘅討論事項。
+
+73
+00:12:27,810 --> 00:12:36,300
+And do post hoc adjustments to the base case to sort out the actual demand for health services. So this is a generic model.
+
+74
+00:17:55,450 --> 00:18:04,040
+as you get further and further into the projection horizon, like further along in time, the projection becomes more and more insecure.
+
+75
+00:10:52,830 --> 00:11:01,710
+一whole variety of other things is because then we need to convert these sets of volumes into FDE requirements.
+
+76
+00:01:27,030 --> 00:01:36,060
+好噉，我請啊各位委員留意下咧，就我哋下次會議嘅日期咧，就將會定喺一月十號星期五。
+
+77
+00:04:25,610 --> 00:04:34,740
+咁誒喺一七年嘅六月，政府公佈咗策略檢討報告，提出咗十項嘅建議，為醫療人力規劃奠定一啲基礎。
+
+78
+00:18:55,270 --> 00:19:04,480
+by 2040 has a very wide range in that projection, and you you really want to think about what's the lowest and what's the highest.
+
+79
+00:09:08,090 --> 00:09:17,320
+Department of Health data, healthcare, the health manpower surveys conducted by the Department of Health, the thematic household surveys, a whole variety of them.
+
+80
+00:04:51,920 --> 00:05:01,540
+為此，政府亦都已經委託咗港大進行新一輪人力推算工作，去更新十三個醫療專業人員嘅供求推算數字。
+
+81
+00:06:15,310 --> 00:06:25,450
+啊！噉我首先就係歡迎誒，香港大學公共衞生學院衞生經濟政策和管理分部副教授、副院長。
+
+82
+00:00:31,910 --> 00:00:42,060
+儀器規管同埋發展事宜聯合小組委員會已經完成咗工作啦，咁咧亦都向兩個事務委員會咧就提交咗報告。
+
+83
+00:14:57,850 --> 00:15:08,210
+We adjust it for perhaps other policy options or other considerations that you here in Ledgeco might consider. Like several years ago, you were considering standard working hours.
+
+84
+00:08:37,090 --> 00:08:47,650
+所以我們開始用基本的預測香港的人口，當然這些是由統計處準備的，而且很容易取得。
+
+85
+00:08:26,160 --> 00:08:36,810
+And we are trying to estimate what the gap is, or what the difference is between supply and demand. Okay, and I'll walk you through this. I hope you can see the mouse. Okay, good.
+
+86
+00:19:04,760 --> 00:19:15,470
+and you have what our fixed number projection is, but please don't fix on it. The band is much more important, and the band is equally frightening to the fixed number.
+
+87
+00:11:45,370 --> 00:11:56,690
+Now we have ways to adjust this. What I've just described is what we call the base case. So this is the unadjusted, unadulterated information, straight up.
+
+88
+00:17:26,750 --> 00:17:38,090
+And on the Y axis is the number of FDEs, and we have the the projections for doctors, for dentists and for general nurses. So this is all nurses.
+
+89
+00:16:41,320 --> 00:16:53,070
+We use data from the social welfare department, from the education department, and also a large amount of data from the department of health. So these partners are essential to us.
+
+90
+00:13:04,940 --> 00:13:16,830
+And so, what is that pool of registrants? And then we need to look at who's coming in to the pool. Who are the newly eligible registrants? So who are the graduates of this year?
+
+91
+00:07:11,210 --> 00:07:23,110
+As was just said, we will project for the thirteen healthcare professions that are subject to statutory regulations in or registration in Hong Kong.
+
+92
+00:07:30,890 --> 00:07:42,870
+這些包括醫生、牙醫、牙科衞生士、護士、助產師、中醫師、藥師、職業治療師、物理治療師。
+
+93
+00:07:49,500 --> 00:08:01,480
+所以這些係很 important，因為佢哋係 under statutory registration。但你會 note 人哋，譬如 clinical psychologist、 dietitians，其他。
+
+94
+00:16:53,390 --> 00:17:05,410
+Because of the information that they provide for us, they is very very high quality information. It's very reliable, and that information is essential to these projections.
+
+95
+00:18:20,580 --> 00:18:32,830
+is what you really should focus on is the band and not the fixed number. So there is a line in this picture. That's the actual fixed projection, but this is not reality.
+
+96
+00:15:37,850 --> 00:15:50,470
+所以這just gives you a view of what types of data that we're using for these projections, and you can see the hospital authority is actually by far our largest and most reliable source of data.
+
+97
+00:03:32,890 --> 00:03:45,570
+因為佢而家係係喺研究誒呢個計劃當中㗎，我相信咧大家嘅意見誒學校方面誒亦都會係誒好誒重視嘅。
+
+98
+00:05:01,870 --> 00:05:14,660
+近喺上一輪嘅人力推算當中咧，港大建立咗一套既設立本地情況，亦都可以按個別專業嘅使用率差異作出調整嘅通用推算模型。
+
+99
+00:09:52,970 --> 00:10:05,770
+是necessary in order to translate the amount of activity that's going on within the healthcare sector into the requirement for the number of workers.
+
+100
+00:17:41,130 --> 00:17:54,200
+And there are two really important things to think about when you look at this. And any time I present a report that comes to the bureau and then eventually comes to you, okay, you need to think about this.
+
+101
+00:06:56,180 --> 00:07:09,520
+I'm going to tell you a little bit about how we we do these projections and what the plan is for the coming set of projections because we have done these previously, and this is a carry on of our earlier work.
+
+102
+00:12:50,670 --> 00:13:04,660
+And I'll just run you through this. So the basic part of the supply we have to start with is who are the current registrants? Who's currently registered by the various different councils?
+
+103
+00:08:10,830 --> 00:08:24,970
+We take a an economic based approach to look at these projections and to consider these projections, and that's in essence looking at supply and demand.
+
+104
+00:05:19,930 --> 00:05:35,550
+咁今次嘅新嘅一輪推算咧，我哋希望可以優化，噉就係話我哋會嘗試去就就呢個專科醫生同埋專科牙醫進行人力推算啦，同埋去區分註冊護士同埋登記護士嘅技能組合。
+
+105
+00:09:23,460 --> 00:09:39,920
+所以this becomes this historical utilisation data and we use that with the Hong Kong demographic data projections from the Census and Statistics Department to project what's called utilisation volume.
+
+106
+00:04:35,020 --> 00:04:51,640
+就支援香港嘅醫療系統嘅持續發展，其中一個建議咧係政府應該配合大學教育資助委員會，即係教資會嘅三年規劃期，每三年進行一次醫療專業人員嘅規劃同埋推算工作。
+
+107
+00:10:35,730 --> 00:10:52,530
+Okay, once we have made these, projected these utilisation volumes, we sort them into different sets of projected volumes. And the reason we sort them and we sort them into either inpatient or outpatient or
+
+108
+00:16:18,620 --> 00:16:35,470
+我們有，as I said earlier，using the population projections from the Census and Statistics Department， but we are hugely reliant on the thematic household survey for outpatient-related data， particularly for the private sector， because we have
+
+109
+00:04:07,930 --> 00:04:25,200
+嘅人力推算二零二零嘅工作喺二零一二年，政府成立咗高層嘅督導委員會，負責進行醫療人力規劃同埋專業發展策略檢討。噉我哋就委託咗香港大學為十三個需進行法定註冊嘅醫療專業進行全面嘅人力推算啦。
+
+110
+00:11:01,990 --> 00:11:19,370
+and we need the sets because different workload requirements are necessary for different types of work that's being conducted. so we can't use one coefficient to represent all work in all sets of volumes.
+
+111
+00:11:57,570 --> 00:12:16,350
+但那需要被調整，因為總有東西在環境內發生，或未來會發生的事情，可能影響預測，我們需要考慮這些。這些我們稱為外部性或政策選項。
+
+112
+00:00:00,000 --> 00:00:20,010
+委員早晨，咁咧就我哋今日嘅事務委員會咧已經有足夠嘅法定人數，噉啊，而家我哋嘅會議咧就正式開始。噉啊，自從上一次會議之後咧，發出咗啊，秘書處發出咗五份嘅資料文件畀各位員嘅，大家可以參考嚇喺十。
+
+113
+00:00:42,340 --> 00:01:02,350
+噉啊！而家我哋啊，因為咧，而家亦都有啲空額係發展誒呢個事務委員會嘅。噉我哋而家我哋事務委員會嘅下下咧，誒有個叫中醫藥發展事宜小組委員會，噉啊，亦都可以展開工作㗎啦。噉啊，到時希望大家踴躍啊！
+
+114
+00:02:52,870 --> 00:03:12,880
+而家係做緊一份咧，就係誒有關我哋香港嘅醫療人才人力規劃啊，同埋專業發展策略嘅一個檢討。咁呢個工作嚟講咧，而得出第個數據咧，對於我哋日後咧就係嗰個誒醫護人員嘅培訓啦，誒。
+
+115
+00:03:12,880 --> 00:03:32,890
+或者係不同嘅專科服務啊，啊人手嘅需求啊，相信都帶嚟一定嘅影響。噉啊，所以咧就一陣間啊，我等我等當局介紹完文件之後咧，噉我希望啊議員咧能夠就呢方面咧啊，除咗提出問題之外，亦都歡迎大家係提出你嘅意見。
+
+116
+00:03:47,920 --> 00:04:07,930
+好噉，我哋而家請啊食物及衞生局副局長徐德義醫生簡介啊政府當局提交嘅文件。請啊徐醫生，多謝主席。呢個議題係關於誒醫療人手推算二零二零。咁今日咧就簡介由誒香港大學進行。
+
+117
+00:05:49,470 --> 00:06:09,480
+食物衞生局同埋港大係將會以十三個專業舉行交流嘅會議，同埋都會適當咁採納相關專業主要持份組織嘅意見，去更新人力推算。噉我哋預計咧人力推算工作將喺二零二零年之前就完成。咁依家咧，我哋請港大嘅代表誒Dr.
+
+118
+00:08:48,080 --> 00:09:08,090
+And then using the basic projections, we pull in a whole variety of other data sources, and these data sources have various characteristics that need to be managed within the projections. But in essence, they include hospital authority data.
+
+119
+00:11:19,650 --> 00:11:39,660
+所以，that's why we go from the the basic utilisation volume for everybody, and then break it down into sets of utilisation volumes. Convert those sets of utilisation volumes by a workload coefficient to come up with a projected number of full time equivalent staff.
+
+120
+00:13:45,180 --> 00:14:05,190
+所以，我們有要調整數量的 registrants 係在池內，有各種特徵，可以描述這些人。所以，係咪退休但係維持註冊狀態？係咪維持註冊但係唔再工作？
+
+121
+00:14:12,840 --> 00:14:32,850
+或 are they otherwise unavailable? We need to withdraw these people from the pool because they're not part of the active, the clinically active people that we're interested in in terms of projecting. And this, once we do that, we have the active number of registrants, and then we convert that active number of registrants into the number of FDEs.
+
+122
+00:14:35,470 --> 00:14:55,480
+Base case supply， and as with the demand， we can adjust the base case supply， and we do that by by information that we might get from UGC or we might get from other people about what the changes in the number of incoming registrants there might be the eligibles， and
+
+123
+00:15:08,490 --> 00:15:28,500
+And implementing legislation about standard working hours, so we would have included that within our adjustment for calculating FDES. So we have many ways in which we can adjust both the base case demand and the base case supply to reflect the current and relevant environment. or
+
+124
+00:15:50,750 --> 00:16:10,760
+And the hospital authority provides us all kinds of data, discharge data, outpatient visits, any admissions. We use surgical records so that we know severity of illness. We can adjust the model for severity of illness and intensity of service. And we also need human resource data from the hospital authority so that
+
+125
+00:17:06,740 --> 00:17:26,750
+所以這些是歷史性的，所以 don't look at this as if it's current. Please, I wanted to just give you some examples from what we've used previously and what we projected previously. You can see that the on the x axis, okay, the horizontal axis, this is years.
+
+126
+00:11:44,260 --> 00:11:45,090
+okay。
+
+127
+00:20:23,360 --> 00:20:24,280
+所以。
+
+128
+00:24:30,790 --> 00:24:31,760
+嗯。
+
+129
+00:37:03,300 --> 00:37:04,290
+啊，多謝主席。
+
+130
+00:32:24,190 --> 00:32:25,190
+啊！
+
+131
+00:41:47,570 --> 00:41:48,640
+多謝主席。
+
+132
+00:36:51,850 --> 00:36:52,970
+聽日我哋局長。
+
+133
+00:22:54,720 --> 00:22:55,930
+陳海欣。
+
+134
+00:31:17,920 --> 00:31:19,290
+好，請阿局長。
+
+135
+00:32:48,470 --> 00:32:49,850
+阿陳佩賢。
+
+136
+00:44:12,260 --> 00:44:13,780
+係，阿局長。
+
+137
+00:41:48,970 --> 00:41:50,570
+噉就誒。
+
+138
+00:24:16,740 --> 00:24:18,370
+If the
+
+139
+00:41:44,370 --> 00:41:46,060
+下一位係潘少平。
+
+140
+00:25:57,620 --> 00:25:59,320
+所以，呃。
+
+141
+00:37:00,230 --> 00:37:02,020
+下一位係李國麟。
+
+142
+00:24:32,070 --> 00:24:34,200
+disappointingly and.
+
+143
+00:27:44,460 --> 00:27:46,770
+誒主席，誒。
+
+144
+00:22:28,120 --> 00:22:30,490
+and that's it, those are our projections.
+
+145
+00:36:49,120 --> 00:36:51,570
+你想問啊，Doctor Johnston係咪？
+
+146
+00:19:42,420 --> 00:19:45,060
+and it's because of the source of the data.
+
+147
+00:19:22,280 --> 00:19:25,160
+Now, one other thing you have to remember.
+
+148
+00:20:49,610 --> 00:20:52,550
+and we're doing this with the help of the academy.
+
+149
+00:34:50,380 --> 00:34:53,560
+你講嘅嘢咧，你其他國際文獻唔係噉樣做。
+
+150
+00:21:46,070 --> 00:21:49,390
+With the dentist, we're taking a conceptual approach.
+
+151
+00:28:15,360 --> 00:28:18,890
+因為實質上，我哋而家睇誒。
+
+152
+00:19:37,450 --> 00:19:41,360
+The data for the dentists is much less secure.
+
+153
+00:26:29,280 --> 00:26:33,240
+O.K. Dr. Johnson，哦，定係局長會回應咧？
+
+154
+00:19:32,370 --> 00:19:36,820
+and it's very quantifiable, and it's because of the source of that data.
+
+155
+00:36:44,120 --> 00:36:48,590
+因為呢個因素係好大嘅，我覺得係我哋曾經試過係減人手嘅。
+
+156
+00:31:00,130 --> 00:31:05,520
+冇呢一個短中期人手不足嘅問題，然後我哋又揼咗好多個億。
+
+157
+00:21:39,370 --> 00:21:44,970
+The dentists are much more difficult to do than the doctors. Okay, I'll wrap up.
+
+158
+00:24:45,670 --> 00:24:51,400
+The hospital authority or the government is unable to hire. So, what would be the outcome? Number one.
+
+159
+00:42:29,400 --> 00:42:35,180
+誒，而且好多嘢變得好緊要，咁即係呢個三年係咪一定係即係？
+
+160
+00:19:53,030 --> 00:19:58,980
+and we have private hospital data to cover at least the private hospital sector.
+
+161
+00:25:40,190 --> 00:25:46,300
+and thirdly, we are facing another very important issue is whilst in the
+
+162
+00:36:53,790 --> 00:36:59,930
+好啦，時間到啦，我喺稍後最後或者做少總結嗰陣時，回應埋呢個問題啦，好嘛？
+
+163
+00:20:35,580 --> 00:20:41,830
+So in the current projection, we are going to look at three, or what I'm going to tell you here, three.
+
+164
+00:19:46,070 --> 00:19:52,330
+Doctors, at least half of your doctors are working in the public sector, and we have extraordinarily good data for that.
+
+165
+00:19:25,720 --> 00:19:32,090
+The data for to project doctors is much more secure, because it's it's very numeric.
+
+166
+00:26:43,800 --> 00:26:50,700
+唔緊要啊，要報復。Okay, Doctor Johnston, please. I can answer at least one, maybe not the others. Okay.
+
+167
+00:20:42,110 --> 00:20:49,150
+enhancements to the current projection. The first one is to project for specialist doctors.
+
+168
+00:20:53,230 --> 00:21:01,380
+And in projecting for specialist doctors, we will stratify the data by specialist or by specialty rather.
+
+169
+00:41:50,850 --> 00:41:59,060
+即係而家大家都會即係期望咧，就係嗰個醫療人手咧係可以真係透過噉樣嘅。
+
+170
+00:33:11,060 --> 00:33:19,320
+嘅政策講緊推算，點解每一年或者推算一年、推算五年、推算十年係錯嘅？我就話畀你聽點解，原因有原因嘅。
+
+171
+00:26:51,310 --> 00:26:59,790
+what we are doing is projecting the demand and supply or the demand and supply for a variety of professionals.
+
+172
+00:20:26,060 --> 00:20:34,880
+what I've just told you about is actually the historical, and we will take all this process going forward. And then this is the new part of the current projection.
+
+173
+00:29:59,560 --> 00:30:08,470
+喺短期同中期咧，都係唔夠醫生嘅，係有個manpower shortage。牙醫亦都係短期同中期係唔夠人手嘅。
+
+174
+00:26:33,960 --> 00:26:43,190
+I would suggest Dr Johnston to answer this question because Dr Coe is.唔係阿副局長，你可以答嘅，即係嚇。
+
+175
+00:22:30,770 --> 00:22:40,100
+Okay, thank you, thank you, Dr Johnston. Okay, now we should open the discussion to our panel members.
+
+176
+00:42:19,370 --> 00:42:28,890
+嗰個醫療專業人力嗰個規劃同埋推算，咁點解要定三年咧？而家啲時間變得咁快，啊會唔會即係？
+
+177
+00:19:59,390 --> 00:20:08,990
+但 for dentists, almost all dentists or very large proportion of dentists are working in the private sector, for which the data is much less secure.
+
+178
+00:27:33,960 --> 00:27:43,790
+O.K.跟住係黃碧雲。In short, you haven't take into all those factors。啊，我諗後再補充啦，或者其他誒議員代理問啦，黃碧雲唔該。
+
+179
+00:33:40,200 --> 00:33:50,070
+幾多咧？我哋可以好準確推算到嘅。點解咧？我就話你聽呢一度你嘅模型嘅錯，或者有啲乜嘢做得做咗冇做到，點解會有問題發生咧？
+
+180
+00:24:51,680 --> 00:25:01,680
+And number two, in Hong Kong, the situation is quite different from the others countries. We have some ten thousands traditional Chinese medicine practitioner.
+
+181
+00:35:25,020 --> 00:35:35,100
+政府話將啲文即係將相關嘅基本數據擺搦過嚟，冇。我過去亦都冇。好啦，兩年之後到今日，嗱，我我問題係咩咧？
+
+182
+00:23:48,410 --> 00:23:58,620
+in the nineties and in the two twenties, perhaps you you may be aware of that, yeah. And at that very moment, they would.
+
+183
+00:24:34,580 --> 00:24:45,080
+嗯，There happens many many times. I think in many countries， including UK or you know you you heard of this story repeat again. So if
+
+184
+00:39:40,330 --> 00:39:50,920
+即係我相信我十個界別都唔會覺得重蹈覆轍，就係話第一件事政府要交代第一件事，你係咪需要擺羅列咗一啲標準，包括就係話嗰個服務量。
+
+185
+00:32:11,680 --> 00:32:22,390
+啲委員會佢一個三年嘅一個循環，我哋就每三年做一次呢個嘅推算，噉樣去規劃人手嘅。我簡單回應到呢度先。你哋嘅推算有冇包括大灣區？
+
+186
+00:39:09,150 --> 00:39:19,880
+説完出嚟之後，你會唔會講到話？而家你入入嚟嗰啲噉嘅數據啊，已經反映唔到現實啦。現實就係話香港護士會舊年做嗰個。
+
+187
+00:25:46,590 --> 00:25:57,340
+private market. There has been good times that we have a lot of you know patients coming from mainland to seek medical care, but now they all disappear.
+
+188
+00:35:13,850 --> 00:35:24,680
+講得好複雜，令到大家在座嘅議員咧係冇辦法容易喺短時間理解嘅啫。嗱，我曾經要求過，亦都政府同意過嘅，但係我等咗兩年係做唔到。首先一。
+
+189
+00:30:28,760 --> 00:30:39,840
+係中醫短期夠，但係中期又唔夠。Pharmacist咁一路睇落去，其實大多數嚟講都係唔夠嘅嗰個人手。噉我就想問下阿方毅先生同埋副局長。
+
+190
+00:27:47,850 --> 00:27:59,190
+我想問咧，就係誒有幾個問題。第一咧，就係誒呢一個嘅推算咧，其實係誒建基喺一個嘅假設上邊嘅。
+
+191
+00:37:44,590 --> 00:37:56,100
+要咧比較準確咁咧，知道咧第二時咧呢個供求係咪平衡？我想問下政府幾樣嘢？第一樣嗱，你今日講嗰十三個界別咧，有十個係我嘅界別代表在喺度。
+
+192
+00:31:05,940 --> 00:31:17,600
+去起一啲新嘅醫院，增加新嘅病牀。我想問咧，就係我哋點樣去解決根本上到時可能有硬件，但係唔夠人手去提供醫療服務咧？
+
+193
+00:31:19,720 --> 00:31:31,380
+好啊！多謝主席同埋黃議員。咁關於我或者回應咗最尾個問題先啦，就係關於誒硬件個規劃同埋人手規劃。咁呢個咧，其實我哋都係誒。
+
+194
+00:36:15,590 --> 00:36:27,350
+好明顯，呢半年咧，我哋嘅需人人員誒，內地人嚟香港嘅人數大大幅減少，而我哋裏邊嗰個醫生嘅人數需要嘅人數係會大幅減少。
+
+195
+00:24:18,650 --> 00:24:30,510
+經濟或The performance of the economy is not to our expectation. Although the government has pledged to hire all the graduates, but this can be changed any time. You know.
+
+196
+00:38:16,410 --> 00:38:28,490
+到啊！咁所以咧，從來咧，呢個神算機有一樣嘢冇做到嘅，或者做唔到嘅，就係政府咧冇話畀佢聽，有啲嘢叫做咧標準嘅，例如工作量嘅一啲指標。
+
+197
+00:20:09,330 --> 00:20:21,610
+因為的nature of clinical practice in the private sector，所以你 have to look at these things and be aware of these caveats when you're considering the data and considering the report。
+
+198
+00:22:41,020 --> 00:22:53,350
+好嘅，我哋而家咧就係有九位誒委員係報咗名㗎：郭嘉琪、黃碧雲、陳佩然、李國倫、潘少平、邵家津、張超雄、陳志全、郭佩凡。
+
+199
+00:41:30,100 --> 00:41:43,400
+人手流程嘅調配，或者優化，或者人手之間嘅配合，譬如話護士點樣可以幫到醫生，或者藥劑師點樣幫到臨牀服務等等咧，去將一個現在嘅服務去改善嘅，唔該。
+
+200
+00:26:14,790 --> 00:26:28,170
+Of the manpower in terms of the doctors will be dropped significantly as a result of that. So have you take into all those factors when you are calculating the manpower supply of the doctors?
+
+201
+00:23:33,370 --> 00:23:48,130
+Occasions when the economy of Hong Kong is not up to the expectation that the government through the Hospital Authority will have to cut the budget. This happens.
+
+202
+00:25:59,600 --> 00:26:14,470
+demands from the private sectors on various specialty is going to drop tremendously, and we are seeing perhaps in a few years' time, maybe one or two years, the wastage.
+
+203
+00:27:18,020 --> 00:27:33,590
+Sorry, did I? Okay, you can finish your sentence. That we have done this previously, for example, with the pharmacist in the last projection. Okay, because there was a very large drop in the number of tourist arrivals, and we did a post hoc adjustment. So we can do that.
+
+204
+00:27:59,470 --> 00:28:15,080
+咁喺附件嗰度咧講，呢一個假設咧就係話目前使用率誒同個供求係平衡，用呢個假設係作為一個基礎嘅。咁但係我相信呢個假設咧係應該係一個錯誤嘅假設。
+
+205
+00:36:27,630 --> 00:36:43,680
+甚至乎大灣區而家發展都係有所嘅分別嘅。我問題就係：請問教授，你有冇將呢個叫經濟嘅考慮因素，或者政府撥款嘅考慮因素放喺你嘅模型裏邊？亦都係有嘅，係點樣？可唔可以講清楚？究竟係乜嘢？
+
+206
+00:43:55,500 --> 00:44:11,810
+而家嗰個醫療培訓嗰個大學嗰個能夠承受嘅能力啊，噉你點樣去盡快可以配合到而家嗰個模式，可以同期一齊去處理到將來佢推算出嚟嗰個數額咧？係唔該。
+
+207
+00:23:16,350 --> 00:23:33,090
+Thank you, Dr. Johnson, for your presentation. Now, while most of the figures you quoted are correct, there are a few incident. I just want to know whether you have take into account. Number one, there has been
+
+208
+00:21:49,830 --> 00:22:06,610
+and the we will only be able to give you an idea of what's happening rather than a formal projection like for the doctors. but otherwise they are the same. and then for the nurses, we are going to special we are going to project both for registered nurses and for enrolled nurses.
+
+209
+00:27:00,070 --> 00:27:16,900
+Based on our historical data, okay, I can put into my model a post hoc adjustment for that that can account for a whole variety of things that have happened that happen within the community, and we have done this.
+
+210
+00:21:21,010 --> 00:21:38,150
+and we will run engagement interviews with the different colleges, specialist colleges, to clearly understand what their workload is, what their utilisation volumes are, and use that to help inform and triangulate what we're doing with the specialist data.
+
+211
+00:23:59,170 --> 00:24:16,460
+not you know high A V graduates from the medical school from the both school, but at that moment we are only less than 300 graduates, and we are expecting more than 500 in the coming few years. So the questions is
+
+212
+00:40:11,260 --> 00:40:28,650
+局長，佢打一答，到底你今次做完之後，你個目的係咪有個叫供求平衡？唔係淨係喺個數字上又爭幾多，而每個市民知道咧，我哋真係可以咧用得到呢個滿足到我哋公營醫療或者係私家醫療嗰個服務咧噉樣。主席，係局長。
+
+213
+00:25:22,030 --> 00:25:39,910
+higher or to you know have so many graduates from the medical school because of you know they have already soldering a lot of the responsibility that need to be taken by the GP or primary care practitioner unlike other countries.
+
+214
+00:21:01,660 --> 00:21:19,890
+as we are able, and when we are not able, we will take advice from the academy about how to stratify the data. Okay, and in order to do that and get more or more helpful advice, we are surveying specialist doctors to get more information from them about their practice and their utilisation.
+
+215
+00:35:56,570 --> 00:36:15,310
+fiscal position overall，即係講緊經濟狀況，或者叫兩日維出。而呢一個字咧，就正正係基本法裏邊嘅嗰個文字嚟嘅，即係話每一年政府畀醫管局嘅撥款同埋醫管局點樣計人手咧，係基本上係兩日維出嘅。呢係第一。第二就係私家醫院、私家醫生。
+
+216
+00:22:06,890 --> 00:22:26,900
+And there are three strategies. One's an empirical, one is looking at international standards, and the third one is to look at engagement with the nurses to get a sense of their perceptions and their information about how to project for enrolled and enrolled and registered nurses.
+
+217
+00:22:56,210 --> 00:23:16,220
+OK，咁咧就每位四分鐘。噉我因為因為個時間今日有好多個議程，所以我時間會揸得比較緊。噉啊，再一次咧就呼籲大家，除咗問問題之外咧，亦都可以多啲畀意見啊。我哋嘅啊香港大學嘅代表嚇。OK，首先係請啊郭嘉琪，唔該主席。
+
+218
+00:25:02,020 --> 00:25:22,030
+They are shouldering more or less the same responsibility for the GP or the frontline doctors in taking care of the primary care. So have you take into account the manpower supplied by you know the TCM? If that is the cases, then we may not be able to.
+
+219
+00:28:19,170 --> 00:28:39,180
+公立醫院咧嗰個專科服務嘅輪候時間係好長嘅，或者要輪候一啲，就算化驗又好啦，等做手術好啦，都係要等好耐嘅。咁等到等唔到嗰啲咧，就有錢就去睇私家醫生。咁所以如果建機係一個錯誤嘅假設上邊去進。
+
+220
+00:28:39,180 --> 00:28:59,190
+行一個未來嘅誒醫療人力需求嘅時候，會唔會就已經係誒推錯曬咧嚇？咁呢個係第一個問題。咁第二咧就係誒關於嗰啲外在因素個Bay Area大灣區嗰度，其實如果佢哋誒國內嘅居民開始富裕咧，可能佢哋都會誒。
+
+221
+00:28:59,190 --> 00:29:19,200
+尋求嚟香港咧，係誒接受醫療服務或者化驗或者各樣嘢。噉我哋點樣推算大灣區嗰度嗰個嘅誒嚟香港尋求醫療服務嗰個需求係幾大？而可能佢哋主要嚟講係去私營嘅喺香港。咁如果私家醫院或者私營醫療服，
+
+222
+00:29:19,200 --> 00:29:39,210
+服務嗰度咧係膨脹嘅話咧，噉佢亦都會扯走咗公立醫院嗰啲嘅誒醫療專職人員。噉我哋都留唔到佢哋嘅。咁到時誒，究竟我哋應該點樣做嗰個推算咧？咁噉，如果我哋睇誒秘書處啊，幫我哋準備嗰份文件咧。
+
+223
+00:29:39,550 --> 00:29:59,560
+啊！頭先誒港大嘅教授好清楚講咗佢嗰個推算模型。咁但係事實上，我哋都唔知道係究竟夠人定唔夠人嘅啫。未來咁如果睇秘書處畀我哋嗰份文件嘅附件三咧（Appendix Three）咧，嗰度係有啲projection喺度嘅。咁嗰度講緊咧，其實醫生嚟講咧係誒會。
+
+224
+00:30:08,750 --> 00:30:28,760
+誒，然後咧呢啲誒誒dentist係係genius咧嗰啲誒幫你洗牙嗰啲嘅誒牙科衞生員，短期、中期亦都係唔夠人手嘅。誒，護士誒亦都係喺短期、中期都係唔夠人手嘅。咁然後咧就你再睇。
+
+225
+00:30:40,120 --> 00:31:00,130
+究竟面對未來，我哋其實喺各個嘅醫療專業裏邊都係唔夠人手嘅。短期、中期唔好講長期，添噉我哋喺邊度去增加嗰啲人手出嚟咧？即係你而家嗰個嘅預計畀幾間大學培訓相關人員嘅嗰個quota，其實都未能夠處理到。
+
+226
+00:31:31,660 --> 00:31:51,670
+並行嘅，因為硬件都知道咧，由個誒地方嘅選址同埋嗰個誒建築嘅規劃咧，往往都係需要一段好長嘅時間。同埋每一家醫院起好之後咧，通常如果睇翻我哋過去記錄，都係用起碼二三十年甚至四十年先會再重建。所以硬件嗰個。
+
+227
+00:31:51,670 --> 00:32:11,680
+嘅，我哋叫誒嗰個嘅reserve啦，我哋係要規劃得比較緊要，同埋需要時間嘅。咁另外人手咧都係循住多方嘅途徑啦，主要咧係當然係培訓本地嘅醫療人才先啦。咁所以我哋每三年都會跟翻頭先嗰個第一次報告就係話配合呢個誒UGC。
+
+228
+00:32:28,460 --> 00:32:48,470
+阿方生嘅咪有啲回應。係請阿方毅。嚇，主席多謝。誒，我哋其實喺上一次個推算咧，都已經處理埋咧，係譬如係誒，即係內地落嚟香港用香港醫療服務嗰個嘅情況嘅。咁所以其實我哋都喺上一次推算裡面都已經處理咗呢樣嘢。咁今次我哋亦都會特別去處理嘅。嚇，咁所以。好，下一位。
+
+229
+00:32:51,050 --> 00:33:11,060
+呢個就係而家最誒誒最近個一個特比較出名嘅名詞，叫冷氣軍師，同埋一個用一個好深嘅模型，然後等加等大家唔知講緊乜咁呢樣嘢咧，係唔會令到大家驚嘅。我可以大白誒我咁大點解咁講咧？呢啲叫推算咧，喺政府嘅唔同。
+
+230
+00:33:20,190 --> 00:33:40,200
+我自己做大學啊！我十年前係做大學醫院，我係幫教授出過幾份國際文獻，係講緊推算，例如推算一個癌病病人，究竟我哋用咩方法幫佢醫，然後佢嘅嘅誒誒做手術啊，或者做消融啊，或者做物誒藥物嘅治療，究竟佢嘅生命嘅日嘅年數。
+
+231
+00:33:50,350 --> 00:34:10,360
+講緊第一，你講緊嗰個誒，你推算一定係講因素啲factors。而嗰啲因素咧唔係基於你想象出嚟嘅，係基於過往嘅你發嘅見到嘅現象，然後歸納出嚟，然後有原因，亦都有證據嘅。呢個第一點，你啲因素我係聽你有啲因素你冇擺。
+
+232
+00:34:10,360 --> 00:34:30,370
+落去啦，同埋你唔知點解擺嗰啲因素落去，已經第一第一錯啦。第二咧，你淨係嚟嘅頭先睇咧，你淨係發覺成個研究咧係淨係推算。我可以話你聽咧，喺個點樣推算準確咧？喺個研究裏邊咧係有兩方面嘅，一就係講緊你睇翻過往嘅數據。
+
+233
+00:34:30,370 --> 00:34:50,380
+然後繼而，我哋推推算咧，一個叫testing set，一個叫validation set，唔係prediction，即係講緊以前嘅數據點解會有噉嘅人數出嚟，有啲咩原因？然後用嗰個模型嘗試翻套用翻以前嘅情況，係咪噉樣啱唔啱？然後再再做睇下究竟下將來係點嘅。所以我好話嚟聽，點解頭先？
+
+234
+00:34:53,840 --> 00:35:13,850
+好啦，我以之前咧兩年前曾經好強烈喺呢個委員會度問過上一任嘅孫玉涵先生咧，我話我係想又興趣，亦都好要求我要去睇下發生咩事個模型講到好似好複雜噉樣，但係所有嘢都係數學嚟嘅啫。對於我嚟講，數學唔係啲好難嘅嘢，不過你只係講。
+
+235
+00:35:36,560 --> 00:35:56,570
+誒公營醫院咧講緊嗰個人手嘅規劃咧，我我哋講緊係一個經濟嘅係。我喺立法會嘅二零一六年第一條問題問政府咧，就係話你基於乜嘢嚟嚟定每年畀醫管局嘅撥款同埋人手？你嘅答案咧就係叫fiscal balance嘅fiscal balance嘅。
+
+236
+00:37:04,570 --> 00:37:24,580
+神算機咧，唔係今次出現㗎啦。呢個廣大神算機咧，係第二次喺呢度出現。嗱，呢個神算機我有分幫佢睇，噉啊簡單嘅啫。佢就話畀你聽啦：，通過呢個神算機之後咧，咁咧就呢個醫護人手咧就供供求咧係咪平衡？嗱，呢個就係目的啦。我淨係有我冇興趣同你爭論嗰神算機啊？誒。
+
+237
+00:37:24,580 --> 00:37:44,590
+我就想問政府嗱，你呢個神算機用咗啦，用咗一次啦，平平衡咧供求，而家公立醫院排大隊，大家都知啦。你都講到啊，上次咧都有啲誒唔妥嘅噉樣。咁如果正話神算機又話啊，我要用一啲咧就係呢個容量收集啲容量收集啲數據咧，就可以。
+
+238
+00:37:56,400 --> 00:38:16,410
+好明顯咧，呢十八個月都覺得咧，而家人手不足，係咧應付唔到而家嗰個咧需求量嘅。嗱，需求量對我哋嚟講咧，唔係出幾多誒專職醫療人手，而係咧到底病人同埋市民嗰個需求量咧，係唔係咧可以咧，係被咧係要滿足。
+
+239
+00:38:28,900 --> 00:38:48,910
+第二就係話呢個病人或者我哋照顧對象啦，同咧呢個咧係呢個照顧者或者即係我哋叫做專業醫療人員嘅比例嘅咧，呢兩樣嘢冇嘅時間咧，你點樣計咧？你都計唔到係咪一個平衡嘅喎，即係話將來中短長期都好啦，你都做唔到一樣嘢，就係話係。
+
+240
+00:38:48,910 --> 00:39:08,920
+係咪出嚟嗰啲可以登記嘅專職醫療人士？我十個界別係咪滿足到而家嗰個服務需求？你講唔到，再加埋其他議員就係講到時冇錢點算咧？呢個我哋唔講啦。咁所以今日嗰個嗰個議題，我諗最主要我想關注就係政府要答我嘅嚟緊。你今次第二次用呢個神算機去做呢個神算。
+
+241
+00:39:20,290 --> 00:39:40,300
+人手調查咧，一個護士要要照顧十一個病人，國際標準係一個護士對六個病人。呢啲冚棒，你要擺落去嘅喎。做完曬之後啦，你話又係爭啦。咁爭嘅時候，噉你上次都講啊，你上次爭咗啲，爭嗰啲其實你冇標準嘅時間，你做唔到個標準。今次你又用翻呢噉嘅重複去再重複嘅時候。
+
+242
+00:39:51,250 --> 00:40:11,260
+誒嘅指標啦，或者係呢個咧照顧對象，同埋咧呢個專專職人員嗰個誒比例啦，嚟畀呢個神算機去計一計，到底爭幾多人出嚟做唔做到咧？當然啦，你係咪可以畀到錢去訓練幾多人出嚟？中專長期點樣解決呢個後華？咁所以嘅主席，我想佢答一答嘅啫，就係即係我唔係。
+
+243
+00:40:30,070 --> 00:40:50,080
+多多謝主席同埋誒議員。咁關於成個嘅推算咧，頭先教授都解釋咗咧，即係每一個模型都有佢嘅限制啦。咁上次第一次做嗰個人力推算咧，佢用咗個即係基數咧，就係用呢個需求跟住咧，佢都解釋咗咧係有誒採納好多嘅因素。
+
+244
+00:40:50,080 --> 00:41:10,090
+然後做一個時候嘅誒誒誒改善嗰啲數據嘅質素噉樣嘅噉，所以我哋都明白咧，即係呢個模型係其中一個世界其他地方都用個模型，同埋佢有個限制。呢個我哋係知道嘅。咁另外頭先都解釋咗，越長遠嘅準確程度係會誒冇咁準啦。呢個我哋。
+
+245
+00:41:10,090 --> 00:41:30,100
+理解到啦，咁同我想回應翻嗰個服務質素同埋現在需求咧，其實呢個同人手推算咧係兩條路並行嘅。其實我哋任何時間都喺無論係公營系統嗰度啦，特別講緊咧，都係留意緊，喺住院啊、門診啊、日間啊嗰啲服務咧，點樣可以透過完全嘅人。
+
+246
+00:41:59,360 --> 00:42:19,370
+啊！呢個所謂推算模式揾到一個較為切合到而家，即係響誒人手差距咁大嘅情況之下咧，可以得到改善。咁不管點都好啦，就誒我我想有幾個問題咧，借呢個機會都想進一步瞭解。因為第一個咧就你哋講咧就三年一次咧就做。
+
+247
+00:42:35,460 --> 00:42:55,470
+要定死呢個安排，呢個第一個。第二個咧，當然政府都有提到咧，就今次呢個推算模式咧就會誒會顧及嗰個人口結構變化啦，同埋咧就相關嘅因素咧噉啊，包括所謂外在因素同埋政策嘅影響。咁正係咧，同事瞭解嗰個所謂外在因素。咁當然。
+
+248
+00:42:55,470 --> 00:43:15,480
+我想了解準確少少咧，你正話咧有當然有提嘅咩工時啊，甚至乎經濟下行啊。咁有啲同事問到大灣區，其實你哋嗰個外在因素係咪已經有一個表列咗喺度定咗？咁當然正話咧，聽見教授講咧就會有調整啊，都要睇埋個供求啊，嗰個誒嗰個決定。咁呢個我想了解下嗰個。
+
+249
+00:43:15,480 --> 00:43:35,490
+而家個模式裏面嗰個外在噉，另外呢個噉嘅推算模式咧，與其他外國或者一啲有冇一啲國際即係人哋制定一啲標準嘅嘅因素擺咗落去。咁另外咧，就我想再跟進下咧。當然而家你又話會二零二零年底就會完成呢一個推算啦。噉就有咗結果。
+
+250
+00:43:35,490 --> 00:43:55,500
+之後咧，你就政府就會同呢個教資會再傾呢個三年規劃嗰個，即係對嗰個醫療培訓。噉我我想問下咧，就嗱過往咧，其實都已經有增加，好似上年噉樣，你增加成二百億咧，都係加咗嗰個所謂一百五十個學額咧，有六十個醫科醫生等等。咁其實而
+
+251
+00:44:14,910 --> 00:44:34,920
+多謝多謝主席同埋誒議員嘅提問。咁關於嗰個三年做一次咧，呢個都係基於上次我哋第一次做誒第一份報告嘅時候咧嘅建議啦。我諗個好簡單嘅或者實際嘅原因就因為教資會佢嗰個嘅規劃係三年做一次。咁如果我哋嗰個嘅規劃嘅，
+
+252
+00:44:34,920 --> 00:44:54,930
+循環可以同佢誒負責呢個誒政府安排誒資助名額呢個循環係配合嘅話咧，就可能更加配合到誒人手需求同埋人手培訓嗰個循環咁解嘅啫。咁當然咧，其實每一年個轉變或者隨時嘅轉變咧，我哋都會誒。
+
+253
+01:05:06,180 --> 01:05:06,510
+嗯。
+
+254
+00:35:35,380 --> 00:35:35,990
+嗱。
+
+255
+00:22:26,900 --> 00:22:27,530
+sorry。
+
+256
+00:19:15,750 --> 00:19:16,410
+Okay.
+
+257
+00:18:40,490 --> 00:18:41,260
+OK。
+
+258
+01:03:38,270 --> 01:03:39,180
+秘書長。
+
+259
+00:45:49,210 --> 00:45:50,170
+邵家臻。
+
+260
+00:50:16,230 --> 00:50:17,290
+張超紅。
+
+261
+01:09:59,180 --> 01:10:00,300
+啊啊！
+
+262
+00:48:58,650 --> 00:48:59,820
+at that base.
+
+263
+01:02:00,710 --> 01:02:02,100
+係，阿局長。
+
+264
+00:53:32,380 --> 00:53:33,780
+請阿局長回應。
+
+265
+01:11:22,710 --> 01:11:24,140
+好，咁咧就。
+
+266
+01:12:14,170 --> 01:12:15,840
+即係嗰個誒。
+
+267
+01:03:36,260 --> 01:03:37,990
+有冇數字啊？
+
+268
+01:13:09,360 --> 01:13:11,150
+係三點幾？
+
+269
+01:11:20,400 --> 01:11:22,260
+唔該。好，阿。
+
+270
+00:56:34,680 --> 00:56:36,560
+係可唔可以？
+
+271
+00:48:05,790 --> 00:48:07,730
+個誒誒。
+
+272
+01:13:07,060 --> 01:13:09,080
+而家人哋嘅比例。
+
+273
+00:55:41,360 --> 00:55:43,980
+提供人道救援而被控。
+
+274
+01:04:43,070 --> 01:04:45,890
+我有一個誒臨時動議，希望提出。
+
+275
+00:49:37,110 --> 00:49:40,010
+我會like to address an earlier question if I can.
+
+276
+00:54:34,670 --> 00:54:37,610
+好，跟住係陳志全。
+
+277
+00:58:54,210 --> 00:58:57,190
+好噉啊！跟住下一位係郭佩凡。
+
+278
+00:47:51,330 --> 00:47:54,410
+誤評錯誤嘅估算咧，噉樣啊，唔該主席。
+
+279
+00:50:37,990 --> 00:50:41,090
+Constant就講話，所有呢啲。
+
+280
+01:13:19,560 --> 01:13:23,100
+我哋唔係啊嘛！我哋香港九成嘅人去公立醫院。
+
+281
+00:56:18,230 --> 00:56:22,180
+都有呢個，亦都可能會對醫護人手咧係帶嚟壓力。
+
+282
+01:12:24,600 --> 01:12:28,710
+啊，去到醫院咧，有時真係咧，感覺到哀傷。
+
+283
+00:55:28,630 --> 00:55:33,220
+不攬捕啊！連嗰啲提供人道救援嘅醫護人員。
+
+284
+00:53:06,610 --> 00:53:11,290
+或者至少改善呢啲嘅人手同埋我哋有關嘅醫療嘅服務。
+
+285
+00:57:12,820 --> 00:57:17,620
+過去半年發生嘅嘢係唔相關，影響係好細微嘅咧。唔該，主席。
+
+286
+00:56:22,640 --> 00:56:27,950
+另外，外國人會唔會嚟啦？而家旅行都唔嚟啊！你叫佢嚟做醫生。
+
+287
+00:53:12,380 --> 00:53:17,740
+好啊！呢個好實際啊，局長嚇嚇有好多學生啊，根本就話係。
+
+288
+00:45:43,310 --> 00:45:48,930
+會唔會稍後稍後先？啊，或者你哋有時間嗰陣時，再請阿局長會面。
+
+289
+00:48:28,250 --> 00:48:33,870
+等等嗰啲嘢咧，都係誒同步進行緊嘅。咁第二就係嗰啲嘅。
+
+290
+00:56:28,650 --> 00:56:34,360
+佢嘅意欲係咪又會降低咧？我頭先講嘅呢幾個因素，你呢啲噉嘅推算模型。
+
+291
+01:12:59,770 --> 01:13:05,600
+仲有一樣嘢係公立醫院嘅專科醫生嘅比例應該係幾多？
+
+292
+01:11:24,690 --> 01:11:31,980
+跟住咧就，其實我都想跟進少少問題㗎啦，OK？噉啊，仲有冇其他議員仲未問嘅？我讓畀大家問先。
+
+293
+01:13:11,430 --> 01:13:18,830
+或者二點三、二點幾，但係問題在人哋嗰啲差唔多全部公立醫院為準啊嘛。
+
+294
+01:06:27,050 --> 01:06:34,520
+科服務咧係可以有公營嘅牙醫嘅，依個第一。咁另外咧就係我哋嘅基層家庭醫療。
+
+295
+00:55:33,500 --> 00:55:40,990
+喺理大嗰啲幫手出嚟嗰啲醫護人員都要拘捕，可能唔少醫生同埋醫科生都因為。
+
+296
+01:01:52,460 --> 01:01:59,980
+先見到第一次醫生咧，即係你哋嗰個服務承諾係咪改善咗個服務嚟承諾嚟去計嗰個需求咧？唔該，主席。
+
+297
+01:12:06,370 --> 01:12:13,890
+亦都可能話歡迎嚇，各地啊不斷嚟嘅人口啊，你仲有喎？個人口推算，你就要估埋。
+
+298
+01:10:01,150 --> 01:10:08,790
+係啊，係咪局長啊？定係你可以一次過回應埋？啱啱仲有啲議員問你嘅問題，你都可以順便回應，畀三分鐘你好冇。
+
+299
+01:12:16,600 --> 01:12:24,310
+誒，譬如話旅客啦，而家不過真係好難估啦，而家大家都未知，噉啊，但係咧就誒，由此可知個需求好大。
+
+300
+00:49:54,890 --> 00:50:02,730
+Okay, and I don't think it is actually up for question. Okay，我諗最重要就係誒。
+
+301
+00:52:38,170 --> 00:52:46,320
+就噉話誒，即係做咗個模式就搞掂。其實而家個人手，無論你裏邊十三個專業咧。
+
+302
+00:48:50,210 --> 00:48:58,370
+yes, okay, so there's a misunderstanding about why we started from equilibrium. You have to start.
+
+303
+00:49:00,100 --> 00:49:08,990
+And then you adjust the model after that. You cannot make a not a non-justifiable.
+
+304
+00:45:33,940 --> 00:45:43,030
+好，跟住係邵家津嗰個誒推算模式，同其他地區國家有冇即係誒，即係大家有一個標準界定嘅？
+
+305
+01:11:09,360 --> 01:11:18,480
+嗰個誒，如果個六十五歲以上，亦都可以用呢個嘅資金咧，去幫佢哋做一啲嘅喺私人市場嗰度攞到牙科服務嘅。
+
+306
+01:12:49,590 --> 01:12:59,100
+一樣嘢，我哋其實都要求咧，可唔可以今次人力推算嗰陣時啊，分開兩種，OK，人口比例嘅一種，有專科醫生嘅比例。
+
+307
+00:47:54,700 --> 00:48:04,750
+係，阿局長，係啊，會唔會仲有錯誤嘅估算咧？係，多謝主席同埋趙議員。咁關於第一個問題，我都想再一次強調咧個。
+
+308
+01:02:05,600 --> 01:02:17,030
+係係咪局長回應咧？定係方啊方啊方秘書長？多謝主多謝主席。誒，我或者先回應前面嗰部分，跟住再請啊啊Dr.莊臣咧誒回應最尾嗰個問題。誒誒，關於嗰啲誒誒。
+
+309
+00:49:24,400 --> 00:49:36,270
+and get their information about what that gap needs to be and adjust the model post hoc, which is what we've done with every projection we've done. This is actually the third projection that we've done.
+
+310
+01:08:14,850 --> 01:08:27,080
+有做咗個報告，話有過剩人手，但係對唔住局長，請問你冇因應你上次嘅報告，喺中醫過剩人手之後，做翻相對對策，善用我哋嘅過剩人手，我都唔同你講短缺人手先啦，唔該。
+
+311
+00:50:03,010 --> 00:50:15,950
+根本由而家嗰個基礎係唔夠醫生嘅，噉你無論點推算都係唔夠嘅，OK？而唔夠嘅話，似乎咧醫管局咧亦都係束手無策，呢個先至係最大問題。好，下一位係。
+
+312
+00:54:55,180 --> 00:55:08,210
+呢個推算呢個model呢個推算模型有冇忽略到近半年時局嘅變化，同埋警報對醫護人員造成嘅影響咧？嗱，幾樣嘢，第一。
+
+313
+00:53:18,080 --> 00:53:31,340
+上堂嗰陣時，或者做緊實實習嗰陣時，都唔敢問教授嘢，因為教授太忙啦。你唔問嘢嘅話，冇機會畀佢問嘢嘅話，咁啲學生點學到嘢咧？係咪？你教授唔夠啊！
+
+314
+01:11:32,770 --> 01:11:46,080
+冇嘅話咧，我就輪到我跟翻幾句問題啦。我諗啊，局長啊，我諗咧就唔好避啦。你睇到大家咧，即係啲誒議員都非常之關心醫護人員嘅人手，特別係醫生、專科醫生嘅缺乏。
+
+315
+00:55:44,270 --> 00:55:57,710
+被捕被控呢個唔單止係捉嗰啲喎，係會影響埋有心未來做或者而家讀緊做緊嗰啲，都會造成人手嘅流失。第三，政府係高壓打壓醫護人員。
+
+316
+00:49:40,290 --> 00:49:54,430
+This model was internationally reviewed and internationally critiqued at its at at at its inception. So someone has asked, what is the scientific value of this model? That has been very well established.
+
+317
+00:48:35,320 --> 00:48:49,470
+假設或者因為頭先幾個議員都講一啲假設嘅問題，或者佢限制問題，咁不如我想請阿Doctor Johnson會咗嚟做supplement on the assumptions which would啊modify the base model base case。
+
+318
+00:59:57,500 --> 01:00:12,130
+咁同埋你哋話誒用啊，即係誒你個model裏邊咧就誒誒，我想問咧有冇誒呢啲嘅元素啦？例如你話誒人口比例，例如我哋誒知道我哋成日都講話誒，根據O OECD啦，就係誒。
+
+319
+00:49:09,270 --> 00:49:24,120
+adjustment to your model at the beginning， so you have to assume you're at equilibrium at the beginning， and then once you have done the model， you can talk to your stakeholders， you can talk to all the different groups， find out from them。
+
+320
+01:09:07,710 --> 01:09:22,960
+內醫管局嘅門診啦，或者係啲誒衞生署嘅駐社區或等等啦，咁所以你嗰個誒健康健中心咧，其實都係一個十八區將會有嘅規劃。咁嗰當然係新一輪個嘅預算啦，我哋會擺埋落去嘅，唔該。未得埋阿姨。
+
+321
+01:09:43,650 --> 01:09:58,900
+咁咧就誒，而家我哋嘅人手啊，啱誒，我哋嘅委員嗰個誒column係差唔多，咁所以希望誒各位委員遲多幾分鐘先先去食飯嚇，好唔該。委員嘅人手先同你做咩啊嘛？係。
+
+322
+00:58:18,200 --> 00:58:33,470
+後同大家再解釋啦，唔該。唔係主席，即係話呢個模型係處理唔到過去半年呢啲突突發事件啦嚇，你當噉你點樣去將呢嚿數去計翻落去你個模型推算到出嚟嗰個供應咧？
+
+323
+00:56:56,850 --> 00:57:12,370
+呢啲能唔能夠反映到呢六個月嚟發生嘅被捕好嚇、唔做好移民好轉行好去私營系統好呢啲因素咧？局方如果係個model反映唔到，有咩補救方法去去反映嘅話，你覺得其實？
+
+324
+00:54:38,060 --> 00:54:54,900
+嚇唔該，主席。主席，我想誒關心係推算醫療人手供應嘅問題啊。我覺得誒呢份醫療人力推算二零二零嘅文件咧，可能會高估咗中長期嘅醫生供應。點解咁講咧？因為
+
+325
+00:51:01,380 --> 00:51:18,770
+係供求平衡咧，呢個同我現實咧係即係相距十萬八千里啊嘛！因為喺二零一七年，我哋係咪已經大致上足夠醫生、足夠牙醫、足夠護士、足夠物理治療師、職業治療師等等咧？係唔係啊嘛？
+
+326
+00:45:14,940 --> 00:45:33,180
+嗰啲教育設施或者人才啦，無論師資啦，無論教育嘅地方啦，教育嘅配套啦，咁所以呢個我哋係另外透過其他途徑同大學商討，究竟佢哋點樣需要去即係增加嗰個教學嘅硬件咧？噉我哋係同步進行緊嘅，唔該。
+
+327
+01:03:17,340 --> 01:03:35,770
+如果有需要，我哋可以再詳細解釋畀議員聽嘅，即係個具體細節係點樣㗎？多謝主席。誒，咁主席，你可最少答我嗰個醫生同人口嗰個比例係咪唔低於二點三，或者即係係咪唔低於誒？譬如誒，而家係一點九，未來係三點四，你係用一個乜嘢嘅比例嚟去計先得㗎？你有冇個數字畀我咧？
+
+328
+00:51:19,050 --> 00:51:37,780
+嗰個已經係相差好遠。我哋嘅譬如精神科，等去即係等幾多年咧？去到就算睇到醫生，每個醫生畀五分鐘你嗰個工作量唔計，嗰個病人同醫生或者病人同專業人員個人手比例唔計。
+
+329
+00:58:35,080 --> 00:58:53,870
+呢個好難嘅，不過局長你要答，我睇呢啲話，你都話明係突發啊！而家呢個模型係講緊預測未來十年、廿年之後、卅年之後嘅嘢啊嘛，嚇！呢啲突發啊，幾十年、一百年都唔出現嘅事，噉樣要預埋。好啦，噉啊，局長，你哋翻去諗下點樣去滿足啊陳志全嘅要求。
+
+330
+00:54:14,480 --> 00:54:33,880
+咁所以頭先你講嗰個即係考慮或者嘅誒誒有嘅，即係將嗰個base case去modify係有個空間喺度嘅，絕對有嘅。咁第三就係人手培訓，我哋其實嗰個規劃一路都冇停過啦。咁所以半啲學額，無論唔同嘅科目咧都有增加。咁呢個我哋係繼續跟進緊嘅。
+
+331
+00:44:54,930 --> 00:45:14,940
+一一定係繼續觀察同埋記錄在案啦。咁另外就係關於好多誒嘅誒，即係人手個推算同埋點樣可以達到個目標咧。頭先議員提到嗰個硬件嘅配合，呢個我亦都理解嘅。咁所以個硬件配合當然就係本地。
+
+332
+00:45:51,270 --> 00:46:11,280
+唔該，主席。誒，我跟住問嘅三個問題咧，都係正話有啲議員咧都輕輕提過嘅。正話咧就啊，李光倫議員咧就提到神算機嘅問題，或者係啊陳本榮議員咧提到咧嗰個即係整到個模式好深，跟住令到咧誒大家都誒睇唔明嘅問題。我我都我都覺得係呢個係。
+
+333
+00:46:11,280 --> 00:46:31,290
+一個真係一個問題嚟誒！我睇個政府嘅文件咧，就話推算醫療人力嘅工作咧係真係我我睇完之後，我都係覺得好複雜，涉及咗好多因素。咁咧就誒要有一個準確嘅推算咧，其實一啲都唔容易。但係咧最大嘅問題就係在於咧，就係個出錯唔係計錯數咁簡單，唔係就。
+
+334
+00:46:31,290 --> 00:46:51,300
+而家數學咁簡單，而係真係影響到市民嘅健康，同埋咧得到實誒切實嘅醫療服務，甚至乎危害到市民嘅生命。我我想問一問誒局長咧，就係好多地方咧都係會透過定立呢個醫護人手嘅基準，並且根據呢個醫護人手同埋人口比例嘅誒估算去。
+
+335
+00:46:51,300 --> 00:47:11,310
+估算呢個人呢個呢個人力嘅需求，政府咧點解要用一咁複雜嘅模式嘅模嘅模型咧去做呢個推算咧？人力推算中所謂嘅供求平衡咧，究竟係想達到一個乜嘢嘅醫療服務嘅願景咧？推算係咪可以令到二零二零年急症室輪候時間減少咧？
+
+336
+00:47:11,310 --> 00:47:31,320
+係咪可以令到誒病人見醫生嘅時間可以誒有最少嘅保障咧？噉樣即係呢啲係我問呢啲係好實際嘅問題。究竟呢個呢個推算完之後嗰個endpoint係點樣樣咧？個end game係點樣樣咧？另外咧就誒最近都有問到嗰個錯誤假設嘅問題啊，黃碧雲議員。
+
+337
+00:47:31,320 --> 00:47:51,330
+最話佢誒，我我都我都覺得係嘅，即係呢個係以二零一七年為基為基準嘅推算咧。但係二零一七年嘅嗰個供求平衡嘅水平咧，本身應係有問題，本身都已經人手不足。咁但係用佢去用佢去評估嚟緊嘅情況，會唔會即係只不過係就係所謂嘅錯誤？
+
+338
+00:48:08,140 --> 00:48:28,150
+人生嘅規劃同埋服務嗰個嘅改善咧，其實係並行嘅。其實我哋就算依家，其實都係不停咁同呢個喺公營系統裡面咧，特別係關於呢個醫管局或者衞生署咧，佢點樣去即係優化完善嘅服務。咁所以呢個嘅誒關注咧，無論係輪輪候嘅時間啊～
+
+339
+00:50:17,980 --> 00:50:37,990
+主席，呢個可能係學術同誒嗰個現實世界分別啦。即係我好尊重誒港大學者誒，亦都尊重嗰個學術本身個價值啦。即係呢個咁複雜嘅推算模式咧，其實係誒一定有佢嘅參考價值嘅。噉啊，Doctor John。
+
+340
+00:50:41,370 --> 00:51:01,380
+模式咧都一定要建基於一個即係所謂誒平衡喺嗰度，再一個基線噉，然後咧就再推算落去。咁呢個喺即係個運算嚟講係當然係必要啦。但係最慘喺現實上咧，二零一七年咧，佢你假設當年已經。
+
+341
+00:51:38,140 --> 00:51:58,150
+噉你用嗰個作為一個基礎，已經係超越曬一般專業人員可以負荷嘅工作量。用嗰個作為基礎，然後假設我哋以後都係噉嘅基工作量去畀佢咧，呢個係完全係超現實嘅。咁所以我諗個問題就喺呢度咯。如果我哋
+
+342
+00:51:58,150 --> 00:52:18,160
+嘅即係嗱，呢個局方嘅嘅嘅責任啦。即係我諗學術上佢哋會計咗輪數，呢個係冇問題啦。但係你局方，你作為一個即係執政，你係主宰個政策㗎嘛？你嘅政策就係影響民生嘅人市民嘅生命，佢嘅健康。
+
+343
+00:52:18,160 --> 00:52:38,170
+就係受你嗰個政策所影響，噉你就要睇個現實，你唔可以將佢暫推咗落去學術度啊。佢計完一輪噉，可能出個數字，噉你就用嗰個數字嚟參考，就話啊，我個政策咪跟住咯。呢個係不負責任，所以誒，主席，我覺得最後都係要副局長，你哋要跟進翻，唔係。
+
+344
+00:52:46,600 --> 00:53:06,610
+絕大部分都係非常之短缺嘅。噉你做唔做呢個模式咧？我覺得都都都知㗎，呢個普通常識嚟。你應該交代我哋未來有咩計劃，點樣盡快去增加呢啲訓練嘅學額，令到我哋香港市民咧有足夠或者。
+
+345
+00:53:34,420 --> 00:53:54,430
+好多謝主席。誒，張然提到第一點，關於嗰個誒呢個嘅誒模型咧，其實係誒最初第一個嘅誒假設嘅時候咧，其實已經計埋咗當時一刻即係第一個起始點嗰時嗰啲人手嘅情況，係計咗落去㗎啦。咁第二咧就係當呢。
+
+346
+00:53:54,430 --> 00:54:14,440
+呢個叫base case，即係嗰個誒基本嗰個數據出現之後咧，教授都假設咗係有一個層次咧，就係畀唔同嘅因素咧，去或者人士咧畀意見去去去優化嗰個即係基數嘅假設嘅。咁呢個就包括唔同嘅持份者，當然包括政府啦。
+
+347
+00:55:08,620 --> 00:55:28,630
+政府因為建制派而家就我唔知你哋原因係乜嘢啦嚇，係咪敵視啲大學生嚇延遲呢個撥款去擴建中大、港大嘅醫學院嘅設施，至少喺中期之內咧會影響到醫生醫療人手嘅供應。第二，警察。
+
+348
+00:55:57,990 --> 00:56:18,000
+即係警察喺醫院嗰度作威作福，啲醫護人員好多感怒而不敢言，有啲就有啲集會去反映佢哋嘅不滿，反映佢哋見到對年輕人呢啲警察用啲酷刑對待嘅不滿。唔少醫護人員咧，其實都即係有啲心淡，越做越心淡，甚至係諗住唔做啊，移民啊，啊！
+
+349
+00:56:36,840 --> 00:56:56,850
+係去處理到呢啲變化嘅因素咧？呢個模型設計出嚟嘅時候，有冇去諗過呢個呢啲咁大型嘅問題嘅因素咧？好似個model裏邊個圖三點一個公認模型裏邊講，不再執業但未退休，沒有提供服務或者被取消註冊噉。
+
+350
+00:57:18,170 --> 00:57:38,180
+好啊！我諗呢個問題啊，局長你答啦。鬧軟建制，鬧警察，跟住鬧埋醫管局，唔該你答。多多謝主席。咁關於陳議員提呢個問題咧，我有幾個回應啦。第一咧就係關於個三個大學有關醫療設施、教育設施嗰個嘅議程咧，我哋會盡快係會誒喺呢一屆立法。
+
+351
+00:57:38,180 --> 00:57:58,190
+會之內咧係誒攞翻上財委會去誒討論同埋希望大家通過嘅。咁第二咧就係關於近期一啲事件嗰個對可能對一啲醫生嗰個誒人手推算啦，或者市場公營市場、私營市場啊，或者使用者嗰個嘅考慮咧，其實因為。
+
+352
+00:57:58,190 --> 00:58:18,200
+呢個報告都係未完嘅，咁嗰啲誒嗰個討論仲係會繼續。咁當然我哋可以將呢啲嘅因素都係可以誒擺埋喺一啲考慮當中。但係究竟即係所有嘅因素加埋一齊之後，嗰個嘅數字點樣影響咧？我哋而家係好難預測。噉我哋喺個報告之後再用。
+
+353
+00:58:57,470 --> 00:59:17,480
+誒多謝主席。有時都真係好佩服啊，陳志全議員咧，可以喺任何一個議題裏邊咧，都可以揾到機會去即係鬧警察嘅。即係呢個真係好非所思。頭先你講話咩啲醫護擔心畀警察不公平對待，所以咧就要移民啦，可能會辭職唔做。我想話畀阿陳志全聽咧，而家啲警務人員同佢嘅
+
+354
+00:59:17,480 --> 00:59:37,490
+家屬咧擔心喺醫院裏邊畀即係醫護人員不公平咁去對待，而家已經要翻大陸睇醫生啦，而家已經唔敢去公共醫院啦，而家已經出現噉樣嘅問題啦嚇。咁所以我覺得即係我哋而家今日係討論緊即係好嚴肅嘅問題，醫療人力規劃，即係唔好再去。
+
+355
+00:59:37,490 --> 00:59:57,500
+利用呢啲機會去鬧警察啦，好冇嗱？我咧就想問咧，就係誒誒之前咧，二零一七年誒嗰個推算咧，其實我哋已經覺得係即係計錯數嘅。噉就誒，我都好擔心你而家誒呢一個推算咧，如果用翻二零一七年嚟做呢個基數嘅話咧，係誒即係會計錯，即係會再進一步計錯數噉。
+
+356
+01:00:12,410 --> 01:00:32,420
+發展地區嘅醫生同人口比例咧，已經係一千人口就三點四名醫生，香港一點九。噉你而家誒推推算未來嗰個需求係用一點九啊，定係用三點四咧？即係呢個呢個係即係你嗰個用嗰個比例。第二咧就係誒好似誒護士噉樣，護士人手不足噉。其實我哋一路都話唔夠嘅。
+
+357
+01:00:32,420 --> 01:00:52,430
+噉你而家推算未來護士嗰個需求係用翻而家今天每一個病房護士做幾個鐘頭嗰個人手嚟去計啊？定係用我哋要求係話增加增加護士，令到佢哋嘅工時減低，令到啲大肚個護士都唔使做得咁辛苦嘅新嘅需求嚟去計咧？咁咁另外你哋有冇計算即係誒人口老化？
+
+358
+01:00:52,430 --> 01:01:12,440
+嗰個情況對誒醫護人手嗰個需求，未來會誒可能會再再嚴重啲。誒，你哋有冇計啦？咁同埋其他嘅，譬如私營嗰個需求啊，外來需求，例如好似誒護士噉樣，我哋知道誒好多誒，因為人口老化，有好多誒誒對私人護士嗰個。
+
+359
+01:01:12,440 --> 01:01:32,450
+需求大咗好多，咁所以咧就誒即係重金去請咗醫院裏邊嗰啲護士出嚟，噉你醫院咪唔夠人咯？咁呢個即係對出邊嗰個需求，因為你嘅我見到你嗰個model，你淨係計醫院管理局啊、衞生署啊、私家醫院咧嗰啲數據，咁對私人市場即係唔係醫院裏邊嘅數據，你你哋有冇一個估算嘅咧？咁咁如果？
+
+360
+01:01:32,450 --> 01:01:52,460
+冇嘅話咧，噉你又會計錯數啦。咁另外嗰個服務承諾又係啊，誒，你計完一大餐出嚟之後，我哋市民最想知道嘅，而家我哋專科排期要等咁耐，第時我哋係咪會等少咗時間啦？你係咪唔使唔使膝頭哥老人家膝頭哥痛要等要等三五年先見到第一次醫生，或者眼睇唔到嘢都要五年先？
+
+361
+01:02:17,310 --> 01:02:37,320
+私人市場個情況點樣？點樣點樣計翻落去？咁第一咧，我哋我哋喺成個嘅模型裏面，我哋用嗰個所謂係過去嗰個使用率嚟到作為個基礎嚟到估算咧未來究竟係爭幾多嚇？噉我哋我哋承認咧喺誒我哋去用一個噉嘅模型，剛才都講咗個嗰個嘅誒假設咧，就一定會係。
+
+362
+01:02:37,320 --> 01:02:57,330
+係我我哋需要做一個誒所謂一個嘅平衡嚟作為個假設，然後跟住喺上面加翻上面一啲所謂已已知嘅一啲嘅gap，已知嘅一啲嘅誒爭咗嘅數，咁再加埋落去嚟到做嘅。咁而咧，我哋會做完咗之後，然後先去睇翻實際上咧嗰個所謂嗰個嘅人手嘅比例會係點樣。噉我哋就唔係用人手比例嚟計翻。
+
+363
+01:02:57,330 --> 01:03:17,340
+轉頭嘅咁呢個就係嗰個嗰個基礎。咁第二咧就住嗰個誒誒誒人口老化影響我哋喺嗰個嘅係報告裏面已經處理咗嘅啦，上一次咁今次都會處理嘅。而至於私營私人市場嗰個嘅情況咧，其實我哋有私人市場嘅數據嘅，咁所以嗰個我哋都要擺埋落一齊做嘅嚇。咁但係誒，即係嗰個。
+
+364
+01:03:42,820 --> 01:04:02,830
+得嗱，我擔唔到唔緊要嘅，咁咪遲啲畀都得嘅。誒，我諗我哋誒都明白咧，喺唔同嘅地方，佢用唔同嘅方法去規劃人手啦。咁但係我哋覺得一個硬嘅數字，你未必係最切合香港嘅情況。但係我哋都係從多方考慮，無論服務嘅質素啦，或者培訓嘅機會啦，都係想希望增加人。
+
+365
+01:04:02,830 --> 01:04:22,840
+主席啊，你依即係醫生人，即係嗱。如果你做完你個人，你你而家做完呢個人力規劃二零二零，跟住你出嚟嗰個數又係原來係誒，譬如而家誒醫生同人口比例係一點九嘅香港，你出嚟嗰個數咧原來仲低過一點九，噉我哋啲市民咪排隊排得仲耐，跟住你又話畀我聽計完嘅，又等三年之後先再計過啦噉。
+
+366
+01:04:23,060 --> 01:04:43,070
+點點可能你你冇一個醫生人口比例做一個目標嘅啫，即係我哋想知道我哋而家喺邊，我哋未來會去邊。你今日做唔到，我哋今年係今今時今日，我哋要等得好辛苦。我哋都希望未來一幾年，我哋可以解決到呢個問題啊！噉你而家做做嚟冇意思嘅喎。如果你連個目標都唔清晰嘅話，基數又唔清晰，目標又唔清晰，所以主席。
+
+367
+01:04:46,170 --> 01:05:06,180
+好啊！噉我哋呢度都有誒，而家而家暫時有收到有一個嚇，咁如果有咩動議嘅話，大家儘量要攞上嚟啦。噉我哋大概咧估計五分鐘、十分鐘之之之後到啦，要表決嘅啦。OK，好咁咧就係請阿陳海欣。
+
+368
+01:05:07,010 --> 01:05:27,020
+唔該，主席。啊，其實咧，誒做依個醫療人手推算二零二零，我諗咧喺嗰個誒文件，我見到嗰個附件裏面咧有好多唔同嘅方程式計算嘅方法，但係從市民、從病人嘅角度，最重要嘅就係佢哋嚟緊嗰個醫療服務有乜嘢改進啊嘛。我哋要知道嘅人手缺乏幾多，就係想。
+
+369
+01:05:27,020 --> 01:05:47,030
+改善個輪候時間同埋個醫療服務。噉我用一個最簡單啊，即係頭先裡面嗰啲方程式，我完全唔討論，就咁講需求同埋呢個供應。嗱，我見到幅圖咧，講帶嚟緊咧呢個計算方法，其中一個咧就係幅圖呢度，你哋個文件裡面有講到清楚，就係外在因素同埋咧政策方案嗱。
+
+370
+01:05:47,030 --> 01:06:07,040
+喺呢個政策方案，我希望局長回答我咧，就一路都係咧係好重視呢個基層醫療，而政府啦，包括特首，亦都係有講過話嚟緊咧，我哋真係要重預防，更加重呢個，即係我哋唔可以就喺單重治療，我哋更加要重預防。你嗰個基層醫療服務究竟要牽涉到幾多嘅醫？
+
+371
+01:06:07,040 --> 01:06:27,050
+醫護人手，連呢一個政策我都未見到係定到。譬如可能每區，我哋至少有幾多嘅公營牙科醫生？我講公營啊嚇，因為咧頭先咧港大嘅教授都有講到，而家咧嗰個牙醫個數目，佢哋嘅推算係好睏難，因為全部都係私營嘅。我期望有朝一日咧，我哋嘅公營牙。
+
+372
+01:06:34,800 --> 01:06:54,810
+至少每個家庭，我哋而家嗰個誒康健中心，你個基層醫療服務，會唔會涵蓋要涉及有幾多個藥劑師啊？幾多個誒職業治療師啊？呢個政策，你哋究竟定咗未？如果唔定嘅話，點去計算一個人手咧？呢個未來最重要嘅，你哋食衞局同埋特首升升最關注嘅基層。
+
+373
+01:06:54,810 --> 01:07:14,820
+醫療呢個政策，可唔可以話畀我聽？你哋嗰個服務嚟緊嘅規劃定到未先？未定咧，點樣我相信你嘅人手？第二就係頭先我講牙科，牙科呢個係我我都係非常之關注。頭先聽到咧，誒嗰個推算裡面咧就話，喂誒牙醫咧好難好安全計到個數字出嚟，因為咧全部都係由私營提供嘅。
+
+374
+01:07:14,820 --> 01:07:34,830
+我哋而家計算緊都可能會有一個唔準成嘅情況。面對住廣大嘅專家都咁講，我哋個牙科係咪長遠都無望係見到有一個誒誒令到市民受惠嘅服務出現咧？我講公認。最後一個啦，第三就係翻查翻嗱呢份咧都唔係第一次做嘅報告啦。睇翻咧對。
+
+375
+01:07:34,830 --> 01:07:54,840
+上一次你哋交嘅報告，你哋咧嗰陣時係推算咗嗰個醫療人力規劃同埋呢個專業發展策略檢討報告。二零一六年推算中醫界係有七百一十六個過剩人手，你哋用過剩人手。二零二零年有三百五十四個中醫過剩人手。噉我想問下啦。
+
+376
+01:07:54,840 --> 01:08:14,850
+你有過剩人手出咗報告，你哋淨係用密切監察，你有冇點樣善用so call嘅過剩人手啊？我哋可以做到一啲，就係我講嘅基層醫療。你仲你仲預防嘅話，你可以做多啲流動嘅中醫車啊，一啲中醫診所，唔好有急病中風先去醫院啊。你？
+
+377
+01:08:27,690 --> 01:08:47,700
+係，阿局長請回應。誒，多謝主席，多謝陳議員嘅意見。誒，簡單回應咧。咁關於中醫個規劃咧，喺上次誒第一個報告，正如議員都覆述咗啦。咁但係新一輪嘅報告咧，當然我哋會考慮新一啲嘅因素，譬如話香港嗰個嘅第一間中醫院嘅成立之後。
+
+378
+01:16:33,170 --> 01:16:33,900
+唔該，主席。
+
+379
+01:35:20,700 --> 01:35:21,670
+誒。
+
+380
+01:22:43,830 --> 01:22:45,120
+張超雄。
+
+381
+01:23:06,540 --> 01:23:07,890
+係，請局長。
+
+382
+01:36:09,370 --> 01:36:10,840
+係啊，局長。
+
+383
+01:20:09,670 --> 01:20:11,220
+生檢驗服務。
+
+384
+01:18:40,040 --> 01:18:41,640
+好，噉我哋。
+
+385
+01:13:31,220 --> 01:13:32,960
+即係猛咁滯。
+
+386
+01:37:26,210 --> 01:37:27,990
+而嗰個安全啊，個消毒。
+
+387
+01:15:38,850 --> 01:15:40,690
+好，咁咧就誒。
+
+388
+01:22:41,200 --> 01:22:43,160
+陳海欣同埋郭佩凡。
+
+389
+01:22:00,360 --> 01:22:02,340
+少於一千九百具嘅遺體。
+
+390
+01:13:28,890 --> 01:13:30,940
+都話要等兩三年。
+
+391
+01:35:24,890 --> 01:35:27,030
+誒安排咧。
+
+392
+01:15:36,410 --> 01:15:38,570
+Yeah, we can talk later. Anyway.
+
+393
+01:17:21,760 --> 01:17:23,920
+好冇嘅話咧，就嗯。
+
+394
+01:35:22,420 --> 01:35:24,610
+誒mortuary嗰個。
+
+395
+01:16:35,210 --> 01:16:37,460
+好，咁咧就誒。
+
+396
+01:13:33,370 --> 01:13:35,640
+點解要咁對我哋香港市民啊？
+
+397
+01:18:10,830 --> 01:18:13,180
+啊！議啊！委員請舉手。
+
+398
+01:16:42,420 --> 01:16:44,800
+冇嘅話，噉我哋就誒。
+
+399
+01:16:52,800 --> 01:16:55,180
+好，噉啊，全體一致贊成嘅。
+
+400
+01:18:02,370 --> 01:18:04,920
+好，有冇人反對處理呢個動議？
+
+401
+01:23:11,140 --> 01:23:13,700
+或者局長揾邊位答？
+
+402
+01:34:07,240 --> 01:34:09,870
+好，跟住下一位係張超紅。
+
+403
+01:13:42,740 --> 01:13:45,570
+但係我去到之後，我唔抵得啊！
+
+404
+01:22:45,820 --> 01:22:48,920
+O.K.咁咧，我哋就每位四分鐘啦。
+
+405
+01:13:24,470 --> 01:13:27,620
+所以你睇到，可以睇隻眼。
+
+406
+01:17:31,730 --> 01:17:35,050
+好，本席宣佈一致通過。
+
+407
+01:13:46,720 --> 01:13:50,100
+所以我點解一路喺度轉轉轉呢個問題？
+
+408
+01:33:22,570 --> 01:33:25,980
+唔該，主席係邊位答？阿局長。
+
+409
+01:16:38,030 --> 01:16:41,930
+有冇委員就係反對處理呢個項目嘅？
+
+410
+01:13:37,840 --> 01:13:41,960
+我從來真係未用過公立醫院嘅服務。
+
+411
+01:16:45,260 --> 01:16:49,380
+O.K. 請贊成誒呢個動議嘅，請舉手。
+
+412
+01:17:57,840 --> 01:18:02,090
+相應人手作出具體可行嘅建議，黃碧雲動議。
+
+413
+01:18:06,170 --> 01:18:10,510
+O.K.冇嘅，咁咧就O.K.支持呢個動議嘅。
+
+414
+01:17:24,200 --> 01:17:28,840
+贊成誒呢個動議嘅委員，請舉手。
+
+415
+01:36:40,300 --> 01:36:45,300
+啊，勉強嘅一啲設施啦，咁所以呢個應該係誒幫到市民嘅。
+
+416
+01:22:26,760 --> 01:22:32,240
+年底就會完工，同埋二五年就可以啟用。咁誒，我簡介到呢度，多謝主席。
+
+417
+01:20:33,450 --> 01:20:39,900
+另外設立病理學嘅儲存倉，同埋提升通風同埋空調設備嘅。
+
+418
+01:31:25,080 --> 01:31:31,690
+會做得更加好，同埋更加快捷咧。咁同埋誒，有必要嘅時候，係咪會提供二十四小時運作去做？
+
+419
+01:19:25,880 --> 01:19:32,820
+多謝主席。我今日希望向委員會簡介兩項有關衞生署下嘅公共設施嘅工程。
+
+420
+01:13:50,380 --> 01:13:57,370
+你一定要定出呢個比例，咁大家知道咩事啊嘛？你明唔明啊，阿局長？
+
+421
+01:15:20,890 --> 01:15:27,900
+for which you're going to strive to in Hong Kong, and this is what the lovely lady here was also talking about, and this is they're both needed.
+
+422
+01:30:37,460 --> 01:30:44,490
+嘅地方誒，做一個騰出嘅空間咧，可以做一啲改善工程噉樣咯。即係呢個係初步我哋嘅諗法。
+
+423
+01:37:39,560 --> 01:37:47,010
+即係做多咗噉樣，即係應該冇冇乜特別影響，冇乜特別分別。好，好咁咧就最後一位阿。
+
+424
+01:19:33,120 --> 01:19:40,620
+就第一項咧係提升公共衞生檢測中心嘅設施啦。第二項就係重置惠醫域多利亞公眾檢方嘅。
+
+425
+01:19:17,960 --> 01:19:25,600
+好，跟住咧，我哋係我哋歡迎各位誒代表出席。噉我哋首先請阿徐德怡副局長係介紹有關文件。
+
+426
+01:15:28,270 --> 01:15:36,030
+I would agree with you completely, but you're confounding and conflating two issues at the same time. So
+
+427
+01:27:08,530 --> 01:27:16,370
+噉啊？請問民主黨係咪支持A呢個以前嘅A加B項目？誒，我哋應該會支持嘅。好，跟住下一位陳海欣。
+
+428
+01:19:40,900 --> 01:19:48,930
+關於個公共衞生檢測中心咧，係隸屬衞生署衞生防護中心下邊，係提供一個誒。
+
+429
+01:15:41,820 --> 01:15:49,890
+噉啊，就我哋就處理呢個疫情嘅誒有關動議。我而家手頭收到三份啊。
+
+430
+01:22:32,560 --> 01:22:40,920
+好，咁咧就誒，我哋而家就有三位誒委員舉咗手嘅，咁咧就誒黃碧雲。
+
+431
+01:23:55,330 --> 01:24:03,690
+呼吸綜合症嗰啲病毒嘅，我哋化驗，所以有需要即係加強翻現有嗰個眼鏡嗰個安全嗰個設備。
+
+432
+01:29:47,230 --> 01:29:55,620
+我知啊，但係我嘅意思係你搬咗過去之後，咁沙田的原原本有嗰個化驗病理同埋嗰個中心會做咗乜？將會
+
+433
+01:36:31,130 --> 01:36:39,990
+成立三十人，咁當然仲有其他配套嘅，即係譬如話佢有一啲有環保設施嘅一啲誒，去處理嗰啲誒。
+
+434
+01:39:07,330 --> 01:39:16,470
+而家個狀況咧，就係個需求而佢決定做咁多，還是係有一個指標去定，即係要服務咁多個項目咧嚇？我想了解下唔該。
+
+435
+01:35:10,220 --> 01:35:20,320
+個時間可以即係縮短，尤其是有啲如果頭先醫生提到一啲處理緊急嘅個案咧，係咪可以快啲嘅咧？噉樣咁至於嗰個。
+
+436
+01:27:56,670 --> 01:28:06,900
+必要將呢個提升，定係話啊？其實咧，誒，如果你哋提升咗之後，可能嚟緊講，但係都冇乜呢啲噉嘅K收收㗎啦。即係嗰個分工係點樣？我想知道提升咗之後。
+
+437
+01:24:44,190 --> 01:24:54,440
+佢誒confirm嘛，即係核對。譬如重要嘅，譬如 Ebola 病毒、中東冠、呼吸綜合症嘅病毒咧，甚至咧醫院嘅化驗室。
+
+438
+01:16:56,040 --> 01:17:06,550
+咁咧就本席宣佈，李國麟同誒李國麟同史家樽嘅動議就獲得通過。好，跟住落嚟咧就係郭佩凡議員嘅動議，請你讀。
+
+439
+01:37:28,270 --> 01:37:38,930
+嗰度係誒誒做得誒有效率咗，安全啲。所以嗰個主要嗰個優點係嗰個安全嗰個，就唔係話會快咗。
+
+440
+01:15:09,340 --> 01:15:20,470
+many people that we need to look after our increasing demand for service, and that's what I'm trying to do. And what you're talking about is creating a benchmark.
+
+441
+01:22:14,980 --> 01:22:26,480
+咁從此之後可以多到去三百五十八，咁個費用九點七億元。我哋希望誒，如果二零二零年第三季可以通過咧，二四年嘅。
+
+442
+01:14:16,980 --> 01:14:28,960
+This very political statement. It's really not for me to answer. And I've lived here very very long time, but I am not Hong Kong Chinese. I'm a Canadian.
+
+443
+01:22:02,620 --> 01:22:14,700
+咁亦都本港島區嗰個需要咧存放量亦都係唔少於三百五十，咁依家係唔足夠嘅。我哋係誒現存嘅多利亞觀眾點房子可以用啦七十具嘅遺體。
+
+444
+01:18:42,070 --> 01:18:54,680
+下一個議程係議程第四嘅，第四咧就係誒提升衞生署公共衞生設施工程。噉我哋請政府嘅誒當局嘅代表進入會議室。
+
+445
+01:31:52,460 --> 01:32:05,200
+清楚嘅地方，亦都係相對大咗，波大咗好多，又係由誒九百幾平方米去到一千度啦嚇，就係誒七百幾平方米去到一千度，咁誒。
+
+446
+01:18:15,220 --> 01:18:28,050
+好噉啊！本席宣佈咧，係一次通過支持啊，黃碧雲呢個動議嘅。咁咧就啊，多謝啊，多謝啊，徐局長同埋香港大學嘅代表出席。噉啊，跟住落嚟咧，我哋下一個議程。
+
+447
+01:26:34,880 --> 01:26:48,240
+幾日之內翻嚟香港，噉我哋即時可以做到個檢查。咁而家呢一個中心有冇就住國內嘅鼠疫嘅問題有可能蔓延香港，作出咗相關嘅具體指引，同埋已經進行研究咧？
+
+448
+01:17:07,260 --> 01:17:20,900
+係多謝主席，我嘅動議係本委員會要求是次港大推算人力誒，應加上醫生與人口比例不低於二點三。動議人郭佩凡。好，有冇人反對處理呢個動議嘅？
+
+449
+01:18:58,710 --> 01:19:12,480
+噉我喺呢度咧，我就誒提醒各委員咧，咁咧就參考議事規則第八十三A條下嘅利益申報規定，因為呢一條誒呢個議程咧係有係屬於財務建議㗎。
+
+450
+01:22:49,790 --> 01:23:05,390
+請阿阿黃碧雲先。啊，主席，我想問一問咧，呢一個嘅誒檢測中心咧，佢嗰個嘅誒工作咧，同Government Lab之間嗰個分工係點樣進進行嘅？
+
+451
+01:33:05,510 --> 01:33:22,290
+話係點樣咧？即係除咗重置呢個域多利啊公眾廉房之外，誒誒其他嘅另外嗰兩間會唔會都有重置嘅計劃啊？未來係咪滿足到誒所有我哋誒即係需要存放量嗰個需求？會唔會有更加多嘅公眾廉房可以搬入巖洞咧？
+
+452
+01:13:58,440 --> 01:14:16,470
+sorry，Dr. Johnston，I guess you understand well the translation，right？I hope I hope they translate well，yeah。And you want to answer what my just my statement，what I just talk to。
+
+453
+01:08:47,700 --> 01:09:07,710
+咧佢可能都會用一啲多用咗一啲中醫嘅人員喺公營嗰個系統嗰度嘅。咁第二就係嗰個基層醫療，當然呢一屆政府都強調咧係會誒要誒強化啦。咁誒現存依家當然係好多嘅誒環節都有基層醫療嘅提供嘅，無論。
+
+454
+01:09:23,640 --> 01:09:43,650
+牙科咧就無望啊，或者不如咁啦啊，局長啊，我就畀多三分鐘你總結一下。啱啱咧仲有啲議員問你嘅問題，你可能都想回應幾句嘅，好嘛？我畀阿局長或者係秘書長，總之啊三分鐘畀曬你哋。咁另外喺度呼籲一下咧，嗱，我哋大概咧就係我哋收好啲動議，我哋大概咧五分鐘之後會投㗎啦。
+
+455
+01:10:09,330 --> 01:10:29,340
+多謝主席。咁誒補翻頭先未答嘅問題，關於牙科，我哋都知道咧，就誒市民一方面當然有呢個需要啦。噉我哋過咗咁多年嚟咧，就有個好清晰嘅政策方向，就係預防做起。咁所以咧過去都有一啲喺小同學童嗰度咧，誒特別係小學生嗰度咧，依個誒護。
+
+456
+01:10:29,340 --> 01:10:49,350
+自己行動已經開始咗，咁喺佢哋年紀細嘅時候就養成一個良好嘅牙齒健康嘅習慣，咁呢個就會預防到將來佢哋年紀大嘅時候咧牙齒退化嘅。咁第二咧，關於呢個誒現存一啲誒，因為喺牙醫短缺嘅情況底下咧，其實都係透過唔同。
+
+457
+01:10:49,350 --> 01:11:09,360
+嘅渠道咧，係幫一啲特別有需要羣組提供牙科服務。咁呢個咧喺過去幾年都做咗唔同嘅計劃㗎啦，包括一啲智障人士啦，或者係長者啦，或者遠射嘅人士咧，去幫佢哋做一啲誒牙科服務。咁當然咧喺嗰個醫療院嗰度咧，亦都可以市民可以用。
+
+458
+01:11:46,360 --> 01:12:06,370
+咁咧就誒，你話誒嗰個比例係嘛？噉啊比例你今日定唔到每一千人口應該有幾多醫生？噉嘅話咧，你同我哋嘅人口政策咧，其實咧就會脱離嘅，因為你冇指標啊嘛。噉我哋人口啊不斷加啊，政府啊鼓勵人不斷生啊。
+
+459
+01:12:29,580 --> 01:12:49,590
+有錢嘅人，你可以話我去外國去邊度？O K嚇，服務好嘅，因為人哋人口每一千人口比例三點幾嘅醫生，我哋香港就一點幾話就話一點幾喎。實情咧，即係喺缺乏醫生嗰陣時咧，可能都未達唔到一點幾，可能得翻一點五甚至更少，仲有。
+
+460
+01:14:29,320 --> 01:14:49,330
+no no no this is not really political no no not this is not political at all in fact just the doctor and the pop population of Hong Kong perata okay suppose well most of the country or some places okay they all
+
+461
+01:14:49,330 --> 01:15:09,340
+They have every one thousand population versus three two doctors. You're correct. Yeah, but in Hong Kong we are far more less than these figures. Yes, you're talking about two different things. Okay, we're talking about making projections for how many.
+
+462
+01:15:53,150 --> 01:16:13,160
+O.K.咁咧就誒，首先咧，我哋第一份咧就係李國麟蕭家俊，第二份係郭佩凡，第三或份係啊黃碧雲嘅。好，噉我哋首先係處理啊李國麟嘅啦。噉啊，而家我哋嘅發定人數係足夠嘅。李國麟，你可唔可以讀一讀你嗰個內容咧？多謝主。
+
+463
+01:16:13,160 --> 01:16:33,170
+誒，我難嘅就寫少咗，寫少咗少少嘅，噉我加翻上去啦。就本委員會促請政府喺人力資源規劃唔能夠不切實際，必須加上工作量指標，照顧者與服務提供者比例，以達到服務需求及供應平衡。
+
+464
+01:17:37,830 --> 01:17:57,840
+第三個動議咧就係黃碧雲議員嘅，請阿黃碧雲議員。誒，本委員會促請政府喺醫療人力規劃上必須定立工作服務承諾嘅具體指標，包括縮短各專科輪候時間至合理水平。食衞局亦都需要就如何增加。
+
+465
+01:19:49,660 --> 01:20:09,670
+可靠嘅檢測服務啦。咁隨住呢個檢測科技嘅發展咧，為咗與國際標準接軌，去應付持續威脅公共衞生嘅新發現疾病，衞生署就建議提升檢測中心嘅實驗室設施，去提供一個符合國際水平嘅公共衞生。
+
+466
+01:20:12,580 --> 01:20:32,590
+主要工程咧係包括提升微生物學實驗室嘅配套同埋設施，去到設立一個符合世界衞生組織第三級生物安全水平嘅實驗室。工程亦都係包括重置位於沙田力源嘅化學病理同埋血液科。
+
+467
+01:20:40,180 --> 01:21:00,190
+咁呢個工程咧係唔會影響檢測中心日常嘅運作。咁按住呢個付款當日價格計算咧，個預算費用係約二億元。噉我哋期望若果可以得到財委會通過咧，係二零二零第三季展開工程，二零二二年完成，二三年就啟用嘅。
+
+468
+01:21:00,190 --> 01:21:20,200
+咁第二項嘅工程就係關於濱多利啊，公眾廉房。咁呢一個嘅誒廉房咧，我哋係因為基於堅尼地城西部土地用途檢討嘅建議咧，就係搬遷依家位於西寧街海旁嘅廉房，去到一個位於濱多利道西端嘅。
+
+469
+01:21:20,200 --> 01:21:40,210
+用地同埋都會利用埋喺呢個地側邊現有巖洞設施做一個附屬嘅設施嘅，咁以至可以騰空現在嘅一個地址咧，作出海濱長廊同埋休憩嘅用途。咁誒，依家香港現存三間行上運作嘅公眾廉房嘅使用率。
+
+470
+01:21:40,350 --> 01:22:00,360
+近年就已經誒達至一個飽和甚至超飽和嘅水平啦，特別係喺長假期之後，咁所以咧就過去三年嘅平均咧係多過一百個percent嘅。咁同時喺個推錢嗰度咧，喺二零四六年公眾廉房嘅需求咧係唔
+
+471
+01:23:15,310 --> 01:23:35,320
+請阿曾醫生唔該誒主席啦誒，話我解曬我哋嗰個而家呢個係微生物嘅化驗室，我哋講緊誒第誒要符合呢個誒第三級呢個安全嗰個要求。至於誒嘉賓入嗰個，據我所知就唔係化驗呢個生物嘅，即係。
+
+472
+01:23:35,320 --> 01:23:55,330
+係佢係即係發熱一啲誒誒chemical啊嗰啲就唔唔同同個性質同我係完全唔同嘅，咁所以而家我哋要做好就係對付嗰啲誒誒新嘅傳染病，譬如大家好清楚見到就係譬如呢個埃博拉病毒啊誒中東。
+
+473
+01:24:04,170 --> 01:24:24,180
+即係檢驗嗰啲化驗嗰啲嘢都一樣嘅，冇變係咪？冇錯，只不過硬件係提升咗。係黃邊。誒，即係呢呢個係biological嘅，即係嗰邊即chemical嗰啲化化學嗰啲就唔喺呢度化驗㗎啦。噉我想問就誒，咁醫管局其實佢哋自己都醫院都有佢哋嗰啲lab都會做啲病理學嘅化。
+
+474
+01:24:24,180 --> 01:24:44,190
+咁呢個分工又同呢一個中心誒有咩有咩有咩關係咧？多謝誒黃病員嗱誒醫管局同我哋嘅分工咧，基本上醫院嘅level，我本身都喺醫院嘅level做好耐啊。醫院就係主要做診斷第一線嘅診斷，誒我哋咧就係做誒幫。
+
+475
+01:24:54,730 --> 01:25:14,740
+唔測試，直接送嚟我哋嗰度測試。因為點解咧？誒要快同埋要準啊！咁橫掂佢做咗，我哋都要複核嘅話咧，不如我哋就即係第一時間攞嚟我哋做。咁所以我哋嘅分工係好清晰，邊啲係佢做咗，跟住我哋複核；邊啲直接攞畀我哋做。咁所以就。
+
+476
+01:25:14,740 --> 01:25:34,750
+就誒誒做到最快同埋最準咯，即係一定唔會重複係咪嗰個工作？有需要嘅時候會重複，即係複核嘅時候。即係你懷疑佢誒之前醫管局個lab可能做得唔係好準確，你哋會再做係咪噉啊？即係有時要誒唔同嘅lab去用唔同嘅方法嚟測試咧，就唔係話佢唔準。
+
+477
+01:25:34,750 --> 01:25:54,760
+即係複合，唔係呢個係好行善嘅做法。我我想問一問咧，就因為而家國內咧開始出現一啲鼠疫嘅疫症啦，咁呢類嘅中心誒會唔會已經有一啲工作開始進行緊？誒可以幫我哋係去處理咧。即係如果萬一呢啲嘅鼠疫蔓延嚟香港嘅時候，我哋可以點點樣處理？好啊。
+
+478
+01:25:54,760 --> 01:26:14,770
+誒多謝啲問題啦，就任何傳染病新發好啊，而家好咧，我哋同醫管局都有個指引嘅。正正呢個誒鼠疫咧，就誒都更新咗嘅話，我哋再整一個指引。尤其喺呢個化驗嗰方面咧，醫管局佢自己咧亦都可以做到嗰個培養嘅，因為呢個誒。
+
+479
+01:26:14,870 --> 01:26:34,880
+誒鼠疫呢個係一個細菌嚟嘅，唔難去培養嘅。噉我哋亦都可以做培養，我哋甚至可以做個分子生物學嘅即時，即P C R啦，英文就嚇，就去誒檢測到個病人。譬如舉例，佢發燒喺一個已經有而家呢個病嘅地方。
+
+480
+01:26:48,520 --> 01:27:08,530
+我哋誒一路嗰個測檢測咧，都係係有噉嘅服務嘅。只要醫院誒有噉嘅懷疑案例咧，就聯絡我哋，我哋就即時安排嗰個樣本點樣送嚟，我哋點樣即時誒做個檢測。呢個係恆常應有嘅。
+
+481
+01:27:16,650 --> 01:27:36,660
+誒唔該，主席，我想問翻政府代表咧，就係其實而家咧，你哋嗰個誒呢一個lab咧，其實就係二級嘅啫嘛個水平。如果你達到三級之後，以前係咪即係話有啲嘅病咧嘅sample係send去香港大學嘅三級實驗室嗰度，而家係可以轉完翻去翻到呢一個lab，令到嗰個有冇話嗰個時間？
+
+482
+01:27:36,660 --> 01:27:56,670
+或者加速，即係譬如以往可能我哋懷疑一個人有禽流感病毒，即係以往可能要先過去廣大嘅，而家由翻你哋自己依個lab提升咗之後去處理，個時間上個檢測上個時間會唔會快咗？第二樣嘢咧就係誒誒，因為現時你哋用緊嘅都係大學嗰個三級嗰個lab嘅，其實有冇？
+
+483
+01:28:07,180 --> 01:28:27,190
+好啊，唔該啊，係啊，主席同議員啦，我解釋誒，真捱撞醫生係嘛？係啊係啊，係嘛？就誒解釋少少，其實喺而家咧誒，雖然我哋嚴格嚟講個硬件都係冇呢個誒誒水平係三大至三級P C Lab啦，話叫B S O Three Lab，但係跟
+
+484
+01:28:27,190 --> 01:28:47,200
+根據誒世界衞生組織嘅指引，同埋一誒誒好多國家嘅指引都係，即使你個硬件去唔到三級，你個做法啦，只要你個work practice啊，你工序達到三級就都可以進行呢個檢測，所以我哋就冇因為呢個而家冇呢個硬件。
+
+485
+01:28:47,200 --> 01:29:07,210
+去唔到個三級實驗室咧，就因為咁而有啲嘢要拎去大學嗰個三級實驗室化驗嘅。嚇，呢個第一點。只不過我哋做埋硬件之後咧，對同事同埋對周圍嘅環境，同埋即使有嗰個洩漏啊，嗰個消毒咧就做得誒有效率啲，所以對。
+
+486
+01:29:07,210 --> 01:29:27,220
+個環境對周圍嘅人啦，對同事咧都係安全啲咁解嘅啫。個服務係冇影響嘅。OK，另外咧，你文件裏面都話會重置埋沙田溺園嗰個咧健康院嗰個，即係發現病理同埋血液科，即係會放埋一齊啦。係啦，喺個成日大樓咁沙田溺園嗰邊咧嗰個設。
+
+487
+01:29:27,220 --> 01:29:47,230
+你搬埋咗過去之後，沙田嗰邊會點？誒應該咁講，嗰邊就唔係微生物學嘅，嗰係誒誒其他。咪噉你點都搬埋咗過去？集中埋，因為點解咧？誒有啲誒化驗師、化驗嘅同事咧，誒都係誒可以互相誒共用嘅。
+
+488
+01:29:57,440 --> 01:30:17,450
+或者我誒補充一下，係邊位想補充？邊位係鄭醫生？誒，補充一下啦。誒，而家咧位於瀝源嗰個健康院嗰個誒病理誒嘅化驗中心啦，即係化學誒檢測中心咧。其實就喺五樓同埋六樓嘅。咁第日如果搬翻去誒而家南昌街嗰度咧。
+
+489
+01:30:17,450 --> 01:30:37,460
+誒淨翻落嚟嗰個位置咧，嗰個嗰個嗰位置我哋會留為誒將來咧又改善其他診所嘅需要。譬如話，因為而家誒衞生署下下啲診所都有啲好舊啦，咁可能我哋會進進行一啲裝修啊、改善工程啦。咁可能就要暫時咧將嗰啲誒診所可能會遷至落呢一個空。
+
+490
+01:30:45,060 --> 01:31:05,070
+好唔該，噉啊，跟住就係下一位係啊郭佩凡議員。誒，多謝主席。咁咧就誒，關於呢個誒公共衞生檢測中心咧，我想了解嘅就係，我對唔住，我唔記得咗問啊，陳海欣議員，你係咪支持呢個項目㗎？支持。O K。哦，好。主席由頭嚟講好嘛？係，畀翻啲時間你啊，郭佩。
+
+491
+01:31:05,070 --> 01:31:25,080
+誒，主席啊，我想問咧，關於呢個公共衞生檢測中心咧，而家提升咗個服務之後咧，誒，以後係咪會可以更加好咁處理一啲譬如突發需要檢測嘅嘢，例如突然間流感大爆發啦，又或者有啲新型嘅，即係好似以前Sars啊嗰啲新嘅誒，即係病嚟到香港，係咪喺呢一度？
+
+492
+01:31:32,450 --> 01:31:52,460
+好啊，答咗呢個先，好嘛？跟住我再問關於，係咪捱撞醫生？係啊，誒誒冇錯嘅，即係我哋而家嗰個設計就係令到嗰個誒誒分佈啊，即係個擺位咧，誒同埋個工序嘅流程咧係會誒流暢好多嘅，咁所以嗰個誒效率係提升。
+
+493
+01:32:05,480 --> 01:32:25,490
+另外就係夜四小時嗰個啦。而家我哋都已經係用一用緊一個嚴格嚟講咧，都係夜四小時。只不過喺突發嘅時候，要誒醫院有噉嘅需要咧，就誒聯絡我同埋我嘅同事咯。即係如果按可設什嚇噉，我有需要咧，就叫同。
+
+494
+01:32:25,490 --> 01:32:45,500
+試翻去做個測試，譬如舉例，其實我哋喺喺個週末咧都經常有嘅，譬如中東呼吸誒呼吸綜合症嘅病毒要測試咧，好多時都要同事翻嚟誒進行一個檢測嘅。哦，咁所以誒，主席，所以我支持嘅。咁另外咧，我想問一問關於嗰個啊維多利亞公眾臉房咧，噉我當然支持。
+
+495
+01:32:45,500 --> 01:33:05,510
+係話即係誒誒增加佢嗰個儲存量啦，因為而家你三間公眾店房平均使用率高達一百零八個percent，咁即係根本都唔夠位啦已經。噉就誒同埋誒，如果可以擺喺誒誒巖洞裏邊咧，其實係非常之好嘅，噉就可以騰出啲地方可以做嚟啲嘢。咁所以我就想問啦，咁誒未來嗰計？
+
+496
+01:33:26,860 --> 01:33:46,870
+我提主席誒，依家現存有三間恆常用緊嘅公眾點房，就係域多利亞呢間啦，同埋就係誒沙田嘅虎山，同埋就係呢個誒葵涌嘅。咁其實就葵涌之前已經做咗一個即係優化工程，咁虎山個都進行緊一個誒。
+
+497
+01:33:46,870 --> 01:34:06,880
+誒，即規劃緊有一個擴建嘅工程已經進行緊㗎啦。咁所以咧，呢三個加埋咧，將來嗰個預算嗰個總容量咧，可以足夠應付到二零誒四六年噉樣樣嘅。咁誒呢個規劃都係誒符合嗰個預算嘅需要啦。
+
+498
+01:34:10,190 --> 01:34:30,200
+啊！主席，我兩個項目都支持嘅。噉啊，郭佩凡，你支持嘅呢個項目係嘛？O K，係呢個檢測中心，我留意到咧，就誒本身都已經喺即係一個護養院同埋一間誒誒呢個智障人士嘅一個特殊學校。
+
+499
+01:34:30,200 --> 01:34:50,210
+效嘅噉，當然即係新增嗰疫都係喺翻嗰度啦。噉我相信而家個安全措施都做得好好啦，因為因為你就喺附近嗰啲嘅居住嘅人咧，其實都係可以話最弱嘅。噉我都希望即係你哋繼續喺。
+
+500
+01:34:50,210 --> 01:35:10,220
+未來新個設施，即係我假設嗰個安全情況都係要去到最最高標準啦。咁誒呢個冇冇乜大問題。我唯一問嘅就係，即係增加咗嗰個誒新增個個部分之後咧，其實係咪會將你哋檢測嗰？
+
+501
+01:35:27,310 --> 01:35:47,320
+我想問一問咧，即係對於嗰個誒畀家屬喺嗰度進行一個儀式嗰個地方咧，誒嗰個設計會唔會都擺咗喺度，同埋一個合理嘅地方？因為而家公眾殮房誒好多時嗰啲誒。
+
+502
+01:35:47,320 --> 01:36:07,330
+有啲家屬可能係誒寧願，即係佢可能種種原因啦，佢就喺嗰度完成嗰個叫做出殯嘅儀式嘅。咁個地方係相對係好狹窄，甚至係即係冇咩一個比較合理嘅地方去安排呢件事。誒，呢個新嘅殮房係咪可以做？
+
+503
+01:36:11,120 --> 01:36:31,130
+好多謝主席，或者我答咗第二個問題先。關於嗰個檢測嘅時間，我就想請阿曾醫生補充。咁喺呢個新嘅誒規劃嗰個嘅計劃裡面咧，彼得利亞嘅公眾廉房係抗建或者重置之後咧，佢會有一個嘅遺體告別室啦。咁面積有四十平方米，可以用。
+
+504
+01:36:46,190 --> 01:37:06,200
+咁測試嗰度請阿曾醫生。係嘛，當然噉就誒，基本上一個測試快慢咧，就主要就誒誒，視乎個醫院嗰個樣病人嘅樣本嚟到我哋嘅實驗室嘅第一。咁所以呢個做咗三級呢個理論上就都冇影響嘅。其實因為醫院而家要發都好快㗎，我哋。
+
+505
+01:37:06,200 --> 01:37:26,210
+就唔會有一個樽頸啊，唔會有一個誒誒磁磁膠樣本嘅。第二就係嗰個儀器啊，即係個化驗個過程個儀器決定要幾耐啊嘛。譬如三個鐘，到時我哋有個三級實驗室都唔會快咗啊，個儀器唔會快咗嘅。只不過個流程，即係我啲同事。
+
+506
+01:20:32,590 --> 01:20:32,900
+哦。
+
+507
+01:15:50,220 --> 01:15:50,800
+嗯。
+
+508
+01:36:07,330 --> 01:36:08,000
+道理啊！
+
+509
+01:44:55,270 --> 01:44:56,000
+你係中間啲。
+
+510
+01:45:56,460 --> 01:45:57,280
+佢咧，佢rap部。
+
+511
+01:45:09,270 --> 01:45:10,150
+咁又仲。
+
+512
+02:09:13,370 --> 02:09:14,330
+特特。
+
+513
+02:09:11,980 --> 02:09:13,090
+畀誒。
+
+514
+01:46:03,770 --> 01:46:04,920
+呢度開前一二。
+
+515
+01:52:25,730 --> 01:52:26,880
+代表嘅係善靈會。
+
+516
+01:42:55,270 --> 01:42:56,490
+OK。
+
+517
+01:44:36,750 --> 01:44:38,020
+改變，隨風。
+
+518
+01:49:27,150 --> 01:49:28,510
+咧，其實係需要嘅。
+
+519
+01:44:32,160 --> 01:44:33,710
+啊！進入會議室。
+
+520
+01:41:42,150 --> 01:41:43,910
+啊，係咪啊，曾醫生啊？
+
+521
+01:42:57,140 --> 01:42:59,270
+啊，請一句啊，好嘛，得咪？
+
+522
+01:57:43,940 --> 01:57:47,930
+包括係處理啊、索償啊、民事或者刑事嘅法律責任。
+
+523
+01:55:26,330 --> 01:55:30,520
+好，噉啊，跟住下一位係陳謙傑。
+
+524
+01:48:21,710 --> 01:48:26,000
+先咧就請第一位，咁咧就係黑。
+
+525
+01:40:34,310 --> 01:40:39,050
+係噉啊！假如有議員第日有興趣參觀你嘅實驗室，係可唔可以㗎？
+
+526
+01:58:47,840 --> 01:58:53,050
+啦嚇，咁部分時候咧，嗰啲舒緩嘅病牀咧，亦都要騰出嚟照顧急症嘅病人。
+
+527
+01:56:23,130 --> 01:56:28,380
+咁作為醫護人員方面咧，咁喺保障病患者嘅利益同埋佢哋嘅。
+
+528
+01:42:48,370 --> 01:42:53,870
+整體嚟講咧，呢三間加，即係全部去到二零四六誒，全港都冇問題，係咪噉啊？
+
+529
+01:57:16,150 --> 01:57:21,730
+嗰啲資訊咧，係應該係直接、簡單同埋有效嘅方式提供畀治療提供者。
+
+530
+02:08:29,150 --> 02:08:35,150
+誒，我哋覺得都應該更改咧，喺個安老院舍離世嗰個條例嘅。噉，但係咧。
+
+531
+01:40:27,250 --> 01:40:33,350
+誒項嘅檢測咧，大部分都喺二級嘅實誒設備嘅實驗室已經做到㗎啦。
+
+532
+02:09:04,130 --> 02:09:10,270
+多謝曬馬醫生。下一，我哋有請雀新家長網絡歐燕芳女士。
+
+533
+01:41:14,350 --> 01:41:20,520
+亦得。即係換句説話，將來你而家做開二級，大部分同事咧要提出升要提升，先至可以過去咯。
+
+534
+01:57:30,290 --> 01:57:36,700
+同時，我哋亦都可以參考外國嘅做法，為指定裏邊嘅人員係一個真誠嘅行為。
+
+535
+01:57:37,100 --> 01:57:43,580
+同埋冇疏忽嘅情況之下，可以豁免佢哋遭受到專業失當紀律誒程序。
+
+536
+01:57:22,480 --> 01:57:29,640
+同時咧，如果作出一啲誒撤銷呢個預設呢條指示嘅時候咧，亦需要明確嘅記錄同埋見證。
+
+537
+02:09:34,770 --> 02:09:42,120
+應該要有簡易圖文咯，同埋因為我覺得你哋呢個誒醫療預設醫療指示其實有好多家長。
+
+538
+02:08:55,440 --> 02:09:03,040
+病人而必須有呢啲醫生咧去簽署咧，呢啲病人先可以豁免提交報告而喺個院舍離世。咁要講嘅係咁多。
+
+539
+01:56:46,760 --> 01:56:54,660
+咁接受一個舒緩嘅治療，咁等佢可以減輕身體嘅痛楚啦，同埋心靈嘅不安啊。噉佢等佢可以走完人生嘅路程。
+
+540
+02:12:02,470 --> 02:12:11,750
+多隻誒聯合國嗰個殘疾人權利公約，唔該大家去睇下第九條、第十二條、第廿一條同埋第廿五條嗰幾條公約啊！啊，唔該曬。
+
+541
+01:47:33,260 --> 01:47:42,610
+噉就另外咧，有關喺你前面咧，亦都有個公眾人士啊出席嘅須知，大家可以有時間參考下。
+
+542
+01:56:55,110 --> 01:57:04,650
+咁喺立法嘅同時咧，我哋亦需亦需要為呢個治療提供者，即係當中包括醫護人員啦，同埋一個緊急嘅救援人員，提供法律保障。
+
+543
+01:50:55,080 --> 01:51:05,080
+好多唔同嘅預設醫療指示嘅文本嘅，但係如果要廣泛性喺社區推行咧，我都係覺得應該用一個比較標準嘅文本，甚至就係醫管局嘅文本。
+
+544
+01:40:16,950 --> 01:40:26,970
+嗰一啲先至係需要落三級誒設備嘅實驗室去進行化驗，所以嗰個我哋畀個數據話，我哋誒處理咗六百幾。
+
+545
+01:42:15,610 --> 01:42:26,170
+邊咁其他區嘅情況係咪都係會夠用嘅？點解今日淨係處理港島嗰度咧？係咪九龍區嗰啲嘅廉房係夠夠位㗎？
+
+546
+01:57:04,930 --> 01:57:15,500
+因此咧，我哋認為有關嘅當局咧，必須確保治療提供者有一個清晰嘅資訊，確定呢個患者係已經作出咗一個預設嘅醫療指示。
+
+547
+01:42:59,950 --> 01:43:10,600
+講講到係，淨係講到係。咁其他嗰啲，你會唔會都做好二零四六嘅規劃？誒，上翻嚟立法會畀我哋睇一睇，你有咩誒改善咧？
+
+548
+01:54:01,650 --> 01:54:12,530
+噉樣嚇，噉就誒第二個point咧比較在地少少咧，就係即係實際少少誒，即係我係可能我哋前線啦，遇到我哋啲服務有個問題咧，就係誒。
+
+549
+01:41:44,190 --> 01:41:55,320
+誒簡單咁講，而家我哋誒喺另外一笪地方整嘅嗰個新嘅，唔影響而家嗰個，因為而家個繼續做，只不過喺另外一個唔係化驗室。
+
+550
+01:55:12,920 --> 01:55:25,410
+誒救護車個服務可以都即係可以幫到送到呢啲誒所謂臨終病人咧嚟到我哋呢啲嘅誒誒專門病房啦，或者即係善終醫院噉樣樣咯嚇。噉我講嘅差唔多，thank you。
+
+551
+01:50:21,690 --> 01:50:34,250
+另外咧就係誒喺立法依度咧話係容許咧係有依個口頭嗰個更改或者取消，但我好擔心依樣嘢咧係會反而引起有更多嘅一啲不必要嘅爭拗。
+
+552
+01:56:09,200 --> 01:56:22,850
+咁依家咧，其實喺大眾方面咧，對於呢個善終同埋死亡死亡嘅忌位咧，都有所改變㗎啦。咁曾經有調查發現咧，就有百分之八十七點三嘅受訪者都希望可以接受到一個適切嘅舒緩治療。
+
+553
+01:53:27,480 --> 01:53:41,320
+服務呢個即係善終服務，但係其實我哋呢啲誒NGO咧，其實我我我哋喺即係認為係一啲都唔容易嘅嚇。咁譬如我哋即係善靈之家啦，噉我哋營運咗幾年，咁其實我哋都發覺我哋資源就唔係好足夠。
+
+554
+02:13:32,400 --> 02:13:46,580
+去到醫院咧，亦都係好似即係即係每一次，如果有啲誒誒發生啲緊急事事件嘅話咧，一定係用救護車咧就送去嗰個誒啊！我哋叫做急症室嘅，噉啊係一個非常之長嘅等待嘅。
+
+555
+01:40:39,680 --> 01:40:54,060
+誒三級就誒有限制嘅，有好多地方係誒唔容許誒誒外人，即係未經訓練嘅人進入。但喺出邊睇係冇問題嘅。我哋而家好多社唔識有誒。
+
+556
+01:49:28,790 --> 01:49:43,370
+但係第二見證人喺我哋喺社區見得到咧，甚至我喺醫院咧都發現咧有啲問題會發生。就係好多時候咧會捉咗屋企人做見證人，但係實際如果大家睇清楚個條文咧，屋企人係有機會有利益衝突嘅。
+
+557
+01:59:33,350 --> 01:59:48,460
+係香港最大嘅持份者，因為誒院舍嘅數目咧係佔緊長者照顧服務嘅七十個percent。預設醫療指示咧，我相信咧喺現今係勢之所趨。
+
+558
+01:50:03,660 --> 01:50:21,380
+都係個醫生同個病人簽署，包括手術嘅同意書。咁如此呢條只是係一份重要嘅文件，咁當然醫生簽咪好合理。但係我哋真係要諗下喺社區執行嘅時候點樣做咧？噉樣，所以依個見證人嗰度，我係有啲保留嘅。點要用第二見證人？
+
+559
+01:55:51,150 --> 01:56:08,920
+人喺呢個居處離世嘅立法建議咧，表示係歡迎同埋贊同嘅。另一方面咧，我哋認為一個完善嘅社區配套同埋一個充足嘅醫護人手咧，係可以讓到患者喺臨終時獲得一個適切嘅照顧同埋關懷。咁等佢有尊嚴噉樣走完呢個人生嘅最後一段路啊，噉樣。
+
+560
+01:56:28,660 --> 01:56:46,470
+尊重佢哋嘅個人自主權嘅前提之下咧，我哋認為，如果病患者係如果係十八歲以上，而喺精神上有能力行事，同埋佢個病情已經到咗末期，或者係唔可以逆轉嘅情況之下咧，我哋係允許去作出一個預設嘅醫療指示。
+
+561
+01:47:43,330 --> 01:48:01,420
+咁咧就誒今日咧有二誒十九位啦，噉啊每一位咧我就大概係三分鐘嘅時間。假如大家爭幾句未講完咧，噉我哋都會係誒畀大家講埋嗰句。咁但係之後唔好一路講落去，因為我哋為咗公平起見啦，係咪嚇？
+
+562
+01:58:08,740 --> 01:58:27,500
+個情況係唔理想嘅，咁因此咧，我哋本會亦都贊成咧修訂呢個死因裁判官條例裏邊嘅規定，當中定明咧十四日內咧曾經得到一名註冊醫生嘅診治，並由該醫生作出最後診斷及確定死亡咧，則無需根據死因裁判官條例作出報告。
+
+563
+01:37:47,290 --> 01:38:07,300
+啊，張超雄議員，你支持呢個項目㗎？我支持啊！好嗱，最後一位咧就潘少平。噉啊，潘少平之後咧啊，黃碧合運係咪仲有一個問題？噉啊，黃碧雲，我就另外畀一分鐘嚟問一個問題，好唔好啊？嚇，因為咧，我哋跟住落嚟咧，我哋有啲團體咧啊，都想講啊，都會參與我哋下一個議程嘅發言嘅。好咁咧就。
+
+564
+01:38:07,300 --> 01:38:27,310
+所以，我哋要找緊啲時間。噉啊，請阿潘少平議員。多謝主席。噉啊，我係支持呢兩個項目嘅。咁不過，我借呢個機會都想了解多少少，因為正話誒，啲同事都問咧，即係話誒將會變成三級啦。噉就即係我，我唔係好理解，因為知道咧就有四。
+
+565
+01:38:27,310 --> 01:38:47,320
+四級嘅實驗室嗰個水平嘅噉就誒，即係我唔知會唔會即係三級同四級嘅差異喺邊度咧？噉就即係個目標會唔會係將來政府都會向四級更高水平嗰度去制定呢個一個安排？第二個咧嗱，我睇翻嘅文件咧就話喺二零一八年咧，你公共衞生化驗服務共
+
+566
+01:38:47,320 --> 01:39:07,330
+處理咗六百五十四萬項化驗，即係如果除翻三百六十五日日都做咧，就一點五八萬項嘅差唔多。咁誒，我我唔知道咧，即係誒將來搬咗去喺人手上係會點咧？咁呢咁大量嘅工作係點樣處理？我又唔係好明噉，就係即係按。
+
+567
+01:39:16,920 --> 01:39:36,930
+係誒，衷心多謝區議員主席嗱。主要講翻到四級先啦。四級就係一個最最極端嗰個情況啊。其實唔係好多國家有四級個四唔七。點解咁講咧？個要求誒仲更加高嘅。譬如佢對佢嗰個擺位啊，個誒地理位置啊，甚至入去做嘢嘅同事。
+
+568
+01:39:36,930 --> 01:39:56,940
+簡單啲講就係差唔多著太空衣啊！嚇，即係噉，我諗我哋而家面對嘅情況咧，大部分咧係三級設施都已經做到嘅，即係嗰多數係研究用嘅嗰個。噉就第四級，我講下。咁誒，至於另外就話嗰個量嗰度啦，嗰個誒，其實嗰個我哋而家做咧，大部分。
+
+569
+01:39:56,940 --> 01:40:16,950
+都喺二級實驗室已經足夠嘅。而家我哋嗰個誒起緊嗰個三級誒設備嗰實驗室咧，主要我哋針對一啲誒高傳染、高度傳染性新發嘅細菌啊、病毒，同埋誒主要係冇藥冇有效嘅藥物治療，同埋冇呢個疫苗。
+
+570
+01:40:54,340 --> 01:41:14,350
+誒參觀嘅同事咧都喺出邊望嘅，入唔到裏邊嘅嚇，因為有要求㗎。我明白啦，好。我咁咧就再想了解多啲，做二級同三級嗰啲人員都係讓淨係還是有唔同水平嘅同事要？誒，一定要受過訓練同埋誒被認證係符合嗰個資格先。
+
+571
+01:41:21,720 --> 01:41:41,730
+好，仲有冇問題啊？阿潘少平議員，O K，咁嗱，畀多一分鐘，就係阿黃碧雲議員。阿主席，我想問一問誒，因為佢係原子改建嘅，咁喺工程進行期間，咁原有原有嗰啲化驗服務係咪要停工搬去第度做啊？定可以一路做一路唔影響你原有工作？
+
+572
+01:41:55,600 --> 01:42:15,610
+嘅地方整好呢個誒三級設備嘅實驗室，即係你原來夠空間畀你搞呢個新嘅實驗室，啱啦。OK，跟住我想問一問嗰個誒域多利嗰個廉房嗰度，噉我諗呢度係即係想善用土地嘅啫。噉我即係我我我就比較欣賞你呢個規劃，因為你去到二零四六咧都夠用，即係講到個。
+
+573
+01:42:28,360 --> 01:42:48,370
+邊個回應啊？局長，多謝主席。誒，黃議員嗰個問題就係誒嗰個規劃咧，係因為今次工程淨係顯示嗰個工作點房啫。咁以前我話個三間恆常會用緊嘅點房，包括呢個誒沙田嘅富山啊，同埋葵涌，其實以前已經誒進行咗一個擴建嘅規劃，咁所以總共。
+
+574
+01:43:11,310 --> 01:43:31,320
+係，我補充少少啊。多謝黃黃業。誒，其實喺規劃上咧，喺港島、九龍同埋新界咧，都係希望有一個廉房嘅設施嘅。咁所以咧，我哋都係以香港九龍同埋三新界咧三大區咧，係去做個誒，即係誒達到供求嗰個情況嘅一個平衡。咁港島咧，因為而家呢個機遇啦，我哋希望。
+
+575
+01:43:31,320 --> 01:43:51,330
+做到越嚟越即係可以誒，二零四六呢一個年份嘅供求咧都可以達到嘅。咁九龍同埋新界方面咧，譬如富山同埋葵葵涌咧，都其實喺之前做過啲誒擴建同埋改善嘅工程嘅。咁咧，譬如話富山去到二零三零年當時規劃嘅時候，咁當然我哋喺有機會嘅時候。
+
+576
+01:43:51,330 --> 01:44:11,340
+都會繼續向住即係未來嗰個供求情況咧，去希望做到一個滿足嘅情況。啊，主持仲有一個好快嘅問題。好啦，冇啦，夠鐘啦。O K，但係你門口問啦，你哋佢走嗰陣時，你門口問，跟住落嚟咧，就我哋下一個議程啊。噉啊，喺進入下一個議程咧，我就再想問在座嘅委員，有冇人反對啊？將呢個項目交付畀公務小組討論。
+
+577
+01:44:12,150 --> 01:44:32,160
+後冇嘅話咧，跟住落嚟，我哋下一個議程，下一個議程咧係就有關預設醫療指示和病人在居處離世的立法建議。咁咧就同團體代表會晤㗎。OK，咁咧就我哋請秘書處咧就邀請咧就係團體代表同個別人士。
+
+578
+01:46:53,140 --> 01:47:13,150
+好噉啊！今日誒歡迎各位團體代表啊，或誒個別朋友出席㗎。咁嚟今日咧，噉我哋而家總共係有十九個團體代表及個別人士。噉就誒，我首先咧就係誒歡迎大家啦。噉啊，另外咧就你哋面前。
+
+579
+01:47:13,150 --> 01:47:33,160
+前咧就係有個誒擴音器同埋耳筒，咁咧一號廣東話，二號英文，三號普通話。咁咧就誒今日因為誒大家喺度陳述意見嗰陣時咧，就係誒留意咧，就係你哋咧就係並不享有呢個權利及特權條例嘅保障㗎。
+
+580
+01:48:01,700 --> 01:48:21,710
+噉就，假如我哋時間有充裕嘅話咧，之後我哋有啲委員咧，亦都會誒可誒發問㗎，問大家意見又好，或者問誒政府官員。大家萬一真係有補充嘅話，噉你都可以嚇舉手暗示啊，或者點樣？咁有足夠時間，我都會畀大家再問㗎。好，咁咧就誒，我哋首先。
+
+581
+01:48:27,050 --> 01:48:47,060
+啊，第一位未到，噉我哋就嚟第二位咯。第二位係泛玲醫生無望愛有限公司嘅主席，泛玲醫生。係大家好啊。嗯，我喺今次呢個立法咧，其實我基本上係支持政府推行嘅，但係我更加擔心就係有啲。
+
+582
+01:48:47,060 --> 01:49:07,070
+條文嘅內容，如果真係去實行嘅時候喺社區咧，未必承接得到。而相關一啲嘅配套服務，其實都同個立法有關咧。我係驚會有疏漏，所以今日咧都百忙之中都希望嚟，因為我身份又比較特別咧。我其實自己都係一個醫管局嘅醫生嚟嘅。
+
+583
+01:49:07,140 --> 01:49:27,150
+噉我外科醫生，因為外科都有好多係同cancer病人或者臨終治療都有關係。噉我簡單啲第一樣嘢想提出嘅咧就係，誒預設醫療紙而家喺香港推行咗咁多年咧，中間係需要一個見證人係醫生啦。咁呢個好合理嘅。第二見證人。
+
+584
+01:49:43,650 --> 01:50:03,660
+咁加埋就係有好多獨居嘅老人啦，同埋一啲雙老嘅家庭咧。其實佢哋係好難揾到見證人，你好難話次次我都揾個社工拍行當會幫我做見證人啦噉樣。咁其實亦都唔合理嘅喺依方面。咁所以誒，自己諗翻喺醫院，其實好多時候同病人做決定嘅時候，其實都～
+
+585
+01:50:35,070 --> 01:50:55,080
+因為好多時候文件如果仲係話可以上載到醫管局嘅互聯網嘅時候，而口頭協議究竟係邊個做見證咧？頭先講喺社區揾見證人已經咁艱難嘅時候，見證仲要係個口頭改變或者取消咧，反而可能會適得其反。噉我知道坊間有。
+
+586
+01:51:05,600 --> 01:51:25,610
+咁喺誒社區離世嗰方面，誒我唯一想講嘅咧就係，嗯唔係立咗法咧就做得到。其實而家咧係需要用醫社合作嘅模式咧，先至可以係令到譬如話喺屋企離世啦，或者喺老人院離世嘅朋友咧，先至有一個適切合。
+
+587
+01:51:25,610 --> 01:51:45,620
+你有尊嚴嘅服務咁喺嗰方面，其實安寧仲過去嗰年好多年啦，同埋其他機構其實都做咗好多功夫。但係點樣可以同醫管局或者政府合作咧？依方面我完全睇唔到有嗰個嘅發展，或者有幾幾多步係行咗出嚟咯。如果唔係嘅話咧，其實基本上係。
+
+588
+01:51:45,710 --> 01:52:05,720
+都係只係得個立法，而實際上根本係對市民係冇利益嘅實際嘅嗰個嗰個嘅投入，同埋其實亦都令到好多院社覺得就係你立咗法，我已經拆咗牆，但係冇人去支援我，咁其實都係執行唔到。好嗱，我我想提醒咧，就各位朋友，假如你哋嘅意見書咧。
+
+589
+01:52:05,720 --> 01:52:25,730
+咁咧就或者你哋口頭發言，梗係有文字嘅話咧，咁都歡迎咧。你將佢咧就係交畀我哋工作人員。噉我哋工作人員會整合咗之後咧，亦都將啲資料咧，我哋會轉交畀誒呢個啊食衞局，因為佢哋而家做緊諮詢啊嘛，係嘛諮詢期，我都會幫你哋轉交埋嘅。好，咁跟住下一位咧係梁文聰醫生代。
+
+590
+01:52:27,450 --> 01:52:47,460
+係係，多謝主席。係係啊，噉我代表善靈會噉，因為時間有限咧，噉我有兩點咧，想今日喺度即係分享噉樣啦。咁第一點咧，噉我諗誒誒，我哋即係原則上都一定會支持呢個即係誒醫藥誒支持呢個所謂立法呢個程序噉樣。咁但係我想喺度帶出一樣嘢就係，如果我哋
+
+591
+01:52:47,460 --> 01:53:07,470
+想香港誒做好呢個誒誒領養服務或者呢個誒善終服務，我哋舒護治療，讓我哋香港人咧喺最後嘅晚期呢個時間咧，真係有一個比較好嘅照顧咧。誒，除咗呢啲立法工作之外咧，我希望政府咧真係可以投放多啲嘅資源喺呢一方方面嘅服務。
+
+592
+01:53:07,470 --> 01:53:27,480
+咁譬如香港嘅即係舒緩病牀喺公立醫院病牀三百零張，咁好明顯係一定係唔足夠，係即係應付我哋而家嗰個即係人口老化嘅需要。噉我哋而家香港其實有一啲即係誒慈善團體啦，有啲有心嘅即係誒人士，好似我哋一善定會啦，咁誒個目標係想香港嗰個做好嗰個即係誒舒。
+
+593
+01:53:41,640 --> 01:54:01,650
+我哋想想個讓個service去去susting咧，其實係好多困難嘅。尤其是我哋而家好多撥款都唔係話都好多時係一次過噉樣，我哋好難做得到可以讓我哋服務去去延續咯嚇。咁噉，所以我都希望即係政府喺呢一方面即係畀到多啲資源畀我哋啲社福機構，可以係繼續去營運呢啲誒誒服務。
+
+594
+01:54:12,810 --> 01:54:32,820
+香港其中嗰個誒誒誒救護車個服務啊嚇，其其實唔唔係好幫到我哋呢個即係善終服務係乜嘢咧？誒香港嘅誒救護車咧，全部都係咧只可以送去急症醫院嘅，就不能夠送嚟。譬如好似我哋善靈之家呢類所謂善終醫院或者輸援病房，噉我其實我哋遇過啲病。
+
+595
+01:54:32,820 --> 01:54:52,830
+病人咧咁其實我哋照顧到誒好好嘅，最後嗰幾個月基本上咧，我哋喺喺屋企去照顧誒，讓佢基本上都唔需要點樣入醫院嘅。咁但係咧去到最後啦，個病人真係誒唔得啦，要走啦啊！佢可能好唔舒服啦。誒個病人同埋家人之前都講過啊，我我佢臨終嘅時候唔想去醫院，唔想去急症室。
+
+596
+01:54:52,830 --> 01:55:12,840
+噉樣噉，但係無奈咧，誒香港呢個呢啲誒，即係如果貨車咧，call即係誒誒呢個白車啊，ambulance咧，佢只會將我嘅你啲病人咧送去急症室嚇。咁所以咧誒，其實唔夠完美嘅你見啦。咁所以我我哋希望咧誒呢呢個喺呢個我我覺得喺政府方面應該可以快啲可以做得到，就話啊點樣讓我哋即係譬如。
+
+597
+01:55:31,140 --> 01:55:51,150
+係主席、局長，係代表香港護士協會嘅。哦，OK，主席、局長，議員們，大家好。我係代表香港護士協會就呢個晚期照顧提出意見嘅。噉我哋香港護士協會咧一直認為呢個完善嘅安老政策同埋呢個誒應該做到呢個居家安老、居家中老嘅目的嘅。我哋對於政府就預設醫療指示同埋病。
+
+598
+01:57:48,730 --> 01:58:08,740
+此外咧，我哋知道咧，誒居所佢哋嘅居所，尤其喺啲安老院裏邊咧嘅善終處理咧係唔容易嘅。大部分晚期嘅老年病人咧，喺佢哋唔舒服嘅時候，都會被慣性送入醫院。咁頭先誒梁醫生都提過啦，係咁施行維生嘅方法，咁繼續等佢承受呢個不適，咁呢個。
+
+599
+01:58:27,830 --> 01:58:47,840
+咁除咗立法之外咧，我哋認為醫護人手培訓方面都重要嘅。咁亦都加強喺安老院嘅配套。咁現時香港嘅善終服務咧非常有限。咁根據資料咧，醫管局提供嘅舒緩病牀數目咧，佔整體病人牀數目只有約百分之一點二。咁喺業內人士指出咧，咁立醫院病人牀咧長期都爆滿啦。
+
+600
+01:58:53,330 --> 01:59:13,340
+噉樣人手方面咧，現時醫管局只有四十位醫生啦，三百位護士同埋六十位專職嘅醫療人員係提供舒緩治療服務嘅。咁人手係唔足夠，咁因此咧，當局應該投放資源，增加舒緩病牀數目、人手同埋嘅服務。咁最後啦，嚇本會認為預設醫療指示立法咧係一個晚期接活。
+
+601
+01:59:13,340 --> 01:59:33,350
+其中一環，咁當局應該加強資源啦、人手啦，同埋誒。好啦，陳先生，唔好意思，多謝你啊！你未發言嗰啲咧，我哋會將你嘅書面報告交畀局方嘅，好嘛？我哋跟住有請下一位香港安老服務協會主席李飛女士，係誒，多謝主席。如果係推行院舍中老咧，私營院舍咧，相信。
+
+602
+01:59:48,740 --> 02:00:08,750
+因為面對住香港嘅人口老化、急速噉樣發展，醫療同埋社會保障嘅開支咧，其實係對整個社會誒對政府都係造成一個好大嘅財政壓力。所以咧呢個時候去誒推行如此呢條指示咧，係有佢嘅必要性嘅。
+
+603
+02:00:08,750 --> 02:00:28,760
+所以我哋協會咧係贊成去討論、去探討點樣將呢個預設醫療指示咧可以打開法制之法制之窗嘅同時咧係推行得更加好。咁如果要推行呢一個誒預設醫療指示咧，有幾點咧？
+
+604
+02:00:28,860 --> 02:00:48,870
+係真係需要注意嘅，特別係私營院舍咧，佢唔係醫院，噉佢個空間係有限嘅。噉我哋係需要提供一個較為舒適啊、安寧啊同埋寬敞嘅房間咧，係畀到一個臨終嘅長者同埋佢屋企人。我哋覺得咧噉係噉嘅處理咧。
+
+605
+02:00:48,920 --> 02:01:08,930
+係應該理所當然嘅，但係院舍個空間係有限啦，誒佢嘅寬敞舒適度啦，都要因人而異。咁而且咧，如果要騰出一啲作為領養嘅病房咧，咁亦都係加重咗院舍嗰個財政嘅壓力啦。咁呢個成。
+
+606
+02:01:08,930 --> 02:01:28,940
+本係咪應該誒由誒政府誒撥資源去承擔咧？咁呢個要注意嘅。咁第二個咧就係誒院社嘅員工啦。呢個就係涉及到一個教育嘅問題。誒對於院社嘅員工，佢嘅接受程度啦，面對院友身體出現一個危急嘅情況底下。
+
+607
+02:01:28,940 --> 02:01:48,950
+通常就慣常係送去急症室嘅。如果係院社佢啲員工誒擔當一個臨終照顧同埋處理遺體，需要係極高嘅心理誒質素。誒我相信咧，唔係話每一個員工都能夠勝任嘅。咁所以希望咧喺推行如此。
+
+608
+02:01:48,950 --> 02:02:08,960
+醫療指示同埋院舍晚情照顧方面咧，頭先以上幾位都講到咧，人手不足咧，其實更加雪上加霜。誒，另外咧就係嗰個遺體嘅處理啊，我哋最擔心咧就係話，當誒個院友喺院舍裏邊過身咧，佢係。
+
+609
+02:02:08,960 --> 02:02:28,970
+係由嗰啲黑箱車嚟噉，究竟係誒離院社嘅時間係停留呢一個誒遺體幾耐誒幾多個鐘咧？咁對於誒隔離鄰社啊，或者院社裏邊嘅長者咧，係構成一個非常之誒。
+
+610
+02:02:28,970 --> 02:02:48,980
+誒，佢哋嘅心理壓力啊，家屬嘅壓力啊，咁呢啲我哋係必須要注意呢方面嘅嚇。多謝好多謝曬你嘅意見。好，我有請嚴重弱智人士家長協會組織總幹事李之榮先生。誒，多謝各位。對於食物及衞生局喺九月發出嘅諮詢文件咧，見。
+
+611
+02:02:48,980 --> 02:03:08,990
+建議為預設醫療指示立法，同埋消除阻礙病人可以選擇喺醫院以外嘅環境作為一個晚期照顧嘅法律文件咧，家長會係深表贊同嘅。但係咧，我哋有以下嘅細節建議啦。誒，而家咧政府建議誒十八歲或以上嘅誒精神有行為能力嘅人士咧，先至可以作出一個醫療指示嘅。咁相反咧係。
+
+612
+02:03:08,990 --> 02:03:29,000
+係唔可以，但係咧精神上無行為力能力嘅人士咧，其中係包括智障人士嘅。誒，智障人士只係一個概括啦。相對咧可以獨立生活同埋外出工作嘅輕度智障人士咧，家長會認為可以容許佢哋自行決定咧簽署呢個預設醫療指示。咁至於中度至嚴重智障人士咧，可以由佢哋嘅合法監護人同佢。
+
+613
+02:03:29,000 --> 02:03:49,010
+佢哋簽署誒，畀智障人士喺病情唔可以逆轉嘅時候咧，都可以同樣享有免於入侵性但係無效嘅治療權利啦。但係目前嘅監護令咧係唔包括呢一方面嘅權力嘅誒，所以我哋建議係容許智障人士或者佢嘅監護人咧作出一個預預設醫療指示嘅行為嘅。第二就係。
+
+614
+02:03:49,010 --> 02:04:09,020
+誒政府考慮修訂嗰個死因裁判官條例嘅時候咧，係容許入住安老院嘅院友喺死亡前十四日內咧，曾經得到一個註冊醫生診治並且由佢作出最後診斷同確認死因嘅時候咧，係誒其實因無需向死因裁判官報告，咁即係避免有院友因為院舍照顧不善而離世。
+
+615
+02:04:09,020 --> 02:04:29,030
+咁家長會咧係建議政府咧係投放資源同人手，畀增助院舍，同時增設舒緩服務，改善院舍嘅舒緩治療設施。至於私院方面咧，家長會係建議醫管局加強老人科外展嘅舒緩服務相關嘅培訓啦，畀院友咧獲得適切嘅服務嘅。咁第三咧就係誒家長會同時咧係建。
+
+616
+02:04:29,030 --> 02:04:49,040
+建議政府係修訂呢個死因裁判官條例嘅相關同時咧，誒除咗令居住喺安老院嘅末期病人可以選擇喺居處離世之外咧，亦都應該擴闊範圍去到殘疾院舍嗰度。咁誒事實上咧，殘疾人士嘅院舍服務對象係相當廣泛，包括精神病康復者啦、肢體殘疾啦、視障同埋輕度智障人士嘅輔助宿舍。
+
+617
+02:04:49,040 --> 02:05:09,050
+等等，而佢哋咧唔一定係精神上無行為能力嘅，係啦。第四就係誒得知親人將會離世咧，任何人都會覺得難過。咁家長面對子女要離開咧，咁更加係萬般不捨。咁希望親自照顧子女最後一段路嘅。咁但係而家未有相關嘅措施咧，係支援家長安心地陪伴子女啦。
+
+618
+02:18:20,620 --> 02:18:21,850
+咧呢個好大嘅問題。
+
+619
+02:34:09,840 --> 02:34:11,720
+and should be leveraged upon.
+
+620
+02:51:02,930 --> 02:51:05,250
+好，我哋又請下一位小家樽議員。
+
+621
+02:36:40,530 --> 02:36:46,050
+另外咧，我又要增強呢個醫療系統裏邊嘅提供安寧照顧嘅能力。
+
+622
+02:52:56,860 --> 02:53:05,400
+地咧，實際地咧，有誠意地咧回應，即係讓我哋香港人咧，真係唔能夠好活都能夠好死啦！唔該主席。好，下一位陳沛賢議員。
+
+623
+02:33:40,080 --> 02:33:49,550
+adequate training for our workforce. Solely improving the legal framework will have limited impact. Thirdly, enhancing the role of technology.
+
+624
+02:24:12,400 --> 02:24:22,560
+所以我哋咧認為咧，亦都應該考慮咧，包括人工營養同埋流體嘅餵養咧，嚟到去確保咧，係根據病人嘅意願咧，係是否不予提供或者撤去嘅。
+
+625
+02:52:05,990 --> 02:52:16,280
+都好支持你嘅方案啦，係咪？嚇，我諗政府都好久違咗呢一種支持㗎啦，即係個個都話支持，不過咧係嗰個支持就係話其實咧係你做緊你做緊一啲。
+
+626
+02:25:43,120 --> 02:25:54,410
+會有預計咧，有大量嘅長者咧，可能會需要咧，係喺院裏邊咧去接受臨終嘅照顧。咁所以咧，我希望政府能夠提升現時院舍嘅配套啦，同埋人手嘅編制。
+
+627
+02:33:07,540 --> 02:33:19,580
+61% would make an AD if legislated. There is thus a proven need to increase awareness of ADs through active public education and advocacy. Secondly, capacity planning.
+
+628
+02:40:57,590 --> 02:41:09,640
+咧喺社區嗰度嘅支援增加，包括社區醫護嗰個培訓、基層醫護嗰個培訓咧，增加舒緩治療家居嘅服務，同埋希望鼓勵更加多咧相關醫社合作。
+
+629
+02:16:07,020 --> 02:16:20,270
+曬嗰啲嘅意見，可以留翻個文本喺度，幫你交畀局方。下一位我哋有請方敏生女士。誒，大家好。嗯，首先我想講對政府今次提出改善晚期照顧嘅兩項立法嘅建議，我係支持嘅。
+
+630
+02:34:26,280 --> 02:34:40,170
+We have recently completed a telephone polling study to complement the government's public consultation, through understanding public perception and practice related to end of life care services in local communities. That is outside of hospital settings.
+
+631
+02:34:12,000 --> 02:34:26,000
+The platform will allow timely access to important information and continuity of care along the patient care pathway, which is particularly pertinent in our advocacy for shifting care from hospitals into the community.
+
+632
+02:48:49,390 --> 02:49:03,680
+噉我係非常之支持咧，政府係提供足夠嘅社區支援咧，係令到市民如果選擇可以喺在家離世，或者喺院舍離世嘅時候，點樣有一個便捷啲嘅方法。好，下一位請李國麟議員。
+
+633
+02:25:54,690 --> 02:26:09,240
+咁此外，亦都希望咧建議理順病人喺居住處離世嘅相關跟進，包括咧警方調查、屍體處理同埋殮品安排等等。好，多謝曬你見，下一位就請香港中文大學賽馬會老年學研究所經理李偉棠先生。
+
+634
+02:37:26,350 --> 02:37:41,060
+嘅誒誒嘅提供嘅專業培訓，去到私營嘅醫院嘅醫護人員，甚至係推廣去對社區裏邊嘅家庭醫生，而且我支持以書面方式去到誒誒修訂嘅預防醫療指示。
+
+635
+02:19:20,630 --> 02:19:35,910
+人員嘅培訓同埋家人嘅支援，咁詳細嘅資料我已經畀咗大家㗎啦，唔該曬，多謝方女士。我哋下一位有請香港性工會福利協會有限公司Google服務經理阿樑子敦先生。
+
+636
+02:22:36,300 --> 02:22:52,020
+而咧可以政府咧就係用翻佢為新住客下嘅地區社地區健康中心咧作為一個核心嘅宣傳點向市民宣傳。多謝。好，多謝曬你嘅意見。我哋有一位有請嘅東華三院社服總主任誒梁碧瓊女士。
+
+637
+02:39:41,150 --> 02:39:57,240
+半嘅市民咧都唔知咩係預先醫療指示嘅。不過，如果喺立法過程加以解釋嘅話咧，其實六成人係會考慮嘅。咁所以真係好強調，希望政府喺著力立法嘅時候，同樣著力喺裏邊相關嘅嗰個公眾教育。
+
+638
+02:50:44,010 --> 02:51:00,950
+拆政府唔做呢樣嘢，無端端就攞呢個A啲嘅立法，你做緊乜嘢咧？你係咪做緊啲嘢？你係唔應該做？你係咪嚟咗地咧？啊，局長，你解釋畀我聽，你做呢樣立法之後，你點樣可以幫我哋做得好死？你做唔到喎，你有法律保障啫喎，配套培訓社區支援，你完全做唔到。
+
+639
+02:32:29,710 --> 02:32:47,250
+consultation on this topic will be largely conducive to the implementation of advanced directives or AD and dying in place. However, we believe that while being a good step forward, the current legislative proposal will not be sufficient. We respond to the consultation document using the following themes.
+
+640
+02:44:30,040 --> 02:44:47,640
+去實行嘅咧，咁所以就好希望誒政府即係唔單止係嗯Fujian Health Bureau嘅，係相信係一個跨部門需要做嘅effort，去令到呢件事真係能夠喺現實裡面去發生嘅。多謝。好多謝曬李女士，下一位有請香港醫學會會董謝達明醫生。
+
+641
+02:18:42,190 --> 02:19:00,320
+幫老人家去作出呢個決定，去執行呢樣嘢，因為你決定咗餵食啦、藥物使用啦、進出醫院個互通嗰個系統啦、確認死亡嘅系統，都係要醫社協助嘅。最後我想講咧，就係誒重要協助嘅咧，就係嚟緊個基層醫療。
+
+642
+02:39:01,660 --> 02:39:20,860
+學會嘅主席阿吳常青醫生，好唔該，主席。咁香港舒緩醫學學會咧係誒支持咧政府咧為預設誒預設醫療指示咧就立法成文嘅。噉我亦都好支持政府咧去修即係修改相關嘅條文啦，就令到喺院舍嘅即係晚期病人咧可以喺居處嗰度離世。
+
+643
+02:41:30,310 --> 02:41:49,680
+發成文啦，嚇！亦都可以幫助一啲人咧，比較容易可以喺在家離世。我相信呢個係第一步，亦都係重要嘅一步。不過，即係喺香港咧，即係誒，比起好多即係經濟發達啦，嚇嗰個醫療系統比較完善嘅地區咧，我哋實在係缺乏一個整體嘅政策同埋規劃。
+
+644
+02:05:09,050 --> 02:05:29,060
+令家長懷住一個永遠嘅內疚同遺憾度過餘生。我個女舊年年中走咗之後，我到依家我仍然放唔低呢一個遺憾。所以其實我哋希望誒政府會設立一個時鐘價，畀家長可以安心地照顧子女，陪伴佢誒有一段嘅時間誒，可以彌補到呢個傷痕。第五就係家長會十分關注自己嘅仔女離世。
+
+645
+02:05:29,060 --> 02:05:49,070
+之後嗰個舒緩同埋誒善終啊、亂葬嘅安排服務，例如喺預誒家長預先購置一個骨灰堪位，同埋舒緩治療期間嘅生活事情等等啦。據瞭解咧，現時嘅處理方法咧，如果遺體冇親人認領嘅話咧，噉就會誒送去公葬㗎啦。咁家長期望咧誒事前有準備啦，可以委託院社代替。
+
+646
+02:05:49,070 --> 02:06:09,080
+執行治理嘅相關事宜係啦。同時希望咧修訂《死因裁判官條例》嘅同時咧，同步修改監護令嘅不足之處。唔該，好多謝曬李先生。下一位，我哋有請香港公共醫療醫生協會會長馬仲賢醫生。誒，多謝主席。噉樣誒，基本上我哋香港公共醫療醫生協會咧，對於今次嘅諮詢咧，大部分嘅題目都係表示贊成。
+
+647
+02:06:09,080 --> 02:06:29,090
+嘅，不過有嘅以下咧喺幾個諮詢問題咧係有啲個別嘅意見，包括咧諮詢問題裡面第七項啦，誒一啲咧誒冇限制健康，但係已經有一個誒年齡上合法啦，同埋精神健康係許可嘅。我哋認為咧，嗰個病人咧，如果個人咧佢自己嗰個精神上係許可，就算佢現在冇一個。
+
+648
+02:06:29,090 --> 02:06:49,100
+即係晚期或者嚴重嘅健康問題，其實佢都應有嗰個權利咧去預設自己嘅醫療指示嘅。跟住咧到關於咧就係誒第十四項嗰度咧就係話係咪有一個親屬咧佢用一個口頭咧表示話而家嗰個病人誒即係而家嗰個有預設醫療指示嘅病人已經失去精神能力啦。
+
+649
+02:06:49,100 --> 02:07:09,110
+但係佢其中一位親屬咧話：，啊，佢誒較早前其實已經撤銷咗，噉就係嗰位親屬嘅口頭嘅一個誒一個一個證據就可以撤銷咧。我哋對呢樣嘢咧係誒比較有保留嘅，因為咧發現咧誒日常生日常我哋嘅工作裡面咧都發現咧有時家人裡面咧都有啲唔同嘅意見，咁好容易咧有一。
+
+650
+02:07:09,110 --> 02:07:29,120
+個家人話：，我個病人已經撤銷咗，但係第二個家人咧，亦都唔同意。咁所以我哋覺得咧，如果個病人要口頭撤銷呢個預設醫療指示，最好都要有第二名嘅親人或者證人去證明。如果唔係咧，就即係醫護人員喺執行嘅時候就會有其他嘅問題。咁到到另外關於第十九條同埋二十。
+
+651
+02:07:29,120 --> 02:07:49,130
+條嗰度關於就係一個不作心肺復甦文件，同埋咧依個急救人員咧係咪可以接受呢兩誒預設醫療指示上咪心不作心肺復甦文件嗰樣，我哋覺得呢一個消防條例嘅更改係十分重要，因為現在咧因為未依個消防條例嘅關係咧，就算我哋而家啲喺醫管局裏面簽咗呢個不作心肺復甦啦，同埋
+
+652
+02:07:49,130 --> 02:08:09,140
+埋預設醫療指示嘅病人咧，我哋都要同屋企人講咧，有可能佢哋喺救護車上面仍然係要作呢個心肺復甦術嘅，因為誒呢個消防人員係要受制於消防條例。噉我哋十分贊成要更改啲消防條例。不過如果政府咧將呢個不作心肺復甦術文件咧，決定唔用法定文件嘅方式，而只係用嗰個。
+
+653
+02:08:09,140 --> 02:08:29,150
+範本咧，噉我哋希望政府咧就亦會製咗一個範本，讓到咧即係其他，譬如私營機構同埋私家醫生都可以用到。因為暫時據我知道，就只有咧醫管局先有呢個範本嘅啫。到最後，我哋想誒講嘅咧就係關於第二十九條同第三十條，正如提出頭先其他嘅誒發言人士都講啦。
+
+654
+02:08:35,430 --> 02:08:55,440
+因為而家尤其寫私營安老院舍咧，誒即係虐待嗰個情況都係有發生嘅噉樣咧。而以往咧呢個誒死因裁判官條例其實就係咧保障咧老人家喺啲院舍咧唔會被虐待，所以咧一定咧就需要加強呢個人手，讓咧多啲醫生咧係可以喺十四日內去睇到呢啲咧晚期嘅病。
+
+655
+02:09:14,760 --> 02:09:34,770
+我哋家長，我係代表一班智障朋友嘅，同埋有啲家長嘅。噉我哋都好歡迎呢個預設醫療指示呢啲嘅。不過咧，嗰啲諮詢文件咧，誒，我哋睇唔明啊，同埋尤其是啲智障朋友啊，嚇完全睇唔明啊。咁變咗，我哋做家長有啲識嘅咧，就即係解釋得好辛苦嚇。咁所以其實～
+
+656
+02:09:42,400 --> 02:10:02,410
+同埋有好多志長朋友，就真係唔知係咩？你哋個宣傳唔足啊！誒，據我知咧，我就去咗大誒香港大學都講過幾次咩誒，創馬會嗰啲安寧頓嗰啲，我哋去過，我聽過一兩次㗎啦。即係唔係咁多家長知去到知道呢啲嘢咯？咁所以我覺得個宣傳不足。如果你話要喺誒成，
+
+657
+02:10:02,410 --> 02:10:22,420
+社區度誒搞咧，噉我諗你哋真係要宣要即係要多啲去講去去講呢啲啊誒，譬如好似喺電視賣啊，啲咩叫做預設醫療指示，即係唔係咁明白啦嚇。咁另外咧誒，頭先有個家長都講起啦，咁誒呢個係要有十八歲以上同埋有精神行為能力先做先。
+
+658
+02:10:22,420 --> 02:10:42,430
+啲誒寫得㗎嘛？咁問題就係話，我哋啲智障朋友咧，好多都係一其實一刀切嘅啦，已經當佢係冇精神行為到所謂M I P嘅。咁其實其實佢哋每一個人都有分好多種㗎嘛。我哋普我哋自己都會有啲蠢啲，有啲醒醒目啲啦。噉就算智障人士都有輕中度、嚴重。
+
+659
+02:10:42,430 --> 02:11:02,440
+噉就算輕中度裏邊都會再分㗎嘛，咁其實佢哋唔係唔唔識嘅好多都，如果你係有人有人支支援佢哋，就應該掂嘅。咁所以喺外國嚟講咧，人哋已經有個誒支援決策，即係supporting decision making嗰啲噉樣去幫佢哋去解釋所有嘅嘢。咁如果我哋香港都有呢個制度。
+
+660
+02:11:02,440 --> 02:11:22,450
+做咧，咁其實係可以幫佢哋誒，可以誒，即係明白呢啲係乜嘢。咁同埋我覺得應該精神健康，香港嘅精神健康條例第一百三十六條都要都要去檢討咯，因為佢係一刀切曬㗎。咁所以我覺得如果噉嘅時候咧，佢哋智障人士無論佢幾大，由佢出世一路到佢死，或到佢幾廿歲就。
+
+661
+02:11:22,450 --> 02:11:42,460
+五六十歲都好啦，都係一個法律上係冇身份嘅人啊。咁所以我覺得精神健康條例係要修改，要去檢討啊。咁同埋真係誒要推行嗰個第三誒supporting誒decision making嗰度。咁因為如果有咗第三倡議人，有有咗支援決策嗰啲人咧，佢哋好清楚啲嘢咧，就可以同。
+
+662
+02:11:42,460 --> 02:12:02,470
+佢解釋同嗰個當事人解釋，或者同嗰啲家屬解釋，噉樣大家大家合作嘅時候咧，噉佢哋都可以有份去簽呢個醫療預設指示，因為佢哋都係人嚟㗎，佢哋都係一個即係香港嘅市民嚟，咁所以其實你呢個醫療預設指示呢個諮詢文件咧，又完全唔符合在場人。
+
+663
+02:12:12,360 --> 02:12:32,370
+好多謝曬歐女士嘅意見。我哋下一位有請香港長者活力協會周靜女士。周增女士，係大家好。誒誒，就誒喺我哋誒長者誒嗰個活力誒協會咧，我哋亦都係非常之支持咧，就係講話有一個預設醫療指示嘅嗰個。
+
+664
+02:12:32,370 --> 02:12:52,380
+啊，同埋喺居家嘅離世嘅啊呢一個立法嘅咁嗯，因為我哋喺年中，我哋都會同啲誒老人家傾下偈啊，咁同埋咧亦都會蒐集一啲老人家嘅意見啦。咁嗯好多嘅而誒老人家亦都會覺得，或者係我哋叫做病患者。
+
+665
+02:12:52,380 --> 02:13:12,390
+啦，噉佢哋一般嚟講，佢哋嘅嗰個誒誒意願咧，都係講話想要有個我哋叫做好死啊。咁即係講緊就係講話，當佢哋係去到人生嘅最後嗰一刻咧，佢哋係希望咧就係唔需要係好辛苦嘅，噉啊走得好好地嘅。咁但係誒，亦都有。
+
+666
+02:13:12,390 --> 02:13:32,400
+好多咧，亦都反映咧。當然，佢哋係好好希望係可以去喺自己嘅屋企啊，叫做回家喺屋企入邊走嘅。咁誒誒，我哋而家見到喺香港嘅情況咧，就係大部分嘅長者咧，或者係個病患者咧，都會去到即係喺佢哋嘅最後嗰程咧，就會出出入入醫院啊。噉啊～
+
+667
+02:13:46,950 --> 02:14:06,960
+咁其實呢一個process咧係非常之誒，我哋叫做係辛苦嘅。咁誒，亦都加上咧，就係講話喺長者到咗最後嗰個誒，或者係病患者去到佢嘅最後嗰年咧，其實喺佢佢哋嘅嗰個醫療嘅嗰個費用嗰度咧，亦都會大概係佢哋誒整洗人嘅一誒，我哋叫做即係。
+
+668
+02:14:06,960 --> 02:14:26,970
+需要用到嘅大概四分之一嘅嗰個嗰個費用㗎，噉係一個亦都係一個非常之昂貴嘅一個費用㗎。咁所以我哋覺得呢一個政策係非常之好嘅。咁但係喺誒行緊呢個政策嘅時候，政府嘅嗰個叫做support啦，究竟去到幾多咧？噉我哋講緊就算係。
+
+669
+02:14:26,970 --> 02:14:46,980
+喺誒誒誒喺美國喺一九七六年開始已經有個叫做natural death嘅at誒開始咗㗎啦，但係到咗今時今日咧都仲係有個爭議喺度嘅。噉啊，大家嘅爭議咧都係喺一個我哋叫做喺嗰個醫生嗰度，究竟點樣去到決定呢一個人究竟係咪？
+
+670
+02:14:46,980 --> 02:15:06,990
+需要誒去到用到呢一個指示咧，噉啊啊，當然係個professional嘅一個一個啊，即係即係嗰個嗰個啊意見嗰度啦。咁第二咧就係講緊個爭議，亦都喺度講緊，就係講話public嘅education啊。咁誒咁喺香港嘅情況咧，我哋亦都希望咧，即係講。
+
+671
+02:15:06,990 --> 02:15:27,000
+尤其是我哋希希望係可以關顧到啲獨居嘅長者。咁啲獨居嘅長者，如果佢哋喺嗰個誒誒去去處理呢一個嗯叫做醫療指示，佢哋有幾多嘅knowledge去到去到處理呢樣嘢咧？噉啊，加上佢哋啲嘢擠擠咗去邊度啊，或者係嗰啲誒簽咗自己簽咗嘅嘢擠咗去。
+
+672
+02:15:27,000 --> 02:15:47,010
+邊度或者係佢哋講畀邊個知？嗯，咁同埋咧喺嗰個公眾嘅嗰個用處嗰度啦。噉我哋講話個lift，如果個長者真係喺屋企過咗身嘅，咁用用到大下lift啊！咁呢一個公眾嘅教育，究竟大家點樣去到教育咧？或者係個配套嗰度，究竟點樣去到做咧？噉啊，或者係喺嗰個。
+
+673
+02:15:47,010 --> 02:16:07,020
+誒會唔會政府亦都考慮下，即係配對一啲volunteer，咁去到佢最後啦。咁如果會唔會發生嘅情況就係講話個長者自己喺屋企離咗世而冇人發覺嘅咧？咁政府又會唔會做到有啲配套，就係講話去到最後一卡，由啲人係幫到？張女士，唔好意思，我哋揸緊時間，多謝你嚇。你嘅誒未講。
+
+674
+02:16:20,550 --> 02:16:40,560
+噉，但係立法嘅重點咧，其實係令到病者喺臨終嗰陣時嗰個照顧嘅意願咧，真係能夠可以被尊重同埋貫徹執行。所以具體建議我唔講，我想提三點。第一點咧，我期望係要成立一個中央登記嘅嘅儲存。
+
+675
+02:16:40,560 --> 02:17:00,570
+呢啲嘅預設醫療指示嘅，咁呢個係誒對一啲年老記憶力差嘅長者嚟講，你佢隨時帶住一張紙係唔實際咯。同埋佢屋企人好多都可能單身，仔女又唔喺身邊，咁緊急醫療照顧嘅誒誒救援嘅人員跨服。
+
+676
+02:17:00,570 --> 02:17:20,580
+冇嘅人員，公司型服務提供嘅人員點樣去去查到、瞭解到呢個預設醫療指示咧？其實係要一個中央登記咯。咁其實唔係新嘢嚟嘅。而家捐贈器官咧，衞生署都有個中央登記啦，係網上可以做㗎嘛。咁其實預設醫療指示同埋。
+
+677
+02:17:20,580 --> 02:17:40,590
+日後而家政府諮詢緊嗰個持續授權書咧，都可以做一個中央登記嘅。咁新加坡同埋英國都有例子嘅。新加坡有一個Register of誒誒Advanced Medical Directive，英國有一個即係MyCare Coordinate My Care嗰個網上嘅平台。咁第二樣嘢，我想。
+
+678
+02:17:40,590 --> 02:18:00,600
+想講咧，就係服務嘅配套。你要佢個醫院唔誒離世居處離世嘅話，你個服務嘅配套，頭先誒亦都有有發言講咗咧，就係誒，如果要喺誒安老院捨去離世咧，你嗰個設施、人手個配套好緊要。
+
+679
+02:18:00,610 --> 02:18:20,620
+噉我呢度想提咧，就係唔淨止設施人手啦，仲要係離世嘅遺體處理啊。其實嗰度都有差收法例咧，監管遺體嘅處理好多。而家老人家寧願喺醫院過身咧，就可以喺醫院出醫院有呢個呢個殮房。你喺安老院舍離世咧。
+
+680
+02:18:22,180 --> 02:18:42,190
+咁另外就係醫社協作，由制定呢個誒誒決定簽呢個醫療指示。其實除咗係要醫生裏邊去解釋，真係嗰個臨終個病況佢個決定咧，其實作呢個決定係一個好沉重嘅。你點同屋企講？咁所以醫社嘅協助去幫。
+
+681
+02:19:00,600 --> 02:19:20,610
+照顧嗰個系統，誒都係要有個協作。咁而整個其實香港嗰個人口高齡化咧，其實除咗就二次醫療指示咧，我哋需要一個全面嘅善終嘅政策。全面嘅善終政策，除咗服務咧，仲要有生命教育。
+
+682
+02:19:36,210 --> 02:19:56,220
+好噉啊！誒，多謝主席。噉啊，我咧就代表誒香港聖公會福利協會有限公司，噉啊，我哋二百個單位嘅童工咧，就去誒表達呢一份誒就住呢份諮詢文件表達意見。噉我哋嘅童工咧，原則上咧，我哋都係贊成咧。誒，我主要係針對二十九同三十項嘅。噉我哋係原則上係贊。
+
+683
+02:19:56,220 --> 02:20:16,230
+成咧第二十九同埋三十項嗰個嘅修訂，噉啊，以致令到咧部分安老院嘅死亡個案咧可以即係獲得豁免而唔需要報告啦，同埋修訂一個死因裁判官嘅條例。咁但係咧喺確實嘅執行上咧，噉我哋咧都有一啲嘅係優劣，噉我哋咧都需要有啲嘅建議咧去畀翻。噉啊，第一樣咧，我哋有三點。第一點咧。
+
+684
+02:20:16,230 --> 02:20:36,240
+就係我哋建議咧，就係可以由呢個社區嘅老人評估小組，即係我哋講嘅C-Gate Team咧，就去統一處理一啲喺院社入邊嘅個案。噉啊，我哋咧就因為現時咧安安老院社嘅機制咧，主要係做長期護理嘅工作，包括入邊嘅人手啦、服務啦等等，都係做緊呢樣嘢。咁個。
+
+685
+02:20:36,240 --> 02:20:56,250
+其實咧，我哋嘅院舍嘅同工咧，其實係冇噉嘅人手咧，係可以去做到就係當一個老人家如果佢需要咧去傾關於預設醫療指示，或者甚至簽訂呢份文件嘅時候咧，其實我哋係冇噉嘅人手去做，亦都咧冇呢方面嘅知識可以做到呢一樣嘢。咁所以咧，我哋就建議其實就可以由翻。
+
+686
+02:20:56,250 --> 02:21:16,260
+係醫管局入邊嘅佢哋嘅呢個社區老人評估服務，C.G.A.T.M.咧，其實就可以統一處理呢啲個案。噉啊，當我哋嘅縣石嘅同事，我哋見到呢啲嘅個案嘅時候咧，我哋可以作出一個嘅轉介。咁當然啦，即係如果呢個C.G.A.T.M.嘅服務咧，佢哋因為人手不足，未能配合呢個工作安排嘅話咧，噉我哋建議政府係。
+
+687
+02:21:16,260 --> 02:21:36,270
+可以咧考慮增加啲資源咧，去再聘請一啲額外嘅人咧去做呢個工作。第二個建議咧就係設立一個叫做區本嘅晚期照顧支援服務隊。簡單嚟講咧就係按翻而家醫管局嘅分區嘅方法，噉啊喺每一個區域入邊咧就設立一隊或者多隊嘅服務隊，噉啊主。
+
+688
+02:21:36,270 --> 02:21:56,280
+主要就係同區內嘅安老院舍合作，就係協助咧需要晚期照顧嘅院友制定預設嘅醫療指示或者一個預設嘅照顧計劃。噉啊，服務隊咧噉啊，亦都可以咧同地區嘅醫社合作啦，同埋咧可以連係嗰區嘅醫院嘅相關嘅老人服務啦、評估小組啦，或者舒緩報誒治療報等等啦。
+
+689
+02:21:56,280 --> 02:22:16,290
+喺醫療嘅層面上面咧，共同就係支援院社喺誒護理團隊執行呢個院友去提供呢個預設嘅誒臨終照顧計劃同埋預設醫療指示。噉啊，另外咧喺成個嘅晚期照顧過程入邊咧，服務隊咧都可以派一啲醫護人員啦、舒緩科護護士等等啦，去院社去直接提供。
+
+690
+02:22:16,290 --> 02:22:36,300
+服務最後第三樣咧，我哋認為要加強社區嘅生死教育。確實咧，今日喺預設醫療指示，仍然有好多社區人士係唔認識嘅。咁所以，我哋建議咧，政府可以增撥資源，畀一啲誒而家嘅一啲N.G.O.啦，或者大學啦等等咧，其實佢哋可以去加強佢哋現有嘅生死教育嘅工作。而特別咧，我哋建議。
+
+691
+02:22:52,360 --> 02:23:12,370
+好，多謝主席。東華三院咧，早於二零零六年咧，我哋開始積極推動呢個舒緩服務啦，提升長者同埋病患者晚期嘅生活質素。喺服務過程裏邊咧，我哋都好積極聆聽各方面有關預設醫療指示，同埋咧喺居處離世嘅意見。咁大致上咧，我哋就總結如下八點嘅：第一，我哋贊。
+
+692
+02:23:12,370 --> 02:23:32,380
+同呢個立法咧有助保障病人嘅自主權，因為咧就有些時候咧醫護人員咧可能因為缺乏法法律嘅保障咧，就選擇繼續去提供維持生命嘅治療嘅。咁如果有清晰嘅法律條文咧，我哋相信係可以咧減少前線工作人員嘅壓力啦，同埋亦都提高病人喺自主選擇嘅保障，以及咧減。
+
+693
+02:23:32,380 --> 02:23:52,390
+減少家人同埋醫護人員之間可能出現嘅爭議嘅。第二咧就係我哋覺得需要繼續增加公眾對於預設醫療指示嘅認識同埋接受啦。因為咧呢一方面咧喺香港仍然係幾起步嘅階段。咁普羅大眾咧佢哋都未完全瞭解醫療上邊嘅選擇啊，同埋有關嘅定立，咁有時都會有些誤解。如果，
+
+694
+02:23:52,390 --> 02:24:12,400
+要積極推展呢一方面嘅誒工作咧，我哋相信係要增強社區教育，同埋增加咧公眾人士對呢一方面嘅理解同埋認識。第三，我哋咧認為咧預設醫醫療指示咧嘅範疇係可以考慮包括人工營養同埋流體嘅餵養，因為由於咧胃置喉管咧亦都屬於入侵性嘅醫療措施噉。
+
+695
+02:24:23,080 --> 02:24:43,090
+第四點係關注認知障礙症患者或者輕度智障人士嘅權利。其實我哋咧認為咧，縱使係被界定精神性誒係有認知障礙症啊，或者係有輕度弱智嘅人士咧，如果喺早期嘅方面嚟講咧，佢哋仍然都係有呢個思考同埋判斷能力嘅。所以咧，我哋建議，如果經醫生去評估佢。
+
+696
+02:24:43,090 --> 02:25:03,100
+佢哋嘅精神誒上邊咧，仍然係有行有能力咧去誒做決定啊，行嘅話咧，我哋應該讓佢哋都可以參與呢個預設醫療指示。第五點係我哋認為咧，應該用書面嘅方式去撤銷或者修訂有關嘅指示咧，係更加為誒妥誒穩妥嘅，以避免咧。
+
+697
+02:25:03,100 --> 02:25:23,110
+一些口傳嘅人為失誤啦，或者咧避免一些誤解。第六點，我哋認為應該咧將預設醫療指示咧存放喺互通嘅系統嘅。咁好多病人同埋家屬咧，有時未必能夠喺緊急嘅事故誒情況底下咧詳細去即係通報有關於病患者佢哋有冇預設咗呢一個醫療指示啦。
+
+698
+02:25:23,110 --> 02:25:43,120
+所以我哋認為咧，應該將有關指示咧存放喺一個誒互通嘅系統，方便即時查核嘅。第七點係我哋建議政府咧應該投放資源咧，同埋增加配套，讓晚期嘅服務咧更加切實可行。因為咧，我哋咧誒認為咧喺實際嘅推行裏邊咧，尤其是咧係喺安老院舍咧，我哋都
+
+699
+02:26:09,520 --> 02:26:29,530
+各位主席，誒研究所基本上咧係支持政府提出嗰個立法嘅建議嘅。咁誒喺其中一點就係講關於個口頭可以去撤銷嗰個誒預設醫療指示嗰一點上面咧，我哋認為如果盡可能嘅話咧，都可以希望係有啲書面嘅記錄。我哋喺二零一五年開始其實已經做一啲關於安寧培訓服。
+
+700
+02:26:29,530 --> 02:26:49,540
+嘅培訓同埋教育嘅工作，我哋誒即係啲經驗裏邊都明白咧。好多時病人有佢自己嘅意願都好咧，好多時家屬未必可以即係達至一個共識。咁所以如果係可以用一個口頭嘅誒方式，就話係撤銷咗之前病人提出嗰個預設醫療指示咧，係好可能會引起即係誒唔同嘅。
+
+701
+02:26:49,540 --> 02:27:09,550
+爭拗，亦都令到嗰啲醫護人員會擔心喺個刻，其實係咪應該繼續提供一啲即係維持生命嘅治療？咁另外有兩點我亦都誒都想提出嘅，第一就係話立法嗰個誒即係簽預設醫療指示係一個好重要嘅過程啦。但係當中背後佢哋之前去無論係家屬、病人、醫護人員嗰個溝，
+
+702
+02:27:09,550 --> 02:27:29,560
+溝通咧，其實係同樣重要，所以我哋認為都應該要加強去向公眾人士宣傳同埋教育關於預設照顧計劃嗰個嘅重要性。咁第二就係話誒喺成個溝通嘅過程裏面咧，誒我哋都發現好多時咧，往往係其實醫護人員都有一個好重要嘅角色，因為好多時咧誒。
+
+703
+02:27:29,560 --> 02:27:49,570
+即係關於晚期嘅照顧咧，喺醫院裏面開始一個嘅討論，醫護人員咧係會有一個即係誒帶起成個話題嘅一個嘅重要性。咁所以我哋認為其實喺當中咧係需要加強對即係唔同醫護人員嗰個嘅培訓嚇，包括咧即係誒等唔同醫護人員可以及早去。
+
+704
+02:57:45,820 --> 02:57:47,360
+好多謝主席。
+
+705
+02:54:14,520 --> 02:54:16,420
+好，跟住下一位，小家輝。
+
+706
+02:55:53,800 --> 02:55:56,030
+好，最後一位係潘少平。
+
+707
+02:57:42,870 --> 02:57:45,100
+好嘅，請阿局長綜合回應。
+
+708
+02:56:56,520 --> 02:56:59,290
+再放出嚟畀我哋知㗎啦！
+
+709
+02:58:48,310 --> 02:58:51,490
+係令到一啲執想。
+
+710
+02:54:09,300 --> 02:54:13,460
+心聆聽，同埋真係可以做到件事啦。噉啊，唔該。
+
+711
+02:57:37,760 --> 02:57:42,020
+因為之後，我想誒就會交畀啊局長綜合回應。
+
+712
+02:57:30,650 --> 02:57:37,170
+O.K.係嘛，冇反對。O.K.好，咁假如係咁咧，我就想問咗冇委員或者邊位想發言嘅？
+
+713
+03:01:46,800 --> 03:01:54,930
+寬，我哋唔會停止喺呢個即係修例嗰度，咁呢個只係第一步。噉我哋樂意聆聽大家嘅意見嘅，唔該。
+
+714
+02:57:22,040 --> 02:57:30,370
+有冇人反對？假如我繼續去講到呢個啊，呢個呢個兩點鐘之前。
+
+715
+03:00:11,840 --> 03:00:26,410
+都令到雙方會發生一啲誤解，或者執行嗰個法律嘅人士，或者急救嘅人士咧，係唔知誒海何從噉樣樣嘅。所以如果法例上面可以透過呢個嘅，
+
+716
+03:02:13,620 --> 03:02:28,860
+嚇咁咧就另外我再提醒下在座嗰啲咧就誒咁多朋友咧，你哋可以將你哋嗰個誒跟有書面發言嘅，OK咁可以留低或者交畀我哋啲同事，我哋幫你會轉交畀啊局長㗎啦。好噉啊，會議到此角誒結束，多謝大家出席。
+
+717
+02:55:36,740 --> 02:55:53,240
+好缺乏嘅，等陣有位啲人士都講話，我哋原來排第尾咁滯，即係我完全唔唔會覺得驚訝咯。因為呢一方面嘅話，即係成日都係得個討論住，係咪？即係點用啲咩方法可以撚撚到啲人真係去嘅時候安心？我諗其實你局方要做多少少嘢喺度啦，係嘛咁計。
+
+718
+03:01:55,350 --> 03:02:13,210
+好，噉我哋都希望咧，就當局咧，亦都誒從善如流，真係認真咧考慮下今日我哋嘅出席團體同埋代表人士所提嘅意見。噉啊就誒誒，O K，咁咧就誒，我想跟住落嚟係其他事項，我想問下仲有冇其他事項？
+
+719
+02:27:49,570 --> 02:28:09,580
+辨別出邊啲嘅病人咧，係開始需要晚期照顧，開始需需要提出一個討論。而佢哋都咧係可以誒有一個嘅有系統同埋有誒技巧嘅一個對話，去同病人同埋家屬咧去傾唔同嘅話題，包括即係佢哋誒點樣睇個病啊，有啲乜嘢嘅醫療嘅誒。
+
+720
+02:28:09,580 --> 02:28:29,590
+方式嘅誒誒喜好啊、價值觀啊，有咩擔心啊？誒唔同嘅醫療方案，可以同佢哋即係分析一下嗰個醫療嘅結果風險嚇誒，可能帶嚟畀佢哋嘅負擔，等佢哋咧即係病人同家屬咧係可以即係喺個充分知情嘅情況底下咧去做出一個嘅決定。咁而喺，
+
+721
+02:28:29,590 --> 02:28:49,600
+我哋嗰個誒推行計劃嘅上邊咧，亦都發現其實即係我哋誒可以有唔同嘅誒培訓啦、資源啦，其實可以幫到唔同嘅持份者咧，可以即係誒更加有效去有一個做一個溝通，同埋達到一個咧，即係大家都誒即係可以有一個共識嘅個決定嚇。咁所以呢兩點我係想提出。
+
+722
+02:28:49,600 --> 02:29:09,610
+嘅多謝主席，多謝李先生嘅意見。嚇，我哋有請聖雅各福羣會高級經理盧佩芬女士。好多謝主席。係噉啊，聖雅各福羣會咧，其實喺二零零四年開始咧，已經做一啲生死教育嘅倡導工作。噉啊，今日希望用一個服務提供者嘅角度咧，去表達意見。噉我想先講嘅咧，就係居所離世方面啦。咁其實我哋好。
+
+723
+02:29:09,610 --> 02:29:29,620
+認同咧，病人應該喺熟悉嘅環境同埋一啲好親切照顧者陪伴之下咧，去度過去最後嘅時刻嘅。咁所以咧，亦都係一樣嘢，就係除咗係一個病人喺醫院之外咧，亦都多一個選擇咧，去誒誒離世嘅。咁但係好可惜咧，而家好多公眾人士咧都以為醫院離世係唯一。
+
+724
+02:29:29,620 --> 02:29:49,630
+嘅選擇啊，咁所以我相信咧，即係政府係一必須要加強一啲公眾教育嘅工作。咁另外咧就係如果喺誒居所離世咧，係需要資源嘅配套。咁喺諮詢文件裏邊咧係冇提及過嘅。咁其實我哋好想講咧，第一樣嘅先解決咗咧醫生嘅問題，因為咧就我諗現況就係好多院捨去。
+
+725
+02:29:49,630 --> 02:30:09,640
+揾一啲導診醫生已經好睏難。咁如果你喺在家離世揾上門嘅診症醫生咧，我相信更加困難。咁同埋咧可以做嘅醫生可能真係好少數啊，而且咧都要遷就翻佢哋開診所、開診嘅時間，收費都好貴，唔係一般人咧可可以負擔得起嘅。咁同埋醫生唔係一兩次就可以處理。
+
+726
+02:30:09,640 --> 02:30:29,650
+到呢一個問題，可能可以即係幾次上門啊噉樣。咁呢個係一個經濟嘅負擔。咁如果政府唔提供一啲誘因去吸納呢啲醫生嘅參與咧，我覺得就算立咗法都好咧，即係能夠真真正正喺居所嚟就係個，應該都唔會多嘅。咁另外亦都提到咧，就喺院社實踐嗰個居所嚟。
+
+727
+02:30:29,650 --> 02:30:49,660
+離世噉，其實我哋好好，我哋有兩間護養院噉，其中一間咧就亞明灣半護養院咧，成功做咗兩個院友喺院舍離世嘅。咁誒，我哋嘅經驗咧都話畀我哋聽咧，就係我哋嘅誒護理人員咧，其實咧就誒雖然接受好多我哋嘅訓練噉，但係咧講真，呢啲訓練都係紙上談兵嘅。
+
+728
+02:30:49,660 --> 02:31:09,670
+即係冇一啲實踐嘅經歷咧。當佢哋去做一啲真正照顧臨終個案嘅時候咧，呢啲嘅護理嘅同事咧都心裏邊有好多掙扎嘅。究竟送唔送院啊？究竟點樣去界定係離留啊？幾時建議誒叫醫生嚟啊？咁呢啲都係佢哋一啲掙扎嘅位啊。咁所以如果真係要喺院社推行。
+
+729
+02:31:09,670 --> 02:31:29,680
+個居所離世嘅時候咧，我都相信要有經驗嘅專業人員咧，係巡行支援咧，係會比較事半功倍嘅。另外咧，就係除咗有足夠嘅空間，頭先講一個晚期護理病房之外咧，我覺得咧依一啲醫療嘅設備咧，頭先大家好擔心就係嗰個屍體嘅存放，一啲冷凍嘅設備咧，都係需要支。
+
+730
+02:31:29,680 --> 02:31:49,690
+源去提供嘅噉，另外咧喺我哋嘅經驗咧，通常咧係臨終嘅病人咧喺離留之前嗰兩日咧，我哋都需要咧加強護士嘅人手咧，係全力去監察同埋做好照顧嘅工作。咁而呢啲咧都係一啲額外開支。噉我哋試過一啲嘅誒院友咧入咗呢個晚期嘅病房咧，可能係會出。
+
+731
+02:31:49,690 --> 02:32:09,700
+出入入嘅，因為佢哋啲病情好起伏，唔係一次就已經可以去到臨終嘅階段。咁所以呢個資源咧係要計算啦。咁所以咧，我又覺得嗱，雖然咧香港晚期嘅照顧服務咧係起步階段，不過唔係單單講立法，仲要諗好多咧資源分配、服務配套嘅問題咧，先可以做到。
+
+732
+02:32:09,700 --> 02:32:29,710
+我冇真正希望咧。香港嚟緊係真係可以成為一個好死嘅地方。Good death。多謝曬，盧女士。我請誒團結香港基金醫療及老年化研究主任田思培博士。Thank you, Chairperson. Our Hong Kong Foundation acknowledges the government's continuous efforts in improving end-of-life care in Hong Kong and believes that the latest public consultation
+
+733
+02:32:47,530 --> 02:33:07,540
+首先，公共教育和倡議。It is our view that the public at large is ready to accept the concept of advanced directives. However, a study conducted in 2016 by the Chinese University of Hong Kong revealed that 86% of participants had not heard of advanced directives, but upon explanation of the concept.
+
+734
+02:33:20,070 --> 02:33:40,080
+making an at typically involves a set of stringent procedures and back and forth communication. This has implications on the required time and expertise of our healthcare professionals involved, that could impose an immense burden on our already overstretched health system. Without a stringent healthcare manpower capacity plan and
+
+735
+02:33:49,830 --> 02:34:09,840
+政府應該考慮電子介面的展示和儲存方式，具體而言，如我們在《Fit for Purpose: A Health System for the 21st Century》研究報告中所指出，現有的電子健康紀錄共享系統對於香港的平順整合和協調護理至關重要。
+
+736
+02:34:40,470 --> 02:35:00,480
+Our study concludes that focusing on end of life care at the community level is vital for realising a good death for people in Hong Kong and for moving towards a more sustainable health system. To conclude, as we move towards a primary led, person centred, integrated healthcare system, community resources should.
+
+737
+02:35:00,480 --> 02:35:20,490
+Continuously be leveraged upon. We stress on the importance of care and not just cure. It is also our view that an overarching policy framework and a meticulous service model for end of life care at the community level is a must in facilitating a better and more dignified end of life journey for all.
+
+738
+02:35:20,490 --> 02:35:40,500
+Hong Kong citizens, thank you. Thank you, Dr. Tian from OHKF. 好，下一位我哋有請賽馬會安寧眾代表梁萬富醫生。係，我梁萬富醫生誒，香港老年學會會長。今日我代表賽馬會安寧眾嘅團隊一齊嚟去講翻呢樣嘢嘅。咁呢個安寧眾係由賽馬會慈善捐助基金喺研一。
+
+739
+02:35:40,500 --> 02:36:00,510
+一六年開始推展，維期六年嘅一個計劃，係去協助推廣呢推動呢個喺安老院舍同社區晚期護理服務嘅質素。誒，相關服務嘅專業人員培訓同埋公眾教育活動。咁個計劃合作伙伴包括兩間大學、五個非政府組織。咁喺整體而言咧。
+
+740
+02:36:00,510 --> 02:36:20,520
+賽馬會安寧仲個計劃係支持政府就預設醫療指示提供更清晰嘅法律規定，並修改相關消防條例同埋精神健康條例等，消除喺相關嘅法律裏面嘅障礙，同埋修改死因裁判官嘅條例，讓到住喺安老院舍嘅末期嘅病人可以。
+
+741
+02:36:20,520 --> 02:36:40,530
+選擇喺誒居處離世嘅一個方案，噉我哋亦都希望喺度誒睇一啲重點，就話我哋都覺得咧，呢一個預切醫療指示應該擴展到全人嘅預切照顧計劃，等到加人一個團隊可以去誒深化呢個預切誒醫療指示嘅討論，咁另。
+
+742
+02:36:46,330 --> 02:37:06,340
+其實咧，我哋覺得更加需要更多多嘅資源投放喺醫療人員嘅培訓上邊，等到佢哋提升所有唔同嘅職係裏邊咧，對舒緩治療、安寧照顧嘅服務質素。其實誒呢個委員咧啱啱都講完，healthcare manpower噉，你人手係非常短缺。咁其實咧係肯定未可以。
+
+743
+02:37:06,340 --> 02:37:26,350
+應付人口老化所帶來嘅預設醫療指示需求增加，所以我哋都建議係公私型嘅醫療嘅合作，等到確保雙方咧可以使用預設醫療指示嘅能夠互通，係可以係一個即係誒大家用一個同一嘅表格嚇，咁咧亦都唔需要重複再做，而將上述嘅。
+
+744
+02:37:41,450 --> 02:38:01,460
+咁另外，我哋覺得咧，呢個預設醫療指示咧，亦都應該嘅儲存喺嗰個即係電子儲存嘅啲誒展示方式嚇一個。我哋建議政府應該預去做一個誒中央登記處，無論以獨立或者提升現有嘅電子誒健康記錄計劃一樣。
+
+745
+02:38:01,460 --> 02:38:21,470
+咁咧就類似好似新加坡或者台灣都有做嘅嚇。咁咧就誒喺居所居處離世方面咧，我哋支持諮詢文件嘅居處離世建議。除咗除咗修改現時嘅死因裁判條例之外，亦都要提升翻安老院舍嘅硬件同埋配套。咁咧亦都係可以。
+
+746
+02:38:21,470 --> 02:38:41,480
+喺個安老院舍管理層嘅前線員工係當係供適當嘅培訓同埋嘅資源，以改善佢哋嘅服務。噉啊，正正咧就喺二零一六至二零一八年咧，喺安寧眾嘅計劃底下咧，誒香港老年學會為咗三十六間院舍咧推行咗安寧照顧服務，亦都有效可以減少咧。
+
+747
+02:38:41,480 --> 02:39:01,490
+入住醫院嘅機會嘅好，多謝曬梁醫生。好噉，我提一提先呢個會咧，原定嗰個時間完結咧就係一點半嘅。噉啊，而家仍然仲有三位嘅議會嘅代表未發言啦，局長未回應啦，仲我哋啲立法會議員都想問問題，所以咧我而家延長會議十五分鐘，好冇好？我哋而家有請下一位香港舒緩醫學會。
+
+748
+02:39:21,140 --> 02:39:41,150
+咁除咗以上兩點之外咧，其實本會都希望向政府咧提出呢幾項嘅要點。嗱，第一咧就係其實到今時今日為止咧，我哋都知道公眾對預設照顧計劃、預設醫療指示、不作心肺復甦法等等咧個認識都係相當不足嘅。剛才田博士都有講，中文大學兩年前都發覺其實八成。
+
+749
+02:39:57,560 --> 02:40:17,570
+咁第二點咧就係誒，咁其實誒現在咧就希望嗰個在家離世可以有相關嗰個法律裏邊，我哋衝破一啲即係障礙啦嚇。但係我哋都好擔心咧，就算法律上行得通咧，現實都係會極少嘅人可以真係誒喺家中離世嘅。特別我哋今次嗰個喺法律上邊疏通嘅嘢係講。
+
+750
+02:40:17,570 --> 02:40:37,580
+我係院舍，咁但係真係喺屋企住而唔喺院舍嗰班咧，其實好難喺家中離世嘅，因為我哋知道最大最重要嘅原因，其實係缺乏咗社區嘅支援。呢個支援唔單止係醫護嘅支援，亦都包括照顧者嗰個喺日常生活照顧上面一個支援。咁喺我哋經驗入邊咧，真係要幫呢一班照顧者去。
+
+751
+02:40:37,580 --> 02:40:57,590
+滿足即將離世嘅病人喺留喺屋企咧，係相當之困難。嗰個心、嗰個誒體力、心力要花費係相當之多嘅。咁所以，我哋好希望咧，政府真係誒，當你疏通咗嚇有關呢一個條文，令到嗰個誒院舍可以令嗰個誒晚期病人可以喺院舍離世咧，都希望着力。
+
+752
+02:41:10,300 --> 02:41:30,310
+最後咧，本會都係誒，其實喺誒早兩年前，大概都係呢一日咧，我哋都向政府講過咧，我哋好希望香港咧，即係誒，即係可以有一個整體嘅舒緩治療嘅嗰個策略。咁現在咧，可以有呢個喺立法上邊咧，誒，即係當個預指療指示可以誒立。
+
+753
+02:41:49,960 --> 02:42:09,970
+咁誒，我哋兩年前嘅時候講話，二零一四年世界衞生大會咧，講嗰啲成員嘅需要咧，佢哋嗰個地區咧執行並且去實施嗰個誒整體嗰個輸緩治療嘅策略。噉我講咗兩年啦，咁誒好好嘅係兩年前咧，即係醫管局咧已經有嗰個誒嗰個服務策略咧，對於輸緩治療。但係我哋好希望嘅即係一個正。
+
+754
+02:42:09,970 --> 02:42:29,980
+整體性、區域性嘅一個策略，好多謝各位。好多謝曬，吳醫生。下一個，我哋請誒基督教靈實協會李娟玲女士。係，誒好多謝主席。誒，我哋協會都係好贊成今次嘅立法建議嘅，而當中誒，我哋都有啲嘅誒additional嘅comments咧，就as to其實誒。
+
+755
+02:42:29,980 --> 02:42:49,990
+誒，佢作為一個立法嘅建議裏面咧，佢需要有相應嘅確定性，所以我哋都認為一個中央登嘅冊同埋呢一個嘅誒電子互通系統唔應該係一個自願性質，而係一個誒必定嘅性質，先係有佢嘅誒實際嘅價值咯。
+
+756
+02:42:49,990 --> 02:43:10,000
+以致誒所有嘅誒無論係業界啦、醫護人員啦，以致係家屬啦，佢哋都會更加有確定性，知道佢哋誒病人嘅意願係會得到誒尊重，同埋醫護人員喺一個好緊急嘅情況之下，佢哋亦都無需要有過分多嘅疑慮，究竟呢一份。
+
+757
+02:43:10,000 --> 02:43:30,010
+嘅誒文件係咪誒有一個好清晰嘅指示，以致佢哋能夠點樣嘅去誒進行，無論係急救，抑或佢哋係一啲舒緩嘅治療等等。所以同樣地，我哋都認為用一個範本表格唔係一個理想嘅狀態，誒反而用一個法定嘅指明表格。
+
+758
+02:43:30,010 --> 02:43:50,020
+誒，對於某一啲嘅exceptional case，例如喺香港以外嘅情況已經定立咗嘅A.D.又或者誒喺呢個法例成立之前已經定立咗呢一啲，作一個exceptional嘅處理係比較恰當嘅。另外就係誒，同樣地啦，同誒其他嘅發言人。
+
+759
+02:43:50,020 --> 02:44:10,030
+是誒一樣嘅就係我哋知道呢一個嘅立法建議，只不過係誒頭一步啦。呢一個諮詢文件嘅scope亦都主要係focus on誒個legislation嘅。但係正如有咗呢一個嘅法例嘅時候，成個公眾咧都會有相關嘅期望，就係我哋嘅院社可以提供到相關嘅。
+
+760
+02:44:10,030 --> 02:44:30,040
+配套，所以喺呢一方面，誒，如果只係誒就立法去作出一個建議，而唔喺個policy level有一啲相應嘅配套或者措施，其實就會令到業界或者公眾都有一啲嘅疑慮，就係究竟呢樣嘢係咪純粹係conceptually會出現，但係冇辦法practically。
+
+761
+02:44:49,270 --> 02:45:09,280
+係咁誒，我係石達明醫生噉就我哋結誒醫學會咧，係贊成政府嘅三項條例改改變嘅修訂嘅，包括精神健康條例啦、消防條例同埋死因裁判條例。咁其實香港個誒誒善終服務咧係相當差嘅。其實噉我哋睇翻。
+
+762
+02:45:09,280 --> 02:45:29,290
+個世界嘅標準咧，quality of death咧，香港係亞洲排第尾咁滯嘅。我哋比新加坡、台灣、日本以至南韓都差嘅。噉我哋而家先係開始起步，噉啊，仲有好多嘢要做嘅。噉啊，之前好多同誒同事或者係醫生有講咁誒。至於個誒。
+
+763
+02:45:29,290 --> 02:45:49,300
+預設預預設呢條指示咧，其實個表格咧，我哋唔希望一個範本，我哋希望一個法定嘅表格，因為咧最怕咧就係話你啲表格咧好亂嘅話咧，咁變咗就會有爭拗咧，噉就變咗就相當麻煩嘅。咁呢個我哋第一個建議，第二個建議就係喺個喺安老院離世嗰度咧，噉。
+
+764
+02:45:49,300 --> 02:46:09,310
+誒做咗會相對好嘅，但係問題就我哋見到以前話在家離世嗰啲咧，其實就算有個法例保障咧，其實都喺實際上行咧都行唔通嘅，因為都因為咧喺個在家離世喺屋企噉樣咧，你需要好多誒社區嘅支援啊，噉樣同埋醫生嘅支援噉樣，咁同埋你死嗰時間仲會死得啱先。
+
+765
+02:46:09,310 --> 02:46:29,320
+記得，如果死得唔啱嘅話咧，譬如你譬如星期六晏晝喺家在家嚟洗啦，咁原來咧你個dead你個屍體都冇法把搬嘅，要等到星期一之後咗九點以後咧，你攞到個行街紙，你先可以搬嘅。咁變咗喺行政配套方面咧，係相當唔理想嘅。噉你諗下依樣嘢，我諗係屬於公共衞生問題。
+
+766
+02:46:29,320 --> 02:46:49,330
+咁法例就有㗎啦。咁但係問題，行政佢做唔到嘅。咁呢啲實在嘅問題咧，我係需要改善嘅。噉我係希望可以嚇噉啊，可以跟進呢個情況啦。好，多謝曬謝醫生。嗱，咁而家見到個時間啦。誒，亦都有六位嘅委員舉手。咁同埋，我相信大家都想聽局方回應嘅。如果係咁咧，嗱，我哋爭時間啦，每人誒為。
+
+767
+02:46:49,330 --> 02:47:09,340
+委員有兩分鐘，好冇咁連埋局長答埋咧，可能會有少少過時，但係我哋唔可以再延長十五分鐘啊，因為兩點鐘呢個房咧有下一個會議，好冇？我哋揸緊時間，黃碧雲議員兩分鐘。主席啊，我哋誒即係民主黨都係喂喂民主黨好支持，即係做好呢個預設醫療指示或者晚期照顧相關嘅立法。咁頭先咧，即係好多。
+
+768
+02:47:09,340 --> 02:47:29,350
+多謝各位提咗好多寶貴意見啦。咁但係我哋睇到而家咧，就係嗰個誒真係做呢啲預設醫療指示係非常之低嘅，即係二零一八年係得一千五百五十七個嘅誒指示。其實係佔如果二零一八年講死亡率係四萬七千誒死死亡人數係四萬七千幾。
+
+769
+02:47:29,350 --> 02:47:49,360
+其實即係話得三個percent度，噉我諗咧，政府係要做大量嘅工作去做宣傳教育嘅。我相信咧，呢啲應該其實喺中學應該要全部嘅人應該知道有啲噉樣嘅嘢。咁立法嗰度，我希望可以盡快做啦。咁剛才咧，其實都誒提供咗咧，就係誒一啲建議，就話可唔可以有一個統一嘅表格，即係。
+
+770
+02:47:49,360 --> 02:48:09,370
+如果你將來立法嘅時候，咁統一表格，咁咧就我覺得咧，其實我之前都提過，其實有好多嘢都係你哋局食衞局要處理嘅，咁包括器官捐贈，包括預設醫療指示，包括最後死咗之後要唔要接受綠綠色殯葬，點解唔可以有一個三合一？大家係好清醒。
+
+771
+02:48:09,370 --> 02:48:29,380
+嘅時候，知情嘅時候做咗呢啲決定，咁咪登記咗佢咯。咁至於係咪誒頭先方敏生講咧，就話會有一個中央登記嘅一個噉樣嘅database。咁政府可以考慮呢個方法。如果唔用呢個方法，可唔可以喺醫健通啊？頭先大家都提過eHealth嗰個database嗰度都擺埋。
+
+772
+02:48:29,380 --> 02:48:49,390
+係一個即係before or after death嚇，即係我哋就嚟死啦嚇，即係或者我將來會死嘅時候，我嗰個嘅指示係啲咩嘢？噉你咪有成個系統喺曬度咯，就唔使逐忽逐忽咁去做。咁誒，即係我我係有啲噉嘅建議。咁當然我係好贊成大家咧，我哋係爭取一個good good death，即係即係死得安安樂。
+
+773
+02:49:03,960 --> 02:49:23,970
+因為主席，今次呢個立法咧好奇怪嘅，我會覺得咧就係根本政府而家係優次不分，亦都係本末倒置。你打開咗呢個我哋叫做即係 Pandora box，即係有啲咩好做咧嗱？其實你個文件咧就話係呢個 end of life，即係話呢個晚期治療，但係其實唔係啊！你講緊呢個預設醫療支持立法，你根本就唔係講一個政策咧點樣去搞。
+
+774
+02:49:23,970 --> 02:49:43,980
+搞好啲呢個善終服務，善終護理香港超過三十五年，醫院管理局做緊呢啲叫類似A.D.嘅嘢超過二十年都相安無事。嗱，我問有冇人高嘅問題？都係咧，我哋歡迎有法律保障嘅，你非常之好。但係而家你做緊嘅嘢，你冇搞到一個政策搞好啲，仲要要要記者都有講啦。你冇搞到好善終護理，衍生出嚟嘅就～
+
+775
+02:49:43,980 --> 02:50:03,990
+就係晚期照顧、舒緩治療同埋呢個臨終照顧呢三樣嘢，呢三樣嘢喺社區咧係做得非常之不足嘅居所同埋呢個院舍，你將個波拋畀佢啦。噉佢點做咧？好多同事都講遺體處理呢啲講唔到嘅問題，政府冇嚟到就無端端咧就講啊！我譬如將呢個咧就係依條指示立法。
+
+776
+02:50:03,990 --> 02:50:24,000
+你講到之後，你做到之後，我估你做唔到立法啦。而家你做到咩？下一屆政府先做到。你做到之後，你幫到解決到而家呢個善終護理咩？你解決到呢個晚期照顧咩？你解決到呢個舒緩治療解決唔到喎，乜都解決唔到。立法嚟做乜嘢咧？冇個文件擺上嚟就話啊，我呢個咧以為做呢個咧就係end of life care立法，你係錯咗嘅。概
+
+777
+02:50:24,000 --> 02:50:44,010
+念都唔清晰，你搞咗啲嘢出嚟，你根本幫唔到而家。我哋而家噉，大家要嘅就話搞好啲我哋嘅善終服務，多啲舒緩治療牀。仲有都有朋友講啦，根本而家舒緩治療係做得差，做得唔足夠啊嘛。死生都有講啦，我哋排拉尾嘅差唔多去到點會好死？而家個都唔好死，因為我哋嗰個Q O D咧係做得好。
+
+778
+02:51:05,960 --> 02:51:25,970
+好唔該，主席，即係唔好活，可唔可以好死咧？噉樣呢？一樣係大家今日嚟關心嘅問題。誒誒，得我得兩分鐘咧，噉我係上唔唔講啦。啊，我我即係想追溯啫，而家就誒，我同阿張春紅議員咧喺十一月八號嘅會議上邊咧，就同埋雙橋小組咧，就大家都將嗰個縣社民。
+
+779
+02:51:25,970 --> 02:51:45,980
+民間方案咧交畀副局長你咁咧就裏邊咧個福民間方案裏邊咧當中嘅建議話喺院舍裏邊應該設立呢個靈養室，用作係晚期照顧院友入住同埋義工家人伴陪伴院友最後歲月嘅嗰個安排。咁當時咧副局長你就話會考慮相關意見，一個月後嘅今日咧。
+
+780
+02:51:45,980 --> 02:52:05,990
+副局長，你喺個院舍係咪必須設立寧養室呢一個具體建議上邊咧？究竟考慮成點咧？咁咧呢個係好具體嘅問題。好啦，正話咧就誒，好多人今日咧即係我哋延遲食飯時間，大家一齊傾呢一個問題，我覺得係好值得嘅。因為今日咧真係聽到咧，即係誒一方面大家表面上就好誒。
+
+781
+02:52:16,840 --> 02:52:36,850
+Nexus特別揾多sufficient嘅嘢，而仲有誒仲有好遠好遠先講講到係sufficient嚇，就好多好多係要做。正話啲啲朋友誒提咗幾個dimension咧，我覺得你係必定必定係要跟進嘅。例如話死亡教育啦、誒條例嘅修改啦、醫社嘅協作啦、服務嘅配套啦。
+
+782
+02:52:36,850 --> 02:52:56,860
+中央登記制度咧，啊呢五個dimension咧，我覺得係講得太講得好完整，成件事係唔係你咁誒咁咁斷絕和斷斷絕和重噉樣樣嘅，而係一個好完整嘅制度咧，好完整嘅概念咧，去介紹畀你哋去考慮，嚇噉，所以我希望你啱啱回應嘅時間咧，係能夠準確。
+
+783
+02:53:09,270 --> 02:53:29,280
+畀麥畀阿，開麥啊啊噉啊！歡迎各位啊嚟臨到立法會，同埋講咗你嘅意見。咁呢個公聽會咧，其實我要求嘅點解咁講咧？因為睇咗份文件之後咧，我發覺政府又係有啲嘢佢寫落去或者做啲嘢咧，其實佢唔係好知道究竟大家嗰個困難同埋你大家嘅諗法係乜嘢。
+
+784
+02:53:29,280 --> 02:53:49,290
+所以我特登係要求呢個公庭會，希望大家多謝大家嚟到呢度畀意見我哋啦，或者政府聽到遇到咩困難咧，即係好多好簡單嗰嗰個嚟家中離世之後，嗰嗰個遺體點樣處理？要等到禮拜一，佢哋可能唔知。誒，頭先人講空宅嘅。
+
+785
+02:53:49,290 --> 02:54:09,300
+問題，佢哋又唔理，咁所以好多嘢其實係好多嘢要喺社區度理順，我哋先可以推動呢件事。而我自己係覺得好好值得做嘅呢件事。噉啊，誒多再次多謝各位嚟到立法會畀出你哋嘅意見，而我會覺得你哋嘅意見咧係會幫助到我哋成件事向前推進嘅。咁亦都希望政府真係真。
+
+786
+02:54:16,700 --> 02:54:36,710
+誒唔該，主席，首先多謝今日啊出席嘅啊啊人士啦，非常之專業啦，佢哋嘅意見嗱噉。對於咧喺一啲誒即係最嬲尾臨離世嘅朋友，即係佢哋嗰個啊醫療指引嘅話咧，即係我個人其實我同意嘅，即係細個嘅時候，即係啲大人又好禁忌啊，同啲長者講話唔好講個死字噉樣。但係即係當我大個咗之後，其
+
+787
+02:54:36,710 --> 02:54:56,720
+明白到其實好多長者根本其實完全都唔面唔害怕面對，尤其是佢又好想好積極，佢安排佢之後嘅啊新後事，甚至乎即係佢臨去之前，即係老屈喺病牀嘅過程之間噉樣。咁所以其實如果你話呢一個可以令到咧，佢哋自己決定到話，當佢遇到即係可能完全冇曬知覺等等，咁仲要。
+
+788
+02:54:56,720 --> 02:55:16,730
+需唔需要救翻佢咧？噉樣可能其實佢都係喺喺呢個痛苦埋之路之中嘅，係咪？咁如果你唔呢個係早少少畀呢個指引，或者等佢自己有自己嘅決定嘅話咧，交畀佢仔女。咁可能啲仔女又唔捨得，噉佢其實想去啦。跟住你心肺復甦又救翻佢，繼續痛楚。咁所以其實有呢個噉樣嘅誒指引嘅話咧，我相信係一個好事。咁但係你要。
+
+789
+02:55:16,730 --> 02:55:36,740
+宣傳多啲，等啲市民明白其實呢樣係咩嚟嘅，亦都可以對於整體香港嘅資源嘅話咧，其實係有幫助嘅。咁第二樣咧就即係頭先都提過啦，即係除咗即係佢嘅醫療即係個指示之外嘅話咧，咁其實佢去之後咁其實即係仲有幾多咧？咁大家其實骨灰庵又唔夠係咪？即係等等，其實呢啲線中嘅等等啲服務喺香港其實都好。
+
+790
+02:55:56,490 --> 02:56:16,500
+都係主席噉，亦都多謝啲團體今日嚟畀意見。其實咧就誒，響我哋十一月嘅時候討論呢個議題咧，當然局方咧就話會即係響九號唔係九月六號開始做諮詢，噉啊準備會去到十六號就應該完結。咁其實今日咧就畀咗一啲好。
+
+791
+02:56:16,500 --> 02:56:36,510
+好具體嘅意見，咁當然即係正話咧，同人睇反映咧，即係呢個牽涉到資源嘅分配啊、人手啊嗰啲，咁亦都咧牽涉咧就驚，即係立咗法之後咧就好難執行。咁不管點都好啦，我就覺得誒事實上政府係要處理嘅誒，而家面對一個善終服務啊啦，世界排尾尾呢一。
+
+792
+02:56:36,510 --> 02:56:56,520
+種噉樣嘅問題，咁嗱，我就唔想嘥時間，我需要想跟進少少咧，因為事實上你十六號就會結束㗎。噉我再想再瞭解多少少咧，政府而家將會收曬意見之後咧，你哋話咩綜合分析，估計會幾時會有一個較具體嘅一個，即係包括今日嘅意見可以。
+
+793
+02:57:02,030 --> 02:57:22,040
+O.K.誒嗱咁咧就誒，我哋咧就已經延遲咗一次誒誒主席權力範圍裏邊嘅十五分鐘啦。咁咧，我哋仲可以再延長一啲，但係因為我哋嘅交場，我哋一定要喺呢個兩點鐘之前咧將呢個場交畀另一個會議。噉我想問在席議誒嘅議員。
+
+794
+02:57:48,280 --> 02:58:08,290
+首先咧就非常多謝今日出席嘅咁多位團體或者個人代表啦。關於我哋呢一個嘅諮詢文件，誒晚期照顧特別有三項嘅諮詢細節嘅。咁頭先我聽到咧，大家畀咗好多好寶貴嘅意見，嗰個範疇都好闊嘅，細緻到～
+
+795
+02:58:08,290 --> 02:58:28,300
+佢嗰個文件嘅設計啊，口頭定書面啊，點樣保障嗰個執行者啊？誒冇登記冊，然後去到一啲宏觀啲，譬如係跨國嘅合作啊、醫食合作啊，或者政策啊、資源啊、誒公眾參與等等。我相信咧，當然我哋唔可以一招一直就答曬呢啲問題啦。
+
+796
+02:58:28,300 --> 02:58:48,310
+但我想講翻今次呢個檢討咧，係基於喺過去用一個行政方法喺醫療系統，無論係公營或係私營執行咗呢個誒預設誒醫療指示文件嘅十年之後咧，覺得原來行到咁上下，有一啲法律嘅樽頸咧。
+
+797
+02:58:51,770 --> 02:59:11,780
+個人有意願喺佢失喪失咗呢個精神行為能力嘅時候，係選擇唔接受某一啲維持生命嘅治療，其實係呢個出發點嚟嘅。咁當然咧，呢個只係整個能夠改善一個晚期照顧嘅好少嘅環節，但係我哋因為。
+
+798
+02:59:11,780 --> 02:59:31,790
+要處理一啲法例有關嘅咧，都要經過必須嘅程序，同埋我哋綜合咗過去咁多年一啲運作嘅人士，佢得翻嚟一啲受眾嘅一啲回饋，就係話咧，原來某一啲嘅條例咧，喺現前咧係幫唔到件事，反而成為啲障礙或者啲矛盾點嘅，咁所以。
+
+799
+02:59:31,790 --> 02:59:51,800
+其中個三點就係第一，我哋覺得個文件咧，咪如果用一個即係可以成誒有法力、法律效力嘅文件咧，好過就咁一個誒用普通法執行嘅文本咧，係咪對嗰個誒本身立呢個文件嘅人個保護係多啲、肯定性係強啲咧？呢個就係想。
+
+800
+02:59:51,830 --> 03:00:11,840
+即係改變嗰個文件嘅性質嘅一個原意啦。咁第二一個位就係話，當一個人士佢喺救傷車上邊，特別救傷車上邊，咁頭先講到有啲現存嘅法例咧，即係譬如消防條例同埋呢個，即係呢個誒個人意願話唔想接受急救治療咧，有時有啲矛盾，你。
+
+801
+03:00:26,760 --> 03:00:46,770
+誒幫到，譬如話消防條例面，或者幫到喺面對呢啲情景嘅急救嘅人員，佢可以按一啲文本或者某啲指示，就能夠順應到嗰個立呢個願意嘅人嘅心意咧，噉就係最好啦。呢個第二點。咁第三點就係基於頭先有好多嘅誒嘅人士都講到一個觀察。
+
+802
+03:00:46,770 --> 03:01:06,780
+啦，就係好多嘅長者，原來佢有個意願咧。如果佢可以選擇嘅話，佢都可能想喺居所離世。咁所以我哋就抽出一個其中喺個法例上面會成為障礙嘅條文，就係話嗰個誒成員研究庭嘅法例喺二十種需要呈報嘅話，其中有一種就係依個。
+
+803
+03:01:06,780 --> 03:01:26,790
+個安老院或者私營安老院，佢如果誒死亡嘅時候就一定要經過嗰個死因研究呢個程序，噉我哋覺得係咪可以參考翻一啲現存再加離世有醫生喺十四日之內某種情況睇過嘅簽到一個死亡證嘅咧，可以豁免咧？所以呢個文件嗰個。
+
+804
+03:01:26,790 --> 03:01:46,800
+討論嘅範圍係比較窄嘅，因為我哋想處理一啲過去十年經驗攞翻嚟，原來法律上面咧成為一啲障礙，我哋唔可以疏通下噉樣咧。咁當然我完全明白咧，喺成件事去改善成個市民嗰個即係晚期照顧或者死亡個質素咧，係個範圍非常之。
